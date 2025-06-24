@@ -1,0 +1,13 @@
+name = "Iceberg"
+filename = "Iceberg-1.21.1-fabric-1.3.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/5faXoLqX/versions/7ITFAyW8/Iceberg-1.21.1-fabric-1.3.2.jar"
+hash-format = "sha512"
+hash = "d781cf25ac6a630477b7b8a016d9762655aff877f39a601ff6d7f44062534a47831ff0d58adcb94d776cbb1b9077993ff29b7a804714892e4e13da0278213684"
+
+[update]
+[update.modrinth]
+mod-id = "5faXoLqX"
+version = "7ITFAyW8"

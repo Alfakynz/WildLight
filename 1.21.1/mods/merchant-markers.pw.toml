@@ -1,0 +1,13 @@
+name = "Merchant Markers"
+filename = "MerchantMarkers-1.21.1-fabric-1.3.6.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/AGhiJWsU/versions/guv4URio/MerchantMarkers-1.21.1-fabric-1.3.6.jar"
+hash-format = "sha512"
+hash = "5bafa7d481a661c2e443896b83f2c26fbf10dcc2f6a33e99d68b32e1132f00d1b625629530f9e3ade3162272eb8050e092a982c66b8cfdce327da3e30977ad31"
+
+[update]
+[update.modrinth]
+mod-id = "AGhiJWsU"
+version = "guv4URio"

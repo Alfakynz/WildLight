@@ -1,0 +1,13 @@
+name = "Easy Magic"
+filename = "EasyMagic-v21.1.0-1.21.1-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9hx3AbJM/versions/tCAHAPQW/EasyMagic-v21.1.0-1.21.1-Fabric.jar"
+hash-format = "sha512"
+hash = "48cdd50f9c6b7234b8be9675e5174c47fb40e751f3eda88f28c015e1e70e63e26421aea905fa1063dda3c30b5fb262cc09410eb3edbc0261decabad0863142db"
+
+[update]
+[update.modrinth]
+mod-id = "9hx3AbJM"
+version = "tCAHAPQW"

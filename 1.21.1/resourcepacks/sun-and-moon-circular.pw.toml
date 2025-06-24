@@ -1,0 +1,13 @@
+name = "Sun and Moon Circular"
+filename = "Sun and Moon Circular.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/YbwPPde4/versions/qs6NfmgW/Sun%20and%20Moon%20Circular.zip"
+hash-format = "sha512"
+hash = "ee89f27fb815689747b7c950e23285dd536708b37a2a9bd117631e920bfa57026d334c21dc9e24e64871e627dcac0a78b95c2ea77a91c071b3ff734006f3ef21"
+
+[update]
+[update.modrinth]
+mod-id = "YbwPPde4"
+version = "qs6NfmgW"

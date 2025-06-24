@@ -1,0 +1,13 @@
+name = "ItemPhysic"
+filename = "ItemPhysic_FABRIC_v1.8.7_mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aT8BzaOj/versions/eKgFX4oB/ItemPhysic_FABRIC_v1.8.7_mc1.21.1.jar"
+hash-format = "sha512"
+hash = "ec46f78ec380b825ecad5dd38d63c93e75f4a0298cb6d7a35c8a1f5080539edcd779ed9e38ffbee64f3b78c5f6c47a9f93e114d8259be00ef6e427c588e5764b"
+
+[update]
+[update.modrinth]
+mod-id = "aT8BzaOj"
+version = "eKgFX4oB"
