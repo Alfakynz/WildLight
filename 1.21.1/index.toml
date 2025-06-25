@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "LICENSE"
-hash = "94605b5e89f3295916fa27d7ba7f0e21400d3dab5f814f5c4f481830e84a8337"
-
-[[files]]
-file = "README.md"
-hash = "84915f75c92e69c01ede3332458744e65b59a78c5ede222e840215cf071cbf04"
-
-[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
@@ -1575,7 +1567,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "674f63af28d624b22cf73c4c973ac0be88d0f40c9b0b20172524d231848443be"
+hash = "10aea67945b1218a023d031755de4220f53125c548d1bab0c3a93120e6a7df81"
 
 [[files]]
 file = "resourcepacks/3d-crops.pw.toml"
