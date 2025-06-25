@@ -16,7 +16,7 @@ Step into a world where survival meets subtle beauty. In Wildlight, every sound,
 2. Clone the repo: `git clone https://github.com/Alfakynz/WildLight.git`
 3. Navigate to the WildLight directory: `cd WildLight`
 4. Navigate to the Minecraft version you want to use: `cd x.x.x`
-5. Export the pack as a .mrpack file for Modrinth: `packwiz modrinth export`
+5. Export the pack as a .mrpack file for Modrinth: `packwiz modrinth export` or .zip for Cursforge (some bugs): `packwiz curseforge export`
 6. Launch the exported file (WildLight-x.x.x.mrpack) using your Modrinth launcher
 
 ## 🔧 Recommendation
