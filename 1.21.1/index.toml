@@ -852,7 +852,7 @@ metafile = true
 
 [[files]]
 file = "mods/autohud.pw.toml"
-hash = "724d221700a11f06c3571e33678bcf2579bf29dac82d631c9ecc27791c1f98b9"
+hash = "59e683490b0cb5f27867ce3bf3634a40a4d69740a4dd37b36966862a8bb09a6e"
 metafile = true
 
 [[files]]
@@ -1047,7 +1047,7 @@ metafile = true
 
 [[files]]
 file = "mods/easy-shulker-boxes.pw.toml"
-hash = "8d0bde383406174b9d427916a20d538c33afd06c09f22b8a6f96830ebecfe227"
+hash = "3f79aadc20ee02e53d1810892f0cd9e037575b1a6cf26505a3a514c24f2a55c7"
 metafile = true
 
 [[files]]
@@ -1092,7 +1092,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "4cf5213ed785e4a642198c28844bf23327ed2fdbc300bdce00fcab21672864ff"
+hash = "c45656db928ed544c927449b5ceac0feef9488b0ea4154cab9199b37817cd4d5"
 metafile = true
 
 [[files]]
@@ -1313,11 +1313,6 @@ metafile = true
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "ae55eda5b79aeb01fd4068cc34051019e34779c2d4748aba86e5dba522b7b61d"
-metafile = true
-
-[[files]]
-file = "mods/polymer.pw.toml"
-hash = "ae088bbe06df7bdebea9b4fd523879b1fb49a26baef9ef9ddbb4749f43df7b5f"
 metafile = true
 
 [[files]]
@@ -1646,5 +1641,5 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
-hash = "db3eac9aaadd5d732180a0dd7ae8a322c07386259a971b177f4f2fef50a29c6f"
+hash = "6e1e0f998051f697fbc3b6125230ed702cde8773040a8ecdd72e1ea5d8dacc0e"
 metafile = true
