@@ -852,7 +852,7 @@ metafile = true
 
 [[files]]
 file = "mods/autohud.pw.toml"
-hash = "59e683490b0cb5f27867ce3bf3634a40a4d69740a4dd37b36966862a8bb09a6e"
+hash = "31c9de825ba90729a90b870fc0207e02ca11af1af1e39919a2b4e9d68c5403c1"
 metafile = true
 
 [[files]]
@@ -902,7 +902,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "8df79fae6e8bf19352e2816b15c5c44fe87a73ca899abe8ead2e73e2bff90265"
+hash = "1cb11082faa1727e8b1251a4c1fd0041ef99a9245d7adc63c9c942f59b6ef578"
 metafile = true
 
 [[files]]
@@ -1012,7 +1012,7 @@ metafile = true
 
 [[files]]
 file = "mods/double-doors.pw.toml"
-hash = "f1d42aa045d40d65997ddfd839572ca6d70bc35df261b7f44b7d4dff039030f7"
+hash = "37297b2f4f83f324972147ca4bd4ec8fa275513fcdfd3e64406393f255ef8813"
 metafile = true
 
 [[files]]
@@ -1027,7 +1027,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-lights.pw.toml"
-hash = "671aec0730e34dd18c924e2c47269dfa312c9e573335fefa9a1c34b79501bf57"
+hash = "fa95922f74fbf9f5841897ca6cd0d638a24a24456d7560534e9d74dd036ecd5e"
 metafile = true
 
 [[files]]
@@ -1127,7 +1127,7 @@ metafile = true
 
 [[files]]
 file = "mods/frozenlib.pw.toml"
-hash = "2b34f3f2320a319282a12d1d9def3bbeb9a51770c0f51dc39ebcd459d7a0130c"
+hash = "a60607610e90b2288d8fe61d3f1a424951601cc02c66feaa9d744b814da628da"
 metafile = true
 
 [[files]]
@@ -1232,7 +1232,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "1584444b7f16488634393b73c6cd7ab5247338beb9d5eda623b32db64adc3871"
+hash = "605e4295a1ac4a1c4b3345370e596d4e8ee40dd22ab5ebf699f594dd247e7b94"
 metafile = true
 
 [[files]]
@@ -1282,7 +1282,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-effects.pw.toml"
-hash = "a7d6e6f3c4c05112faab83bcba9cfdae528f7db896fa742840883a3d06df23c6"
+hash = "fc730d5477c19ca3ccec20e867976562a20d45ac690289257bcff01c8a3d9922"
 metafile = true
 
 [[files]]
@@ -1377,7 +1377,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-music-control.pw.toml"
-hash = "1030a55286924d69ea5ad6ff2910cb3964eeeb8c3c3966dd7572d6ed389caf99"
+hash = "b4e5c3c4cbe0bbba11f92b7b25288f31b6c742a7ad77554f9135b29b0b166d24"
 metafile = true
 
 [[files]]
@@ -1412,7 +1412,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound.pw.toml"
-hash = "456b20442833ec434ba2a6dc1012a443f795787bf527cd72e91520e5ba1d3bcb"
+hash = "1658960ca46cdb3d21029d608c4daa8344bf8b7a802ec0031f52220b14ba39ef"
 metafile = true
 
 [[files]]
@@ -1492,7 +1492,7 @@ metafile = true
 
 [[files]]
 file = "mods/wilder-wild.pw.toml"
-hash = "95ce270245863707c1bc69cc38311a31c505325f1b8dd5a63ecb73b4475b20fa"
+hash = "8480d15f0cb62b3809ed58a12cf8b284023843a12440a8be178bd51ae89fccde"
 metafile = true
 
 [[files]]
@@ -1507,7 +1507,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-api.pw.toml"
-hash = "2a72d78e734a09f3034fa77d850cc252cad1bc2b146754491e4792959d4cff96"
+hash = "4d98bdba90cdeae788a747bb6fe7d438ba49fdc4eb67c38d4573304eec4a2ef8"
 metafile = true
 
 [[files]]
@@ -1591,7 +1591,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fast-better-grass.pw.toml"
-hash = "3b05b966ad8012708764929ded584b1bbb80b065485c1b5ee8f5587ea18e92d7"
+hash = "774b51f7257a3a18f0afc40c155bac4bb1dbade055170137f2ac96456f0e3653"
 metafile = true
 
 [[files]]
