@@ -1,0 +1,13 @@
+name = "YUNG's Bridges (Fabric)"
+filename = "YungsBridges-1.21.1-Fabric-5.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "58dc490d1ba8e1cfa08ef42f805eb03df2314fb0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5812554
+project-id = 590988

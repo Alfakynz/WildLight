@@ -100,7 +100,6 @@
 - [Patchouli](https://modrinth.com/project/nU0bVIaL)
 - [Physics Mod](https://modrinth.com/project/Xy8aRQKS)
 - [Pick Up Notifier](https://modrinth.com/project/ZX66K16c)
-- [Polymer](https://modrinth.com/project/xGdtZczs)
 - [Presence Footsteps](https://modrinth.com/project/rcTfTZr3)
 - [Prickle](https://modrinth.com/project/aaRl8GiW)
 - [Prism](https://modrinth.com/project/1OE8wbN0)

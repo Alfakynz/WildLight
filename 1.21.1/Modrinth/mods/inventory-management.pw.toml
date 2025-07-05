@@ -1,0 +1,13 @@
+name = "Inventory Management"
+filename = "inventorymanagement-1.6.0+1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/F7wXag4i/versions/QKR8TF01/inventorymanagement-1.6.0%2B1.21.jar"
+hash-format = "sha512"
+hash = "475ed7b20c0d5edc597234c60c0f5089bd9e9e88d817f30ad97b151e28783a751f7076e510ead43e5b846a7e0ff2c38b7719db5e5f439165dea2b125ccd0544e"
+
+[update]
+[update.modrinth]
+mod-id = "F7wXag4i"
+version = "QKR8TF01"

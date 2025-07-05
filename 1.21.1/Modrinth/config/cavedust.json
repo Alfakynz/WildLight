@@ -1,0 +1,1067 @@
+{
+  "width": 10,
+  "height": 10,
+  "velocityRandomness": 0,
+  "caveDustEnabled": true,
+  "seaLevelCheck": true,
+  "superFlatStatus": false,
+  "upperLimit": 64.0,
+  "lowerLimit": -64.0,
+  "particleMultiplier": 1,
+  "listNumber": 0,
+  "particleMultiplierMultiplier": 10,
+  "list": [
+    {
+      "field_13353": "biomesoplenty",
+      "field_13355": "null"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "dolphin"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "heart"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "bubble_pop"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "pink_mesoglea_bubble_pop"
+    },
+    {
+      "field_13353": "particle-effects",
+      "field_13355": "conduit_power"
+    },
+    {
+      "field_13353": "particle-effects",
+      "field_13355": "trial_omen_new"
+    },
+    {
+      "field_13353": "explosiveenhancement",
+      "field_13355": "blank_shockwave"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "termite"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "sculk_charge_pop"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "blue_hanging_mesoglea_drip"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "yellow_maple_leaves"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "falling_obsidian_tear"
+    },
+    {
+      "field_13353": "explosiveenhancement",
+      "field_13355": "underwaterblastwave"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "blue_pearlescent_mesoglea_bubble_pop"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "dust"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "mangrove_leaves"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "enchant"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "wax_on"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "purple_pearlescent_mesoglea_bubble"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "campfire_signal_smoke"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "sculk_soul"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "falling_spore_blossom"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "ash"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "blue_falling_mesoglea_drip"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "yellow_mesoglea_bubble"
+    },
+    {
+      "field_13353": "friendsandfoes",
+      "field_13355": "totem_of_freezing"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "yellow_mesoglea_current_down"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "gust_emitter_large"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "lime_mesoglea_current_down"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "purple_pearlescent_hanging_mesoglea_drip"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "pollen"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "falling_dust"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "current_down"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "dust_plume"
+    },
+    {
+      "field_13353": "biomesoplenty",
+      "field_13355": "falling_blood"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "lava"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "pink_hanging_mesoglea_drip"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "trial_spawner_detection"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "chest_bubbles"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "bubble"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "landing_lava"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "sneeze"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "dripping_water"
+    },
+    {
+      "field_13353": "particle-effects",
+      "field_13355": "levitation"
+    },
+    {
+      "field_13353": "explosiveenhancement",
+      "field_13355": "underwatersparks"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "mycelium"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "underwater"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "yellow_landing_mesoglea_drip"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "small_gust"
+    },
+    {
+      "field_13353": "particle-effects",
+      "field_13355": "dolphins_grace"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "blue_mesoglea_bubble_pop"
+    },
+    {
+      "field_13353": "particle-effects",
+      "field_13355": "hunger"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "totem_of_undying"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "wind"
+    },
+    {
+      "field_13353": "particle-effects",
+      "field_13355": "invisibility"
+    },
+    {
+      "field_13353": "biomesoplenty",
+      "field_13355": "jacaranda_leaves"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "instant_effect"
+    },
+    {
+      "field_13353": "biomesoplenty",
+      "field_13355": "orange_maple_leaves"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "falling_nectar"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "cherry_leaves"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "blue_pearlescent_mesoglea_bubble"
+    },
+    {
+      "field_13353": "explosiveenhancement",
+      "field_13355": "blank_fireball"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "elder_guardian"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "vault_connection"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "poof"
+    },
+    {
+      "field_13353": "particle-effects",
+      "field_13355": "wind_charged_new"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "scrape"
+    },
+    {
+      "field_13353": "particle-effects",
+      "field_13355": "unluck"
+    },
+    {
+      "field_13353": "biomesoplenty",
+      "field_13355": "steam"
+    },
+    {
+      "field_13353": "particle-effects",
+      "field_13355": "regeneration"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "blue_pearlescent_mesoglea_current_down"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "shriek"
+    },
+    {
+      "field_13353": "explosiveenhancement",
+      "field_13355": "shockwave"
+    },
+    {
+      "field_13353": "particle-effects",
+      "field_13355": "instant_damage"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "falling_lava"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "blue_mesoglea_bubble"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "pink_landing_mesoglea_drip"
+    },
+    {
+      "field_13353": "particle-effects",
+      "field_13355": "instant_health"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "angry_villager"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "splash"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "soul_fire_flame"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "red_landing_mesoglea_drip"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "witch"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "pink_falling_mesoglea_drip"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "lime_landing_mesoglea_drip"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "spruce_leaves"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "spit"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "falling_honey"
+    },
+    {
+      "field_13353": "particle-effects",
+      "field_13355": "wither"
+    },
+    {
+      "field_13353": "particle-effects",
+      "field_13355": "raid_omen_new"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "underwater_ash"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "squid_ink"
+    },
+    {
+      "field_13353": "particle-effects",
+      "field_13355": "nausea"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "yellow_mesoglea_bubble_column_up"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "pink_mesoglea_splash"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "dripping_honey"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "pink_mesoglea_bubble_column_up"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "orange_maple_leaves"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "scorching_flame"
+    },
+    {
+      "field_13353": "friendsandfoes",
+      "field_13355": "totem_of_illusion"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "enchanted_hit"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "purple_pearlescent_landing_mesoglea_drip"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "end_rod"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "trial_omen"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "lime_hanging_mesoglea_drip"
+    },
+    {
+      "field_13353": "particle-effects",
+      "field_13355": "jump_boost"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "composter"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "white_ash"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "blue_mesoglea_bubble_column_up"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "lime_mesoglea_bubble_column_up"
+    },
+    {
+      "field_13353": "particle-effects",
+      "field_13355": "water_breathing"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "dripping_dripstone_water"
+    },
+    {
+      "field_13353": "particle-effects",
+      "field_13355": "hero_of_the_village"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "baobab_leaves"
+    },
+    {
+      "field_13353": "particle-effects",
+      "field_13355": "resistance"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "purple_pearlescent_falling_mesoglea_drip"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "trial_spawner_detection_ominous"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "purple_pearlescent_mesoglea_bubble_column_up"
+    },
+    {
+      "field_13353": "particle-effects",
+      "field_13355": "slowness"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "dripping_dripstone_lava"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "firework"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "yellow_mesoglea_bubble_pop"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "rain"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "glow"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "blue_landing_mesoglea_drip"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "lime_mesoglea_bubble_pop"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "falling_dripstone_water"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "flame"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "item_snowball"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "nautilus"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "raid_omen"
+    },
+    {
+      "field_13353": "particle-effects",
+      "field_13355": "slow_falling"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "spore_blossom_air"
+    },
+    {
+      "field_13353": "explosiveenhancement",
+      "field_13355": "smoke"
+    },
+    {
+      "field_13353": "particle-effects",
+      "field_13355": "infested_new"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "purple_pearlescent_mesoglea_splash"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "oak_leaves"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "dripping_lava"
+    },
+    {
+      "field_13353": "particle-effects",
+      "field_13355": "luck"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "yellow_hanging_mesoglea_drip"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "bubble_column_up"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "lime_falling_mesoglea_drip"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "red_falling_mesoglea_drip"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "block_marker"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "gust_emitter_small"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "happy_villager"
+    },
+    {
+      "field_13353": "particle-effects",
+      "field_13355": "poison"
+    },
+    {
+      "field_13353": "particle-effects",
+      "field_13355": "saturation"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "wax_off"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "damage_indicator"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "infested"
+    },
+    {
+      "field_13353": "particle-effects",
+      "field_13355": "strength"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "explosion"
+    },
+    {
+      "field_13353": "particle-effects",
+      "field_13355": "bad_omen"
+    },
+    {
+      "field_13353": "particle-effects",
+      "field_13355": "weakness"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "gust"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "electric_spark"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "dust_color_transition"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "willow_leaves"
+    },
+    {
+      "field_13353": "explosiveenhancement",
+      "field_13355": "fireball"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "item_cobweb"
+    },
+    {
+      "field_13353": "biomesoplenty",
+      "field_13355": "landing_blood"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "reverse_portal"
+    },
+    {
+      "field_13353": "biomesoplenty",
+      "field_13355": "end_spore"
+    },
+    {
+      "field_13353": "particle-effects",
+      "field_13355": "fire_resistance"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "plankton"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "landing_honey"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "yellow_mesoglea_splash"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "soul"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "note"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "blue_pearlescent_mesoglea_splash"
+    },
+    {
+      "field_13353": "explosiveenhancement",
+      "field_13355": "sparks"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "explosion_emitter"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "cherry_leaves"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "yellow_falling_mesoglea_drip"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "block"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "glowing_plankton"
+    },
+    {
+      "field_13353": "particle-effects",
+      "field_13355": "oozing_new"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "blue_mesoglea_current_down"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "red_hanging_mesoglea_drip"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "large_smoke"
+    },
+    {
+      "field_13353": "particle-effects",
+      "field_13355": "speed"
+    },
+    {
+      "field_13353": "particle-effects",
+      "field_13355": "absorption"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "ominous_spawning"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "item_slime"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "lime_mesoglea_bubble"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "entity_effect"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "blue_pearlescent_hanging_mesoglea_drip"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "item"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "sculk_charge"
+    },
+    {
+      "field_13353": "particle-effects",
+      "field_13355": "glowing"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "red_mesoglea_splash"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "sonic_boom"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "cypress_leaves"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "purple_pearlescent_mesoglea_bubble_pop"
+    },
+    {
+      "field_13353": "particle-effects",
+      "field_13355": "weaving_new"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "sweep_attack"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "blue_mesoglea_splash"
+    },
+    {
+      "field_13353": "particle-effects",
+      "field_13355": "darkness"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "red_mesoglea_bubble_column_up"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "blue_pearlescent_landing_mesoglea_drip"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "portal"
+    },
+    {
+      "field_13353": "biomesoplenty",
+      "field_13355": "red_maple_leaves"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "acacia_leaves"
+    },
+    {
+      "field_13353": "particle-effects",
+      "field_13355": "mining_fatigue"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "birch_leaves"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "dragon_breath"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "small_flame"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "egg_crack"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "pink_mesoglea_bubble"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "coconut_splash"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "shrieker_bubbles"
+    },
+    {
+      "field_13353": "biomesoplenty",
+      "field_13355": "snowblossom_leaves"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "crit"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "red_mesoglea_bubble"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "flowering_azalea_leaves"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "smoke"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "glow_squid_ink"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "red_mesoglea_bubble_pop"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "campfire_cosy_smoke"
+    },
+    {
+      "field_13353": "biomesoplenty",
+      "field_13355": "binary"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "snowflake"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "azalea_leaves"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "fishing"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "flash"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "seed"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "white_smoke"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "red_mesoglea_current_down"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "blue_pearlescent_falling_mesoglea_drip"
+    },
+    {
+      "field_13353": "biomesoplenty",
+      "field_13355": "pus"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "falling_water"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "dust_pillar"
+    },
+    {
+      "field_13353": "particle-effects",
+      "field_13355": "haste"
+    },
+    {
+      "field_13353": "particle-effects",
+      "field_13355": "health_boost"
+    },
+    {
+      "field_13353": "biomesoplenty",
+      "field_13355": "wisp_bubble"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "purple_pearlescent_mesoglea_current_down"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "red_maple_leaves"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "lime_mesoglea_splash"
+    },
+    {
+      "field_13353": "explosiveenhancement",
+      "field_13355": "bubble"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "leaf_cluster"
+    },
+    {
+      "field_13353": "explosiveenhancement",
+      "field_13355": "blastwave"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "warped_spore"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "dripping_obsidian_tear"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "cloud"
+    },
+    {
+      "field_13353": "cavedust",
+      "field_13355": "cave_dust"
+    },
+    {
+      "field_13353": "biomesoplenty",
+      "field_13355": "dripping_blood"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "landing_obsidian_tear"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "crimson_spore"
+    },
+    {
+      "field_13353": "biomesoplenty",
+      "field_13355": "yellow_maple_leaves"
+    },
+    {
+      "field_13353": "biomesoplenty",
+      "field_13355": "glowworm"
+    },
+    {
+      "field_13353": "particle-effects",
+      "field_13355": "night_vision"
+    },
+    {
+      "field_13353": "particle-effects",
+      "field_13355": "blindness"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "jungle_leaves"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "effect"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "vibration"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "blue_pearlescent_mesoglea_bubble_column_up"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "pink_mesoglea_current_down"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "falling_dripstone_lava"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "dark_oak_leaves"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "floating_sculk_bubble"
+    },
+    {
+      "field_13353": "wilderwild",
+      "field_13355": "palm_fronds"
+    }
+  ],
+  "newId": {
+    "field_13353": "cavedust",
+    "field_13355": "cave_dust"
+  }
+}

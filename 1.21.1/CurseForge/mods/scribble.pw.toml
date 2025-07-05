@@ -1,0 +1,13 @@
+name = "Scribble"
+filename = "Scribble-1.5.1+mc1.21-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d4ea358b43afe8ed30fd0a71ea584385ff8a7cff"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6240191
+project-id = 1051344

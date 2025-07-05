@@ -1,0 +1,13 @@
+name = "Visual Workbench"
+filename = "VisualWorkbench-v21.1.0-1.21.1-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ba8b3be7481e6efde61db43ae24626c5e7b78293"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5714955
+project-id = 500273

@@ -1,0 +1,13 @@
+name = "Auto HUD"
+filename = "autohud-8.6+1.21.1-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0570ccaf1c1b135c4b197389432285b42901319e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6721662
+project-id = 623806

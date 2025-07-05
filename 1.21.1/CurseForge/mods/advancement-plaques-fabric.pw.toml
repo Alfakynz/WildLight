@@ -1,0 +1,13 @@
+name = "Advancement Plaques [Fabric]"
+filename = "AdvancementPlaques-1.21.1-fabric-1.6.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e3a5a514bbcc18e2c4e3bc251eb9f48e64217405"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5905997
+project-id = 514882

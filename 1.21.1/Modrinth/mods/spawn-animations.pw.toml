@@ -1,0 +1,13 @@
+name = "Spawn Animations"
+filename = "spawnanimations-v1.10.3-mc1.17-1.21.7-mod.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zrzYrlm0/versions/csHYKrQ8/spawnanimations-v1.10.3-mc1.17-1.21.7-mod.jar"
+hash-format = "sha512"
+hash = "93d3ce87bce5f9db81bfedca3b74a0e1bd4ce0e51f6f74e1dee38e37e68aa32f456a0e8a44092bcef712169e126eb0abfe2b6f656cc43d60cc06f42de6ba3039"
+
+[update]
+[update.modrinth]
+mod-id = "zrzYrlm0"
+version = "csHYKrQ8"

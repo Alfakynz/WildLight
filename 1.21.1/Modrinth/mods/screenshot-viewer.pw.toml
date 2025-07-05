@@ -1,0 +1,13 @@
+name = "Screenshot Viewer"
+filename = "screenshot_viewer-1.3.3-fabric-mc1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/laNoi025/versions/OPtoNGCV/screenshot_viewer-1.3.3-fabric-mc1.21.jar"
+hash-format = "sha512"
+hash = "4fe76b8c21a3c769c043445cc3bb160ad8f73d1e3364b074c6c3088dcbe388fa74b51da70cfce344536b7e9869892021b40f45f9b364e4954c32f27039a69926"
+
+[update]
+[update.modrinth]
+mod-id = "laNoi025"
+version = "OPtoNGCV"

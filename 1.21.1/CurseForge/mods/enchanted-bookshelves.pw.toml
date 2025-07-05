@@ -1,0 +1,13 @@
+name = "Enchanted Bookshelves"
+filename = "enchanted-bookshelves-1.0+1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "676ac3219c4dadf3bef722899efe4494b0f27194"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5953689
+project-id = 1151505

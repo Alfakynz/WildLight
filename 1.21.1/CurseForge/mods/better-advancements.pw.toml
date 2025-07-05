@@ -1,0 +1,13 @@
+name = "Better Advancements"
+filename = "BetterAdvancements-Fabric-1.21.1-0.4.3.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f6c6193c8711340e52645b65dbb7ffde7fbf6f30"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5850588
+project-id = 272515

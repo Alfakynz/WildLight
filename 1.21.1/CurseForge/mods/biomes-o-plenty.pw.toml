@@ -1,0 +1,13 @@
+name = "Biomes O' Plenty"
+filename = "BiomesOPlenty-fabric-1.21.1-21.1.0.12.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2f3e91ba63c8b61ea88e23c7f7c949881b46634e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6631073
+project-id = 220318

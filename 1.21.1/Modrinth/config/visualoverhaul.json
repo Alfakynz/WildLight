@@ -1,0 +1,16 @@
+{
+  "brewingstand": true,
+  "jukebox": true,
+  "jukebox_fake_block": true,
+  "jukebox_clientside": true,
+  "furnace": true,
+  "smoker_particles": true,
+  "blast_furnace_particles": true,
+  "coloredItems": true,
+  "coloredLilypad": true,
+  "buttonIcons": false,
+  "buttonIconPosition": "LOCATION",
+  "zoomIconOnHover": true,
+  "debug": false,
+  "firstLaunch": true
+}

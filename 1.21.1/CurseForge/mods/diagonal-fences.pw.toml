@@ -1,0 +1,13 @@
+name = "Diagonal Fences [Forge & Fabric]"
+filename = "DiagonalFences-v21.1.1-1.21.1-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a555e794d6f830208a830ea4949f38481eb4fc59"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5918198
+project-id = 458048

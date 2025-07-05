@@ -1,0 +1,13 @@
+name = "Fire Arrows Ignite Fire [Fabric/Forge/NeoForge]"
+filename = "firearrows-fabric-1.21.1-13.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "64c41291ae65eabf115d5698caeaa4bb61dd65ef"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6332797
+project-id = 461166

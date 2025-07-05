@@ -1,0 +1,13 @@
+name = "Nocturnal Bats"
+filename = "nocturnal-bats-1.1.0+1.21.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qu8ckNJQ/versions/ceWhOH7i/nocturnal-bats-1.1.0%2B1.21.3.jar"
+hash-format = "sha512"
+hash = "dd4c43cec187d07f882f2eeca29c7265decfdfb50cf3f9b3a989166b0b4fc8aef70faaa9d7b06f2439c305fd73a7c9d127d1a1910512ad44753648c31d0c758a"
+
+[update]
+[update.modrinth]
+mod-id = "qu8ckNJQ"
+version = "ceWhOH7i"
