@@ -12,12 +12,27 @@ Step into a world where survival meets subtle beauty. In Wildlight, every sound,
 
 ## 📦 Installation
 
+### 👤 For users
+
+#### With Modrinth
+1. Go on Modrinth
+2. Search and download WildLight from modpack section
+3. Use 4GB of RAM to play (recommended)
+4. Launch and play WildLight ✨
+
+#### With CurseForge
+1. Download WildLight-x.x.x.zip from [release](https://github.com/Alfakynz/WildLight/releases/latest)
+2. Open CurseForge and import the downloaded file
+3. Use 4GB of RAM to play (recommended)
+4. Launch and play WildLight ✨
+
+### 👨‍💻 For dev
 1. Install [packwiz](https://packwiz.infra.link/)
 2. Clone the repo: `git clone https://github.com/Alfakynz/WildLight.git`
 3. Navigate to the WildLight directory: `cd WildLight`
 4. Navigate to the Minecraft version you want to use: `cd x.x.x`
-5. Export the pack as a .mrpack file for Modrinth: `packwiz modrinth export` or .zip for Cursforge (some bugs): `packwiz curseforge export`
-6. Launch the exported file (WildLight-x.x.x.mrpack) using your Modrinth launcher
+5. Export the pack as a .mrpack file for Modrinth: `packwiz modrinth export` or .zip for Cursforge: `packwiz curseforge export`
+6. Launch the exported file (WildLight-x.x.x.mrpack or WildLight-x.x.x.zip) using Modrinth or CurseForge
 
 ## 🔧 Recommendation
 
@@ -34,10 +49,11 @@ If you'd like to contribute:
 
 ## 🚀 Planned Features
 
-- Publish on Modrinth
 - Publish on Curseforge
 - Custom Minecraft menu (background and more)
 - Performance optimization for lower-ends machines
 - A more immersive progression system (survival, gear, knowledge)
 - Dynamic events (like weather-based)
 - In-game wiki using Patchouli
+- Do other versions of Minecraft
+- Maybe add other dimension?
