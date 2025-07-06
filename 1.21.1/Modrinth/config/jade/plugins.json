@@ -59,9 +59,6 @@
     "entity": true,
     "entity_variant": true
   },
-  "levelz": {
-    "mineable_info": true
-  },
   "jade": {
     "coordinates.rel": false,
     "registry_name.special": false,

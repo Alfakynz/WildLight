@@ -1,14 +1,14 @@
 {
 	"dynamicOnLoad": true,
-	"ticksRevealed": 40,
+	"ticksRevealed": 30,
 	"animationMove": true,
 	"animationFade": true,
-	"animationSpeed": 2.0,
+	"animationSpeed": 1.0,
 	"animationSpeeds": {
-		"moveIn": 0.0,
-		"moveOut": 0.0,
-		"fadeIn": 0.0,
-		"fadeOut": 0.0
+		"moveIn": 1.0,
+		"moveOut": 1.0,
+		"fadeIn": 1.0,
+		"fadeOut": 1.5
 	},
 	"revealType": "Stacked",
 	"events": {

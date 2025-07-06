@@ -21,14 +21,14 @@
     "displayEntities": true
   },
   "overlay": {
-    "alpha": 0.7,
+    "alpha": 0.5,
     "iconMode": "TOP",
     "animation": true,
     "disappearingDelay": 0.0,
     "overlaySquare": false,
     "flipMainHand": false,
     "autoScaleThreshold": 0.4,
-    "overlayScale": 1.0,
+    "overlayScale": 0.5,
     "overlayAnchorX": 0.5,
     "overlayAnchorY": 0.0,
     "activeTheme": "jade:dark",

@@ -11,7 +11,7 @@
 	entry_background = "NONE"
 	#Add the name of the item to the entry.
 	#Default Value: true
-	display_item_name = true
+	display_item_name = false
 	#Where and if to display the amount of items picked up. 'SPRITE' will render the amount on the item sprite like in inventories, 'TEXT' will add a dedicated text including the amount to the item name display.
 	#Default Value: TEXT
 	#Allowed Values: OFF, SPRITE, TEXT, BOTH

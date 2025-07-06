@@ -17,7 +17,7 @@
   "translate_names": true,
   "translate_descriptions": true,
   "update_checker": true,
-  "button_update_badge": true,
+  "button_update_badge": false,
   "update_channel": "release",
   "quick_configure": true,
   "modify_title_screen": true,

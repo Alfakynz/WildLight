@@ -55,16 +55,16 @@
   "snowChunkSize": 0,
   "blockSettings": {
     "Physics Type": 2,
-    "Lifetime": 4.0,
+    "Lifetime": 3.0,
     "Lifetime Variance": 3.0,
-    "Scale": 1.0,
+    "Scale": 0.8999999761581421,
     "Animation": -1
   },
   "mobSettings": {
-    "Physics Type": 3,
-    "Lifetime": 4.0,
+    "Physics Type": 0,
+    "Lifetime": 3.0,
     "Lifetime Variance": 3.0,
-    "Animation": -1
+    "Animation": 0
   },
   "sprintingPhysicsParticles": true,
   "eatingPhysicsParticles": true,

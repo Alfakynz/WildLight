@@ -48,8 +48,8 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","minecraft:supporteatinganimation","wilderwild:wilder_extra_music","file/Icons v.1.11.3.zip","file/LowOnFire 1.21.3.zip","file/Fast Better Grass.zip","file/Sun and Moon Circular.zip","file/Circular Logs 1.0.14.zip","file/3D Default 1.20+ v1.12.0.zip","file/crops-3d(2).zip","file/FreshAnimations_v1.9.2.zip","inventorymanagement:inventorymanagement-dark-ui","file/vanilla-cnt-0-1.zip","file/vanilla-connected-glass-0.5.zip","file/enchant icons 1.21 v1.3.zip","file/Recolourful Containers DARK 2.1.1 (1.19.4+).zip","visualoverhaul:nobrewingbottles","visualoverhaul:rounddiscs","visualoverhaul:fancyfurnace","visualoverhaul:coloredwaterbucket","$polymer-resources"]
-incompatibleResourcePacks:["appleskin","balm","betteradvancements","bookshelf","catconfig-mc","cherishedworlds","comforts","distraction_free_recipes","dungeons_arise","firearrows","jade","jei","livingthings","mes","modernfix","naturally_trimmed","spectrelib","subtle_effects","terrablender","tipsmod","txnilib","yet_another_config_lib_v3","file/crops-3d(2).zip","minecraft:physicsmod"]
+resourcePacks:["frozenlib:mod/file/wilder_music.zip","vanilla","fabric","minecraft:supporteatinganimation","file/Icons v.1.11.3.zip","file/LowOnFire 1.21.3.zip","file/Fast Better Grass.zip","file/Sun and Moon Circular.zip","file/Circular Logs 1.0.14.zip","file/3D Default 1.20+ v1.12.0.zip","file/crops-3d(2).zip","file/FreshAnimations_v1.9.2.zip","inventorymanagement:inventorymanagement-dark-ui","file/vanilla-cnt-0-1.zip","file/vanilla-connected-glass-0.5.zip","file/enchant icons 1.21 v1.3.zip","file/Recolourful Containers DARK 2.1.1 (1.19.4+).zip","visualoverhaul:nobrewingbottles","visualoverhaul:rounddiscs","visualoverhaul:fancyfurnace","visualoverhaul:coloredwaterbucket"]
+incompatibleResourcePacks:["appleskin","balm","betteradvancements","bookshelf","catconfig-mc","cherishedworlds","comforts","distraction_free_recipes","dungeons_arise","firearrows","jade","jei","livingthings","mes","modernfix","naturally_trimmed","patchouli","spectrelib","subtle_effects","terrablender","tipsmod","txnilib","yet_another_config_lib_v3","file/crops-3d(2).zip"]
 lastServer:
 lang:en_us
 chatVisibility:0
@@ -125,7 +125,7 @@ key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
 key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
 key_legendarytooltips.key.scrollTooltips:key.keyboard.left.shift
 key_merchantmarkers.key.showMarkers:key.keyboard.left.alt
-key_key.autohud.toggle-hud:key.keyboard.g
+key_key.autohud.toggle-hud:key.keyboard.h
 key_key.autohud.peek-hud:key.keyboard.r
 key_keybinds.bettercombat.feint:key.keyboard.unknown
 key_keybinds.bettercombat.toggle_mine_with_weapons:key.keyboard.unknown
@@ -143,6 +143,7 @@ key_keybind.invmove.toggleMove:key.keyboard.unknown
 key_key.toggleVisualItemContents:key.keyboard.unknown
 key_key.toggleSelectedItemTooltips:key.keyboard.unknown
 key_key.toggleCarriedItemTooltips:key.keyboard.unknown
+key_key.pickup.item:key.keyboard.unknown
 key_key.jade.config:key.keyboard.keypad.0
 key_key.jade.show_overlay:key.keyboard.keypad.1
 key_key.jade.toggle_liquid:key.keyboard.keypad.2
@@ -155,7 +156,7 @@ key_key.jei.focusSearch:key.keyboard.f
 key_key.jei.previousPage:key.keyboard.unknown
 key_key.jei.nextPage:key.keyboard.unknown
 key_key.jei.toggleBookmarkOverlay:key.keyboard.unknown
-key_key.jei.bookmark:key.keyboard.a
+key_key.jei.bookmark:key.keyboard.b
 key_key.jei.showRecipe:key.keyboard.r
 key_key.jei.showRecipe2:key.mouse.left
 key_key.jei.showUses:key.keyboard.u
@@ -212,6 +213,7 @@ key_key.presencefootsteps.settings:key.keyboard.f10
 key_key.presencefootsteps.toggle:key.keyboard.unknown
 key_key.screenshot_viewer.open_screenshots_screen:key.keyboard.unknown
 key_key.simple_music_control.next_music_track:key.keyboard.m
+key_key.simple_music_control.toggle_music:key.keyboard.unknown
 key_zoomify.key.zoom:key.keyboard.c
 key_zoomify.key.zoom.secondary:key.keyboard.f7
 key_iris.keybind.reload:key.keyboard.r

@@ -37,7 +37,6 @@
 - [Concurrent Chunk Management Engine (Fabric)](https://modrinth.com/project/VSNURh3q)
 - [Continuity](https://modrinth.com/project/1IjD5062)
 - [CreativeCore](https://modrinth.com/project/OsZiaDHq)
-- [Cut Through](https://modrinth.com/project/Dk6su9JN)
 - [Dark Loading Screen](https://modrinth.com/project/h3XWIuzM)
 - [Deimos](https://modrinth.com/project/WQaxNzFg)
 - [Diagonal Fences](https://modrinth.com/project/IKARgflD)
@@ -72,7 +71,7 @@
 - [ImmediatelyFast](https://modrinth.com/project/5ZwdcRci)
 - [Indium](https://modrinth.com/project/Orvt0mRa)
 - [InvMove](https://modrinth.com/project/REfW2AEX)
-- [Inventory Management](https://modrinth.com/project/F7wXag4i)
+- [Inventory Profiles Next](https://modrinth.com/project/O7RBXm3n)
 - [Iris Shaders](https://modrinth.com/project/YL57xq9U)
 - [Item Highlighter](https://modrinth.com/project/cVNW5lr6)
 - [ItemPhysic](https://modrinth.com/project/aT8BzaOj)
@@ -152,9 +151,9 @@
 - [Zoomify](https://modrinth.com/project/w7ThoJFB)
 - [[EMF] Entity Model Features](https://modrinth.com/project/4I1XuqiY)
 - [[ETF] Entity Texture Features](https://modrinth.com/project/BVzZfTc1)
+- [libIPN](https://modrinth.com/project/onSQdWhM)
 - [oωo (owo-lib)](https://modrinth.com/project/ccKDOlHs)
 - [playerAnimator](https://modrinth.com/project/gedNE4y2)
-- [qrafty's End Villages](https://modrinth.com/project/NFlNaUBA)
 
 ## Resource packs used
 
