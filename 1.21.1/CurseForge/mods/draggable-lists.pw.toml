@@ -1,0 +1,13 @@
+name = "Draggable Lists"
+filename = "draggable_lists-mc1.20.6-1.0.8-build.44.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5df77b42f028285321f9277fe72e4d2b407f5433"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6248643
+project-id = 522697

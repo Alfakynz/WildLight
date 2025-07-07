@@ -190,7 +190,7 @@ hash = "6f472441a8c7377731ff5f9ad43f46951595c8a4969d1ba4b1055aa185a38c23"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "211f60a915e5c468055a859be71c465c32c7d7001427f43507d02af8ce27830e"
+hash = "06f7b82d3f9784e5349639a6d388aa13a0624c4797f142686a645c26ccf3433e"
 metafile = true
 
 [[files]]
@@ -220,7 +220,7 @@ metafile = true
 
 [[files]]
 file = "mods/autohud.pw.toml"
-hash = "31c9de825ba90729a90b870fc0207e02ca11af1af1e39919a2b4e9d68c5403c1"
+hash = "29623af6c8a6bbdb364da1380a294014549903b1a389cb80a15b9d16cf8e625a"
 metafile = true
 
 [[files]]
@@ -379,6 +379,11 @@ hash = "37297b2f4f83f324972147ca4bd4ec8fa275513fcdfd3e64406393f255ef8813"
 metafile = true
 
 [[files]]
+file = "mods/draggable-lists.pw.toml"
+hash = "50de1919e6cc3104a4a2557b0644c15f5a56722cf76a19b194ec6ecf61bcae13"
+metafile = true
+
+[[files]]
 file = "mods/durability-tooltip.pw.toml"
 hash = "a47138a91677a89d84e5ab37da1f501f4770ab07e51ae8ce6fdd27fb2d14f026"
 metafile = true
@@ -435,7 +440,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "08e2c3e20fb81532ae0bd321d25f3da55b81fc4aac41125a36464a22415b0114"
+hash = "dcfd69fe4f642597dab1eea5091f6b69c0618e7f8b14b44e67dc5ef9bef7fb73"
 metafile = true
 
 [[files]]
@@ -545,7 +550,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "e7f5e2783c982ce541742165d90ea4567e75d4ed9efdca19b92eac7140b84342"
+hash = "80858e1b1477432110b72aab33348635139d6e8fe7bc05db3ba00651de635720"
 metafile = true
 
 [[files]]
@@ -581,6 +586,11 @@ metafile = true
 [[files]]
 file = "mods/living-things.pw.toml"
 hash = "9804286c02c5da1c32ec31410b03fc9a76a90ad660ceee60a70585fa0936b7f2"
+metafile = true
+
+[[files]]
+file = "mods/macos-input-fixes.pw.toml"
+hash = "e4562622be1286bf8f2c8af9e3fc4e6052c9cd51c67c70f2bfce0fd9d26c31bb"
 metafile = true
 
 [[files]]
@@ -629,13 +639,18 @@ hash = "f3c5cb21ff2e78c7e8cdbd14d1535e6edd464d5a436dbfa4e60b8ea91374674d"
 metafile = true
 
 [[files]]
+file = "mods/no-resource-pack-warnings.pw.toml"
+hash = "da9ac20bdc1caa50ebec291429638780924e8a5060ec39abe085c7e6182b3a6f"
+metafile = true
+
+[[files]]
 file = "mods/nocturnal-bats.pw.toml"
 hash = "e661e64b4003d9d3b28e900305c36a91f1deb1a4d840a3c5b889ffd3c445621f"
 metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "bd2fdbeda78ffcc284d85061ff20c8e4abfce36b942b78d25b4ea08f52a4f64a"
+hash = "e2ff96a331addb08e5e7b8d9a7bf46faacab79ed507a672878fef1fd7cb59f59"
 metafile = true
 
 [[files]]
@@ -740,7 +755,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-music-control.pw.toml"
-hash = "b4e5c3c4cbe0bbba11f92b7b25288f31b6c742a7ad77554f9135b29b0b166d24"
+hash = "2f1d722830274a82312f74a7e92abcc80eeb723c444a3e0e4896a2c496949daf"
 metafile = true
 
 [[files]]
@@ -930,7 +945,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "0023f4d942b22086710cf32eeab8c9592c8820301b787611f7e0a541276ff742"
+hash = "9ddb483d8cfa54c858815b8d8ec210259445c08a561ee4872ddc64ecc6539e7e"
 
 [[files]]
 file = "resourcepacks/3d-crops.pw.toml"
@@ -960,6 +975,16 @@ metafile = true
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "b96abadb2cdb56d53145609e6a8ee9fd70171878bb5414412dddee1fca902a7b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/icons-additions.pw.toml"
+hash = "c4de27cdd8410210378305d1789c23de69bebaf5234349bb72af90861eb3ead5"
+metafile = true
+
+[[files]]
+file = "resourcepacks/icons-advertisement-removal.pw.toml"
+hash = "9dddc83ab70ce3e7d2693da72edd3043740c868afbe7450d4d5c702460101a76"
 metafile = true
 
 [[files]]

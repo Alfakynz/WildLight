@@ -48,8 +48,8 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["frozenlib:mod/file/wilder_music.zip","vanilla","fabric","minecraft:supporteatinganimation","file/Icons v.1.11.3.zip","file/LowOnFire 1.21.3.zip","file/Fast Better Grass.zip","file/Sun and Moon Circular.zip","file/Circular Logs 1.0.14.zip","file/3D Default 1.20+ v1.12.0.zip","file/crops-3d(2).zip","file/FreshAnimations_v1.9.2.zip","inventorymanagement:inventorymanagement-dark-ui","file/vanilla-cnt-0-1.zip","file/vanilla-connected-glass-0.5.zip","file/enchant icons 1.21 v1.3.zip","file/Recolourful Containers DARK 2.1.1 (1.19.4+).zip","visualoverhaul:nobrewingbottles","visualoverhaul:rounddiscs","visualoverhaul:fancyfurnace","visualoverhaul:coloredwaterbucket"]
-incompatibleResourcePacks:["appleskin","balm","betteradvancements","bookshelf","catconfig-mc","cherishedworlds","comforts","distraction_free_recipes","dungeons_arise","firearrows","jade","jei","livingthings","mes","modernfix","naturally_trimmed","patchouli","spectrelib","subtle_effects","terrablender","tipsmod","txnilib","yet_another_config_lib_v3","file/crops-3d(2).zip"]
+resourcePacks:["frozenlib:mod/file/wilder_music.zip","vanilla","fabric","minecraft:supporteatinganimation","file/Icons-Additions-1.2v.zip","file/Icons v.1.11.3.zip","file/Icons Branding Remover 1.21.1.zip","file/LowOnFire 1.21.3.zip","file/Fast Better Grass.zip","file/Sun and Moon Circular.zip","file/Circular Logs 1.0.14.zip","file/3D Default 1.20+ v1.12.0.zip","file/crops-3d(2).zip","file/FreshAnimations_v1.9.2.zip","file/vanilla-cnt-0-1.zip","file/vanilla-connected-glass-0.5.zip","file/enchant icons 1.21 v1.3.zip","file/Recolourful Containers DARK 2.1.1 (1.19.4+).zip","visualoverhaul:nobrewingbottles","visualoverhaul:rounddiscs","visualoverhaul:fancyfurnace","visualoverhaul:coloredwaterbucket"]
+incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
 chatVisibility:0
@@ -137,8 +137,6 @@ key_chunksfadein.keybinds.toggleMod:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
 key_equipmentcompare.key.showTooltips:key.keyboard.left.shift
 key_key.firstperson.toggle:key.keyboard.f6
-key_inventorymanagement.keybind.position_edit.player:key.keyboard.unknown
-key_inventorymanagement.keybind.position_edit.container:key.keyboard.unknown
 key_keybind.invmove.toggleMove:key.keyboard.unknown
 key_key.toggleVisualItemContents:key.keyboard.unknown
 key_key.toggleSelectedItemTooltips:key.keyboard.unknown

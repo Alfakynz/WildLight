@@ -1,13 +1,13 @@
 name = "Simple Music Control"
-filename = "simple_music_control-1.3.5+1.21.1.jar"
+filename = "simple_music_control-1.3.6+1.21.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/8AX2hHnX/versions/h38ZU7yE/simple_music_control-1.3.5%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/8AX2hHnX/versions/IaF7gTIF/simple_music_control-1.3.6%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "e6f96561624ba1109f17496751b76585c700457ec21c4830d08350644ac8ce802957861e97cd81ea8be1b102b893ccf24532231e64675c559f2b1cbbd3ac3d61"
+hash = "b0d975b8749a8b3e033e8919cad2492715baf098132759157c6b0924810c4abb404c365c9af779a09c08f3a7df2cf8b36fc9d7bd5d91c1de6f5479f739a4b1e9"
 
 [update]
 [update.modrinth]
 mod-id = "8AX2hHnX"
-version = "h38ZU7yE"
+version = "IaF7gTIF"

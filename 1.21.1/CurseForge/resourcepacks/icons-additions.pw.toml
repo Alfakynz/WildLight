@@ -1,0 +1,13 @@
+name = "Icons - Additions"
+filename = "Icons-Additions-1.2v.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "57b28f3c64994feb30bc9b75e13bb738dad0fbb0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6331832
+project-id = 1225527
