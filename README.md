@@ -13,16 +13,8 @@ Step into a world where survival meets subtle beauty. In Wildlight, every sound,
 ## 📦 Installation
 
 ### 👤 For users
-
-#### With Modrinth
-1. Go on Modrinth
+1. Go on Modrinth or CurseForge
 2. Search and download WildLight from modpack section
-3. Use 4GB of RAM to play (recommended)
-4. Launch and play WildLight ✨
-
-#### With CurseForge
-1. Download WildLight-x.x.x.zip from [release](https://github.com/Alfakynz/WildLight/releases/latest)
-2. Open CurseForge and import the downloaded file
 3. Use 4GB of RAM to play (recommended)
 4. Launch and play WildLight ✨
 
@@ -49,7 +41,6 @@ If you'd like to contribute:
 
 ## 🚀 Planned Features
 
-- Publish on Curseforge
 - Custom Minecraft menu (background and more)
 - Performance optimization for lower-ends machines
 - A more immersive progression system (survival, gear, knowledge)
