@@ -1,0 +1,13 @@
+name = "Seamless"
+filename = "seamless-2.3.2-fabric-1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/rhyHyQke/versions/DJ1VocaO/seamless-2.3.2-fabric-1.21.1.jar"
+hash-format = "sha512"
+hash = "30b570015758decf8f0112cc6bb145b47a1e1fb84fe034536caf8bcc3a145ebf420482490136a531e4c32ca4655f7c6e9ce190f19c17b708e2b29d6e147a7d12"
+
+[update]
+[update.modrinth]
+mod-id = "rhyHyQke"
+version = "DJ1VocaO"

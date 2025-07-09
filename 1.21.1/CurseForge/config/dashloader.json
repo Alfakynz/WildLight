@@ -1,0 +1,18 @@
+{
+  "options": {
+    "CACHE_MODEL_LOADER": true,
+    "CACHE_SPRITE_STITCHING": true,
+    "CACHE_SPRITE_CONTENT": true,
+    "CACHE_FONT": true,
+    "CACHE_SPLASH_TEXT": true,
+    "CACHE_SHADER": true,
+    "FAST_MODEL_IDENTIFIER_EQUALS": true,
+    "FAST_WALL_BLOCK": true
+  },
+  "compression": 3,
+  "maxCaches": 5,
+  "customSplashLines": [],
+  "addDefaultSplashLines": false,
+  "singleThreadedReading": false,
+  "showCachingToast": false
+}

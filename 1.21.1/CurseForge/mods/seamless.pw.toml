@@ -1,0 +1,13 @@
+name = "Seamless"
+filename = "seamless-2.3.2-fabric-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "80ee73516073242a257cc26d47974532b52e725c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6285846
+project-id = 855593

@@ -29,6 +29,10 @@ file = "config/continuity.json"
 hash = "00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4"
 
 [[files]]
+file = "config/dashloader.json"
+hash = "f561ecabf80356148b8df358f3e1c1115c7f8c05ef3dc29835b861df2042a3ae"
+
+[[files]]
 file = "config/distraction_free_recipes-client.toml"
 hash = "085ef2273eb4505aa3fd8e8243c10c3727a1e3de7ee4ed9a790d1c1b327c08f1"
 
@@ -349,8 +353,18 @@ hash = "5f7537e9f19357e3a5bcc077725f15a1694fb9f67c4cdfd96f3b993a85e397f1"
 metafile = true
 
 [[files]]
+file = "mods/dashloader.pw.toml"
+hash = "42c439bf87f27d947d9bfda1499780f9c9515aa988e3260534739ae7580f8c96"
+metafile = true
+
+[[files]]
 file = "mods/deimos.pw.toml"
 hash = "6629036d01d281c001168ea901675909818e66a3e59dfb559cf20ab320ab65c4"
+metafile = true
+
+[[files]]
+file = "mods/delete-worlds-to-trash.pw.toml"
+hash = "5285137cdb3c92ff5adaca4ec87f7278f265e200773b82a1fafecfc798b2ab45"
 metafile = true
 
 [[files]]
@@ -515,7 +529,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "e6b1db1ab68060617a18d798dc6041533bf58044a078df62ae09fab803eb6e4b"
+hash = "0e5b10aefb078de8f531b588b6384cbfa585f8c6991b0b9b21dce1d642a6d840"
 metafile = true
 
 [[files]]
@@ -575,7 +589,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "aca992405a1ccb9c1c2c9ef17d1c5282c79fde772fad6abe6a53dddc25b0b750"
+hash = "bcc572cfc7f9d5fbf2b5cb027c08b079348be73f56e3a34bf8b7fafa12b69d0e"
 metafile = true
 
 [[files]]
@@ -754,8 +768,13 @@ hash = "717906f148da2e135fa8a6b0bb1a206d5bf2369bffbb0c5f0878346eca5e7521"
 metafile = true
 
 [[files]]
+file = "mods/seamless.pw.toml"
+hash = "3492ca74cdc795dbcfa4cff6cc9252303e0cd099b55959901b40d4bac9480ff4"
+metafile = true
+
+[[files]]
 file = "mods/simple-music-control.pw.toml"
-hash = "2f1d722830274a82312f74a7e92abcc80eeb723c444a3e0e4896a2c496949daf"
+hash = "dee5e7633b41381ca78cd24d4f16cdc3de3a92fa41bd1c8369121867a33177f5"
 metafile = true
 
 [[files]]
@@ -945,7 +964,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "9ddb483d8cfa54c858815b8d8ec210259445c08a561ee4872ddc64ecc6539e7e"
+hash = "132ec02e94ec17aa6ba2974d0c26d43a28eb382b2863efd825737a36939b8fa3"
 
 [[files]]
 file = "resourcepacks/3d-crops.pw.toml"
@@ -960,6 +979,16 @@ metafile = true
 [[files]]
 file = "resourcepacks/circular-logs.pw.toml"
 hash = "4c0e61ba4bf259431f6d192e7d1411f8d282fc7c0fd2951b06be403a9a3b39f4"
+metafile = true
+
+[[files]]
+file = "resourcepacks/connected-glasses.pw.toml"
+hash = "b34897e632da78d9ea31e6dc43095363c2e8d00375f2f74cb1e6ff48c41fb46a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/connected-paths.pw.toml"
+hash = "f7cb105f7506d27de8640f872a105262cb9a9bf4e00e276366b344331a969eda"
 metafile = true
 
 [[files]]
@@ -993,6 +1022,11 @@ hash = "2c30a792eb8c62778b5f60772d16530062a428e52d2767c24e971812aff7ac40"
 metafile = true
 
 [[files]]
+file = "resourcepacks/its-all-connected.pw.toml"
+hash = "173006d25b63ebb52affef09aa8ebf8dfa05cc119479068cf8ff140d0998edf8"
+metafile = true
+
+[[files]]
 file = "resourcepacks/low-on-fire.pw.toml"
 hash = "347564c7db8830d5595e0c6cc3b7c4bb9d040cfd09272d672a969200cb24d3d0"
 metafile = true
@@ -1005,16 +1039,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/sun-and-moon-circular.pw.toml"
 hash = "3dc05fe905d662fed1c6aeaea36643d95cd0e3d6c180863b03a0ce318ae8db93"
-metafile = true
-
-[[files]]
-file = "resourcepacks/vanilla-connected-glass.pw.toml"
-hash = "911a4b6e831fbf947509b665bd216a12be0a1c270beba669559a7881c8efeb26"
-metafile = true
-
-[[files]]
-file = "resourcepacks/vanilla-connected-textures.pw.toml"
-hash = "953cea0665e38e790b80302c6040252952e6c34c0ed4837315fd82b189d9000c"
 metafile = true
 
 [[files]]
