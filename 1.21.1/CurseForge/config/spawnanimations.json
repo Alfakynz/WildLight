@@ -1,6 +1,0 @@
-{
-  "activation_distance": 20,
-  "activation_mode": "WORLD",
-  "hide_worn_armor_and_tools": "WORLD",
-  "play_animation_on_unsupported_blocks": "WORLD"
-}

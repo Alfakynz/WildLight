@@ -1,0 +1,83 @@
+@import './base.css';
+
+h1,
+h2,
+h3,
+a,
+p {
+  text-shadow: 0 0 5px #f5d06f80;
+}
+
+h1,
+h2,
+h3 {
+  font-family: 'Cinzel', serif;
+  color: var(--color-text);
+}
+
+a {
+  text-decoration: none;
+  color: var(--color-text);
+  transition: 0.5s;
+}
+
+a:hover {
+  text-shadow: 0 0 15px var(--color-text);
+}
+
+/* Nav bar styles */
+nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 1rem;
+  z-index: 1000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+nav ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin: 0;
+  padding: 0.5rem 0;
+  background: #1e1e1e80;
+  box-shadow: 0 0 10px #00000080;
+  backdrop-filter: blur(5px);
+  border-radius: 25px;
+  list-style: none;
+}
+
+nav div {
+  font-family: 'Cinzel', serif;
+  font-size: 1.15rem;
+  padding: 0.5rem 1rem;
+  border-radius: 25px;
+  transition: all 0.3s;
+}
+
+nav img {
+  padding: 0.5rem;
+  border-radius: 25px;
+  transition: all 0.3s;
+  filter: drop-shadow(0 0 5px #f5d06f80);
+  transition: all 0.3s;
+}
+
+nav div:hover,
+nav img:hover {
+  background: #f5d06f20;
+}
+
+nav div:hover {
+  filter: drop-shadow(0 0 15px #f5d06f);
+}
+
+nav img:hover {
+  filter: drop-shadow(0 0 15px #f5d06f);
+}
