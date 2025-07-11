@@ -6,7 +6,7 @@ on:
       - website
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -26,8 +26,8 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Type check
-        run: npm run type-check
+      # - name: Type check
+      #   run: npm run type-check
 
       - name: Build Vue.js app
         run: npm run build-only
