@@ -1,11 +1,16 @@
 <template>
   <main>
-    <h1>Home</h1>
+    <IntroView />
+    <DownloadsView />
+    <ScreenshotsView />
   </main>
 </template>
 
 <script setup>
 import { onMounted } from 'vue'
+import IntroView from './Intro.vue'
+import DownloadsView from './Downloads.vue'
+import ScreenshotsView from './Screenshots.vue'
 
 onMounted(() => {
   const nav = document.querySelector('nav')

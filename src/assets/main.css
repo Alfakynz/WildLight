@@ -25,59 +25,39 @@ a:hover {
   text-shadow: 0 0 15px var(--color-text);
 }
 
-/* Nav bar styles */
-nav {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
+/* Main styles */
+@media screen and (max-width: 1024px) {
+  main {
+    padding: 1rem;
+  }
+}
+
+@media screen and (min-width: 1025px) {
+  main {
+    padding: 3rem;
+  }
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+  margin: 1rem auto;
   box-sizing: border-box;
-  padding: 1rem;
-  z-index: 1000;
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
 
-nav ul {
-  display: flex;
-  justify-content: center;
-  align-items: center;
+main section {
   width: 100%;
-  margin: 0;
-  padding: 0.5rem 0;
-  background: #1e1e1e80;
-  box-shadow: 0 0 10px #00000080;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2rem;
   backdrop-filter: blur(5px);
-  border-radius: 25px;
-  list-style: none;
-}
-
-nav div {
-  font-family: 'Cinzel', serif;
-  font-size: 1.15rem;
-  padding: 0.5rem 1rem;
-  border-radius: 25px;
-  transition: all 0.3s;
-}
-
-nav img {
-  padding: 0.5rem;
-  border-radius: 25px;
-  transition: all 0.3s;
-  filter: drop-shadow(0 0 5px #f5d06f80);
-  transition: all 0.3s;
-}
-
-nav div:hover,
-nav img:hover {
-  background: #f5d06f20;
-}
-
-nav div:hover {
-  filter: drop-shadow(0 0 15px #f5d06f);
-}
-
-nav img:hover {
-  filter: drop-shadow(0 0 15px #f5d06f);
+  padding: 1.25rem;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 35px;
+  background: rgba(30, 30, 30, 0.25);
+  box-sizing: border-box;
 }
