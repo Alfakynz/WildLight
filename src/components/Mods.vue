@@ -1,21 +1,3 @@
-<template>
-  <main>
-    <WikiNav />
-    <section class="content">
-      <h1>Wiki</h1>
-      <p class="warning">🚧 This Wiki is under construction 🚧</p>
-      <p>
-        Welcome to the Wiki section! Here you can find information about the modpack, including
-        installation instructions, a list of mods, resource packs, shaders, and more.
-      </p>
-      <p>
-        Use the navigation on the left to explore different sections. If you have any questions or
-        need help, feel free to reach out to the community.
-      </p>
-    </section>
-  </main>
-</template>
-
 <script setup>
 import WikiNav from './WikiNav.vue'
 import { onMounted } from 'vue'
@@ -29,8 +11,19 @@ onMounted(() => {
 })
 </script>
 
+<template>
+  <main>
+    <WikiNav />
+    <section class="content">
+      <h1>List of mods, Resource Packs and Shaders</h1>
+      <p class="warning">🚧 This Wiki is under construction 🚧</p>
+    </section>
+  </main>
+</template>
+
 <style scoped>
 main {
+  display: flex;
   flex-direction: row;
   align-items: flex-start;
 }
@@ -38,9 +31,9 @@ main {
 .content {
   padding: 2rem;
   overflow-x: auto;
+  box-sizing: border-box;
+  display: flex;
   flex-direction: column;
-  justify-content: flex-start;
-  gap: 1rem;
 }
 
 @media (max-width: 1024px) {
