@@ -108,11 +108,11 @@ h2 {
 .screenshot-img {
   max-width: 480px;
   max-height: 320px;
-  border-radius: 18px;
-  box-shadow: 0 4px 24px #0003;
+  border-radius: 50px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
   object-fit: cover;
   background: #222;
-  transition: box-shadow 0.3s;
+  border: 1px solid rgba(255, 255, 255, 0.1);
 }
 
 .arrow {
@@ -166,6 +166,7 @@ h2 {
 .fade-leave-active {
   transition: opacity 0.4s cubic-bezier(0.4, 0, 0.2, 1);
 }
+
 .fade-enter-from,
 .fade-leave-to {
   opacity: 0;
@@ -192,22 +193,26 @@ h2 {
     width: 100%;
     flex-direction: column;
   }
+
   .screenshot-img {
     max-width: 98vw;
     max-height: 45vw;
     width: 100%;
     height: auto;
-    border-radius: 10px;
+    border-radius: 25px;
   }
+
   .arrow {
     width: 2em;
     height: 2em;
     font-size: 1.5em;
     margin: 0 0.5em;
   }
+
   .desktop-only {
     display: none !important;
   }
+
   .mobile-only {
     display: flex !important;
     justify-content: center;
@@ -215,6 +220,7 @@ h2 {
     margin-top: 1em;
     width: 100%;
   }
+
   .mobile-arrows {
     width: 100%;
   }
@@ -227,10 +233,4 @@ h2 {
     width: 100%;
   }
 }
-
-/* .dots.desktop-only {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-} */
 </style>

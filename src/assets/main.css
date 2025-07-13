@@ -10,19 +10,21 @@ p {
 
 h1,
 h2,
-h3 {
+h3,
+h4 {
   font-family: 'Cinzel', serif;
   color: var(--color-text);
+  letter-spacing: 1px;
 }
 
 a {
   text-decoration: none;
   color: var(--color-text);
-  transition: 0.5s;
+  transition: 0.3s;
 }
 
 a:hover {
-  text-shadow: 0 0 15px var(--color-text);
+  text-shadow: 0 0 10px var(--color-text);
 }
 
 /* Main styles */
@@ -54,10 +56,44 @@ main section {
   align-items: center;
   justify-content: space-between;
   gap: 2rem;
-  backdrop-filter: blur(5px);
+  backdrop-filter: blur(4px);
   padding: 1.25rem;
   border: 1px solid rgba(255, 255, 255, 0.1);
   border-radius: 35px;
   background: rgba(30, 30, 30, 0.25);
   box-sizing: border-box;
+}
+
+footer {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+  padding: 1.5rem 2rem;
+  margin-top: 3rem;
+  border-radius: 25px 25px 0 0;
+  background: rgba(30, 30, 30, 0.35);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  box-sizing: border-box;
+  backdrop-filter: blur(4px);
+}
+
+.footer-category {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.footer-category h4 {
+  margin-bottom: 0.5rem;
+  font-size: 1.1rem;
+}
+
+@media screen and (max-width: 1024px) {
+  footer {
+    /* flex-direction: column; */
+    align-items: space-between;
+    gap: 1.5rem;
+    padding: 1rem;
+  }
 }

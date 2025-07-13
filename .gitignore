@@ -29,3 +29,7 @@ coverage
 *.sw?
 
 *.tsbuildinfo
+
+# Compiled modpack
+*.zip
+*.mrpack

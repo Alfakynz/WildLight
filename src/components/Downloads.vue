@@ -45,7 +45,7 @@ import DownloadIcon from './icons/DownloadIcon.vue'
 }
 
 .downloads > div div:hover {
-  filter: brightness(1.15);
+  filter: brightness(1.25);
 }
 
 .downloads .modrinth {
