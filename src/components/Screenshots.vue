@@ -8,7 +8,7 @@
         @click="prevScreenshot"
         :aria-label="'Previous screenshot'"
       >
-        &#8592;
+        <ArrowLeft />
       </button>
       <transition name="fade" mode="out-in">
         <img
@@ -23,7 +23,7 @@
         @click="nextScreenshot"
         :aria-label="'Next screenshot'"
       >
-        &#8594;
+        <ArrowRight />
       </button>
     </div>
 
@@ -40,7 +40,7 @@
     <!-- Mobile arrows + dots in one row -->
     <div class="mobile-dots-nav mobile-only">
       <button class="arrow left" @click="prevScreenshot" :aria-label="'Previous screenshot'">
-        &#8592;
+        <ArrowLeft />
       </button>
       <div class="dots">
         <span
@@ -51,7 +51,7 @@
         ></span>
       </div>
       <button class="arrow right" @click="nextScreenshot" :aria-label="'Next screenshot'">
-        &#8594;
+        <ArrowRight />
       </button>
     </div>
   </section>
@@ -59,6 +59,8 @@
 
 <script setup>
 import { ref } from 'vue'
+import ArrowLeft from './icons/arrow-left.vue'
+import ArrowRight from './icons/arrow-right.vue'
 
 const screenshots = [
   new URL('../assets/images/screenshots/Night.png', import.meta.url).href,
@@ -108,11 +110,13 @@ h2 {
 .screenshot-img {
   max-width: 480px;
   max-height: 320px;
-  border-radius: 50px;
+  width: 100%;
+  height: auto;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
   object-fit: cover;
   background: #222;
   border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 50px;
 }
 
 .arrow {
@@ -132,6 +136,10 @@ h2 {
 .arrow:hover {
   background-color: var(--color-text);
   filter: drop-shadow(0 0 5px #f5d06f80);
+}
+
+.arrow svg {
+  margin-top: 5px;
 }
 
 .dots {
@@ -188,10 +196,12 @@ h2 {
 /* Mobile adaptation */
 @media screen and (max-width: 1024px) {
   .diaporama {
-    min-width: 0;
-    min-height: 0;
+    min-width: 45vw;
+    min-height: 45vw;
     width: 100%;
     flex-direction: column;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 25px;
   }
 
   .screenshot-img {
@@ -199,6 +209,7 @@ h2 {
     max-height: 45vw;
     width: 100%;
     height: auto;
+    border: none;
     border-radius: 25px;
   }
 
