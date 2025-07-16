@@ -1,9 +1,8 @@
 <template>
   <main>
     <WikiNav />
-    <section class="content">
+    <section class="wiki-content">
       <h1>Wiki</h1>
-      <p class="warning">🚧 This Wiki is under construction 🚧</p>
       <p>
         Welcome to the Wiki section! Here you can find information about the modpack, including
         installation instructions, a list of mods, resource packs, shaders, and more.
@@ -33,32 +32,14 @@ onMounted(() => {
 main {
   flex-direction: row;
   align-items: flex-start;
-}
-
-.content {
-  padding: 2rem;
-  overflow-x: auto;
-  flex-direction: column;
-  justify-content: flex-start;
-  gap: 1rem;
+  width: 100vw;
+  max-width: 100vw;
+  box-sizing: border-box;
 }
 
 @media (max-width: 1024px) {
   main {
     flex-direction: column;
   }
-  .content {
-    padding: 1rem;
-  }
-}
-
-.warning {
-  background-color: red;
-  color: white;
-  padding: 0.5rem;
-  border-radius: 15px;
-  font-size: 1.2rem;
-  text-align: center;
-  font-weight: bold;
 }
 </style>

@@ -14,9 +14,60 @@ onMounted(() => {
 <template>
   <main>
     <WikiNav />
-    <section class="content">
-      <h1>How to report a bug</h1>
-      <p class="warning">🚧 This Wiki is under construction 🚧</p>
+    <section class="wiki-content">
+      <h1>How to report a bug or suggest an idea</h1>
+      <p>
+        If you encounter a bug in WildLight or have an idea to suggest, please help me by letting me
+        know! You can use either of the following methods:
+      </p>
+      <ol>
+        <li>
+          <strong>
+            Open an issue on
+            <a href="https://github.com/Alfakynz/wildlight/issues" target="_blank" rel="noopener"
+              >GitHub</a
+            >:
+          </strong>
+          <ul>
+            <li>
+              Go to my
+              <a href="https://github.com/Alfakynz/wildlight/issues" target="_blank" rel="noopener"
+                >GitHub Issues page</a
+              >.
+            </li>
+            <li>
+              Click on <strong>New issue</strong> and fill out the template with as much detail as
+              possible (for bugs: steps to reproduce, expected behavior, screenshots, etc.; for
+              ideas: describe your suggestion and why you think it would help).
+            </li>
+            <li>Submit the issue. I track and respond to bugs and ideas here regularly.</li>
+          </ul>
+        </li>
+        <li>
+          <strong
+            >Post a bug or idea on my
+            <a href="https://discord.gg/TcmUQHZ5U4" target="_blank" rel="noopener">Discord server</a
+            >:</strong
+          >
+          <ul>
+            <li>
+              Join the
+              <a href="https://discord.gg/TcmUQHZ5U4" target="_blank" rel="noopener"
+                >WildLight Discord</a
+              >.
+            </li>
+            <li>
+              For bugs, post in the <strong>#bugs</strong> channel.<br />
+              For ideas or suggestions, post in the <strong>#suggestions-and-ideas</strong> channel.
+            </li>
+            <li>
+              Describe your bug or idea clearly, including steps to reproduce and any relevant
+              screenshots or logs for bugs, or details and reasoning for ideas.
+            </li>
+          </ul>
+        </li>
+      </ol>
+      <p>Thank you for helping me improve WildLight!</p>
     </section>
   </main>
 </template>
@@ -26,32 +77,14 @@ main {
   display: flex;
   flex-direction: row;
   align-items: flex-start;
-}
-
-.content {
-  padding: 2rem;
-  overflow-x: auto;
+  width: 100vw;
+  max-width: 100vw;
   box-sizing: border-box;
-  display: flex;
-  flex-direction: column;
 }
 
 @media (max-width: 1024px) {
   main {
     flex-direction: column;
   }
-  .content {
-    padding: 1rem;
-  }
-}
-
-.warning {
-  background-color: red;
-  color: white;
-  padding: 0.5rem;
-  border-radius: 15px;
-  font-size: 1.2rem;
-  text-align: center;
-  font-weight: bold;
 }
 </style>

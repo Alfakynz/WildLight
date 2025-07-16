@@ -13,19 +13,19 @@
         </router-link>
       </li>
       <li>
-        <a href="https://modrinth.com/project/6QzexKXD">
+        <a href="https://modrinth.com/project/6QzexKXD" target="_blank">
           <div>Modrinth</div>
           <img src="/src/assets/images/icons/modrinth.png" alt="Modrinth" />
         </a>
       </li>
       <li>
-        <a href="https://www.curseforge.com/minecraft/modpacks/wildlight">
+        <a href="https://www.curseforge.com/minecraft/modpacks/wildlight" target="_blank">
           <div>CurseForge</div>
           <img src="/src/assets/images/icons/curseforge.png" alt="CurseForge" />
         </a>
       </li>
       <li>
-        <a href="https://github.com/Alfakynz/WildLight">
+        <a href="https://github.com/Alfakynz/WildLight" target="_blank">
           <div>GitHub</div>
           <img src="/src/assets/images/icons/github.png" alt="GitHub" />
         </a>

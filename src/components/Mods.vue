@@ -1,6 +1,6 @@
 <script setup>
+import { ref, onMounted } from 'vue'
 import WikiNav from './WikiNav.vue'
-import { onMounted } from 'vue'
 
 onMounted(() => {
   const nav = document.querySelector('nav')
@@ -9,14 +9,105 @@ onMounted(() => {
     main.style.paddingTop = nav.offsetHeight + 'px'
   }
 })
+
+const mods = ref([])
+const resourcePacks = ref([])
+const shaders = ref([])
+const loading = ref(true)
+const error = ref(null)
+
+function parseSection(lines, sectionTitle) {
+  const result = []
+  let inSection = false
+  for (const line of lines) {
+    if (line.trim().toLowerCase() === sectionTitle.toLowerCase()) {
+      inSection = true
+      continue
+    }
+    if (inSection) {
+      if (line.startsWith('## ')) break
+      const match = line.match(/^- \[(.+?)\]\((.+?)\)/)
+      if (match) {
+        result.push({ name: match[1], url: match[2] })
+      }
+    }
+  }
+  return result
+}
+
+function smoothScrollTo(id) {
+  const element = document.getElementById(id)
+  if (element) {
+    element.scrollIntoView({ behavior: 'smooth', block: 'center' })
+  }
+}
+
+onMounted(async () => {
+  loading.value = true
+  error.value = null
+  try {
+    const res = await fetch(
+      'https://raw.githubusercontent.com/Alfakynz/WildLight/refs/heads/main/1.21.1/PACK_CONTENT.md',
+    )
+    if (!res.ok) throw new Error('Failed to fetch mod list')
+    const text = await res.text()
+    const lines = text.split('\n')
+    mods.value = parseSection(lines, '## Mods used')
+    resourcePacks.value = parseSection(lines, '## Resource packs used')
+    shaders.value = parseSection(lines, '## Shader packs used')
+  } catch (e) {
+    error.value = e.message
+  } finally {
+    loading.value = false
+  }
+})
 </script>
 
 <template>
   <main>
     <WikiNav />
-    <section class="content">
+    <section class="wiki-content">
       <h1>List of mods, Resource Packs and Shaders</h1>
-      <p class="warning">🚧 This Wiki is under construction 🚧</p>
+      <p>
+        This page lists all the mods, resource packs, and shaders used in WildLight.
+        <br />
+        Click on the links to view more details or download them.
+      </p>
+      <nav>
+        <a href="#mods" @click.prevent="smoothScrollTo('mods')">Mods</a>
+        <a href="#resource-packs" @click.prevent="smoothScrollTo('resource-packs')"
+          >Resource Packs</a
+        >
+        <a href="#shaders" @click.prevent="smoothScrollTo('shaders')">Shaders</a>
+      </nav>
+      <div v-if="loading">Loading...</div>
+      <div v-else-if="error">{{ error }}</div>
+      <template v-else>
+        <div class="mod-section">
+          <h2 id="mods">Mods</h2>
+          <ul>
+            <li v-for="mod in mods" :key="mod.url">
+              <a :href="mod.url" target="_blank" rel="noopener">{{ mod.name }}</a>
+            </li>
+          </ul>
+        </div>
+        <div class="mod-section">
+          <h2 id="resource-packs">Resource Packs</h2>
+          <ul>
+            <li v-for="pack in resourcePacks" :key="pack.url">
+              <a :href="pack.url" target="_blank" rel="noopener">{{ pack.name }}</a>
+            </li>
+          </ul>
+        </div>
+        <div class="mod-section">
+          <h2 id="shaders">Shaders</h2>
+          <ul>
+            <li v-for="shader in shaders" :key="shader.url">
+              <a :href="shader.url" target="_blank" rel="noopener">{{ shader.name }}</a>
+            </li>
+          </ul>
+        </div>
+      </template>
     </section>
   </main>
 </template>
@@ -26,32 +117,39 @@ main {
   display: flex;
   flex-direction: row;
   align-items: flex-start;
-}
-
-.content {
-  padding: 2rem;
-  overflow-x: auto;
+  width: 100vw;
+  max-width: 100vw;
   box-sizing: border-box;
-  display: flex;
-  flex-direction: column;
 }
 
 @media (max-width: 1024px) {
   main {
     flex-direction: column;
   }
-  .content {
-    padding: 1rem;
-  }
 }
 
-.warning {
-  background-color: red;
-  color: white;
-  padding: 0.5rem;
-  border-radius: 15px;
-  font-size: 1.2rem;
-  text-align: center;
-  font-weight: bold;
+.wiki-content nav {
+  margin-bottom: 1rem;
+}
+
+.wiki-content nav a {
+  margin: 0 1rem;
+}
+
+.mod-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.mod-section ul {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-left: 0;
+}
+
+.mod-section ul li {
+  list-style: none;
 }
 </style>

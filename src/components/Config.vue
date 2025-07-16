@@ -14,9 +14,37 @@ onMounted(() => {
 <template>
   <main>
     <WikiNav />
-    <section class="content">
-      <h1>Minecraft configuration</h1>
-      <p class="warning">🚧 This Wiki is under construction 🚧</p>
+    <section class="wiki-content">
+      <h1>Configuration</h1>
+      <h2>Minecraft Version</h2>
+      <p>
+        This modpack uses <strong>Minecraft 1.21.1</strong> with the <strong>Fabric</strong> mod
+        loader.
+      </p>
+      <p>
+        Other versions of Minecraft are not supported for now, I will add support for them in the
+        future.
+      </p>
+      <h2>Modpack Versioning Scheme</h2>
+      <ul>
+        <li>
+          <strong>x.x.X</strong> &mdash; Update, remove, or change a mod, resource pack, shader, or
+          config.<br />
+          <em>(Example: 1.0.<b>1</b> &rarr; updated a mod or config)</em>
+        </li>
+        <li>
+          <strong>x.X.x</strong> &mdash; Add a new mod, resource pack, or shader.<br />
+          <em>(Example: 1.<b>1</b>.0 &rarr; added a new shader)</em>
+        </li>
+        <li>
+          <strong>X.x.x</strong> &mdash; Add a new dimension to the modpack.<br />
+          <em>(Example: <b>2</b>.0.0 &rarr; added a new dimension)</em>
+        </li>
+      </ul>
+      <p>
+        This versioning helps you track what kind of changes have been made to the modpack with each
+        release.
+      </p>
     </section>
   </main>
 </template>
@@ -26,32 +54,14 @@ main {
   display: flex;
   flex-direction: row;
   align-items: flex-start;
-}
-
-.content {
-  padding: 2rem;
-  overflow-x: auto;
+  width: 100vw;
+  max-width: 100vw;
   box-sizing: border-box;
-  display: flex;
-  flex-direction: column;
 }
 
 @media (max-width: 1024px) {
   main {
     flex-direction: column;
   }
-  .content {
-    padding: 1rem;
-  }
-}
-
-.warning {
-  background-color: red;
-  color: white;
-  padding: 0.5rem;
-  border-radius: 15px;
-  font-size: 1.2rem;
-  text-align: center;
-  font-weight: bold;
 }
 </style>

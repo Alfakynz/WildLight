@@ -6,11 +6,13 @@
       </li>
       <li>
         <router-link to="/wiki/mods" active-class="active"
-          >List of mods, resource packs and shaders</router-link
+          >List of mods, rp and shaders</router-link
         >
       </li>
       <li>
-        <router-link to="/wiki/bugs" active-class="active">How to report a bug</router-link>
+        <router-link to="/wiki/bugs" active-class="active"
+          >Report a bug or suggest an idea</router-link
+        >
       </li>
       <li>
         <router-link to="/wiki/config" active-class="active">Minecraft configuration</router-link>

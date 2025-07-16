@@ -41,6 +41,7 @@ a:hover {
 }
 
 main {
+  flex: 1;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -71,7 +72,7 @@ footer {
   justify-content: space-around;
   align-items: flex-start;
   padding: 1.5rem 2rem;
-  margin-top: 3rem;
+  margin-top: 1.5rem;
   border-radius: 25px 25px 0 0;
   background: rgba(30, 30, 30, 0.35);
   border: 1px solid rgba(255, 255, 255, 0.08);
@@ -95,4 +96,38 @@ footer {
     gap: 1.5rem;
     padding: 1rem;
   }
+}
+
+.wiki-content {
+  padding: 2rem;
+  overflow-x: auto;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+}
+
+@media (max-width: 1024px) {
+  .wiki-content {
+    padding: 1.5rem;
+  }
+}
+
+.wiki-content h1,
+.wiki-content h2 {
+  text-align: center;
+  margin: 0 auto;
+}
+
+.wiki-content p {
+  margin: 0 auto;
+}
+
+.warning {
+  background-color: red;
+  color: white;
+  padding: 0.5rem;
+  border-radius: 15px;
+  font-size: 1.2rem;
+  text-align: center;
+  font-weight: bold;
 }

@@ -104,6 +104,7 @@ h2 {
   position: relative;
   min-height: 320px;
   min-width: 320px;
+  width: 100%;
   box-sizing: content-box;
 }
 
@@ -111,7 +112,7 @@ h2 {
   max-width: 480px;
   max-height: 320px;
   width: 100%;
-  height: auto;
+  height: 280px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
   object-fit: cover;
   background: #222;
