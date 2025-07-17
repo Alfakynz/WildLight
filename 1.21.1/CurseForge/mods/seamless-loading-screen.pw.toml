@@ -1,0 +1,13 @@
+name = "Seamless Loading Screen"
+filename = "seamless-loading-screen-2.2.1+1.21-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3ffd22a3551bedf28eaebfce14b6e7954e6e645e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5774797
+project-id = 429926

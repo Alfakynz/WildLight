@@ -1,0 +1,13 @@
+name = "Polymorph"
+filename = "polymorph-fabric-1.0.10+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tagwiZkJ/versions/YuL8WZQ9/polymorph-fabric-1.0.10%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "4644eb3b7fa47e58c03ca562d36a83cc1313227c744c502df77b1f186c726015bbc4bf6cdff35e97d0d7e5ebf577c6dae0a782ad93be290933f5d50ce1ea4611"
+
+[update]
+[update.modrinth]
+mod-id = "tagwiZkJ"
+version = "YuL8WZQ9"
