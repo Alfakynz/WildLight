@@ -3,7 +3,7 @@ import os
 # This script creates symlinks for the specified files in the current directory. Use it on CurseForge or Modrinth directories (python3 ../../CLI/make_symlinks.py). 
 # List of (target_path, symlink_path) pairs
 symlinks = [
-    ("../../Options/options.txt", "options.txt"),
+    ("../../Options/options.txt", "configureddefaults/options.txt"),
     ("../../Packwiz/icon.png", "icon.png"),
     ("../../Packwiz/.packwizignore", ".packwizignore"),
 ]
