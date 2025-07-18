@@ -38,6 +38,7 @@
 - [Collective](https://modrinth.com/project/e0M1UDsY)
 - [Comforts](https://modrinth.com/project/SaCpeal4)
 - [Concurrent Chunk Management Engine (Fabric)](https://modrinth.com/project/VSNURh3q)
+- [Configured Defaults](https://modrinth.com/project/SISoSFPP)
 - [Continuity](https://modrinth.com/project/1IjD5062)
 - [CreativeCore](https://modrinth.com/project/OsZiaDHq)
 - [Dark Loading Screen](https://modrinth.com/project/h3XWIuzM)

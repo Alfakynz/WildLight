@@ -1,200 +1,208 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/autohud.json5"
+file = "configureddefaults/config/autohud.json5"
 hash = "22028104f9668a86ef66b883582f17636713a668b81c5ba84dc4b74b8a8fea0f"
 
 [[files]]
-file = "config/betterf3.json"
+file = "configureddefaults/config/betterf3.json"
 hash = "0028abb010568e5d31c2d12390a18a471a495591a24bf408abea3c151e8d234e"
 
 [[files]]
-file = "config/blur.json"
+file = "configureddefaults/config/blur.json"
 hash = "93edba113b9eb65f99328dd64761d07cc6ddf556503dc9f9470bdf04d57a4a54"
 
 [[files]]
-file = "config/cardinal-components-api.properties"
+file = "configureddefaults/config/cardinal-components-api.properties"
 hash = "8d3ae8c9240fc60475fbb98a87b7e2e0874703b173a449fb346fb0857ada7bba"
 
 [[files]]
-file = "config/chat_heads.json5"
+file = "configureddefaults/config/chat_heads.json5"
 hash = "29dffdda6c48191496cca75a8fc9807b3bbc7ea436ce3987f781056889d459a2"
 
 [[files]]
-file = "config/chunksfadein.properties"
+file = "configureddefaults/config/chunksfadein.properties"
 hash = "fc77b4a8e9edddf54b002691c53cbdd5afb181975ac2a1f75800a9b069d69d86"
 
 [[files]]
-file = "config/continuity.json"
+file = "configureddefaults/config/continuity.json"
 hash = "00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4"
 
 [[files]]
-file = "config/dashloader.json"
+file = "configureddefaults/config/dashloader.json"
 hash = "f561ecabf80356148b8df358f3e1c1115c7f8c05ef3dc29835b861df2042a3ae"
 
 [[files]]
-file = "config/distraction_free_recipes-client.toml"
+file = "configureddefaults/config/distraction_free_recipes-client.toml"
 hash = "085ef2273eb4505aa3fd8e8243c10c3727a1e3de7ee4ed9a790d1c1b327c08f1"
 
 [[files]]
-file = "config/doubledoors.json5"
+file = "configureddefaults/config/doubledoors.json5"
 hash = "d4407793e6f0450c0b22eb5099f297e66ec947b666e8b5b1b7a15c87c1818cca"
 
 [[files]]
-file = "config/dynamiccrosshair.json5"
+file = "configureddefaults/config/dynamiccrosshair.json5"
 hash = "375dba1c06d9acf6795f60edbeb61699f72cde6a851841cf9913f9394e1a14d6"
 
 [[files]]
-file = "config/fabric/indigo-renderer.properties"
+file = "configureddefaults/config/fabric/indigo-renderer.properties"
 hash = "6a6d12cacd0b94f627873708cfb5c47dc973f1084b18f5ab83d71d93938241b6"
 
 [[files]]
-file = "config/inventoryprofilesnext/inventoryprofiles.json"
+file = "configureddefaults/config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "47ba4a13dea400deaa34a0b07389861e265be990e6ef93c8e3593b4d6e2cb905"
 
 [[files]]
-file = "config/jade/hide-blocks.json"
+file = "configureddefaults/config/jade/hide-blocks.json"
 hash = "309df4ae96864c19eae41b646d58497c85a73b1fc3c584e772ef4d5822794baa"
 
 [[files]]
-file = "config/jade/hide-entities.json"
+file = "configureddefaults/config/jade/hide-entities.json"
 hash = "3741bb54a4535fb5a00fb0ee1f4386f3dd17834aebdf9e89c21fcd3307109709"
 
 [[files]]
-file = "config/jade/jade.json"
+file = "configureddefaults/config/jade/jade.json"
 hash = "8a57b8690ae69bac1e3c575a1a841a0c017f5ab3baadb6ba78f71a4bf0541ce0"
 
 [[files]]
-file = "config/jade/plugins.json"
+file = "configureddefaults/config/jade/plugins.json"
 hash = "d01aec2b1f436d3cc03dc0be05817918cf60e8781fc24adc774f530ad24580ad"
 
 [[files]]
-file = "config/jade/sort-order.json"
+file = "configureddefaults/config/jade/sort-order.json"
 hash = "d3f3be9b97417e8f177e1500b1d1f606562749b2eca47387eff162dc1b924e24"
 
 [[files]]
-file = "config/jade/usernamecache.json"
+file = "configureddefaults/config/jade/usernamecache.json"
 hash = "b22ed10ad081a907fe3e34e91cd8664ae80391ec8053fb9bede77fd2c44d7dd9"
 
 [[files]]
-file = "config/modmenu.json"
+file = "configureddefaults/config/modmenu.json"
 hash = "3fbb3857eb3543a3e18c8a14b85de44f77312461ac5dcdfc854fb694fb5de09c"
 
 [[files]]
-file = "config/physicsmod/physics_animations_client_config.json"
+file = "configureddefaults/config/physicsmod/physics_animations_client_config.json"
 hash = "d8a629b25da461374926b02b6649ed90154cb1bb6ab7e5208f519b5bcf29b08b"
 
 [[files]]
-file = "config/physicsmod/physics_blocks_client_config.json"
+file = "configureddefaults/config/physicsmod/physics_blocks_client_config.json"
 hash = "f1c8381106c26f12218117b9158993f1418f94a3ba116149e8b02c125c2950d9"
 
 [[files]]
-file = "config/physicsmod/physics_client_config.json"
+file = "configureddefaults/config/physicsmod/physics_client_config.json"
 hash = "7fcae0cbc94accc0f8ad5082b4c6ee5752691768149148f34d5cd3ba6ca149ab"
 
 [[files]]
-file = "config/physicsmod/physics_cloth_config.json"
+file = "configureddefaults/config/physicsmod/physics_cloth_config.json"
 hash = "0dcce417da98022593a4254670ebdac302ede25fffae34f12ed6aa24ec587acc"
 
 [[files]]
-file = "config/physicsmod/physics_mobs_client_config.json"
+file = "configureddefaults/config/physicsmod/physics_mobs_client_config.json"
 hash = "3191b749f9945718e719aa70a85fc0548732c9d954a53f6f385a37f29ce29578"
 
 [[files]]
-file = "config/physicsmod/physics_server_config.json"
+file = "configureddefaults/config/physicsmod/physics_server_config.json"
 hash = "e6c1234596884339e56c93f3e52ae9b646c70bd245ca301775de4317a8f8928a"
 
 [[files]]
-file = "config/physicsmod/physics_vines_client_config.json"
+file = "configureddefaults/config/physicsmod/physics_vines_client_config.json"
 hash = "e8d11c18d3815e934849a698bca65e2992d9ce633e3e2d290a4e9e2a203a88e6"
 
 [[files]]
-file = "config/pickupnotifier/pickupnotifier-client.toml"
+file = "configureddefaults/config/pickupnotifier/pickupnotifier-client.toml"
 hash = "7899a52dd46b3289956d4c3929d6840b52ac0bc460635556cca40ffa72a55512"
 
 [[files]]
-file = "config/pickupnotifier/pickupnotifier-server.toml"
+file = "configureddefaults/config/pickupnotifier/pickupnotifier-server.toml"
 hash = "f81bd82e9f0779dcc7c89b0a9663333857af2a71524e136385f6d08fdee63f43"
 
 [[files]]
-file = "config/rrls.toml"
+file = "configureddefaults/config/rrls.toml"
 hash = "675224bb453de73283e2e25fca52e47ce6ea1d2e9c6c2834eff51bf43d7c2a4f"
 
 [[files]]
-file = "config/sodium-options.json"
+file = "configureddefaults/config/seamless_loading_screen.json"
+hash = "ea19fcd4ac26e65ac04122e14ee019cafd4ac1791b0d7978b7ab9148c8c41ecb"
+
+[[files]]
+file = "configureddefaults/config/sodium-options.json"
 hash = "6f3f7debff90e705be828eb601c673765398d7a4a1bb22863329fc2a2eb4b1d6"
 
 [[files]]
-file = "config/spawnanimations.json"
+file = "configureddefaults/config/spawnanimations.json"
 hash = "c78c11894a8a90dfb0b6ff16077ad046c67196ad91a23c964a7a5bd44df252d2"
 
 [[files]]
-file = "config/subtle_effects/entities.toml"
+file = "configureddefaults/config/subtle_effects/entities.toml"
 hash = "7e1f0c47e7ddc897e73adef04407d9487b110f927ee3bac28feb2bd027277ebe"
 
 [[files]]
-file = "config/visualworkbench-client.toml"
+file = "configureddefaults/config/visualworkbench-client.toml"
 hash = "7ed0adc6e904606672295181e1c7b710b5fca6d9ac55f074649b9fb72b53d6d6"
 
 [[files]]
-file = "config/wilderwild/block.json5"
+file = "configureddefaults/config/wilderwild/block.json5"
 hash = "ff4677a2be1cb42bee38ad80cecb62a5f63f767d86d38350f70f8dc38b1433b2"
 
 [[files]]
-file = "config/wilderwild/entity.json5"
+file = "configureddefaults/config/wilderwild/entity.json5"
 hash = "a611a01ca841c0c68c0ec3457ffabc37b4af9d2d1b796a3d029897e22a5c679a"
 
 [[files]]
-file = "config/wilderwild/item.json5"
+file = "configureddefaults/config/wilderwild/item.json5"
 hash = "77483f1285fcae10b67d34720228262c70ebf725478079784dc35b0c8ea08c05"
 
 [[files]]
-file = "config/wilderwild/misc.json5"
+file = "configureddefaults/config/wilderwild/misc.json5"
 hash = "699dd49724d53fff74e8b12fb29ef05d3a984bdc958914b07ebc55443a55cc77"
 
 [[files]]
-file = "config/wilderwild/mixins.json5"
+file = "configureddefaults/config/wilderwild/mixins.json5"
 hash = "682e1d65dfbd09c0253f80b140144386e35ee2b6d4146b9f16466cce37dbbf81"
 
 [[files]]
-file = "config/wilderwild/worldgen.json5"
+file = "configureddefaults/config/wilderwild/worldgen.json5"
 hash = "09cc5dbbfd6f95631f9f06d6d68808ba626d71d3178d0ef9a7a11350e0a9ca61"
+
+[[files]]
+file = "configureddefaults/journeymap/config/6.0/journeymap.core.config"
+hash = "f186361722ed93165d61b42169ee0495310f7032b32a77f0f09c34f1c8dff6e3"
+
+[[files]]
+file = "configureddefaults/journeymap/config/6.0/journeymap.fullmap.config"
+hash = "b767cc9b4c8f8aadd2f07e03af345b51a44077d5a5c9d6ff491d57f0bb5d2e32"
+
+[[files]]
+file = "configureddefaults/journeymap/config/6.0/journeymap.minimap.config"
+hash = "8cda76eb64346eb0b4c4fd567aa32b8a2c752a6600170db33729568ef0f7ad70"
+
+[[files]]
+file = "configureddefaults/journeymap/config/6.0/journeymap.minimap2.config"
+hash = "26fd46b816044dbbc8fbd5fca1514b77598db69d3c239195edf0d7a40f969685"
+
+[[files]]
+file = "configureddefaults/journeymap/config/6.0/journeymap.rendering.config"
+hash = "adb365c27dcbf3a24b697cdb63f96bc6b09a179a2bea94397d146bdb890ac967"
+
+[[files]]
+file = "configureddefaults/journeymap/config/6.0/journeymap.topo.config"
+hash = "429c48cf38f5acb051b98ac7577e95fcf48b297d01cd83fd36e07c24c8416cad"
+
+[[files]]
+file = "configureddefaults/journeymap/config/6.0/journeymap.waypoint.config"
+hash = "a6e25c86ca2b8aa32a85829d7c39a31ccae7d749b240a55ea2000cb8cbcc490c"
+
+[[files]]
+file = "configureddefaults/journeymap/config/6.0/journeymap.webmap.config"
+hash = "6f472441a8c7377731ff5f9ad43f46951595c8a4969d1ba4b1055aa185a38c23"
+
+[[files]]
+file = "configureddefaults/options.txt"
+hash = "132ec02e94ec17aa6ba2974d0c26d43a28eb382b2863efd825737a36939b8fa3"
 
 [[files]]
 file = "icon.png"
 hash = "8ba989c635453c6727377813835bedf3dd4f2ba43d2a00050233e0020a38215f"
-
-[[files]]
-file = "journeymap/config/6.0/journeymap.core.config"
-hash = "f186361722ed93165d61b42169ee0495310f7032b32a77f0f09c34f1c8dff6e3"
-
-[[files]]
-file = "journeymap/config/6.0/journeymap.fullmap.config"
-hash = "b767cc9b4c8f8aadd2f07e03af345b51a44077d5a5c9d6ff491d57f0bb5d2e32"
-
-[[files]]
-file = "journeymap/config/6.0/journeymap.minimap.config"
-hash = "8cda76eb64346eb0b4c4fd567aa32b8a2c752a6600170db33729568ef0f7ad70"
-
-[[files]]
-file = "journeymap/config/6.0/journeymap.minimap2.config"
-hash = "26fd46b816044dbbc8fbd5fca1514b77598db69d3c239195edf0d7a40f969685"
-
-[[files]]
-file = "journeymap/config/6.0/journeymap.rendering.config"
-hash = "adb365c27dcbf3a24b697cdb63f96bc6b09a179a2bea94397d146bdb890ac967"
-
-[[files]]
-file = "journeymap/config/6.0/journeymap.topo.config"
-hash = "429c48cf38f5acb051b98ac7577e95fcf48b297d01cd83fd36e07c24c8416cad"
-
-[[files]]
-file = "journeymap/config/6.0/journeymap.waypoint.config"
-hash = "a6e25c86ca2b8aa32a85829d7c39a31ccae7d749b240a55ea2000cb8cbcc490c"
-
-[[files]]
-file = "journeymap/config/6.0/journeymap.webmap.config"
-hash = "6f472441a8c7377731ff5f9ad43f46951595c8a4969d1ba4b1055aa185a38c23"
 
 [[files]]
 file = "mods/advancement-plaques-fabric.pw.toml"
@@ -344,6 +352,11 @@ metafile = true
 [[files]]
 file = "mods/comforts.pw.toml"
 hash = "29b54192c0e760db397dacd332422615ea177f939fc203af36a7e0c9d433b629"
+metafile = true
+
+[[files]]
+file = "mods/configured-defaults.pw.toml"
+hash = "d4dd0765ef34ab39ac4451df9e810774e08b4665dfb8c0a5c6c550ecde32c064"
 metafile = true
 
 [[files]]
@@ -985,10 +998,6 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "17f3f5b9d55bfe1f09be32af18b128050723e365a82ba0a5b3a31bd3980dab16"
 metafile = true
-
-[[files]]
-file = "options.txt"
-hash = "132ec02e94ec17aa6ba2974d0c26d43a28eb382b2863efd825737a36939b8fa3"
 
 [[files]]
 file = "resourcepacks/3d-crops.pw.toml"
