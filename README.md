@@ -5,10 +5,10 @@ Step into a world where survival meets subtle beauty. In WildLight, every sound,
 ## ✨ Features:
 
 - Enhanced soundscapes and ambient effects
-- Realistic mechanics for farming, survival, and exploration
+- Realistic mechanics for exploration
 - Intuitive quality-of-life improvements
 - Balanced between challenge and immersion
-- Perfect for solo adventures or immersive multiplayer worlds
+- Perfect for solo adventures
 
 ## 📦 Installation
 
@@ -21,12 +21,12 @@ Step into a world where survival meets subtle beauty. In WildLight, every sound,
 
 ### 👨‍💻 For dev
 
-1. Install [packwiz](https://packwiz.infra.link/)
-2. Clone the repo: `git clone https://github.com/Alfakynz/WildLight.git`
+1. Clone the repo: `git clone https://github.com/Alfakynz/WildLight.git`
+2. Install [packwiz](https://packwiz.infra.link/) and [python](https://python.org)
 3. Navigate to the WildLight directory: `cd WildLight`
-4. Navigate to the Minecraft version you want to use: `cd 1.21.1` (The other versions might come later)
-5. Export the pack as a .mrpack file for Modrinth: `packwiz modrinth export` or .zip for Cursforge: `packwiz curseforge export`
-6. Launch the exported file (WildLight-x.x.x.mrpack or WildLight-x.x.x.zip) using Modrinth or CurseForge
+4. Navigate to the CLI directory: `cd CLI`
+5. Run `main.py` to build `PACK_CONTENT.md` or export modpack for Modrinth or CurseForge
+6. Add mod using `packwiz [launcher] add [mod]` on `version/launcher/` (ex: `1.21.1/Modrinth`)
 
 ## 🔧 Recommendation
 
