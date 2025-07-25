@@ -1,0 +1,13 @@
+name = "Better Toast"
+filename = "better-toast-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Okvbhpno/versions/41WLsTFS/better-toast-1.0.0.jar"
+hash-format = "sha512"
+hash = "23c73ae49f9a19e245bb868d1d64d5a43cc8d0142ca69936b2d1f38cdfd560a132dd3f6b0fa27f0d9220859f82ba8cefad079e14b28e1b5f5316f236bb6b1c0e"
+
+[update]
+[update.modrinth]
+mod-id = "Okvbhpno"
+version = "41WLsTFS"

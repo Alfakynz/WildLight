@@ -1,0 +1,13 @@
+name = "Carry On"
+filename = "carryon-fabric-1.21.1-2.2.2.11.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f2e4f069779228d65c96d0f311ef12ff0685369b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5649345
+project-id = 274259

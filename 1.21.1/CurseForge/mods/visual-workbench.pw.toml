@@ -1,13 +1,13 @@
 name = "Visual Workbench"
-filename = "VisualWorkbench-v21.1.0-1.21.1-Fabric.jar"
+filename = "VisualWorkbench-v21.1.1-1.21.1-Fabric.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "ba8b3be7481e6efde61db43ae24626c5e7b78293"
+hash = "2cb424841dea0eb6073b8a78ea6ae81fa73da0bc"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5714955
+file-id = 6798195
 project-id = 500273

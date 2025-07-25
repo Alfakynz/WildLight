@@ -86,7 +86,7 @@ hash = "d8a629b25da461374926b02b6649ed90154cb1bb6ab7e5208f519b5bcf29b08b"
 
 [[files]]
 file = "configureddefaults/config/physicsmod/physics_blocks_client_config.json"
-hash = "f1c8381106c26f12218117b9158993f1418f94a3ba116149e8b02c125c2950d9"
+hash = "1691ad71975164e40e7b97d81b550a45b99bf04a7adba25b275e2fc29319adaf"
 
 [[files]]
 file = "configureddefaults/config/physicsmod/physics_client_config.json"
@@ -251,7 +251,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "17af73d22f449faa340426baabcc2e2e1955b79d43590fd44752989c1aaccba4"
+hash = "ce5ecc38c8f634e1d5d4daa6b0c8e338a8349bec6d68d8e11b786f5cb5c557f0"
 metafile = true
 
 [[files]]
@@ -271,7 +271,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-selection.pw.toml"
-hash = "1834c4dda40a11f275bb16180e29f505fb27bf0a1adbe69885d88a9990196bd5"
+hash = "d4032b651c7fa6fb040c09618ab09902a7c32e02a702d34c89db77223169617e"
 metafile = true
 
 [[files]]
@@ -282,6 +282,11 @@ metafile = true
 [[files]]
 file = "mods/better-third-person.pw.toml"
 hash = "dd18db1413980ef467ac2e86c7e5f3cef26d366119f43121204a442583e7c0bd"
+metafile = true
+
+[[files]]
+file = "mods/better-toast.pw.toml"
+hash = "4a222f4476c47fdb03d3e341d0c12af8ad354c3a3afa46bba5a4a6222772b0f0"
 metafile = true
 
 [[files]]
@@ -305,6 +310,11 @@ hash = "1cb11082faa1727e8b1251a4c1fd0041ef99a9245d7adc63c9c942f59b6ef578"
 metafile = true
 
 [[files]]
+file = "mods/breakfree.pw.toml"
+hash = "d2c202f43962e64d319a069dc07ada5cd457c311e239c1efaa2849c2285a5553"
+metafile = true
+
+[[files]]
 file = "mods/bridging-mod.pw.toml"
 hash = "8e4a7b379a7bf59a434ef62a8d4f2fa0e57c9606f43ca4477ecf8d770265c5b1"
 metafile = true
@@ -312,6 +322,11 @@ metafile = true
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "17b40cfda4539840d350572bc5693a5984e862ecb58c2458f33822a074381bc4"
+metafile = true
+
+[[files]]
+file = "mods/carry-on.pw.toml"
+hash = "1ba7fcf69deeec5536f8c9e43ee4527a5871e9e5805c1801b855e5c00b25d05a"
 metafile = true
 
 [[files]]
@@ -541,7 +556,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "f9d89c62265e675839395d925f4162e3e93fda837ed50fbe3832f4ae9c58bebb"
+hash = "6afc47cce5b7aa63fb1841b92e532a49f4b9a480e5f99ce92b1a220013b53c21"
 metafile = true
 
 [[files]]
@@ -691,12 +706,12 @@ metafile = true
 
 [[files]]
 file = "mods/mru.pw.toml"
-hash = "e337058ca8f7d085fac6130de06428a9c57e0bf23a0ef8549078f0f3ae1e780e"
+hash = "230b1f5cd118accacf41f268e122bd420420d9e5248d43513090804739a832f3"
 metafile = true
 
 [[files]]
 file = "mods/naturally-trimmed.pw.toml"
-hash = "322fdd105d40797bcc33ad95fadd7e7f732d504a7416c9ca8a42b607621fb5bb"
+hash = "873ddc9878e875cf4f2493415a29ac00a874565a08aac40e26c3109f9cc3a5ca"
 metafile = true
 
 [[files]]
@@ -776,7 +791,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymorph.pw.toml"
-hash = "6c24f9f4ebcda8b97f77993dda5eebb0baa43e244c870c895a5850987e3ce2d9"
+hash = "8a64fdd5384cd26c91475a423f3bec24dd4d98796df7683a5070ef105d421ba4"
 metafile = true
 
 [[files]]
@@ -876,12 +891,12 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "08b9cd878c5201b709e991201c4fa1e5e4bd2de42a911cd8b61a38cad319c0a3"
+hash = "7207bcd8319f1e4b89806c7f909c87acdd3a5f96e5917d859ff704df8ff9a229"
 metafile = true
 
 [[files]]
 file = "mods/sound.pw.toml"
-hash = "1658960ca46cdb3d21029d608c4daa8344bf8b7a802ec0031f52220b14ba39ef"
+hash = "373bee14263bd8c1b285d93a2793a51c84e34b0d0065a1be7b425c5aac6e8285"
 metafile = true
 
 [[files]]
@@ -946,7 +961,7 @@ metafile = true
 
 [[files]]
 file = "mods/visual-workbench.pw.toml"
-hash = "d02a8a94ab9de943ee0e07a9e68b15fccbfedbf7a7662df18276401c0812cb19"
+hash = "37c8746fe9057612cd4f21e1221760e8dd2f78ce6b38a237b0ac925de21541e0"
 metafile = true
 
 [[files]]
@@ -1116,5 +1131,5 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
-hash = "6e1e0f998051f697fbc3b6125230ed702cde8773040a8ecdd72e1ea5d8dacc0e"
+hash = "1ceda8491daa72ef97d3bed9b16526d3b6cea4ff534dfb0244acedf3666388af"
 metafile = true
