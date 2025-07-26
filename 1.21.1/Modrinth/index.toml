@@ -271,7 +271,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-selection.pw.toml"
-hash = "d4032b651c7fa6fb040c09618ab09902a7c32e02a702d34c89db77223169617e"
+hash = "5f13e2470d769f613652ff4378a31c86b5915fe67032c94c1be5aeed06610b4d"
 metafile = true
 
 [[files]]
@@ -596,7 +596,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "696b2229323b8d1dd7e98fa89c3a6bec55b916b6ee70762e543d8382f0c9e888"
+hash = "2fcc096dd4c410a7f36e4bbed26a0afeb216e974d4fd4123fda7f4f0d8a6e662"
 metafile = true
 
 [[files]]
@@ -1131,5 +1131,5 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
-hash = "1ceda8491daa72ef97d3bed9b16526d3b6cea4ff534dfb0244acedf3666388af"
+hash = "8ac66d900ff74b536b663d7c136820e9676634124d09d0cc1e3a3fa3520ccec8"
 metafile = true
