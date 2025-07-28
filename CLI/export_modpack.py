@@ -1,7 +1,7 @@
 from Utils.menu import menu
 from Utils.get_mc_version import get_mc_version
 from Utils.get_launcher import get_launcher
-import subprocess
+from Utils.run_packwiz_cmd import run_packwiz_cmd
 import sys
 import os
 import shutil
@@ -64,14 +64,6 @@ def export_modpack():
                 print(f"Copied {src} to {dst}")
             except Exception as e:
                 print(f"Error copying {desc}: {e}")
-                sys.exit(1)
-
-        # Utility function to run a packwiz command and handle errors
-        def run_packwiz_cmd(cmd, cwd):
-            try:
-                subprocess.run(cmd, check=True, cwd=cwd)
-            except subprocess.CalledProcessError as e:
-                print(f"Error running {' '.join(cmd)} in {cwd}: {e}")
                 sys.exit(1)
 
         # Run the two necessary commands
