@@ -197,6 +197,10 @@ file = "configureddefaults/journeymap/config/6.0/journeymap.webmap.config"
 hash = "6f472441a8c7377731ff5f9ad43f46951595c8a4969d1ba4b1055aa185a38c23"
 
 [[files]]
+file = "configureddefaults/options.txt"
+hash = "bc8bbbc7c9fddc0c05abc522a8a8f2c806829aeaedab8b2c68582f3fd40154ed"
+
+[[files]]
 file = "icon.png"
 hash = "8ba989c635453c6727377813835bedf3dd4f2ba43d2a00050233e0020a38215f"
 
