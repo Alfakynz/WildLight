@@ -198,7 +198,7 @@ hash = "6f472441a8c7377731ff5f9ad43f46951595c8a4969d1ba4b1055aa185a38c23"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "132ec02e94ec17aa6ba2974d0c26d43a28eb382b2863efd825737a36939b8fa3"
+hash = "bc8bbbc7c9fddc0c05abc522a8a8f2c806829aeaedab8b2c68582f3fd40154ed"
 
 [[files]]
 file = "icon.png"
@@ -941,7 +941,7 @@ metafile = true
 
 [[files]]
 file = "mods/variants-and-ventures.pw.toml"
-hash = "a2b67cc71dcb64de306f3d136532e7ec987b498d407ca7295305378fa7f62392"
+hash = "c7ed752522ff26d440e5b249d4d72e5d15f203e411fe228da10e28e474a8f812"
 metafile = true
 
 [[files]]
@@ -1091,7 +1091,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/icons-advertisement-removal.pw.toml"
-hash = "9dddc83ab70ce3e7d2693da72edd3043740c868afbe7450d4d5c702460101a76"
+hash = "2725f1857bb618eb3e26ebf8556fdc6d462960bc56a8fc1c0398365424506829"
 metafile = true
 
 [[files]]

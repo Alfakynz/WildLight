@@ -197,10 +197,6 @@ file = "configureddefaults/journeymap/config/6.0/journeymap.webmap.config"
 hash = "6f472441a8c7377731ff5f9ad43f46951595c8a4969d1ba4b1055aa185a38c23"
 
 [[files]]
-file = "configureddefaults/options.txt"
-hash = "132ec02e94ec17aa6ba2974d0c26d43a28eb382b2863efd825737a36939b8fa3"
-
-[[files]]
 file = "icon.png"
 hash = "8ba989c635453c6727377813835bedf3dd4f2ba43d2a00050233e0020a38215f"
 
@@ -911,7 +907,7 @@ metafile = true
 
 [[files]]
 file = "mods/variants-and-ventures.pw.toml"
-hash = "6f82b2cbd0829aac861aff8f8ba3465986bd4d082b97ba1fc4e927ae6f9632ff"
+hash = "2db96123a6cb2f746d7dda7835993246e14d8ef6bc11334e9e6eacae36dce1c6"
 metafile = true
 
 [[files]]
@@ -1051,7 +1047,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/icons-advertisement-removal.pw.toml"
-hash = "9dddc83ab70ce3e7d2693da72edd3043740c868afbe7450d4d5c702460101a76"
+hash = "2725f1857bb618eb3e26ebf8556fdc6d462960bc56a8fc1c0398365424506829"
 metafile = true
 
 [[files]]
