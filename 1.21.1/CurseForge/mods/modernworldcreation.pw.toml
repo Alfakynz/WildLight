@@ -1,0 +1,13 @@
+name = "Modern World Creation"
+filename = "modernworldcreation_fabric_2.0.1_MC_1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "65799d1a547330d89b5598b96ba1607c6b181127"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6119748
+project-id = 485245

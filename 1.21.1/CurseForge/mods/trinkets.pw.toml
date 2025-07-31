@@ -1,0 +1,13 @@
+name = "Trinkets (Fabric)"
+filename = "trinkets-3.10.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f54756f938c7c273713b9f97d4a987eec551e892"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5534317
+project-id = 341284

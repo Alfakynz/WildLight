@@ -1,0 +1,13 @@
+name = "Modern World Creation"
+filename = "modernworldcreation_fabric_2.0.1_MC_1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/xHskr2cS/versions/XUyA6Cl7/modernworldcreation_fabric_2.0.1_MC_1.21.1.jar"
+hash-format = "sha512"
+hash = "53f7c9c6d21a295dd3a8ff05feca24a19efa0b062a8ab0e48eac9396cd345cd664bd49813545a12f8f9ca31d0a3ab8043bc7bfdeecda079487ac4f53fb67cbbe"
+
+[update]
+[update.modrinth]
+mod-id = "xHskr2cS"
+version = "XUyA6Cl7"

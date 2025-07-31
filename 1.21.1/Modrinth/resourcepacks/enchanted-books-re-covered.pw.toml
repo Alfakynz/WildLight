@@ -1,0 +1,13 @@
+name = "Enchanted Books: Re-covered"
+filename = "Re-covered-CIT.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/6gN7YVi7/versions/tMs86kRr/Re-covered-CIT.zip"
+hash-format = "sha512"
+hash = "aa1151d60cde8f4f257639f3393a8b3a1ffd3117d30c4910ea69b4b4b1c9701ce2eb2204bb1e940be1e60186af7ee164e0aa87877e1b276ecb0f5341b0b0b4ba"
+
+[update]
+[update.modrinth]
+mod-id = "6gN7YVi7"
+version = "tMs86kRr"

@@ -1,0 +1,13 @@
+name = "Enchanted Books: Re-covered"
+filename = "Re-covered-CIT.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2b663a9ea75118bd2f7ca93290efd20712b7cbfd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6676088
+project-id = 1232814

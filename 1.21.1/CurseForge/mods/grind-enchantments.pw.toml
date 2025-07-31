@@ -1,0 +1,13 @@
+name = "Grind Enchantments"
+filename = "grind-enchantments-4.0.0+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "77c19639e6644e82aa2e1796d3fdb52414c6c46e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5961884
+project-id = 379680

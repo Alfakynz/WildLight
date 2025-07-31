@@ -38,11 +38,15 @@ hash = "085ef2273eb4505aa3fd8e8243c10c3727a1e3de7ee4ed9a790d1c1b327c08f1"
 
 [[files]]
 file = "configureddefaults/config/doubledoors.json5"
-hash = "d4407793e6f0450c0b22eb5099f297e66ec947b666e8b5b1b7a15c87c1818cca"
+hash = "ed3b25678a185a7c560868e047b60ffd7d7bf9b13d3a45cc5c056f5cfd5b088e"
 
 [[files]]
 file = "configureddefaults/config/dynamiccrosshair.json5"
 hash = "375dba1c06d9acf6795f60edbeb61699f72cde6a851841cf9913f9394e1a14d6"
+
+[[files]]
+file = "configureddefaults/config/euphoria_patcher.properties"
+hash = "66793f6eb032dba20841b7b015cf96550baec9686ee9cf758edc2e41b193ec25"
 
 [[files]]
 file = "configureddefaults/config/fabric/indigo-renderer.properties"
@@ -86,7 +90,7 @@ hash = "d8a629b25da461374926b02b6649ed90154cb1bb6ab7e5208f519b5bcf29b08b"
 
 [[files]]
 file = "configureddefaults/config/physicsmod/physics_blocks_client_config.json"
-hash = "1691ad71975164e40e7b97d81b550a45b99bf04a7adba25b275e2fc29319adaf"
+hash = "b5bb9762eb1abc8647edadfbb7844832ee4c459ab8fa405b74698066dcce8df2"
 
 [[files]]
 file = "configureddefaults/config/physicsmod/physics_client_config.json"
@@ -123,6 +127,10 @@ hash = "675224bb453de73283e2e25fca52e47ce6ea1d2e9c6c2834eff51bf43d7c2a4f"
 [[files]]
 file = "configureddefaults/config/seamless_loading_screen.json"
 hash = "ea19fcd4ac26e65ac04122e14ee019cafd4ac1791b0d7978b7ab9148c8c41ecb"
+
+[[files]]
+file = "configureddefaults/config/seasons.json"
+hash = "31627ef0c5028e6aeaf2cd393a864878247f0b3a7c27db906e07d347d6a38132"
 
 [[files]]
 file = "configureddefaults/config/sodium-options.json"
@@ -198,7 +206,7 @@ hash = "6f472441a8c7377731ff5f9ad43f46951595c8a4969d1ba4b1055aa185a38c23"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "bc8bbbc7c9fddc0c05abc522a8a8f2c806829aeaedab8b2c68582f3fd40154ed"
+hash = "b9c148211229bdead1bdb861527c2dc49c627547c5130b206aa71288e92710c0"
 
 [[files]]
 file = "icon.png"
@@ -345,6 +353,11 @@ hash = "49959ed7f5d7d6f8893856afe6674d7b34c2f5d6831c7c0c75550feec103e90d"
 metafile = true
 
 [[files]]
+file = "mods/cit-resewn.pw.toml"
+hash = "d56a650e6a901b9e84052229a90662b507dda74df65285d3d6ae2a8c71fd9975"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "9e21cc4fae5ed88e306b4601c5e1533f883aa8b60c6e36dedeec82718be87059"
 metafile = true
@@ -380,6 +393,11 @@ hash = "8b2683088edb19b4d981ac00a79d2f52b87835f6078e6519f09c167e874811ef"
 metafile = true
 
 [[files]]
+file = "mods/cristel-lib.pw.toml"
+hash = "99420e18ab252c7e3a68c5417a266ed0b3c2f014ebbfe3726dd615430a45bcb6"
+metafile = true
+
+[[files]]
 file = "mods/dark-loading-screen.pw.toml"
 hash = "30ac8878dbdb811eb5f7dfc727cfa1c0f272f29efbce57ea05457921a271dd05"
 metafile = true
@@ -397,6 +415,11 @@ metafile = true
 [[files]]
 file = "mods/delete-worlds-to-trash-forge.pw.toml"
 hash = "6354e835d27ce9660df6cebcdbd91518c04227301710612b41238dc20f31af78"
+metafile = true
+
+[[files]]
+file = "mods/detail-armor-bar.pw.toml"
+hash = "c218a67424771ec2b91e456bf5ae2549c699f98f9f21d87ec82b97a3e72b516b"
 metafile = true
 
 [[files]]
@@ -431,7 +454,7 @@ metafile = true
 
 [[files]]
 file = "mods/durability-tooltip.pw.toml"
-hash = "319b757fcefbea557c7c17b8c33f8164277a129bdf4d537303a777e601f9e457"
+hash = "5e431f16eaafb12bdc79ccbaef717ee433d142beb4cf4dc2770d1517dcd4086a"
 metafile = true
 
 [[files]]
@@ -465,6 +488,11 @@ hash = "ca66d992b56e2993288195caadd2a9ce2eb2dd0bfceeb396747da712bdb933bd"
 metafile = true
 
 [[files]]
+file = "mods/elytra-slot.pw.toml"
+hash = "aa54931830fadf6fedf30492fe4b24c35810259cb6acd6e866d91ab437554430"
+metafile = true
+
+[[files]]
 file = "mods/enchanted-bookshelves.pw.toml"
 hash = "ac9491ebc5aac6c8200b539fe662cdbb92bbc51ff3b7ea91eec2e52df737ab74"
 metafile = true
@@ -477,6 +505,11 @@ metafile = true
 [[files]]
 file = "mods/enhanced-block-entities.pw.toml"
 hash = "2c1d05da2179691fc1c27b53eaf942c32ff1528739a9be5e3a34dd2a92105696"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-workbenches.pw.toml"
+hash = "db049115f6bf6f207d514787173e2a36c1b4be20e93ed237e3ac81e9ef5eac39"
 metafile = true
 
 [[files]]
@@ -500,6 +533,11 @@ hash = "b22e2e8bf656019aee395a6fcb96454d195f869b676999edcce205edf930fdd6"
 metafile = true
 
 [[files]]
+file = "mods/euphoria-patches.pw.toml"
+hash = "fdf3748c53b25fd4e30777c35fd5c8f992cf583ea5229bcdf5f02d5432187469"
+metafile = true
+
+[[files]]
 file = "mods/explosive-enhancement.pw.toml"
 hash = "b9971aa45df874975e051c11291b040e0f325e3d36c4ee6e93f252fdf7c0ffc3"
 metafile = true
@@ -512,6 +550,16 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "e79d224bd664cd189049b6a91b677e2ea6cbc6e27da026c44d73b66cca4d8dc0"
+metafile = true
+
+[[files]]
+file = "mods/fabric-seasons.pw.toml"
+hash = "4b4bd067a0ede224fc89340b383f34780229628821912d4d7b9502a410bdbb2e"
+metafile = true
+
+[[files]]
+file = "mods/faster-random.pw.toml"
+hash = "52dcc986ee0c1a17ed22f69bf0ac5908069bc33e42cace5dae58dc8c551cd626"
 metafile = true
 
 [[files]]
@@ -555,6 +603,11 @@ hash = "7f5d08d2293bd01f6d00bc91cb060e2b7bb33d1b6b10956d0936b127e9c96165"
 metafile = true
 
 [[files]]
+file = "mods/grind-enchantments.pw.toml"
+hash = "55c1e79e52cf4a8ebf8871bd467781962357ba30b4aaaf1694c204cddb7106e7"
+metafile = true
+
+[[files]]
 file = "mods/iceberg-fabric.pw.toml"
 hash = "872ea7de2f9701ea3b96700c5a3eb7dcdf1f74cbdf1622bfc7d76250d0348f88"
 metafile = true
@@ -562,6 +615,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "c0ec2153521e6cef044daa0ac1a4d3af741ac675fd0bdf47395ffd21221557b6"
+metafile = true
+
+[[files]]
+file = "mods/immersive-armors.pw.toml"
+hash = "c5afff20c9093266759f8a62743d13d6922262fc3a35f7317ec6fed3c8813e10"
 metafile = true
 
 [[files]]
@@ -606,7 +664,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "842764d2f005066f9862e5beea3ca01182c78c7dd8133a81e8f102940b0e2215"
+hash = "8f70046f36a11e4b08a68ad894ca957b6b83a19da2c09ac48f395fe4da50f6e0"
 metafile = true
 
 [[files]]
@@ -615,8 +673,13 @@ hash = "3c81bed7d427dc00917641a8414f17b10053c624381c554b26270b34f0afeb6b"
 metafile = true
 
 [[files]]
+file = "mods/konkrete-fabric.pw.toml"
+hash = "8121f1621355bb4ff8031ebc91f3824a2ae387a3b30d3feb25c84d0b480206f5"
+metafile = true
+
+[[files]]
 file = "mods/ksyxis.pw.toml"
-hash = "cafd868ff40b7f9730efd7e9ae8a427916ae4531dbdb78930371e5cfd263435b"
+hash = "885976c7e80d47800b5fe6dc614097772cc88f908160abd50fcdebcda7e1270c"
 metafile = true
 
 [[files]]
@@ -657,6 +720,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "7c702d1eb46d5c70af78a3414e1a29e610b73975d5ba3826e1bfdb89c3857b39"
+metafile = true
+
+[[files]]
+file = "mods/modernworldcreation.pw.toml"
+hash = "472534d72ef3bfc7952b00ce4380db0e32fc58edcb425ea91e24f563b73fca43"
 metafile = true
 
 [[files]]
@@ -805,6 +873,11 @@ hash = "6dff4b6eccb5ecca2c5b15bf8e24523298819839db487f02a65636c2fbe3fdd1"
 metafile = true
 
 [[files]]
+file = "mods/screenshot-viewer.pw.toml"
+hash = "8bb3a3d135ca0d293bc60e644f07bec64a5d50038ac1c58f9b6931bc3db18468"
+metafile = true
+
+[[files]]
 file = "mods/scribble.pw.toml"
 hash = "27cbaafe98f93a962c32a4c40c7889c56ac81ddca766811f34ba6c30be2f0526"
 metafile = true
@@ -897,6 +970,21 @@ metafile = true
 [[files]]
 file = "mods/tips.pw.toml"
 hash = "2561e3d4348d0f67baaec2815456afba9be7cb10de96abb49f84913aecff7557"
+metafile = true
+
+[[files]]
+file = "mods/towns-and-towers.pw.toml"
+hash = "509dea9cb5ebc14ea6d8d430914ae17a1eab5f511cf6dc480a17d30ccddb37dd"
+metafile = true
+
+[[files]]
+file = "mods/trading-post.pw.toml"
+hash = "4d276107495fe870f5d302339e9890ccee9ae52da936dd02145f660d20c55765"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "7b5e8074a47ad6a9e453a29853bb1527906ae0ced0d714fcd386c75ef1f0f00a"
 metafile = true
 
 [[files]]
@@ -1035,6 +1123,11 @@ hash = "ee331a6a60dcc40c8692e7ce750214c5b72425acb33e101752c5a3eb636ec2db"
 metafile = true
 
 [[files]]
+file = "resourcepacks/enchanted-books-re-covered.pw.toml"
+hash = "e5a9e479259bcd247a12fcecbf73fb03c941e32d1421a7f4e0898460308f73c1"
+metafile = true
+
+[[files]]
 file = "resourcepacks/fast-better-grass.pw.toml"
 hash = "beecc5e172e8fa117b3008e6d85d2182ab504cf73e055cc3bbc27afccc424c79"
 metafile = true
@@ -1082,6 +1175,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/sun-and-moon-circular.pw.toml"
 hash = "229d18f282df58f224faacc11ce70a43d22b2c8d5d4e0556981b5a1e5e09619d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/wildlight.pw.toml"
+hash = "f3f932a3b09cbe2a67428d602fcffe7155e8d3818ef4d5fc2b0fbd9a8fdab524"
 metafile = true
 
 [[files]]

@@ -38,11 +38,15 @@ hash = "085ef2273eb4505aa3fd8e8243c10c3727a1e3de7ee4ed9a790d1c1b327c08f1"
 
 [[files]]
 file = "configureddefaults/config/doubledoors.json5"
-hash = "d4407793e6f0450c0b22eb5099f297e66ec947b666e8b5b1b7a15c87c1818cca"
+hash = "ed3b25678a185a7c560868e047b60ffd7d7bf9b13d3a45cc5c056f5cfd5b088e"
 
 [[files]]
 file = "configureddefaults/config/dynamiccrosshair.json5"
 hash = "375dba1c06d9acf6795f60edbeb61699f72cde6a851841cf9913f9394e1a14d6"
+
+[[files]]
+file = "configureddefaults/config/euphoria_patcher.properties"
+hash = "66793f6eb032dba20841b7b015cf96550baec9686ee9cf758edc2e41b193ec25"
 
 [[files]]
 file = "configureddefaults/config/fabric/indigo-renderer.properties"
@@ -86,7 +90,7 @@ hash = "d8a629b25da461374926b02b6649ed90154cb1bb6ab7e5208f519b5bcf29b08b"
 
 [[files]]
 file = "configureddefaults/config/physicsmod/physics_blocks_client_config.json"
-hash = "1691ad71975164e40e7b97d81b550a45b99bf04a7adba25b275e2fc29319adaf"
+hash = "b5bb9762eb1abc8647edadfbb7844832ee4c459ab8fa405b74698066dcce8df2"
 
 [[files]]
 file = "configureddefaults/config/physicsmod/physics_client_config.json"
@@ -123,6 +127,10 @@ hash = "675224bb453de73283e2e25fca52e47ce6ea1d2e9c6c2834eff51bf43d7c2a4f"
 [[files]]
 file = "configureddefaults/config/seamless_loading_screen.json"
 hash = "ea19fcd4ac26e65ac04122e14ee019cafd4ac1791b0d7978b7ab9148c8c41ecb"
+
+[[files]]
+file = "configureddefaults/config/seasons.json"
+hash = "31627ef0c5028e6aeaf2cd393a864878247f0b3a7c27db906e07d347d6a38132"
 
 [[files]]
 file = "configureddefaults/config/sodium-options.json"
@@ -198,7 +206,7 @@ hash = "6f472441a8c7377731ff5f9ad43f46951595c8a4969d1ba4b1055aa185a38c23"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "bc8bbbc7c9fddc0c05abc522a8a8f2c806829aeaedab8b2c68582f3fd40154ed"
+hash = "b9c148211229bdead1bdb861527c2dc49c627547c5130b206aa71288e92710c0"
 
 [[files]]
 file = "icon.png"
@@ -360,6 +368,11 @@ hash = "7fe287ca1bed0ad67f37e62a5816da7b7ae59486102c5e4b7532f0a999444527"
 metafile = true
 
 [[files]]
+file = "mods/cit-resewn.pw.toml"
+hash = "6d511d91e17e09d36b0b0c7065b07eb604146bc9f3df0fbc932948aaf33aa440"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
 metafile = true
@@ -395,6 +408,11 @@ hash = "60cbb0f3f3ac58c190df26cfdc3cb412e8b6509d6221960483b58a8ed890f0a9"
 metafile = true
 
 [[files]]
+file = "mods/cristel-lib.pw.toml"
+hash = "91a75f0b5bea7356c7c1018be47d506aa984d37fd0e6f0b8d3336ef71e8b3862"
+metafile = true
+
+[[files]]
 file = "mods/dark-loading-screen.pw.toml"
 hash = "5f7537e9f19357e3a5bcc077725f15a1694fb9f67c4cdfd96f3b993a85e397f1"
 metafile = true
@@ -412,6 +430,11 @@ metafile = true
 [[files]]
 file = "mods/delete-worlds-to-trash.pw.toml"
 hash = "5285137cdb3c92ff5adaca4ec87f7278f265e200773b82a1fafecfc798b2ab45"
+metafile = true
+
+[[files]]
+file = "mods/detail-armor-bar.pw.toml"
+hash = "183a686a2e5076c6dbb6c6d8145a5b10d544295cf1a7bbffd8bbceaf072ede4f"
 metafile = true
 
 [[files]]
@@ -446,7 +469,7 @@ metafile = true
 
 [[files]]
 file = "mods/durability-tooltip.pw.toml"
-hash = "a47138a91677a89d84e5ab37da1f501f4770ab07e51ae8ce6fdd27fb2d14f026"
+hash = "5b68880f4f5606aa7848d5b1ed9fbb7351a41094a3e5d1090d943b85a5d8bc0a"
 metafile = true
 
 [[files]]
@@ -490,6 +513,11 @@ hash = "b1f89407254a20cde6c60994a6315bd841b7f562669a1d29b436ec97463ff2ae"
 metafile = true
 
 [[files]]
+file = "mods/elytra-slot.pw.toml"
+hash = "ecc30c21290ac87a732085e16add94a392d4e5dfc0bae5f353975eea51a38a84"
+metafile = true
+
+[[files]]
 file = "mods/enchanted-bookshelves.pw.toml"
 hash = "537cf398bf67e3390a599f07fa46a595defd7ec5d4d3db508c2ae8046e706688"
 metafile = true
@@ -497,6 +525,11 @@ metafile = true
 [[files]]
 file = "mods/enhanced-attack-indicator.pw.toml"
 hash = "fc5b63e43fdec947e773e9265e6a8ca9a2b31fb1e7ecb9afee4d73b2bc1b70af"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-workbenches.pw.toml"
+hash = "ea097c1b40f3cceee00be28adde0e3650a4b50055acabe648efadb623f65f35a"
 metafile = true
 
 [[files]]
@@ -520,6 +553,11 @@ hash = "67d66056831b3e44afb5d32b76b9d89f8e442cf18e7a74fcdfa94bc8a0cc4a63"
 metafile = true
 
 [[files]]
+file = "mods/euphoria-patches.pw.toml"
+hash = "9f9861528accd9ee8830611cea5c64a266bf09e3146f8ff31bcafc3db26497b0"
+metafile = true
+
+[[files]]
 file = "mods/explosive-enhancement.pw.toml"
 hash = "b9971aa45df874975e051c11291b040e0f325e3d36c4ee6e93f252fdf7c0ffc3"
 metafile = true
@@ -532,6 +570,16 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "f217a0233c8aef84e914e1f8e90718be2496a923725215190d375ab3140379ab"
+metafile = true
+
+[[files]]
+file = "mods/fabric-seasons.pw.toml"
+hash = "d40faa8d75ec7b4741146b033dca1d47368868985da3dcc6dc32fd9def5841d9"
+metafile = true
+
+[[files]]
+file = "mods/faster-random.pw.toml"
+hash = "605fe60f2ada4333e88ec2fa66cb57d0635292d83eee8d1ad40f2485d72ef013"
 metafile = true
 
 [[files]]
@@ -580,6 +628,11 @@ hash = "a104f2f6044d43bbc5a5badc6f589b2f6f5a1b9c9e47e00dfbad5061aa3b51f4"
 metafile = true
 
 [[files]]
+file = "mods/grind-enchantments.pw.toml"
+hash = "ead92600067d737bd8e7b9bb0b8738f76f0dcea3bd38ce62a2e10ff36ebb6b3f"
+metafile = true
+
+[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "8cb1da4da5375889e24a5e99882fd6f48121e0eb9f028227c84e4375aaf76381"
 metafile = true
@@ -587,6 +640,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "0e5b10aefb078de8f531b588b6384cbfa585f8c6991b0b9b21dce1d642a6d840"
+metafile = true
+
+[[files]]
+file = "mods/immersive-armors.pw.toml"
+hash = "9e4ca7dbaf76a59f2bae5712d4ca5d468ca50e14d840b6ac23ccc72884475183"
 metafile = true
 
 [[files]]
@@ -631,7 +689,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "be4094e4f3d4c58ae0f5ca699067f5e435ec399365feed6081614079febad711"
+hash = "b465b646e5499dd0bbea8905fca7b01265fe013bf36ccba2c92e822e7f9c24df"
 metafile = true
 
 [[files]]
@@ -640,8 +698,13 @@ hash = "184c5b7f76a47f339f1dcfb8a77e21b4fe0949a0c4a9f3e18ab3ad80af336cb5"
 metafile = true
 
 [[files]]
+file = "mods/konkrete.pw.toml"
+hash = "34d75daff8b8260780d97bbc2dc545739399df1d5ac304eeb2f80e23354cf3af"
+metafile = true
+
+[[files]]
 file = "mods/ksyxis.pw.toml"
-hash = "7c6239fe970cd45a1f680493b9fceef6870afcfd2de72086bfef3f765bd3c4c6"
+hash = "8c6b70c5687944d95858a7da9311a268725bc613e1d0f10dae4687faf9fb7ad5"
 metafile = true
 
 [[files]]
@@ -687,6 +750,11 @@ metafile = true
 [[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "c9d5144709687e4bc27489fafe94d8cedf42932b60469fb2153e5144322d68b8"
+metafile = true
+
+[[files]]
+file = "mods/modern-world-creation.pw.toml"
+hash = "532d9a1544dfdfbccb0a623b72df56583efffb4e8d3f5e2144b00933d8881111"
 metafile = true
 
 [[files]]
@@ -935,6 +1003,21 @@ hash = "0cbbbed7bbf993ef52887473ed8fa0fef4b977d7c11779ef0bf539e5f49a3693"
 metafile = true
 
 [[files]]
+file = "mods/towns-and-towers.pw.toml"
+hash = "7b9d8b2cd26fa320b7d40b0c68b85f3ae0c1516f896239bf5d9ede1f90761be1"
+metafile = true
+
+[[files]]
+file = "mods/trading-post.pw.toml"
+hash = "d5538edd3a67054d28c6c769a80a56005497e644c6c9af7be7a407ab3fbef44b"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "860812150cb54f0d9ee1bce7b72798b6cc5f752bb05709f0c60231d054ec281d"
+metafile = true
+
+[[files]]
 file = "mods/txnilib.pw.toml"
 hash = "7d47e3d8bee4711ab37491e5e91bad186b6606ba560ab8a1dec753c157cf1151"
 metafile = true
@@ -1075,6 +1158,11 @@ hash = "bb2b6a511327bc8782c7c12c6be81c11fa3fcb7fa4fd10d4093a5170862e1ad5"
 metafile = true
 
 [[files]]
+file = "resourcepacks/enchanted-books-re-covered.pw.toml"
+hash = "33fbcc3f7ce860431bacc93b06bf46ee68192e0ad98147a454b1fa0152eb53ff"
+metafile = true
+
+[[files]]
 file = "resourcepacks/fast-better-grass.pw.toml"
 hash = "774b51f7257a3a18f0afc40c155bac4bb1dbade055170137f2ac96456f0e3653"
 metafile = true
@@ -1117,6 +1205,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/sun-and-moon-circular.pw.toml"
 hash = "3dc05fe905d662fed1c6aeaea36643d95cd0e3d6c180863b03a0ce318ae8db93"
+metafile = true
+
+[[files]]
+file = "resourcepacks/wildlight.pw.toml"
+hash = "f3f932a3b09cbe2a67428d602fcffe7155e8d3818ef4d5fc2b0fbd9a8fdab524"
 metafile = true
 
 [[files]]
