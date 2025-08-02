@@ -53,6 +53,58 @@ file = "configureddefaults/config/fabric/indigo-renderer.properties"
 hash = "6a6d12cacd0b94f627873708cfb5c47dc973f1084b18f5ab83d71d93938241b6"
 
 [[files]]
+file = "configureddefaults/config/fancymenu/assets/discord.png"
+hash = "d4658e9f4a8c11d895ba62357a92076fda385ef686e929cc1cef8928a3374f50"
+
+[[files]]
+file = "configureddefaults/config/fancymenu/assets/github.png"
+hash = "2e43aec3e2c83efc5dbd15518493cfb40b7cef834c41864ee0ba8aef2d413f82"
+
+[[files]]
+file = "configureddefaults/config/fancymenu/assets/wildlight-title.png"
+hash = "8c0583c3bfcc9f945beb8ffa32a73ecf8d879e9f0555b55176d2a6370dd4d30b"
+
+[[files]]
+file = "configureddefaults/config/fancymenu/assets/wildlight.png"
+hash = "9a4a9721b96f52766a0c9d55cf192a9b9af7b07fcb6f41ed7de3ffd490c1d9aa"
+
+[[files]]
+file = "configureddefaults/config/fancymenu/custom_gui_screens.txt"
+hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+
+[[files]]
+file = "configureddefaults/config/fancymenu/customizablemenus.txt"
+hash = "9773ad7514d9fc689be40b9a6a60bd751d06472aae28187af6899110908c2dcd"
+
+[[files]]
+file = "configureddefaults/config/fancymenu/customization/title_screen_layout.txt"
+hash = "020c3d0dd76d532be0bf7855433b94cb2c51ff22df7dc6f3487faec29fa5aacd"
+
+[[files]]
+file = "configureddefaults/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "f4376005d963ff52e6a4e937e4413e539b4e08ef21c9f060df3696a236bcc14e"
+
+[[files]]
+file = "configureddefaults/config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
+file = "configureddefaults/config/fancymenu/options.txt"
+hash = "837d6e8b7b321964b18d67f8d4325f660e6ab9d2bd278d0c0dbd975b2689923d"
+
+[[files]]
+file = "configureddefaults/config/fancymenu/ui_themes/dark.json"
+hash = "45541e5c5019585b9c4ff114aed530826129e8a7ac6866b5d5fe41dd278abae4"
+
+[[files]]
+file = "configureddefaults/config/fancymenu/ui_themes/light.json"
+hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
+
+[[files]]
+file = "configureddefaults/config/fancymenu/user_variables.db"
+hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
+
+[[files]]
 file = "configureddefaults/config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "47ba4a13dea400deaa34a0b07389861e265be990e6ef93c8e3593b4d6e2cb905"
 
@@ -558,6 +610,11 @@ hash = "4b4bd067a0ede224fc89340b383f34780229628821912d4d7b9502a410bdbb2e"
 metafile = true
 
 [[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "6847e9f14944854f86b743986c588a2a44491d357e6e7814f1ebd603b34a27d8"
+metafile = true
+
+[[files]]
 file = "mods/faster-random.pw.toml"
 hash = "52dcc986ee0c1a17ed22f69bf0ac5908069bc33e42cace5dae58dc8c551cd626"
 metafile = true
@@ -589,7 +646,7 @@ metafile = true
 
 [[files]]
 file = "mods/friends-and-foes.pw.toml"
-hash = "aa60f96741b89b4c6e108e55dc644efbd7fc842a08a68e51d987542821859b63"
+hash = "83c1035d9e78cbec1ea530a6f12d64077d1fa778d1a5eaed13556feb1dc094a4"
 metafile = true
 
 [[files]]
@@ -710,6 +767,11 @@ metafile = true
 [[files]]
 file = "mods/macos-input-fixes.pw.toml"
 hash = "792a5f0fe941e7c9175cb7234b025c1e661a65f3d7272c1fc4cf8cea4015036e"
+metafile = true
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "9cc852c7d5024d24f0403b7f86200d2283a89ffc66896123406102e57318844b"
 metafile = true
 
 [[files]]
@@ -999,7 +1061,7 @@ metafile = true
 
 [[files]]
 file = "mods/variants-and-ventures.pw.toml"
-hash = "2db96123a6cb2f746d7dda7835993246e14d8ef6bc11334e9e6eacae36dce1c6"
+hash = "050b98a851b2c4e01b558908a5e906ad5b0a1972022c8a2429115bbd3589b324"
 metafile = true
 
 [[files]]
