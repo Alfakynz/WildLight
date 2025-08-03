@@ -5,9 +5,10 @@ from update_mods import update_mods
 from build_pack_content import build_pack_content
 from export_modpack import export_modpack
 from update_modpack_version import update_modpack_version
+from refresh_modpack import refresh_modpack
 
 def main():
-    select = menu(["Add mod", "Remove mod", "Update mods", "Export modpack", "Build pack content", "Update modpack version"], "What do you want to do?")
+    select = menu(["Add mod", "Remove mod", "Update mods", "Export modpack", "Build pack content", "Update modpack version", "Refresh modpack"], "What do you want to do?")
     match select:
         case "Add mod":
             add_mod()
@@ -20,12 +21,14 @@ def main():
             main()
         case "Export modpack":
             export_modpack()
-            main()
         case "Build pack content":
             build_pack_content()
             main()
         case "Update modpack version":
             update_modpack_version()
+            main()
+        case "Refresh modpack":
+            refresh_modpack()
             main()
         case None:
             return

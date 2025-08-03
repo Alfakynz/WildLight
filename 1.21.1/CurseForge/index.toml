@@ -78,7 +78,7 @@ hash = "9773ad7514d9fc689be40b9a6a60bd751d06472aae28187af6899110908c2dcd"
 
 [[files]]
 file = "configureddefaults/config/fancymenu/customization/title_screen_layout.txt"
-hash = "020c3d0dd76d532be0bf7855433b94cb2c51ff22df7dc6f3487faec29fa5aacd"
+hash = "b333d1dc33e46dfa862cd3cbb8f890b091109a90ee69290606146341621fe0dd"
 
 [[files]]
 file = "configureddefaults/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -142,7 +142,7 @@ hash = "d8a629b25da461374926b02b6649ed90154cb1bb6ab7e5208f519b5bcf29b08b"
 
 [[files]]
 file = "configureddefaults/config/physicsmod/physics_blocks_client_config.json"
-hash = "b5bb9762eb1abc8647edadfbb7844832ee4c459ab8fa405b74698066dcce8df2"
+hash = "d0fd8d9c41d41aaa9654092680237c01859d62f9905386d36993916066457658"
 
 [[files]]
 file = "configureddefaults/config/physicsmod/physics_client_config.json"
@@ -258,7 +258,7 @@ hash = "6f472441a8c7377731ff5f9ad43f46951595c8a4969d1ba4b1055aa185a38c23"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "b9c148211229bdead1bdb861527c2dc49c627547c5130b206aa71288e92710c0"
+hash = "b2c4a33cce20eed993c81050136f2639e69a090432c656d4a7e49742efeac9ef"
 
 [[files]]
 file = "icon.png"
@@ -660,6 +660,11 @@ hash = "7f5d08d2293bd01f6d00bc91cb060e2b7bb33d1b6b10956d0936b127e9c96165"
 metafile = true
 
 [[files]]
+file = "mods/grass-seeds.pw.toml"
+hash = "8bb047370ecd5c85d4f0ac30ebbf903738439b0f808e2960de7fa17c4ef1ef80"
+metafile = true
+
+[[files]]
 file = "mods/grind-enchantments.pw.toml"
 hash = "55c1e79e52cf4a8ebf8871bd467781962357ba30b4aaaf1694c204cddb7106e7"
 metafile = true
@@ -866,7 +871,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli-fabric.pw.toml"
-hash = "3aaadd3feb4951868b525c9ba5b6fbd99da5b82b5a4bbc0f651a2647d17bfcb4"
+hash = "6c6c901e1f08cfc6efbbc61aa0ddf280c1b32f4341d1879343b540807c81cb37"
 metafile = true
 
 [[files]]
@@ -957,6 +962,11 @@ metafile = true
 [[files]]
 file = "mods/simple-music-control.pw.toml"
 hash = "e9d533f31eda785ac55e4b1492cce4eb17b8ae2b066518416dc15e0224a9b8f6"
+metafile = true
+
+[[files]]
+file = "mods/sit-fabric.pw.toml"
+hash = "85d08fed24c19a468b976ef9e996636ba3b864489431dde62fc618523b00f5fa"
 metafile = true
 
 [[files]]
