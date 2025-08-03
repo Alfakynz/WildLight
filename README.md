@@ -22,11 +22,10 @@ Step into a world where survival meets subtle beauty. In WildLight, every sound,
 ### 👨‍💻 For dev
 
 1. Clone the repo: `git clone https://github.com/Alfakynz/WildLight.git`
-2. Install [packwiz](https://packwiz.infra.link/) and [python](https://python.org)
+2. Install [packwiz](https://packwiz.infra.link/) and [python (or higher)](https://python.org)
 3. Navigate to the WildLight directory: `cd WildLight`
 4. Navigate to the CLI directory: `cd CLI`
-5. Run `main.py` to build `PACK_CONTENT.md` or export modpack for Modrinth or CurseForge
-6. Add mod using `packwiz [launcher] add [mod]` on `version/launcher/` (ex: `1.21.1/Modrinth`)
+5. Run `main.py` and execute any [function](./CLI/README.md) you want
 
 ## 🔧 Recommendation
 
@@ -46,7 +45,7 @@ If you have any questions, here's Discord server: https://discord.gg/TcmUQHZ5U4
 
 ## 🚀 Planned Features
 
-- Custom Minecraft menu (background and more)
+- Custom Minecraft menu (background and more) ✅
 - Performance optimization for lower-ends machines
 - A more immersive progression system (survival, gear, knowledge)
 - Dynamic events (like weather-based)
