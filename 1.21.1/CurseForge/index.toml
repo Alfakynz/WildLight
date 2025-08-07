@@ -381,7 +381,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "883b33982262b1814b944674e61e3562c07d1028e2023ac376ac68bc86d622e0"
+hash = "2192098bc995d6501d0b3214917e46523ea9fd7bc7e414b5e340e2aac42dc4cc"
 metafile = true
 
 [[files]]
@@ -651,7 +651,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "c7124c0032863fbd3e15c7d71b7a6ebf4e8dab1a5e6ab67ed44c1f13ac99c676"
+hash = "159cf34f5ead0dc2fb6510de6865471945ae44818a951e52b66c791aecf73294"
 metafile = true
 
 [[files]]
@@ -681,7 +681,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-armors.pw.toml"
-hash = "c5afff20c9093266759f8a62743d13d6922262fc3a35f7317ec6fed3c8813e10"
+hash = "e14545538637818dcf82af01791d375bd16cc96eb39d245a24282d3cff2d4b7f"
 metafile = true
 
 [[files]]
@@ -825,6 +825,11 @@ hash = "569e6d716ef6101e1e9957d02314101a70c9a5344828a546487b3c3a0192cc9d"
 metafile = true
 
 [[files]]
+file = "mods/no-more-popups.pw.toml"
+hash = "d3f49db7e994e619a6b3dff7b51a9596ed1e5336969b2ce3a6727065e3a99f17"
+metafile = true
+
+[[files]]
 file = "mods/no-resource-pack-warnings.pw.toml"
 hash = "842f2dd65e5a0a71c72ee9ed102e52a10b5c8f03ce0a041e19445da96228575b"
 metafile = true
@@ -916,7 +921,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "6fbec42f16df0d653dfe8d95e3b6d383bcb5f90f50e775032cea06add6802ece"
+hash = "ea8c23f52f443e0296e10583b643a0900db838d63f22d6ac7e6e18fb1d9e1ef4"
 metafile = true
 
 [[files]]
@@ -1011,12 +1016,12 @@ metafile = true
 
 [[files]]
 file = "mods/spawn-animations-mod.pw.toml"
-hash = "2d09f2bab0e2f448b79a4dec80fc1656b12e9763b1d48039c85639d110c3a823"
+hash = "ed5c437f79d69ec67c9b210dd19f0a348d509a3c9bb9513a102ae343b1b57015"
 metafile = true
 
 [[files]]
 file = "mods/subtle-effects.pw.toml"
-hash = "01e8c92d078c46d0d8a74a6831fc76f40b6455cc5d3e97f706c2b1de322d9fc1"
+hash = "c1c8c29ce72885bf25142083b72844ab93d9a314dea6c9e11450e3d2fa963acd"
 metafile = true
 
 [[files]]
@@ -1266,5 +1271,5 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/makeup-ultra-fast-shader.pw.toml"
-hash = "207cba4580d1f861e1021c46c4cce601eb88dc4a1ecb266b8e1d3fbd39079aea"
+hash = "3c9c3f2d1dc25d64dd8ab67e4d40735a1f15bf191f74b99e2748ae1918907592"
 metafile = true

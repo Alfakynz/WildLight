@@ -1,0 +1,13 @@
+name = "No More Pop-ups"
+filename = "no-more-popups-1.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/sAdB6HVW/versions/dKx9IiFI/no-more-popups-1.0.1.jar"
+hash-format = "sha512"
+hash = "9607ef424c99c99ea0e5e1ff0521add130af07831d3baea65f561d5047825c7d04da4033fad5d50df0dc454659f05d6ba51fa0ef907c698c4fbdf835cda48612"
+
+[update]
+[update.modrinth]
+mod-id = "sAdB6HVW"
+version = "dKx9IiFI"

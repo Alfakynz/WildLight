@@ -345,11 +345,6 @@ hash = "dd18db1413980ef467ac2e86c7e5f3cef26d366119f43121204a442583e7c0bd"
 metafile = true
 
 [[files]]
-file = "mods/better-toast.pw.toml"
-hash = "4a222f4476c47fdb03d3e341d0c12af8ad354c3a3afa46bba5a4a6222772b0f0"
-metafile = true
-
-[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "7d1815ec4f2098c4de8b01494373d84da8a5104accd5ae028a2a020595646082"
 metafile = true
@@ -401,7 +396,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "812c45e6d4bb3e7fda349dc1562222b7df1933033665476d11b95e5d65a87a87"
+hash = "be29598337af357cd80b5a60d4eb1e06ff50008fe8d9ca0b52d1279be96a785a"
 metafile = true
 
 [[files]]
@@ -581,7 +576,7 @@ metafile = true
 
 [[files]]
 file = "mods/enhanced-attack-indicator.pw.toml"
-hash = "fc5b63e43fdec947e773e9265e6a8ca9a2b31fb1e7ecb9afee4d73b2bc1b70af"
+hash = "c4db059d45610ed3022c0167eb3221ab580fad60fe7425c51ea05f71017b00ed"
 metafile = true
 
 [[files]]
@@ -681,7 +676,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "3b0341c1402b0319857591a4adc876fb98360b30995e01b280d6f4cd35d59325"
+hash = "5390b58bdcd06b724b38b9ddebc1ac6a1d4da60864cf6ea66ab3974842f1f4f2"
 metafile = true
 
 [[files]]
@@ -711,7 +706,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-armors.pw.toml"
-hash = "9e4ca7dbaf76a59f2bae5712d4ca5d468ca50e14d840b6ac23ccc72884475183"
+hash = "0c3b5c694fd4f6d784b44f915e683be3dbdbf3c5c00315bdb155d6e876d5539f"
 metafile = true
 
 [[files]]
@@ -860,6 +855,11 @@ hash = "f3c5cb21ff2e78c7e8cdbd14d1535e6edd464d5a436dbfa4e60b8ea91374674d"
 metafile = true
 
 [[files]]
+file = "mods/no-more-popups.pw.toml"
+hash = "dc011040870fb87092de0a2c8c1368d7032f5621653552ecc35879d13488d358"
+metafile = true
+
+[[files]]
 file = "mods/no-resource-pack-warnings.pw.toml"
 hash = "da9ac20bdc1caa50ebec291429638780924e8a5060ec39abe085c7e6182b3a6f"
 metafile = true
@@ -956,7 +956,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "c1cf218d3c9dbf16ec9b93ae536831fd17805def799eab72b9f79a9896f5999f"
+hash = "9bb377938c2fcfad53c925fd0d8c670496bf47239e031f604813dc3a5cf5de14"
 metafile = true
 
 [[files]]
@@ -1041,12 +1041,12 @@ metafile = true
 
 [[files]]
 file = "mods/spawn-animations.pw.toml"
-hash = "c11483737707f6f419b22c901f6bec59393e3b9e143194e983df7e60155aa27c"
+hash = "649ca0fb966ad785f535632f44c957471f9015d50c3bfc5c808758ed1243fdae"
 metafile = true
 
 [[files]]
 file = "mods/subtle-effects.pw.toml"
-hash = "75ffc1e0f1068f383f4e13f4cb0c5818b372b8024afdc0cd0bf14f6a361df838"
+hash = "d7a2a9ad83c02fe139fc9c425a43993af81055e1ae6dbc39654fc00431c1d943"
 metafile = true
 
 [[files]]
@@ -1291,5 +1291,5 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
-hash = "8ac66d900ff74b536b663d7c136820e9676634124d09d0cc1e3a3fa3520ccec8"
+hash = "811db0afed7d4204b1c8fc3ecaa6b364c3ac7df460dbc9018cc042be1abca1ef"
 metafile = true

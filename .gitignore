@@ -9,3 +9,4 @@ configureddefaults/
 .packwizignore
 icon.png
 assets/
+!Template/Config/config/fancymenu/assets/
