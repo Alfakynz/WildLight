@@ -205,7 +205,6 @@
 - [Fast Better Grass](https://modrinth.com/project/dspVZXKP)
 - [Fresh Animations](https://modrinth.com/project/50dA9Sha)
 - [Icons - Additions](https://modrinth.com/project/2aHPb3sX)
-- [Icons Advertisement Removal [1.8 - 1.21.5]](https://modrinth.com/project/7Rq0ipFz)
 - [Icons](https://modrinth.com/project/O7z3QKAG)
 - [It's All Connected](https://modrinth.com/project/t4YAPTH1)
 - [Low On Fire](https://modrinth.com/project/RRxvWKNC)

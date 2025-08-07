@@ -1,12 +1,12 @@
 name = "WildLight"
 author = "Alfakynz"
-version = "2.1.0"
+version = "2.1.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "0523dbc64b59ae73a2723cc00e380f4567bbadea971409a120d075226d2b9f23"
+hash = "9b9b36b59ed134766cec5bed80d1d69562285236720420c4ab6f09053ca4549b"
 
 [versions]
 fabric = "0.16.14"

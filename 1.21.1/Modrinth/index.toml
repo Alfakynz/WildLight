@@ -258,7 +258,7 @@ hash = "6f472441a8c7377731ff5f9ad43f46951595c8a4969d1ba4b1055aa185a38c23"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "b2c4a33cce20eed993c81050136f2639e69a090432c656d4a7e49742efeac9ef"
+hash = "271e672af0043744c64cdf6e1c74b1f680c79cadef655abe84fdb7b0e275ec31"
 
 [[files]]
 file = "icon.png"
@@ -1245,11 +1245,6 @@ hash = "c4de27cdd8410210378305d1789c23de69bebaf5234349bb72af90861eb3ead5"
 metafile = true
 
 [[files]]
-file = "resourcepacks/icons-advertisement-removal.pw.toml"
-hash = "2725f1857bb618eb3e26ebf8556fdc6d462960bc56a8fc1c0398365424506829"
-metafile = true
-
-[[files]]
 file = "resourcepacks/icons.pw.toml"
 hash = "2c30a792eb8c62778b5f60772d16530062a428e52d2767c24e971812aff7ac40"
 metafile = true
@@ -1276,7 +1271,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/wildlight.pw.toml"
-hash = "f3f932a3b09cbe2a67428d602fcffe7155e8d3818ef4d5fc2b0fbd9a8fdab524"
+hash = "0a1f18f58aee4066fde3040666d28c7967ee047dda5231a6a455683a2283fb69"
 metafile = true
 
 [[files]]
