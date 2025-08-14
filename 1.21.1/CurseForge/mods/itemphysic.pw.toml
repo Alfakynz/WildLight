@@ -1,13 +1,13 @@
 name = "ItemPhysic Full"
-filename = "ItemPhysic_FABRIC_v1.8.7_mc1.21.1.jar"
+filename = "ItemPhysic_FABRIC_v1.8.9_mc1.21.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "40d9c1cd3eb442e5f7a5b525d4c3ce1383c3c040"
+hash = "fdb32b6407ff926817785d8cf1d330ec1080b23c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6646472
+file-id = 6878286
 project-id = 258587

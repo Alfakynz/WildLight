@@ -266,7 +266,7 @@ hash = "8ba989c635453c6727377813835bedf3dd4f2ba43d2a00050233e0020a38215f"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "a8a66453b1723d1daf27b49a9902a32a1fea0335dd49862be2be70777c5ecfc3"
+hash = "3c4f1558a94121e7fe573ad4ad05c2fe44ccf78cbb89bb766a74985188207cdc"
 metafile = true
 
 [[files]]
@@ -281,7 +281,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "c91b42054112616b32ecc4e812ca84a2acf939d4f91814a28a8385cdc9427e6d"
+hash = "eb4bb75bcfaab30be58769f473ce369c20b694394a6ead412433b0c27f41d091"
 metafile = true
 
 [[files]]
@@ -531,7 +531,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-lights.pw.toml"
-hash = "fa95922f74fbf9f5841897ca6cd0d638a24a24456d7560534e9d74dd036ecd5e"
+hash = "198f4e1fa9fb19873894d09a3cf34ee193cb74bdd96b5e0d86ee0ab728a3aebf"
 metafile = true
 
 [[files]]
@@ -616,7 +616,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "c45656db928ed544c927449b5ceac0feef9488b0ea4154cab9199b37817cd4d5"
+hash = "b3811242f9230b57ec349147921309a05e17b1d9866cb5197926495d8f8e9400"
 metafile = true
 
 [[files]]
@@ -736,7 +736,7 @@ metafile = true
 
 [[files]]
 file = "mods/itemphysic.pw.toml"
-hash = "be01677db576c952b896ed34e804528670dd636caebcbcab1977eaff8c3b697a"
+hash = "38f56cfc12b12d382a11fc181d5bde1d3b9987a57fa0678aba99d1242feedf22"
 metafile = true
 
 [[files]]
@@ -856,7 +856,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-more-popups.pw.toml"
-hash = "dc011040870fb87092de0a2c8c1368d7032f5621653552ecc35879d13488d358"
+hash = "16e431d91fe40a4d3861290d6cd0dfa7f65d95ecd5d86ba98598249fe9b0fc9c"
 metafile = true
 
 [[files]]
@@ -956,7 +956,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "9bb377938c2fcfad53c925fd0d8c670496bf47239e031f604813dc3a5cf5de14"
+hash = "ea6b2156e703ca65e0cf4a7119e2c4a9ea81018860859dd949cd2832dfa3bf07"
 metafile = true
 
 [[files]]
