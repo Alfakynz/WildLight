@@ -3,10 +3,13 @@
 *.zip
 *.mrpack
 node_modules/
-__pycache__/
 
 configureddefaults/
 .packwizignore
 icon.png
 assets/
-!Template/Config/config/fancymenu/assets/
+
+!1.21.1/configurations/configureddefaults/
+!1.21.1/configurations/configureddefaults/config/fancymenu/assets/
+!1.21.1/configurations/.packwizignore
+!1.21.1/configurations/icon.png

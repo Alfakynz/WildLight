@@ -173,6 +173,30 @@ file = "configureddefaults/config/pickupnotifier/pickupnotifier-server.toml"
 hash = "f81bd82e9f0779dcc7c89b0a9663333857af2a71524e136385f6d08fdee63f43"
 
 [[files]]
+file = "configureddefaults/config/roughlyenoughitems/collapsible.json5"
+hash = "a59667baa54738c1b294393a9b3652bcf7d392cdb8cba1c08a8006885b18e919"
+
+[[files]]
+file = "configureddefaults/config/roughlyenoughitems/config.json5"
+hash = "e3293c53ccef2d16a8e6296b7135eddc8c74b57b0fbbd07776034537090b39bc"
+
+[[files]]
+file = "configureddefaults/config/roughlyenoughitems/favorites.json5"
+hash = "589c13e9ebbb9ae1b868d73be8c4e30323dcb03efacf59d75b9d614f1b069b47"
+
+[[files]]
+file = "configureddefaults/config/roughlyenoughitems/hints.json"
+hash = "f3b20069410f7fd6bf2a563220dadfd9a2570671388957070de509857ecb7e25"
+
+[[files]]
+file = "configureddefaults/config/roughlyenoughitems/pinyin.properties"
+hash = "f40b85dca86070d590c929e622267b35cd9b52bd4743fb195a8bc35d87ac6631"
+
+[[files]]
+file = "configureddefaults/config/roughlyenoughitems/pinyin_double.properties"
+hash = "e9e77b80c65ffc608124bfda1111d5d167ef4a1375379802a302f4427612c099"
+
+[[files]]
 file = "configureddefaults/config/rrls.toml"
 hash = "675224bb453de73283e2e25fca52e47ce6ea1d2e9c6c2834eff51bf43d7c2a4f"
 
@@ -351,7 +375,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "f404adecd7a769072bb667c0ce121a1595c95f484d9960833ce283fca25e4fb0"
+hash = "de581192acc28b859e5adf46882b693e128b7fbe3d69ad22d4410b5512a5e86e"
 metafile = true
 
 [[files]]
@@ -456,7 +480,7 @@ metafile = true
 
 [[files]]
 file = "mods/dashloader.pw.toml"
-hash = "d9c94b0ada9878521ee42f747ffe120bdf02d647e8a20a5880aa98307e1897b1"
+hash = "5ab3e533ca7b4e4e4c72845cfa07a7bb224c2957691357fc2fea9ad914c150e5"
 metafile = true
 
 [[files]]
@@ -487,11 +511,6 @@ metafile = true
 [[files]]
 file = "mods/diagonal-windows.pw.toml"
 hash = "94807dfb31966ac8cd351ece005ac25fd40b1de0b386afc6b168815cc1e372ba"
-metafile = true
-
-[[files]]
-file = "mods/distraction-free-recipes.pw.toml"
-hash = "190807df7dc22187b985e7258a31053b380b655c8b8e71dab6478bc594138ad3"
 metafile = true
 
 [[files]]
@@ -601,7 +620,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "e79d224bd664cd189049b6a91b677e2ea6cbc6e27da026c44d73b66cca4d8dc0"
+hash = "9eb6843c81c82a1c341ce0f32b462b995c8a7686efac764ced8ad71efad1402f"
 metafile = true
 
 [[files]]
@@ -611,7 +630,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "6847e9f14944854f86b743986c588a2a44491d357e6e7814f1ebd603b34a27d8"
+hash = "9b8db74eb38a5010f739be6045a83833a08770943a4ec7c95c07bb53b008f70e"
 metafile = true
 
 [[files]]
@@ -725,11 +744,6 @@ hash = "f99d68db548845d3e5cad75d714429ea73deaa5d41d8d3404af8ca4eb74f1457"
 metafile = true
 
 [[files]]
-file = "mods/jei.pw.toml"
-hash = "8f70046f36a11e4b08a68ad894ca957b6b83a19da2c09ac48f395fe4da50f6e0"
-metafile = true
-
-[[files]]
 file = "mods/journeymap.pw.toml"
 hash = "3c81bed7d427dc00917641a8414f17b10053c624381c554b26270b34f0afeb6b"
 metafile = true
@@ -801,7 +815,12 @@ metafile = true
 
 [[files]]
 file = "mods/moogs-end-structures.pw.toml"
-hash = "4075a3467acac2764a64066610f56dca2423141fe07c7ca904569f7b2392a2a9"
+hash = "e7530d710dc80c1e7125804d28831f00635193f120e29c39496d60429ad5a467"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "0a294ec59f287931a4748716730aa3a5509a778bb5c39eab881f21bdfef273e5"
 metafile = true
 
 [[files]]
@@ -906,7 +925,7 @@ metafile = true
 
 [[files]]
 file = "mods/prickle.pw.toml"
-hash = "9657cc8c4e7879ab90a333861e5ae3db7f7fb0013f9016360207c41ced572772"
+hash = "17769ac5d376caa94174f8405a31a21dec07d71e83690c423fdcb83ee0a98cc6"
 metafile = true
 
 [[files]]
@@ -937,6 +956,11 @@ metafile = true
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "2d0225d6af279450494fc733773f93b67114fbbd04e83b43694814681170d7dd"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.pw.toml"
+hash = "a01882a8a94bcf77e68f3d03d8a1d3098de9b63ee455d7ee0ee300bc8974b2c7"
 metafile = true
 
 [[files]]
@@ -1266,5 +1290,5 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/makeup-ultra-fast-shader.pw.toml"
-hash = "3c9c3f2d1dc25d64dd8ab67e4d40735a1f15bf191f74b99e2748ae1918907592"
+hash = "11819299dac3f5f387d1473fdddcbf2c897c33db06aa13b87a808ee9923de091"
 metafile = true
