@@ -21,10 +21,7 @@ onMounted(() => {
         This modpack uses <strong>Minecraft 1.21.1</strong> with the <strong>Fabric</strong> mod
         loader.
       </p>
-      <p>
-        Other versions of Minecraft are not supported for now, I will add support for them in the
-        future.
-      </p>
+      <p>Other versions of Minecraft are not supported. I don't plan to support them for now.</p>
       <h2>Modpack Versioning Scheme</h2>
       <ul>
         <li>
@@ -37,8 +34,8 @@ onMounted(() => {
           <em>(Example: 1.<b>1</b>.0 &rarr; added a new shader)</em>
         </li>
         <li>
-          <strong>X.x.x</strong> &mdash; Add a new dimension to the modpack.<br />
-          <em>(Example: <b>2</b>.0.0 &rarr; added a new dimension)</em>
+          <strong>X.x.x</strong> &mdash; Add a new dimension or theme to the modpack.<br />
+          <em>(Example: <b>2</b>.0.0 &rarr; added a new theme: better immersion in the world)</em>
         </li>
       </ul>
       <p>
