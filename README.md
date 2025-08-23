@@ -1,12 +1,14 @@
 # 🌲 WildLight resource pack
 
-This resource pack is designed to fix some interface elements that don't diplay correctly in the modpack
+This resource pack is designed to fix some interface elements that don't diplay correctly in the modpack.
 
 ## ✨ Features:
 
 - Adds a new style for IPN
+- Adds new panorama
 - Fixes inventory view to include the trinket slot (from Friends&Foes)
 - Fixes Fabric creative buttons not displaying correctly on hover
+- Fixes sugar cane not showing properly on the hotbar
 
 ## 🤝 Contributing
 
