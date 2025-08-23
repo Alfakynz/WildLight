@@ -1295,7 +1295,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/wildlight.pw.toml"
-hash = "0a1f18f58aee4066fde3040666d28c7967ee047dda5231a6a455683a2283fb69"
+hash = "da7fb99cccbbfe46291ab07c78813fde2b97b9aed8d11ff32ca860f768106232"
 metafile = true
 
 [[files]]
