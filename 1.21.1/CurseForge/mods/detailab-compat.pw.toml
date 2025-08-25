@@ -1,0 +1,13 @@
+name = "Detail Armor Bar Compat"
+filename = "detailab_compat-fabric-0.1.1+1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6c25c7a6e22d2b1b5456f4862b57b8c3be51302c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6412808
+project-id = 1152394

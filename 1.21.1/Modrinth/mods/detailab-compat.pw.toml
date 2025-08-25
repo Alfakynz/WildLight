@@ -1,0 +1,13 @@
+name = "Detail Armor Bar Compat"
+filename = "detailab_compat-fabric-0.1.2+1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/idGcORfw/versions/hAmuXzxO/detailab_compat-fabric-0.1.2%2B1.21.jar"
+hash-format = "sha512"
+hash = "bf861500eb2d1908d1d0517a311bc429d429399b849c7926a737c72dc29271c800d5f69295a65028a1ef1c1609447b9fe4463d4d7f421eb207d6732973bd7fd7"
+
+[update]
+[update.modrinth]
+mod-id = "idGcORfw"
+version = "hAmuXzxO"

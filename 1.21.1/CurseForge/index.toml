@@ -129,10 +129,6 @@ file = "configureddefaults/config/jade/sort-order.json"
 hash = "d3f3be9b97417e8f177e1500b1d1f606562749b2eca47387eff162dc1b924e24"
 
 [[files]]
-file = "configureddefaults/config/jade/usernamecache.json"
-hash = "b22ed10ad081a907fe3e34e91cd8664ae80391ec8053fb9bede77fd2c44d7dd9"
-
-[[files]]
 file = "configureddefaults/config/modmenu.json"
 hash = "3fbb3857eb3543a3e18c8a14b85de44f77312461ac5dcdfc854fb694fb5de09c"
 
@@ -146,7 +142,7 @@ hash = "d0fd8d9c41d41aaa9654092680237c01859d62f9905386d36993916066457658"
 
 [[files]]
 file = "configureddefaults/config/physicsmod/physics_client_config.json"
-hash = "7fcae0cbc94accc0f8ad5082b4c6ee5752691768149148f34d5cd3ba6ca149ab"
+hash = "fe6f449006ae99ff57d09a6c318144970ad52e98d8e394fbc7ae4824420f34d9"
 
 [[files]]
 file = "configureddefaults/config/physicsmod/physics_cloth_config.json"
@@ -169,32 +165,8 @@ file = "configureddefaults/config/pickupnotifier/pickupnotifier-client.toml"
 hash = "7899a52dd46b3289956d4c3929d6840b52ac0bc460635556cca40ffa72a55512"
 
 [[files]]
-file = "configureddefaults/config/pickupnotifier/pickupnotifier-server.toml"
-hash = "f81bd82e9f0779dcc7c89b0a9663333857af2a71524e136385f6d08fdee63f43"
-
-[[files]]
-file = "configureddefaults/config/roughlyenoughitems/collapsible.json5"
-hash = "a59667baa54738c1b294393a9b3652bcf7d392cdb8cba1c08a8006885b18e919"
-
-[[files]]
 file = "configureddefaults/config/roughlyenoughitems/config.json5"
 hash = "e3293c53ccef2d16a8e6296b7135eddc8c74b57b0fbbd07776034537090b39bc"
-
-[[files]]
-file = "configureddefaults/config/roughlyenoughitems/favorites.json5"
-hash = "589c13e9ebbb9ae1b868d73be8c4e30323dcb03efacf59d75b9d614f1b069b47"
-
-[[files]]
-file = "configureddefaults/config/roughlyenoughitems/hints.json"
-hash = "f3b20069410f7fd6bf2a563220dadfd9a2570671388957070de509857ecb7e25"
-
-[[files]]
-file = "configureddefaults/config/roughlyenoughitems/pinyin.properties"
-hash = "f40b85dca86070d590c929e622267b35cd9b52bd4743fb195a8bc35d87ac6631"
-
-[[files]]
-file = "configureddefaults/config/roughlyenoughitems/pinyin_double.properties"
-hash = "e9e77b80c65ffc608124bfda1111d5d167ef4a1375379802a302f4427612c099"
 
 [[files]]
 file = "configureddefaults/config/rrls.toml"
@@ -282,7 +254,7 @@ hash = "6f472441a8c7377731ff5f9ad43f46951595c8a4969d1ba4b1055aa185a38c23"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "271e672af0043744c64cdf6e1c74b1f680c79cadef655abe84fdb7b0e275ec31"
+hash = "0282fd2cfa5d06d0b6367b3e9f8933a3212e3f1cd9e86c7293e1b06ebd4992f1"
 
 [[files]]
 file = "icon.png"
@@ -464,6 +436,11 @@ hash = "b50378ddd8de5877ce51ded7616ebbf3ad0a5e18af8125a473411fbabc6c37cd"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "c95f96c1422ed285de47a75dd9c163538fe89259d9525d15d2c07039f0c1f5b1"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "8b2683088edb19b4d981ac00a79d2f52b87835f6078e6519f09c167e874811ef"
 metafile = true
@@ -496,6 +473,11 @@ metafile = true
 [[files]]
 file = "mods/detail-armor-bar.pw.toml"
 hash = "c218a67424771ec2b91e456bf5ae2549c699f98f9f21d87ec82b97a3e72b516b"
+metafile = true
+
+[[files]]
+file = "mods/detailab-compat.pw.toml"
+hash = "fc26127fd3cae3eae55b13eead3bdbe62e4bb3941b44c82cd509442b4264ef05"
 metafile = true
 
 [[files]]
@@ -585,12 +567,12 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "595d4e5dbee4c4fad7a84c809491ddfa29a9607a8982d04dd19f99a3a70f1cf8"
+hash = "5d52bd89d8d865461ce5ba7c615905e7a0b4968db8f33bb87a656e1890e8c585"
 metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "525d444d3184718ef1aa766f36ece7c94c7692acd0d93ca2aeed2e041089335b"
+hash = "9b81f1d004a4619b3f2f84f24d0ec8674b6169b80ec3bfdb6fb9de54e7cacf24"
 metafile = true
 
 [[files]]
@@ -845,12 +827,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-more-popups.pw.toml"
-hash = "adf4a518c59d01eeb2e1438a07733f2ab9a569f32bf48a7cfa9e349bf2b4b3e7"
-metafile = true
-
-[[files]]
-file = "mods/no-resource-pack-warnings.pw.toml"
-hash = "842f2dd65e5a0a71c72ee9ed102e52a10b5c8f03ce0a041e19445da96228575b"
+hash = "39d111b67ed8f919c47b7da9f157e5f93ac84100e07e8090fbed3e399d0d094d"
 metafile = true
 
 [[files]]
@@ -989,6 +966,11 @@ hash = "529cb4f12209cedb7b15acc1cf8639e845cf1ef2a9dd7a23652ca517e7db3862"
 metafile = true
 
 [[files]]
+file = "mods/searchables.pw.toml"
+hash = "795a73207734f08e5cece4da342c509d2210787ea8f0df9ea7ee440719a53cf3"
+metafile = true
+
+[[files]]
 file = "mods/simple-music-control.pw.toml"
 hash = "e9d533f31eda785ac55e4b1492cce4eb17b8ae2b066518416dc15e0224a9b8f6"
 metafile = true
@@ -1096,6 +1078,16 @@ metafile = true
 [[files]]
 file = "mods/txnilib.pw.toml"
 hash = "dc99439481e946cc3a26477b1ad2c7768ca15d5b89ca9aeeb9ff29deea22bee1"
+metafile = true
+
+[[files]]
+file = "mods/u-team-core.pw.toml"
+hash = "751184d107e81d8eb27ab6b1ff3c1f607a31236fa2106bdd2b2a3fda1cb8d847"
+metafile = true
+
+[[files]]
+file = "mods/useful-backpacks.pw.toml"
+hash = "3631cc957fdb4a4c9f285e7626771b4edf3afd99f02d705a0cb1f5a2796d88f1"
 metafile = true
 
 [[files]]

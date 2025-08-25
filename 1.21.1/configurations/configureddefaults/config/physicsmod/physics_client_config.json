@@ -55,7 +55,7 @@
   "snowChunkSize": 0,
   "blockSettings": {
     "Physics Type": 2,
-    "Lifetime": 3.0,
+    "Lifetime": 2.5,
     "Lifetime Variance": 3.0,
     "Scale": 0.8999999761581421,
     "Animation": -1

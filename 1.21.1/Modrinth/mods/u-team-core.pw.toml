@@ -1,0 +1,13 @@
+name = "U Team Core"
+filename = "u_team_core-fabric-1.21.1-5.6.2.384.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/g2FGQs4R/versions/Gp1cuZbS/u_team_core-fabric-1.21.1-5.6.2.384.jar"
+hash-format = "sha512"
+hash = "ad16aff9e63070757690cdd96439eb07fb34b78e4012032edb9892e4afcee4985c93ed43a52a57804716282ba67ff71fe68d3f1ad4ec37d74e15f1f187873777"
+
+[update]
+[update.modrinth]
+mod-id = "g2FGQs4R"
+version = "Gp1cuZbS"
