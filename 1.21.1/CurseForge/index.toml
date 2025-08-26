@@ -254,7 +254,7 @@ hash = "6f472441a8c7377731ff5f9ad43f46951595c8a4969d1ba4b1055aa185a38c23"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "0282fd2cfa5d06d0b6367b3e9f8933a3212e3f1cd9e86c7293e1b06ebd4992f1"
+hash = "c16c2e0e5d6540c01a252498d446ad9d74a1993b7c5a5c4566bc1ad01c5e9598"
 
 [[files]]
 file = "icon.png"
@@ -1196,6 +1196,11 @@ hash = "82e610917524c6f1af58e102a1be333665ee9af1649477aae0546a30d1ae3114"
 metafile = true
 
 [[files]]
+file = "resourcepacks/assembled-legendary-tooltips.pw.toml"
+hash = "3ac46f18b1d7c33d1987d75a0c1098aa97d7b0f1ff4b647a54e8e386e7e28e55"
+metafile = true
+
+[[files]]
 file = "resourcepacks/circular-logs.pw.toml"
 hash = "4c0e61ba4bf259431f6d192e7d1411f8d282fc7c0fd2951b06be403a9a3b39f4"
 metafile = true
@@ -1267,7 +1272,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/wildlight.pw.toml"
-hash = "da7fb99cccbbfe46291ab07c78813fde2b97b9aed8d11ff32ca860f768106232"
+hash = "dd5b81e5f5bea95bc5b2d8044cc493e9ed0d48dfac3952caa197a969d96b7e24"
 metafile = true
 
 [[files]]

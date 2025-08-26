@@ -201,6 +201,7 @@
 
 - [3D Default](https://modrinth.com/project/5aPp18Lx)
 - [3D crops Revamped](https://modrinth.com/project/PgpTtNoI)
+- [Assembled Legendary Tooltips](https://modrinth.com/project/P6gDZwVp)
 - [Circular Logs](https://modrinth.com/project/OAHZ2XF7)
 - [Connected Glasses](https://modrinth.com/project/BcGbyFs6)
 - [Connected Paths](https://modrinth.com/project/Nyfj98b5)
