@@ -562,7 +562,7 @@ metafile = true
 
 [[files]]
 file = "mods/enhanced-workbenches.pw.toml"
-hash = "db049115f6bf6f207d514787173e2a36c1b4be20e93ed237e3ac81e9ef5eac39"
+hash = "6698609b00c4d8959a7f9064f632ec3a105a4fd6a858371f95b935a512901170"
 metafile = true
 
 [[files]]
@@ -842,7 +842,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "c561e3716c94c8061d55cfe53767b51445bd1d0b39a53daaa4612b2371493a6a"
+hash = "13457c92042d3ba36d3fa90b3db98f8d25dc14a5264852b2db11dbad14a6aef9"
 metafile = true
 
 [[files]]
@@ -1272,7 +1272,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/wildlight.pw.toml"
-hash = "dd5b81e5f5bea95bc5b2d8044cc493e9ed0d48dfac3952caa197a969d96b7e24"
+hash = "77e3c5ac1b28dc874f69783c798c10a2f463c894ac385d5d4f4fd2b7e5977dd5"
 metafile = true
 
 [[files]]

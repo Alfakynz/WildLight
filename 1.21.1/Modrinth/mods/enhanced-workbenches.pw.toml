@@ -1,13 +1,13 @@
 name = "Enhanced Workbenches"
-filename = "enhanced_workbenches-fabric-2.1+1.21.1.jar"
+filename = "enhanced_workbenches-fabric-2.1.1+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/IhBYAM6m/versions/9h6vP6Mh/enhanced_workbenches-fabric-2.1%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/IhBYAM6m/versions/FKaOewCO/enhanced_workbenches-fabric-2.1.1%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "fc30caeda626dccb058a7e33d4658227de556ad29eb0f8cf027872199c86a3f668f8045914d9d101964adce22fa8ca11db0c49d2725ffc24eec37dac7122db64"
+hash = "b3681dac90c314de10fc8cefc8bb21a5aac10369349ea4065938980eb00eb11709e4c74b8e7210814d65b2a1d809ad7d03b52122ad5edd9dafa3c7fc96dbd784"
 
 [update]
 [update.modrinth]
 mod-id = "IhBYAM6m"
-version = "9h6vP6Mh"
+version = "FKaOewCO"
