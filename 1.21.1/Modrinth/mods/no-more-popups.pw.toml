@@ -1,13 +1,13 @@
 name = "No More Pop-ups"
-filename = "no-more-popups-1.2.0.jar"
+filename = "no-more-popups-1.3.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/sAdB6HVW/versions/hQyDaUUA/no-more-popups-1.2.0.jar"
+url = "https://cdn.modrinth.com/data/sAdB6HVW/versions/dJhPuFHP/no-more-popups-1.3.0.jar"
 hash-format = "sha512"
-hash = "1c8fdc999ead7b838a3e89a2b0167dd0eb7a5b8dfe1eb616616179d026f8c9c6395e2645c14e7f4280f38b1ab54d70ec6420e5ca318376755f25816f7b035ac1"
+hash = "2d040489e9360e7a491550acb2acf16a9b1c7ade6bac36e51c450f97771ffbc931e819b9a62d931203dc7e088f3edca3914ea97db7fd5ab4ff854b6b6c007aab"
 
 [update]
 [update.modrinth]
 mod-id = "sAdB6HVW"
-version = "hQyDaUUA"
+version = "dJhPuFHP"

@@ -50,3 +50,11 @@ If you have any questions, here's Discord server: https://discord.gg/TcmUQHZ5U4
 - Dynamic events (like weather-based)
 - In-game wiki using Patchouli
 - Maybe add other dimension?
+
+## 🌐 Looking for a server? Support me at the same time!
+
+Want to play with friends? Get your own server with [Wabbanode](https://wabbanode.com).
+
+Use the code **WILDLIGHT** to support me and get 25% off.
+
+[![Wabbanode server](Media/banner.png)](http://wabbanode.com/affiliate/wildlight)

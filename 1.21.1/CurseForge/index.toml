@@ -61,6 +61,10 @@ file = "configureddefaults/config/fancymenu/assets/github.png"
 hash = "2e43aec3e2c83efc5dbd15518493cfb40b7cef834c41864ee0ba8aef2d413f82"
 
 [[files]]
+file = "configureddefaults/config/fancymenu/assets/wabbanode.png"
+hash = "cfaafbb05d542796aa89e346891025abb2238f81c1d9957306e161f507d8d694"
+
+[[files]]
 file = "configureddefaults/config/fancymenu/assets/wildlight-title.png"
 hash = "8c0583c3bfcc9f945beb8ffa32a73ecf8d879e9f0555b55176d2a6370dd4d30b"
 
@@ -78,7 +82,7 @@ hash = "9773ad7514d9fc689be40b9a6a60bd751d06472aae28187af6899110908c2dcd"
 
 [[files]]
 file = "configureddefaults/config/fancymenu/customization/title_screen_layout.txt"
-hash = "b333d1dc33e46dfa862cd3cbb8f890b091109a90ee69290606146341621fe0dd"
+hash = "702c6e82a173228a82c348463e6a1284a09769c4cf62d4c5b3c1cf0341413725"
 
 [[files]]
 file = "configureddefaults/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -90,7 +94,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "configureddefaults/config/fancymenu/options.txt"
-hash = "837d6e8b7b321964b18d67f8d4325f660e6ab9d2bd278d0c0dbd975b2689923d"
+hash = "ef680f7e47d100a3862a9c2de34da4b28999287698ffbbaa401eb8baa8f1dd11"
 
 [[files]]
 file = "configureddefaults/config/fancymenu/ui_themes/dark.json"
@@ -254,7 +258,7 @@ hash = "6f472441a8c7377731ff5f9ad43f46951595c8a4969d1ba4b1055aa185a38c23"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "c16c2e0e5d6540c01a252498d446ad9d74a1993b7c5a5c4566bc1ad01c5e9598"
+hash = "572bf81d5ba9b8dba1cc545418498a5c9290262db10f2ad5d3b382e8a76c223a"
 
 [[files]]
 file = "icon.png"
@@ -597,7 +601,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "93edc7d43ebf0d43a684d7d0435dd2d527a28c8d8c84312434b1d4a78413d719"
+hash = "8ab145d5746ea395c37aeb7c48d3da6c60664c9c3a172e433892978c809a6ec3"
 metafile = true
 
 [[files]]
@@ -827,7 +831,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-more-popups.pw.toml"
-hash = "39d111b67ed8f919c47b7da9f157e5f93ac84100e07e8090fbed3e399d0d094d"
+hash = "1f15aa1237f837a304c30faec6f2a32a12677b4fff70d364d2a40ebc94594caa"
 metafile = true
 
 [[files]]
@@ -1232,7 +1236,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
-hash = "a837a6ef76177cd45f425ed3a72fef3454c761fda77507d8f1943ddabf54e8df"
+hash = "a8a5b310a327b30be69b526640abbd7f61300a0266cd1d62a8765058ad3e8dac"
 metafile = true
 
 [[files]]
