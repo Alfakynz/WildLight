@@ -1,5 +1,6 @@
 version:3955
 fastSeamless:false
+toggleCrawl:false
 ao:true
 biomeBlendRadius:7
 enableVsync:true
@@ -35,7 +36,7 @@ chatLinks:true
 chatLinksPrompt:true
 discrete_mouse_scroll:false
 invertYMouse:false
-realmsNotifications:true
+realmsNotifications:false
 showSubtitles:false
 directionalAudio:false
 touchscreen:false
@@ -86,7 +87,7 @@ allowServerListing:true
 onlyShowSecureChat:false
 panoramaScrollSpeed:1.0
 telemetryOptInExtra:false
-onboardAccessibility:true
+onboardAccessibility:false
 menuBackgroundBlurriness:5
 key_key.attack:key.mouse.left
 key_key.use:key.mouse.right
@@ -137,6 +138,9 @@ key_key.carry.desc:key.keyboard.unknown
 key_key.cavedust.toggle:key.keyboard.keypad.add
 key_key.cavedust.reload:key.keyboard.keypad.enter
 key_chunksfadein.keybinds.toggleMod:key.keyboard.unknown
+key_key.crawl:key.keyboard.left.win
+key_key.deeperdarker.boost:key.keyboard.b
+key_key.deeperdarker.transmit:key.keyboard.v
 key_key.entityculling.toggle:key.keyboard.unknown
 key_equipmentcompare.key.showTooltips:key.keyboard.left.shift
 key_key.firstperson.toggle:key.keyboard.f6

@@ -1,0 +1,13 @@
+name = "Simple Snowy Fix (Forge / Fabric)"
+filename = "simple_snowy_fix-fabric-2.1.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3WP3HZRG/versions/jppbN5d9/simple_snowy_fix-fabric-2.1.4.jar"
+hash-format = "sha512"
+hash = "57fd0b71a25ef9f0969e14865a78594bd11d377848371a8d851830e2d23426e5e9897eedaff4d875a4d2b98ec57a8865c309d28e38d4de4d907a83de14f64bb7"
+
+[update]
+[update.modrinth]
+mod-id = "3WP3HZRG"
+version = "jppbN5d9"

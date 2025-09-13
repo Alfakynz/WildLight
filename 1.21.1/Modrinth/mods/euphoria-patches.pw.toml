@@ -1,13 +1,13 @@
 name = "Euphoria Patches"
-filename = "EuphoriaPatcher-1.6.5-r5.5.1-fabric.jar"
+filename = "EuphoriaPatcher-1.6.8-r5.5.1-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/4H6sumDB/versions/iNh08beL/EuphoriaPatcher-1.6.5-r5.5.1-fabric.jar"
+url = "https://cdn.modrinth.com/data/4H6sumDB/versions/X46Hb9eA/EuphoriaPatcher-1.6.8-r5.5.1-fabric.jar"
 hash-format = "sha512"
-hash = "be67030d90276df70cd49086395c0ef7b509a54b7fde9dfd251635a11988afdbbc2b57cd2540fdb7d256bbcea16d5f65bec356d0a2c4a83a88641872879fbaeb"
+hash = "9f296c4cb6f1060aef02ef75c8643dac797a13350c15b29b1ee7a037461100ecc0e630a9968728323af7281ec1aa250ef7bd677998c2475807ae42c9bfd7d723"
 
 [update]
 [update.modrinth]
 mod-id = "4H6sumDB"
-version = "iNh08beL"
+version = "X46Hb9eA"

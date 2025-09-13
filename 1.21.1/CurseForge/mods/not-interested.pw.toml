@@ -1,0 +1,13 @@
+name = "Not interested!"
+filename = "not_interested--mc1.21--fabric--1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "27a19d7d85417c8fd3f4ace1ab1595a712fda2f7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5453426
+project-id = 980755

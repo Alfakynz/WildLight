@@ -1,0 +1,13 @@
+name = "Trimmable Tools"
+filename = "trimmable_tools-fabric-1.21.1-2.0.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MJu3fF3K/versions/d0JX71gl/trimmable_tools-fabric-1.21.1-2.0.5.jar"
+hash-format = "sha512"
+hash = "143848039931aff35c0e56ebbddb55a4dcbc59beb5040972daca8cf71dfaf842d29895babd5bbd3803956f9185469c4eee01fb28c14a9400d48572a11edc318e"
+
+[update]
+[update.modrinth]
+mod-id = "MJu3fF3K"
+version = "d0JX71gl"

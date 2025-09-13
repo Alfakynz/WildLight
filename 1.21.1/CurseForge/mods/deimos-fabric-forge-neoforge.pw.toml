@@ -1,13 +1,13 @@
 name = "Deimos Lib"
-filename = "deimos-1.21.1-fabric-2.2.jar"
+filename = "deimos-1.21.1-fabric-2.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "0236edcb6acfe031c1acdf61df41c73308d5e744"
+hash = "85a24331d669c2e674f4178d5a60a3039dc75238"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6533870
+file-id = 6984578
 project-id = 1158094

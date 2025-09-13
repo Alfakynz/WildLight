@@ -55,8 +55,8 @@
   "snowChunkSize": 0,
   "blockSettings": {
     "Physics Type": 2,
-    "Lifetime": 2.5,
-    "Lifetime Variance": 3.0,
+    "Lifetime": 2.0,
+    "Lifetime Variance": 2.0,
     "Scale": 0.8999999761581421,
     "Animation": -1
   },
@@ -140,6 +140,10 @@
     "minecraft:the_end",
     0.0,
     -9.81,
+    0.0,
+    "deeperdarker:otherside",
+    0.0,
+    -9.81,
     0.0
   ],
   "customizedBuoyancies": [
@@ -152,6 +156,10 @@
     2.0,
     0.0,
     "minecraft:the_end",
+    0.0,
+    2.0,
+    0.0,
+    "deeperdarker:otherside",
     0.0,
     2.0,
     0.0

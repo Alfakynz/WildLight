@@ -1,0 +1,13 @@
+name = "Pyrellium"
+filename = "pyrellium-0.2.2-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uZWcuZ4t/versions/VVFTtPAi/pyrellium-0.2.2-1.21.1.jar"
+hash-format = "sha512"
+hash = "ec7a3897fcd6087673434eadd946aa59fcc2c168aee419eff9a3eb0a703cf6d9e4fcb83adc30586291358fe1a301b2e6455caf7e35c4aa76fe7af2875d85e42e"
+
+[update]
+[update.modrinth]
+mod-id = "uZWcuZ4t"
+version = "VVFTtPAi"

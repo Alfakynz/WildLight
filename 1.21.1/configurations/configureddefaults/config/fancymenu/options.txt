@@ -85,3 +85,9 @@ B:show_welcome_screen = 'false';
 ##[keyframe_editor]
 
 B:arrow_keys_move_preview = 'false';
+
+
+##[advanced]
+
+L:placeholder_caching_duration_ms = '30';
+L:requirement_caching_duration_ms = '0';

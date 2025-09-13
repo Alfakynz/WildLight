@@ -1,6 +1,9 @@
 {
   "ModSettings": {
     "sort_order": "ITEM_NAME",
+    "highlight_foused_items": {
+      "value": false
+    },
     "first_run": true
   },
   "GuiSettings": {

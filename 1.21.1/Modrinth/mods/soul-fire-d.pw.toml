@@ -1,0 +1,13 @@
+name = "Soul Fire'd"
+filename = "soul-fire-d-fabric-1.21-5.1.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/d6MhxwRo/versions/KzUD0GSm/soul-fire-d-fabric-1.21-5.1.6.jar"
+hash-format = "sha512"
+hash = "1fc4d63271754f41e138a0daa81146b920ff6e3b8e881595a10720da56eeb441f63db74c55ad63e9ae5aa8dc32019240a58172b91a7d0dbfd546785fbe6ff8aa"
+
+[update]
+[update.modrinth]
+mod-id = "d6MhxwRo"
+version = "KzUD0GSm"
