@@ -262,7 +262,7 @@ hash = "6f472441a8c7377731ff5f9ad43f46951595c8a4969d1ba4b1055aa185a38c23"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "a9b77e07c4378cebef6a5f9ea71148850ee779b9cef73d894c9593ca4272f88e"
+hash = "045f0a773502379b7e7c82f15275a6bf3b1c79da1c28acc7873adff5f5fd4053"
 
 [[files]]
 file = "icon.png"
@@ -325,7 +325,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-combat.pw.toml"
-hash = "1e431485d1656b3a1d631f2886ac6a4f9f4210369f580d3b555d241321e316c2"
+hash = "b14408056dfdcdbbfe1c41e05de322457d508a611efae462db9a4103eb168887"
 metafile = true
 
 [[files]]
@@ -685,7 +685,7 @@ metafile = true
 
 [[files]]
 file = "mods/fire-arrows-ignite-fire.pw.toml"
-hash = "fe002b74b45a82b541942ab6d57c7faa2808cfef6f98ece459280a581313be21"
+hash = "06324c32a72dfbedaba75cce6f6704e41902404f8ecbebb62f58666f5e515705"
 metafile = true
 
 [[files]]
@@ -700,7 +700,7 @@ metafile = true
 
 [[files]]
 file = "mods/friends-and-foes.pw.toml"
-hash = "9c74cc6556161393d1dd734b483a6f212a7032e97fad8f40a6e2834d0ab1baba"
+hash = "cb756f7f13557619cf35fe84e50c995106a4d5792d52e5948327668094664775"
 metafile = true
 
 [[files]]
@@ -740,7 +740,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-armors.pw.toml"
-hash = "d4cb37fd4f1c51ebb4428e3b82bc70b400c6957ca583a57699af2ded6adbd2be"
+hash = "72ff03454352e42aca8b03c5844522894d74244cdd0a32763591164d23ee265c"
 metafile = true
 
 [[files]]
@@ -1115,7 +1115,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "7207bcd8319f1e4b89806c7f909c87acdd3a5f96e5917d859ff704df8ff9a229"
+hash = "b9ab854220783f5fecee464b77ec2ad180f9294735579b12ceceb2506cd4e15b"
 metafile = true
 
 [[files]]
@@ -1200,7 +1200,7 @@ metafile = true
 
 [[files]]
 file = "mods/variants-and-ventures.pw.toml"
-hash = "407d17f49e826d70bd7cd24eb90e56464583fae9528fe9ca9b402329ebdacf32"
+hash = "6891d3d31f0b303e597304f848c618333318682079588ab339c837b500a8f53c"
 metafile = true
 
 [[files]]
@@ -1325,7 +1325,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/connected-paths.pw.toml"
-hash = "f7cb105f7506d27de8640f872a105262cb9a9bf4e00e276366b344331a969eda"
+hash = "e0d3cc0237f1ba8140188f9b6d682c24262a5f3ba7e2edcd697871823a5fcadc"
 metafile = true
 
 [[files]]
@@ -1335,7 +1335,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/enchanted-books-re-covered.pw.toml"
-hash = "33fbcc3f7ce860431bacc93b06bf46ee68192e0ad98147a454b1fa0152eb53ff"
+hash = "f02b95d21e78b75d1a1c93296e1dd90dc5d03439958fd1596cb77bbce864663f"
 metafile = true
 
 [[files]]

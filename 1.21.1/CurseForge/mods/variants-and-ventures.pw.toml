@@ -1,13 +1,13 @@
 name = "Variants&Ventures"
-filename = "variantsandventures-fabric-1.0.17+mc1.21.1.jar"
+filename = "variantsandventures-fabric-1.0.18+mc1.21.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e2f64a064825dc81ddf8ca584bc0a33b9322bd64"
+hash = "34a7898bc5908fc09f46053bf0ea100dc749bfc8"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6839457
+file-id = 7001965
 project-id = 981139
