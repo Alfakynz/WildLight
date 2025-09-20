@@ -3,7 +3,6 @@
 *.zip
 *.mrpack
 node_modules/
-__pycache__/
 
 configureddefaults/
 .packwizignore

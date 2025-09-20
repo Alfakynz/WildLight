@@ -6,7 +6,13 @@ This resource pack is designed to fix some interface elements that don't diplay 
 
 - Adds a new style for IPN
 - Adds new panorama
-- Fixes inventory view to include the trinket slot (from Friends&Foes)
+- Adds new Menu Icon
+- Adds compat for Animal Feeding Trough
+- Adds compat for Enhanced Workbenches
+- Adds compat for Not Interested!
+- Adds compat for Useful Backpacks
+- Adds icon for PhysicsMod
+- Adds icon for Sounds
 - Fixes Fabric creative buttons not displaying correctly on hover
 - Fixes sugar cane not showing properly on the hotbar
 
