@@ -109,6 +109,10 @@ file = "configureddefaults/config/fancymenu/user_variables.db"
 hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
+file = "configureddefaults/config/immersiveui.yaml"
+hash = "0ad9097a5c12bb317717b09ecd86d02352fa78696140588c1176ec0a93698940"
+
+[[files]]
 file = "configureddefaults/config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "ece31125f5524624fc79ab9cf570587442777a2845e3968253b3cc4bde8ac384"
 
@@ -262,7 +266,7 @@ hash = "6f472441a8c7377731ff5f9ad43f46951595c8a4969d1ba4b1055aa185a38c23"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "045f0a773502379b7e7c82f15275a6bf3b1c79da1c28acc7873adff5f5fd4053"
+hash = "6e4453278dafb6b0345df7b226c52cb469d8540029487e5b6d98bf3d905b4e04"
 
 [[files]]
 file = "icon.png"
@@ -385,7 +389,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "2192098bc995d6501d0b3214917e46523ea9fd7bc7e414b5e340e2aac42dc4cc"
+hash = "68be2e322f070449da6f15d51f636304c0b5bd6219168d3fee56987cb8bae4ac"
 metafile = true
 
 [[files]]
@@ -1049,6 +1053,11 @@ hash = "85d08fed24c19a468b976ef9e996636ba3b864489431dde62fc618523b00f5fa"
 metafile = true
 
 [[files]]
+file = "mods/skeleton-horse-spawn.pw.toml"
+hash = "95bce75412aad3d4e65360d1a353036b6566aeacf420838945f33905e5c43bbe"
+metafile = true
+
+[[files]]
 file = "mods/skin-layers-3d.pw.toml"
 hash = "d106dd844518452cd4b991e9b95257bc5b8b328ed54f3f00d457e2bb6c014c56"
 metafile = true
@@ -1064,8 +1073,18 @@ hash = "69d9366753ade6e5dbcbbac31372fae83d6b37b81a63a797a217aa69e97f2992"
 metafile = true
 
 [[files]]
+file = "mods/sodium-embeddium-options-mod-compat.pw.toml"
+hash = "cedbb91d07e828888c83210b97e78c0e5b7f663807aaeedea4dd5dd133d79309"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "898e14275dd5cc187dee2b8f8fc83b4f0cdb56430b7fa64a8055e006d0249ce7"
+metafile = true
+
+[[files]]
+file = "mods/sodium-options-api.pw.toml"
+hash = "faa58868fad174ceb591284edd09d114648a2fc69247bea6506cc3ced1399c7b"
 metafile = true
 
 [[files]]
@@ -1126,6 +1145,11 @@ metafile = true
 [[files]]
 file = "mods/text-placeholder-api.pw.toml"
 hash = "605e24df28c2facc0e22397656ff507548b86badc0a8fbc278c72f6ccd3da242"
+metafile = true
+
+[[files]]
+file = "mods/tiny-skeletons.pw.toml"
+hash = "3d1e1d05f111378a250afdc30f963bca9165f31c1b11d05b7f96b19dc5ae1f3b"
 metafile = true
 
 [[files]]
@@ -1274,6 +1298,11 @@ hash = "2df9fc409fbea2506dd1cf571d819fc35f9589e0fa9d2188b58f578e42080a9d"
 metafile = true
 
 [[files]]
+file = "mods/zombie-horse-spawn.pw.toml"
+hash = "fa634e8b3b2096dc3ce29697f4509d3f00a2d2a2cf9b39322d77cebc0e78f8b1"
+metafile = true
+
+[[files]]
 file = "mods/zoomify.pw.toml"
 hash = "17f3f5b9d55bfe1f09be32af18b128050723e365a82ba0a5b3a31bd3980dab16"
 metafile = true
@@ -1319,6 +1348,11 @@ hash = "beecc5e172e8fa117b3008e6d85d2182ab504cf73e055cc3bbc27afccc424c79"
 metafile = true
 
 [[files]]
+file = "resourcepacks/fresh-animations-extensions.pw.toml"
+hash = "b8cd8f8475f65bdefa21a248e6b72bbd566c850878d0303e25e4911bc6025065"
+metafile = true
+
+[[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "a8a5b310a327b30be69b526640abbd7f61300a0266cd1d62a8765058ad3e8dac"
 metafile = true
@@ -1360,7 +1394,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/wildlight.pw.toml"
-hash = "23de19153b2e87da21c7371870238b70a7774f00e5ab436f6cd9faef52902895"
+hash = "c89ca5efccc2b468487a1e91b94b9fa0100fc7869e4310e40dfa6ad12805e99d"
 metafile = true
 
 [[files]]
