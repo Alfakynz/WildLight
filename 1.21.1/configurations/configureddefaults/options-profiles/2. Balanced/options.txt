@@ -24,8 +24,8 @@ narrator:0
 particles:0
 reducedDebugInfo:false
 renderClouds:"true"
-renderDistance:8
-simulationDistance:8
+renderDistance:12
+simulationDistance:12
 screenEffectScale:1.0
 soundDevice:""
 autoJump:false
@@ -50,7 +50,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","frozenlib:mod/file/wilder_music.zip","tinyskeletons:dynamically_copied_skeleton_textures","file/Icons v.1.11.3.zip","file/Icons-Additions-1.2v.zip","file/Re-covered.zip","file/enchant icons 1.21 v1.3.zip","file/Recolourful Containers DARK 2.1.1 (1.19.4+).zip","file/Assembled-Legendary-Tooltips.zip","file/LowOnFire 1.21.3.zip","minecraft:supporteatinganimation","file/FreshAnimations_v1.10.1.zip","file/FA+All_Extensions-v1.6.zip","file/Sun and Moon Circular.zip","file/3D Default 1.20+ v1.12.0.zip","file/crops-3d(2).zip","file/Circular Logs 1.0.14.zip","file/It\u0027s All Connected v1.1.zip","file/Conenected Glasses.zip","file/Connected Glases.zip","file/Connected Paths v1.3.zip","file/Fast Better Grass.zip","seamless:default_seamless","visualoverhaul:nobrewingbottles","visualoverhaul:rounddiscs","visualoverhaul:fancyfurnace","visualoverhaul:coloredwaterbucket","seasons:seasonal_lush_caves","file/WildLight.zip"]
+resourcePacks:["vanilla","fabric","frozenlib:mod/file/wilder_music.zip","tinyskeletons:dynamically_copied_skeleton_textures","file/Icons v.1.11.3.zip","file/Icons-Additions-1.2v.zip","file/Re-covered.zip","file/enchant icons 1.21 v1.3.zip","file/Recolourful Containers DARK 2.1.1 (1.19.4+).zip","file/Assembled-Legendary-Tooltips.zip","file/LowOnFire 1.21.3.zip","minecraft:supporteatinganimation","file/FreshAnimations_v1.10.1.zip","file/FA+All_Extensions-v1.6.zip","file/Sun and Moon Circular.zip","file/3D Default 1.20+ v1.12.0.zip","file/crops-3d(2).zip","file/Circular Logs 1.0.14.zip","file/It\u0027s All Connected v1.1.zip","file/Conenected Glasses.zip","file/Connected Paths v1.3.zip","file/Fast Better Grass.zip","seamless:default_seamless","visualoverhaul:nobrewingbottles","visualoverhaul:rounddiscs","visualoverhaul:fancyfurnace","visualoverhaul:coloredwaterbucket","seasons:seasonal_lush_caves","file/WildLight.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -127,6 +127,9 @@ key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
 key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
 key_legendarytooltips.key.scrollTooltips:key.keyboard.left.shift
 key_merchantmarkers.key.showMarkers:key.keyboard.left.alt
+key_key.optionsprofiles.profile_1:key.keyboard.unknown
+key_key.optionsprofiles.profile_2:key.keyboard.unknown
+key_key.optionsprofiles.profile_3:key.keyboard.unknown
 key_key.usefulbackpacks.slotmodintegration.open_backpack.description:key.keyboard.v
 key_key.autohud.toggle-hud:key.keyboard.h
 key_key.autohud.peek-hud:key.keyboard.unknown
@@ -152,8 +155,6 @@ key_key.pickup.item:key.keyboard.unknown
 key_key.jade.config:key.keyboard.keypad.0
 key_key.jade.show_overlay:key.keyboard.keypad.1
 key_key.jade.toggle_liquid:key.keyboard.keypad.2
-key_key.jade.show_recipes:key.keyboard.keypad.3
-key_key.jade.show_uses:key.keyboard.keypad.4
 key_key.jade.narrate:key.keyboard.keypad.5
 key_key.jade.show_details_alternative:key.keyboard.unknown
 key_key.journeymap.zoom_in:key.keyboard.equal

@@ -117,6 +117,10 @@ file = "configureddefaults/config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "ece31125f5524624fc79ab9cf570587442777a2845e3968253b3cc4bde8ac384"
 
 [[files]]
+file = "configureddefaults/config/iris.properties"
+hash = "f80bf0f08088dd094565be04e84e46e7cba4c0de104da7df4e7b3486b684fef5"
+
+[[files]]
 file = "configureddefaults/config/jade/hide-blocks.json"
 hash = "309df4ae96864c19eae41b646d58497c85a73b1fc3c584e772ef4d5822794baa"
 
@@ -265,8 +269,76 @@ file = "configureddefaults/journeymap/config/6.0/journeymap.webmap.config"
 hash = "6f472441a8c7377731ff5f9ad43f46951595c8a4969d1ba4b1055aa185a38c23"
 
 [[files]]
+file = "configureddefaults/options-profiles/0. Default/configuration.json"
+hash = "8db005b27167a519d6cdcc3351de52b817d92804630e9bdd8f0982b7fc196326"
+
+[[files]]
+file = "configureddefaults/options-profiles/0. Default/iris.properties"
+hash = "f80bf0f08088dd094565be04e84e46e7cba4c0de104da7df4e7b3486b684fef5"
+
+[[files]]
+file = "configureddefaults/options-profiles/0. Default/options.txt"
+hash = "aec9ac48a8bb223a22f136ec1cb26ea05a1780f40f2385fa5ad96e2037f4aa6b"
+
+[[files]]
+file = "configureddefaults/options-profiles/0. Default/sodium-options.json"
+hash = "2ab0b0dd6659084f24fcc7536e1254bb0b13cb1b83c22f6de844d5be66f36050"
+
+[[files]]
+file = "configureddefaults/options-profiles/1. Performance/configuration.json"
+hash = "bf66f2840ffe2a022e0ef5a9dd951242339c949710a7af51ed6fb5c9b2ac9827"
+
+[[files]]
+file = "configureddefaults/options-profiles/1. Performance/iris.properties"
+hash = "ff7d1fbef5c04eba8febb5429da0d9721891977be465a05ce4e9675e9e728c3e"
+
+[[files]]
+file = "configureddefaults/options-profiles/1. Performance/options.txt"
+hash = "5279b0cff188c3feff042248feef9b8cd1a6b6b6914767172c1ff870e47b59ff"
+
+[[files]]
+file = "configureddefaults/options-profiles/1. Performance/sodium-options.json"
+hash = "096084da06b7c6a5bd70f3e10e5ce1ccc3d1d54261c27e805f94a58a48696129"
+
+[[files]]
+file = "configureddefaults/options-profiles/2. Balanced/configuration.json"
+hash = "bf66f2840ffe2a022e0ef5a9dd951242339c949710a7af51ed6fb5c9b2ac9827"
+
+[[files]]
+file = "configureddefaults/options-profiles/2. Balanced/iris.properties"
+hash = "d6285e0d9b1b1c66cfdeebf3391d8e68e923ea6373c6d3c1c5f499a0895dbd02"
+
+[[files]]
+file = "configureddefaults/options-profiles/2. Balanced/options.txt"
+hash = "1d4f90cb539e501938d057c86058714e38f9ffff5585ee71f525da0419c64de0"
+
+[[files]]
+file = "configureddefaults/options-profiles/2. Balanced/sodium-options.json"
+hash = "2ab0b0dd6659084f24fcc7536e1254bb0b13cb1b83c22f6de844d5be66f36050"
+
+[[files]]
+file = "configureddefaults/options-profiles/3. Quality/configuration.json"
+hash = "4b33b546284c9295eca88246f9c8b9443d80ccdf15e8c83eca618bc71b313f9d"
+
+[[files]]
+file = "configureddefaults/options-profiles/3. Quality/iris.properties"
+hash = "3cb90af0e9551d835c3da0bcb624da016e8b8d9eaa6f4d0829e623211dec85bc"
+
+[[files]]
+file = "configureddefaults/options-profiles/3. Quality/options.txt"
+hash = "ca6b107621b0d13482539916216ac0ea15f522e40c95fdb86ee182876cf3eae1"
+
+[[files]]
+file = "configureddefaults/options-profiles/3. Quality/sodium-options.json"
+hash = "2ab0b0dd6659084f24fcc7536e1254bb0b13cb1b83c22f6de844d5be66f36050"
+
+[[files]]
+file = "configureddefaults/options-profiles/configuration.json"
+hash = "e414f088eec5f6006bfbf3fc88afe73562de58a7298850ae9d3f15fb113ccfd9"
+
+[[files]]
 file = "configureddefaults/options.txt"
-hash = "6e4453278dafb6b0345df7b226c52cb469d8540029487e5b6d98bf3d905b4e04"
+hash = "de10631f778531a15c9df775220d9d6efaf12fb1bf3d04d4620ab9029ada1c57"
 
 [[files]]
 file = "icon.png"
@@ -915,6 +987,11 @@ metafile = true
 [[files]]
 file = "mods/octo-lib.pw.toml"
 hash = "6c7a1fab1da041a935a8974dd9904cf4ee9843c5d07479b719797bdfed95db9f"
+metafile = true
+
+[[files]]
+file = "mods/options-profiles.pw.toml"
+hash = "b33211cd4549d8c7aa6db8f9c6b4effa2afb47b05256c6abe855ff146f13b79f"
 metafile = true
 
 [[files]]

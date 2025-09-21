@@ -137,6 +137,7 @@
 - [Not interested!](https://modrinth.com/project/j7Ux0G0U)
 - [Nyf's Spiders](https://modrinth.com/project/dOGM7ccu)
 - [OctoLib](https://modrinth.com/project/RH2KUdKJ)
+- [Options Profiles](https://modrinth.com/project/DnyS3EEW)
 - [Particle Effects](https://modrinth.com/project/PLAGcSFJ)
 - [Particular ✨](https://modrinth.com/project/B1CcCd9h)
 - [Patchouli](https://modrinth.com/project/nU0bVIaL)

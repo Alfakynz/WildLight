@@ -1,5 +1,3 @@
-.vscode/
 .DS_Store
 *.zip
 *.mrpack
-PACK_CONTENT.md
