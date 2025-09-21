@@ -13,6 +13,8 @@ This resource pack is designed to fix some interface elements that don't diplay 
 - Adds compat for Useful Backpacks
 - Adds icon for PhysicsMod
 - Adds icon for Sounds
+- Adds icon for Options Profiles
+- Adds icon for Sodium (leaves)
 - Fixes Fabric creative buttons not displaying correctly on hover
 - Fixes sugar cane not showing properly on the hotbar
 
