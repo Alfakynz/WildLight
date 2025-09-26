@@ -6,7 +6,7 @@ This resource pack is designed to fix some interface elements that don't diplay 
 
 - Adds a new style for IPN
 - Adds new panorama
-- Adds new Menu Icon
+- Adds new Game Menu Icon
 - Adds compat for Animal Feeding Trough
 - Adds compat for Enhanced Workbenches
 - Adds compat for Not Interested!

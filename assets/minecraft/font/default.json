@@ -8,6 +8,13 @@
       "chars": [
         "\uDBF0\uDC01\uDBF0\uDC02\uDBF0\uDC03\uDBF0\uDC04\uDBF0\uDC05\uDBF0\uDC06\uDBF0\uDC07\uDBF0\uDC08\uDBF0\uDC09\uDBF0\uDC10\uDBF0\uDC11\uDBF0\uDC12"
       ]
+    },
+    {
+      "type": "bitmap",
+      "file": "wildlight:gamemenulogo.png",
+      "ascent": 16,
+      "height": 32,
+      "chars": ["\uDBF0\uDC13"]
     }
   ]
 }
