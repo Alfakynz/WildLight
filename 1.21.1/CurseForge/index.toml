@@ -274,7 +274,7 @@ hash = "6f472441a8c7377731ff5f9ad43f46951595c8a4969d1ba4b1055aa185a38c23"
 
 [[files]]
 file = "configureddefaults/options-profiles/0. Default/configuration.json"
-hash = "8db005b27167a519d6cdcc3351de52b817d92804630e9bdd8f0982b7fc196326"
+hash = "77a00d86bc2a4b150df76f407c30b55e5909c2d9c2be7740bbb9f1c69419e127"
 
 [[files]]
 file = "configureddefaults/options-profiles/0. Default/iris.properties"
@@ -282,7 +282,7 @@ hash = "f80bf0f08088dd094565be04e84e46e7cba4c0de104da7df4e7b3486b684fef5"
 
 [[files]]
 file = "configureddefaults/options-profiles/0. Default/options.txt"
-hash = "156981d5634afc39063eaddf80a862620de0cf95d002bb026771d73ed864d701"
+hash = "8f9cff5f1f75cb1ff022603e34797edd74da5fa4cb6056a9c3e497b0e18f88de"
 
 [[files]]
 file = "configureddefaults/options-profiles/0. Default/sodium-options.json"
@@ -290,7 +290,7 @@ hash = "2ab0b0dd6659084f24fcc7536e1254bb0b13cb1b83c22f6de844d5be66f36050"
 
 [[files]]
 file = "configureddefaults/options-profiles/1. Performance/configuration.json"
-hash = "bf66f2840ffe2a022e0ef5a9dd951242339c949710a7af51ed6fb5c9b2ac9827"
+hash = "50dc51234d93a1cac2298fb52f3a05276c4ec7e2d4c50ec71c77ae0f65c56b23"
 
 [[files]]
 file = "configureddefaults/options-profiles/1. Performance/iris.properties"
@@ -298,7 +298,7 @@ hash = "ff7d1fbef5c04eba8febb5429da0d9721891977be465a05ce4e9675e9e728c3e"
 
 [[files]]
 file = "configureddefaults/options-profiles/1. Performance/options.txt"
-hash = "f4d292fd8fc59b8bcadfee58f0f64b7148bc8f333a8b450e17b7a495470e7e70"
+hash = "a30c86725ee3e720034400a69fc0ea49819877fffad3e514f55b39d827100821"
 
 [[files]]
 file = "configureddefaults/options-profiles/1. Performance/sodium-options.json"
@@ -306,7 +306,7 @@ hash = "096084da06b7c6a5bd70f3e10e5ce1ccc3d1d54261c27e805f94a58a48696129"
 
 [[files]]
 file = "configureddefaults/options-profiles/2. Balanced/configuration.json"
-hash = "bf66f2840ffe2a022e0ef5a9dd951242339c949710a7af51ed6fb5c9b2ac9827"
+hash = "50dc51234d93a1cac2298fb52f3a05276c4ec7e2d4c50ec71c77ae0f65c56b23"
 
 [[files]]
 file = "configureddefaults/options-profiles/2. Balanced/iris.properties"
@@ -314,7 +314,7 @@ hash = "d6285e0d9b1b1c66cfdeebf3391d8e68e923ea6373c6d3c1c5f499a0895dbd02"
 
 [[files]]
 file = "configureddefaults/options-profiles/2. Balanced/options.txt"
-hash = "6dc93640524a799adb528bc7cbc03e7cac1bcf57b37d8dfbd4362f58a9f539a3"
+hash = "82189b0bfb1d9c75284c734fdf2d07abf65492dd1f6f84e8517811de2ffed419"
 
 [[files]]
 file = "configureddefaults/options-profiles/2. Balanced/sodium-options.json"
@@ -322,7 +322,7 @@ hash = "2ab0b0dd6659084f24fcc7536e1254bb0b13cb1b83c22f6de844d5be66f36050"
 
 [[files]]
 file = "configureddefaults/options-profiles/3. Quality/configuration.json"
-hash = "4b33b546284c9295eca88246f9c8b9443d80ccdf15e8c83eca618bc71b313f9d"
+hash = "50dc51234d93a1cac2298fb52f3a05276c4ec7e2d4c50ec71c77ae0f65c56b23"
 
 [[files]]
 file = "configureddefaults/options-profiles/3. Quality/iris.properties"
@@ -330,7 +330,7 @@ hash = "3cb90af0e9551d835c3da0bcb624da016e8b8d9eaa6f4d0829e623211dec85bc"
 
 [[files]]
 file = "configureddefaults/options-profiles/3. Quality/options.txt"
-hash = "7aa702c017ce68b8c5e7f85a6c813651c4a31e28ea2dffa0f6ac6d6cc11e1521"
+hash = "0cf6d85db27082d19c064b8bbcda597e17b2caf77eb270e24e09f105e78bec10"
 
 [[files]]
 file = "configureddefaults/options-profiles/3. Quality/sodium-options.json"
@@ -342,7 +342,7 @@ hash = "e414f088eec5f6006bfbf3fc88afe73562de58a7298850ae9d3f15fb113ccfd9"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "d87543fc300882fe39b7f1713e7d789eba499e28942b204f4869cbcee950a241"
+hash = "8f9cff5f1f75cb1ff022603e34797edd74da5fa4cb6056a9c3e497b0e18f88de"
 
 [[files]]
 file = "icon.png"
@@ -1020,7 +1020,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-effects.pw.toml"
-hash = "5ccf7d4c96124cd8cee98020f1da9b020fbd8aba45019f72134bfd2a5b8cb251"
+hash = "b02c6f0e8819e95e3a46f881b29ca4bd5c3ae64817cc62fdec141484f4febb4b"
 metafile = true
 
 [[files]]
@@ -1210,7 +1210,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound.pw.toml"
-hash = "39f94a474501029b3f080979be76e0a17616478a20a7475ec67bd55636259af5"
+hash = "8c855a46115fc86bb7b670908d6a4fa9d9dd0b878ce644f5f8433db51a3d3f30"
 metafile = true
 
 [[files]]
@@ -1489,8 +1489,13 @@ hash = "bbe437f86dbc630899477ddc6ac773579be8faa7eca364d5ab1b9dc7245e20ae"
 metafile = true
 
 [[files]]
+file = "resourcepacks/translations-for-sodium.pw.toml"
+hash = "e897c0f4930756c6d08a75ca3364275455cd007f5a25bf4cce188fc9ca191dcc"
+metafile = true
+
+[[files]]
 file = "resourcepacks/wildlight.pw.toml"
-hash = "b7ae515fa992d94947868cc44890701c5ec3ec6fc4fb543e98b966656ffda746"
+hash = "893c2a9f4fbc7f8dce01ca75a2d0eddb1e5cebc2b45bcdb21a154f0cf9d06d0f"
 metafile = true
 
 [[files]]

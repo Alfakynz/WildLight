@@ -241,6 +241,7 @@
 - [Low On Fire](https://modrinth.com/project/RRxvWKNC)
 - [Recolourful Containers GUI + HUD (DARK)](https://modrinth.com/project/sQCUH0Mr)
 - [Sun and Moon Circular](https://modrinth.com/project/YbwPPde4)
+- [Translations for Sodium](https://modrinth.com/project/yfDziwn1)
 
 ## Shader packs used
 

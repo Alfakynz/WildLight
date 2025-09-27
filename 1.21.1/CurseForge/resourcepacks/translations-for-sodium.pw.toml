@@ -1,0 +1,13 @@
+name = "Translations for Sodium"
+filename = "SodiumTranslations.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d3dc0da98220b5d8fd7aa69331b5177bfccbe1f9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7037190
+project-id = 867964
