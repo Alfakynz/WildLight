@@ -1,0 +1,13 @@
+name = "Companion 🐕 (Fabric)"
+filename = "Companion-1.21.1-Fabric-6.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e2185a9120aa33459df6604ab1fab6272e97101a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6522275
+project-id = 560280

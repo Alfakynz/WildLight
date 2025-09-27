@@ -16,7 +16,7 @@
   "random_java_colors": false,
   "translate_names": true,
   "translate_descriptions": true,
-  "update_checker": true,
+  "update_checker": false,
   "button_update_badge": false,
   "update_channel": "release",
   "quick_configure": true,

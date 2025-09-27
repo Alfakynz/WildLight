@@ -141,8 +141,12 @@ file = "configureddefaults/config/jade/sort-order.json"
 hash = "d3f3be9b97417e8f177e1500b1d1f606562749b2eca47387eff162dc1b924e24"
 
 [[files]]
+file = "configureddefaults/config/kiwi-common.yaml"
+hash = "202b5a7ab19c1cfff344bd6546be24f8c10a3e92632551ca83ab636016e9d72f"
+
+[[files]]
 file = "configureddefaults/config/modmenu.json"
-hash = "3fbb3857eb3543a3e18c8a14b85de44f77312461ac5dcdfc854fb694fb5de09c"
+hash = "697b68c462edd944d4cbd23fd21195e81c170595e69a1294a85dbcdcf1894925"
 
 [[files]]
 file = "configureddefaults/config/physicsmod/physics_animations_client_config.json"
@@ -490,6 +494,11 @@ hash = "d56a650e6a901b9e84052229a90662b507dda74df65285d3d6ae2a8c71fd9975"
 metafile = true
 
 [[files]]
+file = "mods/clickthrough-plus.pw.toml"
+hash = "d3fd7c24794750a72afa4a71328edc4363159c52e6bf140d096330b6eae79239"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "9e21cc4fae5ed88e306b4601c5e1533f883aa8b60c6e36dedeec82718be87059"
 metafile = true
@@ -512,6 +521,11 @@ metafile = true
 [[files]]
 file = "mods/comforts.pw.toml"
 hash = "29b54192c0e760db397dacd332422615ea177f939fc203af36a7e0c9d433b629"
+metafile = true
+
+[[files]]
+file = "mods/companion-fabric.pw.toml"
+hash = "87c85e8d06dccf40c2b110270407f1354c3a939fa89acdc72e2df9de9ab5e25f"
 metafile = true
 
 [[files]]
@@ -847,6 +861,11 @@ metafile = true
 [[files]]
 file = "mods/journeymap.pw.toml"
 hash = "3c81bed7d427dc00917641a8414f17b10053c624381c554b26270b34f0afeb6b"
+metafile = true
+
+[[files]]
+file = "mods/kiwi-fabric.pw.toml"
+hash = "ab517ee40abcd67ea08fb41c4406e52ee0fa2ac16e069e7ab77967f6f04eb21d"
 metafile = true
 
 [[files]]
