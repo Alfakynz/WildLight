@@ -15,8 +15,10 @@ This resource pack is designed to fix some interface elements that don't diplay 
 - Adds icon for Sounds
 - Adds icon for Options Profiles
 - Adds icon for Sodium (leaves)
+- Adds icon for Mod Menu (Open Mods Folder)
 - Fixes Fabric creative buttons not displaying correctly on hover
 - Fixes sugar cane not showing properly on the hotbar
+- Most of the icons added work in English, Spanish, and French
 
 ## 🤝 Contributing
 
