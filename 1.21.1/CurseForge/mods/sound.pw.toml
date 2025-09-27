@@ -1,6 +1,7 @@
 name = "Sound​s"
 filename = "sounds-2.4.13.1+lts+1.21.1+fabric.jar"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha1"

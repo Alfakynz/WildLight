@@ -1,13 +1,13 @@
 name = "Icons - Additions"
-filename = "Icons-Additions-1.2v.zip"
+filename = "Icons-Additions-1.2.1.zip"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "57b28f3c64994feb30bc9b75e13bb738dad0fbb0"
+hash = "6d9926a4de85f6d95b5c78bb10b9bcd204e091b6"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6331832
+file-id = 7035274
 project-id = 1225527

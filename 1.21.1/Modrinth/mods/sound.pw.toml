@@ -1,6 +1,7 @@
 name = "Sounds"
 filename = "sounds-2.4.13.1+lts+1.21.1+fabric.jar"
 side = "client"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/ZouiUX7t/versions/Q7K8sC4t/sounds-2.4.13.1%2Blts%2B1.21.1%2Bfabric.jar"

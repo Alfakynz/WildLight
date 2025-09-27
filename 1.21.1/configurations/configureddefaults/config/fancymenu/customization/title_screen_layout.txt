@@ -45,11 +45,9 @@ layout_action_executable_blocks {
 
 element {
   copy_client_player = true
-  playername = Alfakynz
   auto_skin = false
   auto_cape = false
   slim = false
-  skin_source = Alfakynz
   scale = 30
   parrot = false
   parrot_left_shoulder = false
@@ -141,7 +139,7 @@ element {
   fade_in_speed = 1.0
   fade_out = no_fading
   fade_out_speed = 1.0
-  base_opacity = 0.95
+  base_opacity = 1
   auto_sizing = false
   auto_sizing_base_screen_width = 1920
   auto_sizing_base_screen_height = 1080

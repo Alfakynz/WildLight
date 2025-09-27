@@ -1,13 +1,13 @@
 name = "Icons - Additions"
-filename = "Icons-Additions-1.2v.zip"
+filename = "Icons-Additions-1.2.1.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/2aHPb3sX/versions/oiWuZCmG/Icons-Additions-1.2v.zip"
+url = "https://cdn.modrinth.com/data/2aHPb3sX/versions/m9yefrGs/Icons-Additions-1.2.1.zip"
 hash-format = "sha512"
-hash = "475abb2519bead5141f4269b559ba1a3d5922bd2851b11a58a0d69eeb28a409ace685d1b01a5610456d89a366c9b2555660833eeab0b8bbe1779e95fc846c9ad"
+hash = "ee752746b63a70711c0c7ac59025f8c17eb2e08871f4fd1dee7f225ee056d3f46bf2b5025de4951c3c5bb359b99cfcae5c34c9729e7b60597e2f81743f988790"
 
 [update]
 [update.modrinth]
 mod-id = "2aHPb3sX"
-version = "oiWuZCmG"
+version = "m9yefrGs"

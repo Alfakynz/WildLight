@@ -1,13 +1,13 @@
 name = "Icons"
-filename = "Icons v.1.11.3.zip"
+filename = "Icons v.1.12 1.20.1-1.21.1.zip"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "6f9130130600e783a9c00346c9832cbb43d33f27"
+hash = "0cb9d4db16a848611008a58e40983f47be767a69"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5743895
+file-id = 7026455
 project-id = 422346

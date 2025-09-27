@@ -2,6 +2,6 @@ name = "WildLight"
 filename = "WildLight.zip"
 
 [download]
-url = "https://github.com/Alfakynz/WildLight/releases/download/v1.5.1-rp/WildLight.zip"
+url = "https://github.com/Alfakynz/WildLight/releases/download/v1.6.2-rp/WildLight.zip"
 hash-format = "sha256"
-hash = "4447d395871c2aae2e6abecb2a235732b0033287568ce9e68dbf3c4935f1a1fc"
+hash = "b39eda9ad395e1754e6e97bd8e566e3e00ac0b6eba668bf689b72fb954549af5"

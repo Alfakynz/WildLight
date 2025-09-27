@@ -82,7 +82,7 @@ hash = "9773ad7514d9fc689be40b9a6a60bd751d06472aae28187af6899110908c2dcd"
 
 [[files]]
 file = "configureddefaults/config/fancymenu/customization/title_screen_layout.txt"
-hash = "fe82c361e3050787c2bdad54143b1e9776f508cdb2079eda2631830ade31d7db"
+hash = "c54b0ff87ebb12857b5d67597d08c773149977525f98f225bda55e8f4a3495d6"
 
 [[files]]
 file = "configureddefaults/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -278,7 +278,7 @@ hash = "f80bf0f08088dd094565be04e84e46e7cba4c0de104da7df4e7b3486b684fef5"
 
 [[files]]
 file = "configureddefaults/options-profiles/0. Default/options.txt"
-hash = "aec9ac48a8bb223a22f136ec1cb26ea05a1780f40f2385fa5ad96e2037f4aa6b"
+hash = "156981d5634afc39063eaddf80a862620de0cf95d002bb026771d73ed864d701"
 
 [[files]]
 file = "configureddefaults/options-profiles/0. Default/sodium-options.json"
@@ -294,7 +294,7 @@ hash = "ff7d1fbef5c04eba8febb5429da0d9721891977be465a05ce4e9675e9e728c3e"
 
 [[files]]
 file = "configureddefaults/options-profiles/1. Performance/options.txt"
-hash = "5279b0cff188c3feff042248feef9b8cd1a6b6b6914767172c1ff870e47b59ff"
+hash = "f4d292fd8fc59b8bcadfee58f0f64b7148bc8f333a8b450e17b7a495470e7e70"
 
 [[files]]
 file = "configureddefaults/options-profiles/1. Performance/sodium-options.json"
@@ -310,7 +310,7 @@ hash = "d6285e0d9b1b1c66cfdeebf3391d8e68e923ea6373c6d3c1c5f499a0895dbd02"
 
 [[files]]
 file = "configureddefaults/options-profiles/2. Balanced/options.txt"
-hash = "1d4f90cb539e501938d057c86058714e38f9ffff5585ee71f525da0419c64de0"
+hash = "6dc93640524a799adb528bc7cbc03e7cac1bcf57b37d8dfbd4362f58a9f539a3"
 
 [[files]]
 file = "configureddefaults/options-profiles/2. Balanced/sodium-options.json"
@@ -326,7 +326,7 @@ hash = "3cb90af0e9551d835c3da0bcb624da016e8b8d9eaa6f4d0829e623211dec85bc"
 
 [[files]]
 file = "configureddefaults/options-profiles/3. Quality/options.txt"
-hash = "ca6b107621b0d13482539916216ac0ea15f522e40c95fdb86ee182876cf3eae1"
+hash = "7aa702c017ce68b8c5e7f85a6c813651c4a31e28ea2dffa0f6ac6d6cc11e1521"
 
 [[files]]
 file = "configureddefaults/options-profiles/3. Quality/sodium-options.json"
@@ -338,7 +338,7 @@ hash = "e414f088eec5f6006bfbf3fc88afe73562de58a7298850ae9d3f15fb113ccfd9"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "de10631f778531a15c9df775220d9d6efaf12fb1bf3d04d4620ab9029ada1c57"
+hash = "d87543fc300882fe39b7f1713e7d789eba499e28942b204f4869cbcee950a241"
 
 [[files]]
 file = "icon.png"
@@ -446,7 +446,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me.pw.toml"
-hash = "066aff0148374f674df951d4e5c0ddb265180fa2c27bbe4ed84bbb859aa0fd65"
+hash = "ec813e6ade7e4f375d23908224581c1424d6bccaf3a54d9c59761c447c2707f9"
 metafile = true
 
 [[files]]
@@ -786,7 +786,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "c0ec2153521e6cef044daa0ac1a4d3af741ac675fd0bdf47395ffd21221557b6"
+hash = "7cd0e909ee98d8387a1173356ca000fe958d15a3ebb58984def87dec663184f7"
 metafile = true
 
 [[files]]
@@ -1076,7 +1076,7 @@ metafile = true
 
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
-hash = "2d0225d6af279450494fc733773f93b67114fbbd04e83b43694814681170d7dd"
+hash = "6f039f474f01f1991e1515fc44898679058a425bda5c784d70227fe610bf643b"
 metafile = true
 
 [[files]]
@@ -1186,12 +1186,12 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "74ebaa9cd6e614f602ec4c8c889786b9787a1f00a4ecd66992d301b23cbdab90"
+hash = "dc64fa7d848e9dbb47917b2512896e28f4b23a0d9a3585aab37fcc5393a272ee"
 metafile = true
 
 [[files]]
 file = "mods/sound.pw.toml"
-hash = "3103c8b36e914951f84d2c770edd5005fdeaed03e1ae14ce11dcf3685dc8db72"
+hash = "39f94a474501029b3f080979be76e0a17616478a20a7475ec67bd55636259af5"
 metafile = true
 
 [[files]]
@@ -1436,12 +1436,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/icons-additions.pw.toml"
-hash = "2f3ad508f821f0362a96e752fb0765f420309bc592755b5007422fd3df85cbb4"
+hash = "ee720aea7c0b072215a018cbe96f21f7534796542cb99cd4bd8d627f4a6c0ed8"
 metafile = true
 
 [[files]]
 file = "resourcepacks/icons.pw.toml"
-hash = "70e077aacee1e6a8fbb0878cf9115a94a7545b3ba0a09a98d1d587357c3d5d32"
+hash = "ea0ae0a87c7ec4a67f48db67039b44d483b4d4a9eb4d3adcb4024bbc89d2bd92"
 metafile = true
 
 [[files]]
@@ -1471,7 +1471,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/wildlight.pw.toml"
-hash = "c89ca5efccc2b468487a1e91b94b9fa0100fc7869e4310e40dfa6ad12805e99d"
+hash = "b7ae515fa992d94947868cc44890701c5ec3ec6fc4fb543e98b966656ffda746"
 metafile = true
 
 [[files]]
