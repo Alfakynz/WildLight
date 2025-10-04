@@ -64,11 +64,10 @@ import ArrowRight from './icons/arrow-right.vue'
 
 const screenshots = [
   new URL('../assets/images/screenshots/Night.png', import.meta.url).href,
-  new URL('../assets/images/screenshots/Underwater.png', import.meta.url).href,
+  new URL('../assets/images/screenshots/Towns and Towers.png', import.meta.url).href,
+  new URL('../assets/images/screenshots/Deeper and Darker.png', import.meta.url).href,
+  new URL('../assets/images/screenshots/Volcano.png', import.meta.url).href,
   new URL('../assets/images/screenshots/Survival.png', import.meta.url).href,
-  new URL('../assets/images/screenshots/Bliss.png', import.meta.url).href,
-  new URL('../assets/images/screenshots/Complementary Shaders - Unbound.png', import.meta.url).href,
-  new URL('../assets/images/screenshots/Makeup - Ultra Fast.png', import.meta.url).href,
 ]
 
 const current = ref(0)
