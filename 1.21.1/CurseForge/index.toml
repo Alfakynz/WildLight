@@ -141,6 +141,10 @@ file = "configureddefaults/config/jade/sort-order.json"
 hash = "d3f3be9b97417e8f177e1500b1d1f606562749b2eca47387eff162dc1b924e24"
 
 [[files]]
+file = "configureddefaults/config/kiwi-client.yaml"
+hash = "2651012ecb33d228d5e71ce6ade5ebb62ceb01791c1fe064d53f5c53520c212f"
+
+[[files]]
 file = "configureddefaults/config/kiwi-common.yaml"
 hash = "202b5a7ab19c1cfff344bd6546be24f8c10a3e92632551ca83ab636016e9d72f"
 
@@ -342,7 +346,7 @@ hash = "e414f088eec5f6006bfbf3fc88afe73562de58a7298850ae9d3f15fb113ccfd9"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "8f9cff5f1f75cb1ff022603e34797edd74da5fa4cb6056a9c3e497b0e18f88de"
+hash = "bf04866f86d57c4229739cffd5614cb61390e3c66091cd0b324180bc58faebd7"
 
 [[files]]
 file = "icon.png"
@@ -385,7 +389,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "21782cf50547212bf6fca41564043a520971c80277ded0f20c94acbdc2ff86ba"
+hash = "a0f1109d5eb2247833ca9df71db0da802b36709f8431fecaf7b40bf0a98d2fdf"
 metafile = true
 
 [[files]]
@@ -454,6 +458,11 @@ hash = "ec813e6ade7e4f375d23908224581c1424d6bccaf3a54d9c59761c447c2707f9"
 metafile = true
 
 [[files]]
+file = "mods/calm-down-dog.pw.toml"
+hash = "9d55d3bdb1ad685d402c316de713726a0237475490652e2f078a72a4222fd46c"
+metafile = true
+
+[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "c4f294f47a114849b5510bba3da64503e7e714c6178dbe0edf5573065e5ef541"
 metafile = true
@@ -465,7 +474,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "68be2e322f070449da6f15d51f636304c0b5bd6219168d3fee56987cb8bae4ac"
+hash = "5dab75b830ed8d32a82bba7c344f308e6ad34922a69088c460b0b40d98ccaec4"
 metafile = true
 
 [[files]]
@@ -515,7 +524,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "d3c143c5b518d2a57888cf1916e06bdb0f50e83b8341bf65885cdc769886647f"
+hash = "f86eb8dae5bf0e78cd759a47109b04f0cf20608def2471356a8d9985fbef0436"
 metafile = true
 
 [[files]]
@@ -550,7 +559,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "ee0ecac6cc578bb778002e0fb79dfde11a3966569185a91fb7108507c064afa7"
+hash = "7112f698dda447ec4f1c6474683308487d51e93ec8dbe26c7f81d0fdd4c9fdb0"
 metafile = true
 
 [[files]]
@@ -970,7 +979,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-more-popups.pw.toml"
-hash = "f8f233a66e5b1ee5959b7f16427e1f272eeb47811478d60284738e4d5245c286"
+hash = "31e8fbadb81ea250d31acd1ee6c81d181bbc09eb0375cfa57c036732e74106d4"
 metafile = true
 
 [[files]]
@@ -1020,7 +1029,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-effects.pw.toml"
-hash = "b02c6f0e8819e95e3a46f881b29ca4bd5c3ae64817cc62fdec141484f4febb4b"
+hash = "21045cd154ea3e71ae48ff0ee00b450e112401943e95105458f4203eb40e5076"
 metafile = true
 
 [[files]]
@@ -1106,6 +1115,11 @@ metafile = true
 [[files]]
 file = "mods/rrls.pw.toml"
 hash = "6dff4b6eccb5ecca2c5b15bf8e24523298819839db487f02a65636c2fbe3fdd1"
+metafile = true
+
+[[files]]
+file = "mods/satisfying-buttons.pw.toml"
+hash = "f6688f17668cd09485682d156942c333570a1affb2b8c6732b4ef731c3459d64"
 metafile = true
 
 [[files]]
@@ -1215,12 +1229,12 @@ metafile = true
 
 [[files]]
 file = "mods/spawn-animations-mod.pw.toml"
-hash = "ed5c437f79d69ec67c9b210dd19f0a348d509a3c9bb9513a102ae343b1b57015"
+hash = "072d6666653495fe0076d21d248ca02e2096d63e41e48926ac0a5105616508fc"
 metafile = true
 
 [[files]]
 file = "mods/subtle-effects.pw.toml"
-hash = "c1c8c29ce72885bf25142083b72844ab93d9a314dea6c9e11450e3d2fa963acd"
+hash = "43aeb68869595d44ec15013c3e1878bb57b549f4eba4ffa7befc15e1d1062e6c"
 metafile = true
 
 [[files]]
@@ -1280,7 +1294,7 @@ metafile = true
 
 [[files]]
 file = "mods/tschipcrafts-dynamic-lights-mod.pw.toml"
-hash = "33f30b3979f0a2f4a4320a2157d77d2ae7ced9f69c03fd1b8d470269aec688b3"
+hash = "ca6d6d97a76e7891c57c63ac4536f1a1b04999b42f163f3df39c5dbf755624a6"
 metafile = true
 
 [[files]]
@@ -1325,7 +1339,7 @@ metafile = true
 
 [[files]]
 file = "mods/wilder-wild.pw.toml"
-hash = "30ce6d0d89cd6b9913fc5769443f19d71c29fcf3c89b616c1ed3c4ae2c4b22f1"
+hash = "8dcf0b3cb319aa43b430435c51c07fbd432999e3832e191518172dc97f837b7b"
 metafile = true
 
 [[files]]
@@ -1400,7 +1414,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "17f3f5b9d55bfe1f09be32af18b128050723e365a82ba0a5b3a31bd3980dab16"
+hash = "1836c4b896229b4283d28009951c913b518df7aefd0ccb05f12cd954c3a7deb8"
 metafile = true
 
 [[files]]
@@ -1440,7 +1454,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fast-better-grass.pw.toml"
-hash = "beecc5e172e8fa117b3008e6d85d2182ab504cf73e055cc3bbc27afccc424c79"
+hash = "bb7d05bb7097173a4193e7a82b554d5748a849db9fd65c8515d7564f2988e656"
 metafile = true
 
 [[files]]
@@ -1475,12 +1489,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/minecraft-3d-default.pw.toml"
-hash = "9ef8617487eced242fd06e99aa377c8371e89d4700d8caca086a33acd37593a6"
+hash = "03d6565210f9674a4eb2da0cef0db986571cea9444d7e80b67775c699253db87"
 metafile = true
 
 [[files]]
 file = "resourcepacks/recolourful-containers-gui-hud-dark.pw.toml"
-hash = "1a2787f8b54f948955310a27780c3902461914dea87920006b30731075c03d62"
+hash = "8f47bdee1b8a2518245bb9f11e011e10dee583105661d6a27d69d2f54385c1e8"
 metafile = true
 
 [[files]]
@@ -1490,7 +1504,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "e897c0f4930756c6d08a75ca3364275455cd007f5a25bf4cce188fc9ca191dcc"
+hash = "72db8f46fc33de31ace4886fc72098250f1d93d0ee2c98848b2d5a991be16b3e"
 metafile = true
 
 [[files]]

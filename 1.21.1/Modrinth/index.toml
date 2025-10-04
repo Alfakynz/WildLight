@@ -141,6 +141,10 @@ file = "configureddefaults/config/jade/sort-order.json"
 hash = "d3f3be9b97417e8f177e1500b1d1f606562749b2eca47387eff162dc1b924e24"
 
 [[files]]
+file = "configureddefaults/config/kiwi-client.yaml"
+hash = "2651012ecb33d228d5e71ce6ade5ebb62ceb01791c1fe064d53f5c53520c212f"
+
+[[files]]
 file = "configureddefaults/config/kiwi-common.yaml"
 hash = "202b5a7ab19c1cfff344bd6546be24f8c10a3e92632551ca83ab636016e9d72f"
 
@@ -342,7 +346,7 @@ hash = "e414f088eec5f6006bfbf3fc88afe73562de58a7298850ae9d3f15fb113ccfd9"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "8f9cff5f1f75cb1ff022603e34797edd74da5fa4cb6056a9c3e497b0e18f88de"
+hash = "bf04866f86d57c4229739cffd5614cb61390e3c66091cd0b324180bc58faebd7"
 
 [[files]]
 file = "icon.png"
@@ -390,12 +394,12 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "c92c73551dc3ba9f116e0cef1e90bb553bf59f34530c7c281af28ac624a3a9d6"
+hash = "be28a9ff89c60140b2983eb91089e77bec90bc5a0379c25472be01cb14dcbb97"
 metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "47aaa2693fff2f75cc994e2398a751ae1da4d78f77c979c1f7f8c906a4f32dbf"
+hash = "3b4df09734a7d6d44ed1928658d6e3976c3af58dc2ed8b72f63cafed8b7f507e"
 metafile = true
 
 [[files]]
@@ -469,6 +473,11 @@ hash = "796c28baec98b91ac98449364c0a6786201f01580a777bcecacb137c1e2c6309"
 metafile = true
 
 [[files]]
+file = "mods/calm-down-dog.pw.toml"
+hash = "bcc2a822cc1e1b3d0c762bb17efd576f8b292c068fbd968b60978142530521f4"
+metafile = true
+
+[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "1ba7fcf69deeec5536f8c9e43ee4527a5871e9e5805c1801b855e5c00b25d05a"
 metafile = true
@@ -480,7 +489,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "b657f7b943275097afafe1ad47001f38a88415568e446daecbc6fc349c37351d"
+hash = "89f19c0d5869c7629f14f8286e80194de77adc48338a21e79f257e57f79af4f5"
 metafile = true
 
 [[files]]
@@ -530,7 +539,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "3c77cfac6baca0b34f29f071d47aed281cf0a27c5284145fff9b1461c24e26f8"
+hash = "8027f1e38b07a509691bccf2a8c2d35aa069530eb1ebb11adbaed50319c05f44"
 metafile = true
 
 [[files]]
@@ -565,7 +574,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "c6fdec1e830569c8e1ada3414c6802d4f2ebfd1221bdcaa6eb9618cdb70dff50"
+hash = "31535a06bf76553e83bd982eb3df9158b815cb7d0207a3fc719758d020d683b7"
 metafile = true
 
 [[files]]
@@ -650,7 +659,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-lights.pw.toml"
-hash = "198f4e1fa9fb19873894d09a3cf34ee193cb74bdd96b5e0d86ee0ab728a3aebf"
+hash = "e7bbad3e030af9a9d0bbc35f62ede52fff316f8bc2d67f86853a9ab338065e07"
 metafile = true
 
 [[files]]
@@ -730,7 +739,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "2edf9f6e65652a328d6760b89440649e20b55edfb2eae97d96ecdff47caedf97"
+hash = "d2329cce5d2bfe56f6b7b600514f8bbac17270ccd8e48179de75c8c8f1d5a382"
 metafile = true
 
 [[files]]
@@ -795,7 +804,7 @@ metafile = true
 
 [[files]]
 file = "mods/frozenlib.pw.toml"
-hash = "2a146b9ca7e942b55182b4849097ae2c4c2ef603c200442600646d92811563da"
+hash = "665187e723cf1d4a341a66a7cedad030c95e2a655b071132962e98ca1ac463f3"
 metafile = true
 
 [[files]]
@@ -1000,7 +1009,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-more-popups.pw.toml"
-hash = "25ca42ffad7f0d4134df4db93b1571ade6c2c2491bb7bcc8c17ba01a421bb155"
+hash = "d9b150d9a352515ca154ba54913c587896df1091f2d45b886711016c0e76e6ca"
 metafile = true
 
 [[files]]
@@ -1050,7 +1059,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-effects.pw.toml"
-hash = "19cda17f5f8d92d9cb31dd52e667d48567319a49f43f987d3956c1420c677050"
+hash = "9d378d54412fbd27745dbf519ea7e323eaee5facf436ad18dfea5f3e7155b200"
 metafile = true
 
 [[files]]
@@ -1141,6 +1150,11 @@ metafile = true
 [[files]]
 file = "mods/rrls.pw.toml"
 hash = "59943cbd2c0e4e90f65002e17704bca571acb09b095fc69fdf430df4bfd42870"
+metafile = true
+
+[[files]]
+file = "mods/satisfying-buttons.pw.toml"
+hash = "6391c8bfb5772569aeb567cb49056e590edc9ab66a2bc7a7fab0029bb696e1fe"
 metafile = true
 
 [[files]]
@@ -1240,12 +1254,12 @@ metafile = true
 
 [[files]]
 file = "mods/spawn-animations.pw.toml"
-hash = "649ca0fb966ad785f535632f44c957471f9015d50c3bfc5c808758ed1243fdae"
+hash = "43424f0e220634a722bae3610fa99efdec4b28e7bb5201b0e98c0688b9141954"
 metafile = true
 
 [[files]]
 file = "mods/subtle-effects.pw.toml"
-hash = "d7a2a9ad83c02fe139fc9c425a43993af81055e1ae6dbc39654fc00431c1d943"
+hash = "7847bb3ea85bd33ab997a52596da208ca2752f028d3ff3502f0780d532e7546a"
 metafile = true
 
 [[files]]
@@ -1345,7 +1359,7 @@ metafile = true
 
 [[files]]
 file = "mods/wilder-wild.pw.toml"
-hash = "605a36395b1b339b8d69e2bbe9399e829a5178ab23f20a0141f203e9ca7dbdad"
+hash = "608290bb322114f60446a30c5c4904b9fb380f264f0d12d33f30fc3c6946c9b3"
 metafile = true
 
 [[files]]
@@ -1420,7 +1434,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "208235d8f8b5f92cba00db12e00db01953cd8a5a224d62be68fda2ec172984fa"
+hash = "fb09f6357ae2e3dcfea36520efde6e9b761efffc63b4dfdec5e4b11011bac58c"
 metafile = true
 
 [[files]]
@@ -1430,7 +1444,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/3d-default.pw.toml"
-hash = "b7068de2bee41e8d395e6e0cb7f8ae19ab2724db9521e4754ac4cf8897ce7e28"
+hash = "1bd37801528861dc161a11cfdcdde59c5b440926ff575d211fdd4943f1bc5014"
 metafile = true
 
 [[files]]
@@ -1465,7 +1479,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fast-better-grass.pw.toml"
-hash = "774b51f7257a3a18f0afc40c155bac4bb1dbade055170137f2ac96456f0e3653"
+hash = "73557eda0b75de2724fd3337879c5e05bd7a7c47007de9c318d98644fcffdb4e"
 metafile = true
 
 [[files]]
@@ -1500,7 +1514,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/recolourful-containers-gui-hud-dark.pw.toml"
-hash = "fc04128c95991eda9fd24e41de93a22534326cca4ab761388016acc3b25f93b5"
+hash = "56a27fa588bc31db02dc300da5edd77688b6528d0187074023adc8b5d8557d5e"
 metafile = true
 
 [[files]]
@@ -1510,7 +1524,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "e3626d7c6fbc2bcac07b8d0724bba975dd10128de776018d3346edc797cfc772"
+hash = "bbe520e5f0167445fee64ee8eb90ba0b8921a898be12251464de022687539203"
 metafile = true
 
 [[files]]
@@ -1525,7 +1539,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
-hash = "9025311f42fe8ab581987962c9c6b3ec5a50f5afc803e9d867dc580cb0b66190"
+hash = "25183d9bf95c204041e09bec06b92a47647858b4c5d32b8b159babae60b0c9a1"
 metafile = true
 
 [[files]]

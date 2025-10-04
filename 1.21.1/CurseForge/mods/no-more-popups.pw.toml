@@ -1,13 +1,13 @@
 name = "No More Pop-ups"
-filename = "no-more-popups-1.5.1.jar"
+filename = "no-more-popups-1.6.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "3511eea57a7a924e543d61950f852f849e43e166"
+hash = "0e384a96cfa8ebec5adff4f11524f00580ecf10e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6953063
+file-id = 7063276
 project-id = 1320088

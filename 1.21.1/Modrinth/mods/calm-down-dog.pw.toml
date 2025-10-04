@@ -1,0 +1,13 @@
+name = "Calm down, dog!"
+filename = "calmdowndog-1.1.0-1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HGiHBdje/versions/Df2VHIUZ/calmdowndog-1.1.0-1.21.jar"
+hash-format = "sha512"
+hash = "a7d38a8aafe10ce784704e8b7ddba5a67bc4a41535cdd6322b6f0a39ec811faf5c8cb70ae517148b46e2ccc32fa395e3fd3c989c6438349b57ca00c882d9a8cb"
+
+[update]
+[update.modrinth]
+mod-id = "HGiHBdje"
+version = "Df2VHIUZ"
