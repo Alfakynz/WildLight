@@ -282,7 +282,7 @@ hash = "77a00d86bc2a4b150df76f407c30b55e5909c2d9c2be7740bbb9f1c69419e127"
 
 [[files]]
 file = "configureddefaults/options-profiles/0. Default/iris.properties"
-hash = "f80bf0f08088dd094565be04e84e46e7cba4c0de104da7df4e7b3486b684fef5"
+hash = "1bcd5051e7328960fd75ee0a16fb23ebd7a80386d4da67a32d6985534c4df562"
 
 [[files]]
 file = "configureddefaults/options-profiles/0. Default/options.txt"
@@ -314,7 +314,7 @@ hash = "50dc51234d93a1cac2298fb52f3a05276c4ec7e2d4c50ec71c77ae0f65c56b23"
 
 [[files]]
 file = "configureddefaults/options-profiles/2. Balanced/iris.properties"
-hash = "d6285e0d9b1b1c66cfdeebf3391d8e68e923ea6373c6d3c1c5f499a0895dbd02"
+hash = "c44b5f28a99d96bdf9d024e86795d7e2a15363b8af9e7fc3782732c1ec7199c8"
 
 [[files]]
 file = "configureddefaults/options-profiles/2. Balanced/options.txt"
@@ -330,7 +330,7 @@ hash = "50dc51234d93a1cac2298fb52f3a05276c4ec7e2d4c50ec71c77ae0f65c56b23"
 
 [[files]]
 file = "configureddefaults/options-profiles/3. Quality/iris.properties"
-hash = "3cb90af0e9551d835c3da0bcb624da016e8b8d9eaa6f4d0829e623211dec85bc"
+hash = "76ea8f535af3ddcf8d824da9bd0f9e5e8b326b715363b29e988d67e6f86a6496"
 
 [[files]]
 file = "configureddefaults/options-profiles/3. Quality/options.txt"
@@ -939,7 +939,7 @@ metafile = true
 
 [[files]]
 file = "mods/macos-input-fixes.pw.toml"
-hash = "e4562622be1286bf8f2c8af9e3fc4e6052c9cd51c67c70f2bfce0fd9d26c31bb"
+hash = "95de24f2f2d9c9fa4dcb33660bd6fafb2101a5514f718d00b207f48da26b64cf"
 metafile = true
 
 [[files]]
@@ -999,7 +999,7 @@ metafile = true
 
 [[files]]
 file = "mods/naturally-trimmed.pw.toml"
-hash = "873ddc9878e875cf4f2493415a29ac00a874565a08aac40e26c3109f9cc3a5ca"
+hash = "6c0a189293d23dffae0c895f92063203d8e10547d6e8d4febfb3122f523933c4"
 metafile = true
 
 [[files]]
@@ -1544,5 +1544,5 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
-hash = "98146b3c9311635f180bfd250781986b88516f930ee652fcbd234788b64ba3b6"
+hash = "c37f620be5f4739b191c1a5eba8b90c3acdef3162b7c9b499391c16ed23f378a"
 metafile = true
