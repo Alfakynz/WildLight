@@ -45,11 +45,12 @@ If you have any questions, here's Discord server: https://discord.gg/TcmUQHZ5U4
 ## 🚀 Planned Features
 
 - Custom Minecraft menu (background and more) ✅
-- Performance optimization for lower-ends machines
+- Performance optimization for lower-ends machines ✅
 - A more immersive progression system (survival, gear, knowledge)
 - Dynamic events (like weather-based)
-- In-game wiki using Patchouli
+- A quest book to discover the mods in the modpack
 - Add other dimension ✅
+- Add another dimension
 
 ## 🌐 Looking for a server? Support me at the same time!
 
