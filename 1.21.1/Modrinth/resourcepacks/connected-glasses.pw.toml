@@ -1,13 +1,13 @@
 name = "Connected Glasses"
-filename = "Conenected Glasses.zip"
+filename = "Connected Glases.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/BcGbyFs6/versions/u1gjoBIS/Conenected%20Glasses.zip"
+url = "https://cdn.modrinth.com/data/BcGbyFs6/versions/K639IReM/Connected%20Glases.zip"
 hash-format = "sha512"
-hash = "0cf97989905bd65603d87b6bc8ab62a7087c4291f82516976b737d74e8bd87c3ebc251e1a9004dd085236e7bffe0c73d4c1a09d51abb311ee5f775fd3d0fc368"
+hash = "b34f224b5c32348170d6ed29de41032438b4ecb85f5d3b0f400bcbd7602d341245a15618ba4be3631a1645b711aa273f522d34584cc574ae9014f2d43509d41e"
 
 [update]
 [update.modrinth]
 mod-id = "BcGbyFs6"
-version = "u1gjoBIS"
+version = "K639IReM"

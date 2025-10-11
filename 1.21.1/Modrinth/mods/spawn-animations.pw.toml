@@ -1,13 +1,13 @@
 name = "Spawn Animations"
-filename = "spawnanimations-v1.11.1-mc1.17-1.21.9-mod.jar"
+filename = "spawnanimations-v1.11.2-mc1.17-1.21.10-mod.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/zrzYrlm0/versions/PbsU4gUE/spawnanimations-v1.11.1-mc1.17-1.21.9-mod.jar"
+url = "https://cdn.modrinth.com/data/zrzYrlm0/versions/uOUZcu68/spawnanimations-v1.11.2-mc1.17-1.21.10-mod.jar"
 hash-format = "sha512"
-hash = "da0bfb2b028dbf32487bc6e7cb5cd6f47d1947f87392e7d30ce796fba8cba5d8f8aeb58bd489fce181c01024d15f6eb1d1b471b9b0f8df22e0ffa2c4019a5e19"
+hash = "26a996b6c8eb1335ac1198f95d07faecaf241c78eb7249fdac890daad258fca60df87e4d9f430a9a7de69cbb711361b5552d167db177d75e1c3b7e71545d67ff"
 
 [update]
 [update.modrinth]
 mod-id = "zrzYrlm0"
-version = "PbsU4gUE"
+version = "uOUZcu68"
