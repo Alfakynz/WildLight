@@ -118,7 +118,7 @@ hash = "ece31125f5524624fc79ab9cf570587442777a2845e3968253b3cc4bde8ac384"
 
 [[files]]
 file = "configureddefaults/config/iris.properties"
-hash = "f80bf0f08088dd094565be04e84e46e7cba4c0de104da7df4e7b3486b684fef5"
+hash = "1bcd5051e7328960fd75ee0a16fb23ebd7a80386d4da67a32d6985534c4df562"
 
 [[files]]
 file = "configureddefaults/config/jade/hide-blocks.json"
@@ -346,7 +346,7 @@ hash = "e414f088eec5f6006bfbf3fc88afe73562de58a7298850ae9d3f15fb113ccfd9"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "e99a41f6d9ba98ddbc1096802f9db75f2246e3a1d56771300f60cf2f98afcb5a"
+hash = "de34e2a0a076c80f1e8493d03e6149182c056a9f63db8d6eef4e620fff172f64"
 
 [[files]]
 file = "icon.png"
@@ -385,6 +385,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "1102440dd2533ba3a154419bb95ff1f81b858201eb0c44d2a2eea486c74e565a"
+metafile = true
+
+[[files]]
+file = "mods/auth-me.pw.toml"
+hash = "043b2b94a775368afe4db8c66f5414dbabf55bb7630b4b8859d33ccb32d1d23a"
 metafile = true
 
 [[files]]
@@ -454,7 +459,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "321543ed29b59b94b29cb25230bde53a023024a626d5886d39fe00620add0e72"
+hash = "eff769f45c6d8476259e259b241bd297cf8366540e228c023f43f18817371d24"
 metafile = true
 
 [[files]]
@@ -579,7 +584,7 @@ metafile = true
 
 [[files]]
 file = "mods/cristel-lib.pw.toml"
-hash = "8ed0e62bc47290640fd85ad9148e8072f8f0534979bda46c10dad231bbdca6c7"
+hash = "834d41d37decc9f208f281f08e1a2d129aac26c76ef849072e17739c66909ec6"
 metafile = true
 
 [[files]]
@@ -595,6 +600,11 @@ metafile = true
 [[files]]
 file = "mods/dashloader.pw.toml"
 hash = "d5cf6e8f1f0963a1b0bbaf54f3afe9a429706572f47a86c30fa4f23b72d04594"
+metafile = true
+
+[[files]]
+file = "mods/debugify.pw.toml"
+hash = "7cb9e98526468233fbec6f949c78a8afc5ef29447868e1d11cb71293237966a2"
 metafile = true
 
 [[files]]
@@ -674,7 +684,7 @@ metafile = true
 
 [[files]]
 file = "mods/easy-magic.pw.toml"
-hash = "64555abb4588840d78ca5a21d98312f9cb080cd6d044685db7741948e47b48bd"
+hash = "0fe539a394b9c1ad5bb6caa4f23b3383d864c3273299a2de0b8844fdd9636e8f"
 metafile = true
 
 [[files]]
@@ -724,7 +734,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "2dbf702bd2cc9d2be307925ca9cecd929c982695df88943492da90c00bda04f8"
+hash = "789a41a6e0fa743cd28efb63a70b12e28c2002bd10e45d5d017504c89aefca67"
 metafile = true
 
 [[files]]
@@ -799,7 +809,7 @@ metafile = true
 
 [[files]]
 file = "mods/friends-and-foes.pw.toml"
-hash = "cb756f7f13557619cf35fe84e50c995106a4d5792d52e5948327668094664775"
+hash = "cc7a3c0bc07e5d9c10495f319028ca65fd51ba33c738b8ecb27dfb1bbaf59d3c"
 metafile = true
 
 [[files]]
@@ -909,7 +919,7 @@ metafile = true
 
 [[files]]
 file = "mods/ksyxis.pw.toml"
-hash = "8c6b70c5687944d95858a7da9311a268725bc613e1d0f10dae4687faf9fb7ad5"
+hash = "de4b87840e3b7e83961823f1b373570e58015b367b3b1919a79df20a70198730"
 metafile = true
 
 [[files]]
@@ -1024,7 +1034,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "595ef67d613720a3195b2ec2b34e7653d4db1ba4c31083c9643475c9d2442237"
+hash = "2871c04e9f62e7ec4bd65bb225bf4e331b27337b186ad1c781d100c470a56414"
 metafile = true
 
 [[files]]
@@ -1124,7 +1134,7 @@ metafile = true
 
 [[files]]
 file = "mods/pyrellium.pw.toml"
-hash = "1558962773ebd12c80f8474e7ff3d3b489c0660d95c8dcfd80604f9886d3e58d"
+hash = "d5b1e0c433f4ed8082051f4ccf4b37dc6c7fc9057899c31699d1301ef4cb9cc9"
 metafile = true
 
 [[files]]
@@ -1299,7 +1309,7 @@ metafile = true
 
 [[files]]
 file = "mods/towns-and-towers.pw.toml"
-hash = "7379e80a7595fbc1bbae69ce7fa89e9cdceb6d84d618a1c94fa590cb37bba02a"
+hash = "9bf9ab019562d204c452dd282b9a835632ffe88fdad6f20a88326da546614aaf"
 metafile = true
 
 [[files]]
@@ -1359,7 +1369,7 @@ metafile = true
 
 [[files]]
 file = "mods/wilder-wild.pw.toml"
-hash = "7f5cc283d2df3632f14f186524d209713ff72ff05c864c9b42cd8d0ece4e9d31"
+hash = "5893eb1c30b13002006427502bacf423a9115b27b7be684d214e7dd24eaf5d5e"
 metafile = true
 
 [[files]]
@@ -1515,6 +1525,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/recolourful-containers-gui-hud-dark.pw.toml"
 hash = "56a27fa588bc31db02dc300da5edd77688b6528d0187074023adc8b5d8557d5e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/skys-relit-flames.pw.toml"
+hash = "2b68226bfc06caa3ec885ba4f54ca0f6b116ee07a5360c64db48abccefee5314"
 metafile = true
 
 [[files]]

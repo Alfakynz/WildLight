@@ -118,7 +118,7 @@ hash = "ece31125f5524624fc79ab9cf570587442777a2845e3968253b3cc4bde8ac384"
 
 [[files]]
 file = "configureddefaults/config/iris.properties"
-hash = "f80bf0f08088dd094565be04e84e46e7cba4c0de104da7df4e7b3486b684fef5"
+hash = "1bcd5051e7328960fd75ee0a16fb23ebd7a80386d4da67a32d6985534c4df562"
 
 [[files]]
 file = "configureddefaults/config/jade/hide-blocks.json"
@@ -346,7 +346,7 @@ hash = "e414f088eec5f6006bfbf3fc88afe73562de58a7298850ae9d3f15fb113ccfd9"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "e99a41f6d9ba98ddbc1096802f9db75f2246e3a1d56771300f60cf2f98afcb5a"
+hash = "de34e2a0a076c80f1e8493d03e6149182c056a9f63db8d6eef4e620fff172f64"
 
 [[files]]
 file = "icon.png"
@@ -380,6 +380,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "39792a11da59cebc770f3918dd0ad53637bcbd206dc19bfa6709392bfd2d1830"
+metafile = true
+
+[[files]]
+file = "mods/auth-me.pw.toml"
+hash = "424b579f2216c3ae3b2f64020635230e5493cdd8950635c9ba905c0487f6ecee"
 metafile = true
 
 [[files]]
@@ -439,7 +444,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "80304c9a08b438f93374cecb1d224a9c3be990659bb507667b123adb6714c25e"
+hash = "ace316eb88ca635b9853219bedc484378beea13e3122d775979f91005483225c"
 metafile = true
 
 [[files]]
@@ -564,7 +569,7 @@ metafile = true
 
 [[files]]
 file = "mods/cristel-lib.pw.toml"
-hash = "99420e18ab252c7e3a68c5417a266ed0b3c2f014ebbfe3726dd615430a45bcb6"
+hash = "4093fb3e4cfb89c7ddf4e3067edec3e538df3831e4bf366bf698d506a0e9991c"
 metafile = true
 
 [[files]]
@@ -580,6 +585,11 @@ metafile = true
 [[files]]
 file = "mods/dashloader.pw.toml"
 hash = "5ab3e533ca7b4e4e4c72845cfa07a7bb224c2957691357fc2fea9ad914c150e5"
+metafile = true
+
+[[files]]
+file = "mods/debugify.pw.toml"
+hash = "8f89f3db3ee1ee8d91f28ad870dadb0a66ac3792f2bef83b0f29f413000bdc1d"
 metafile = true
 
 [[files]]
@@ -654,7 +664,7 @@ metafile = true
 
 [[files]]
 file = "mods/easy-magic.pw.toml"
-hash = "55f7e6562673b118e9815b565402bd124e39af2239120e59e50963cbbdad8a8b"
+hash = "83de4d35d8924f1539e471945321de491ba624aba2be662071dd382b91d400d5"
 metafile = true
 
 [[files]]
@@ -709,7 +719,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "78d3cf1d4b44632804e52bfe3f42edc9dee49d5e3adbb6c849bb6e618117684d"
+hash = "cd240fc89f5222fe071488e7862f61eb603f3d57edbbd259a188f79d7ec4cfcf"
 metafile = true
 
 [[files]]
@@ -779,7 +789,7 @@ metafile = true
 
 [[files]]
 file = "mods/friends-and-foes.pw.toml"
-hash = "26a279d4a06e3087a8364576c87d75c96d6fe206fc674b2912812d4b380714fc"
+hash = "254f1dcb31c82a9d758292a39d5ecc18aabeab1e1d057a57f480079520a314f4"
 metafile = true
 
 [[files]]
@@ -994,7 +1004,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "f40bbfcbd17d2917cff1b500f66ef208bd04a1864efae5820d472b2901917d97"
+hash = "bdda7987b8507a4170ce643ff26d5da3fac062844cb884d5759750baee974536"
 metafile = true
 
 [[files]]
@@ -1089,7 +1099,7 @@ metafile = true
 
 [[files]]
 file = "mods/pyrellium.pw.toml"
-hash = "425cafaaa2ff53734cc204f51db6303ff054ecb495a187ce321e5aac4bb5525e"
+hash = "1d67392b4b5f12a49eaa98b1ad9304aa59d48045e4bb6537a2649e97d0d1419c"
 metafile = true
 
 [[files]]
@@ -1274,7 +1284,7 @@ metafile = true
 
 [[files]]
 file = "mods/towns-and-towers.pw.toml"
-hash = "509dea9cb5ebc14ea6d8d430914ae17a1eab5f511cf6dc480a17d30ccddb37dd"
+hash = "cab2f1d2bf3b9e4435f02cde12c270f3234599d63fc5c7383eaa9da3e4e9d5bb"
 metafile = true
 
 [[files]]
@@ -1339,7 +1349,7 @@ metafile = true
 
 [[files]]
 file = "mods/wilder-wild.pw.toml"
-hash = "3c37df94fca5a7170ed7536cd441afcc5fdc92b31d3d06e34d04b4755d105967"
+hash = "2da1d0640bd5773fd34c5cbef8730d17c88cea3966be7dac6c864b1312bf39bc"
 metafile = true
 
 [[files]]
@@ -1495,6 +1505,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/recolourful-containers-gui-hud-dark.pw.toml"
 hash = "8f47bdee1b8a2518245bb9f11e011e10dee583105661d6a27d69d2f54385c1e8"
+metafile = true
+
+[[files]]
+file = "resourcepacks/skys-relit-flames.pw.toml"
+hash = "2b68226bfc06caa3ec885ba4f54ca0f6b116ee07a5360c64db48abccefee5314"
 metafile = true
 
 [[files]]

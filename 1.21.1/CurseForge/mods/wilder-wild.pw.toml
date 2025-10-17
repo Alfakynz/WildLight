@@ -1,13 +1,13 @@
 name = "Wilder Wild [Fabric]"
-filename = "WilderWild-4.1.2-mc1.21.1.jar"
+filename = "WilderWild-4.1.3-mc1.21.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "32fc4612bf82d5df50158aa85e425790e7db8c4a"
+hash = "31aaa7a5f7b1284d38ef6f626dd10bc89ec4ccf8"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7080434
+file-id = 7115662
 project-id = 648511

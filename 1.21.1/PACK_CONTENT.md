@@ -13,6 +13,7 @@
 - [Animal Feeding Trough](https://modrinth.com/project/bRFWnJ87)
 - [AppleSkin](https://modrinth.com/project/EsAfCjCV)
 - [Architectury API](https://modrinth.com/project/lhGA9TYQ)
+- [Auth Me](https://modrinth.com/project/yjgIrBjZ)
 - [Auto HUD](https://modrinth.com/project/temczoTQ)
 - [BadOptimizations](https://modrinth.com/project/g96Z4WVZ)
 - [Balm](https://modrinth.com/project/MBAkmtvl)
@@ -54,6 +55,7 @@
 - [Customizable Elytra](https://modrinth.com/project/L25fOeGq)
 - [Dark Loading Screen](https://modrinth.com/project/h3XWIuzM)
 - [DashLoader](https://modrinth.com/project/ZfQ3kTvR)
+- [Debugify](https://modrinth.com/project/QwxR6Gcd)
 - [Deeper and Darker](https://modrinth.com/project/fnAffV0n)
 - [Deimos](https://modrinth.com/project/WQaxNzFg)
 - [Delete Worlds To Trash](https://modrinth.com/project/7diJQfvM)
@@ -242,6 +244,7 @@
 - [It's All Connected](https://modrinth.com/project/t4YAPTH1)
 - [Low On Fire](https://modrinth.com/project/RRxvWKNC)
 - [Recolourful Containers GUI + HUD (DARK)](https://modrinth.com/project/sQCUH0Mr)
+- [Sky's Relit Flames](https://modrinth.com/project/OF52eDIm)
 - [Sun and Moon Circular](https://modrinth.com/project/YbwPPde4)
 - [Translations for Sodium](https://modrinth.com/project/yfDziwn1)
 
