@@ -3,6 +3,7 @@
 *.zip
 *.mrpack
 node_modules/
+dist/*
 
 configureddefaults/
 .packwizignore

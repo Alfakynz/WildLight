@@ -158,7 +158,7 @@ hash = "d8a629b25da461374926b02b6649ed90154cb1bb6ab7e5208f519b5bcf29b08b"
 
 [[files]]
 file = "configureddefaults/config/physicsmod/physics_blocks_client_config.json"
-hash = "d0fd8d9c41d41aaa9654092680237c01859d62f9905386d36993916066457658"
+hash = "e2d47b79a1068bfac11fecedb510c38c398591a91264a07d4406926d0b364d40"
 
 [[files]]
 file = "configureddefaults/config/physicsmod/physics_client_config.json"
@@ -346,7 +346,7 @@ hash = "e414f088eec5f6006bfbf3fc88afe73562de58a7298850ae9d3f15fb113ccfd9"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "de34e2a0a076c80f1e8493d03e6149182c056a9f63db8d6eef4e620fff172f64"
+hash = "e02eaf42fec0c146a8faf006e5508390df2b9b2058974d70a6fa879974cd5cc3"
 
 [[files]]
 file = "icon.png"
@@ -1019,7 +1019,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-more-popups.pw.toml"
-hash = "d9b150d9a352515ca154ba54913c587896df1091f2d45b886711016c0e76e6ca"
+hash = "a1da5d07369ed69f927375459982d1d5658cc7c36c8d6732c9c8bd0d320cf7a1"
 metafile = true
 
 [[files]]
@@ -1539,7 +1539,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "6bc81a7a9661255f377d079cbf140771a20cac5989f80d0e531ce3bc49d16dd2"
+hash = "998f4b45ce632d9fbba226163e0bb51c52721d9031c0f24fb5f88299e4e2f7eb"
 metafile = true
 
 [[files]]
