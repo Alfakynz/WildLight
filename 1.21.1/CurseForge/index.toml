@@ -158,7 +158,7 @@ hash = "d8a629b25da461374926b02b6649ed90154cb1bb6ab7e5208f519b5bcf29b08b"
 
 [[files]]
 file = "configureddefaults/config/physicsmod/physics_blocks_client_config.json"
-hash = "e2d47b79a1068bfac11fecedb510c38c398591a91264a07d4406926d0b364d40"
+hash = "22d2d19b5d0114e3bfeb38d37780b99c46e6a686320ff1b1a65450b4279a43d9"
 
 [[files]]
 file = "configureddefaults/config/physicsmod/physics_client_config.json"
@@ -529,7 +529,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "f86eb8dae5bf0e78cd759a47109b04f0cf20608def2471356a8d9985fbef0436"
+hash = "2d6ca9904a49ad802fe149dd089738999bd7eb6105d64bcd84b87aedb072e0c4"
 metafile = true
 
 [[files]]
@@ -1350,6 +1350,11 @@ metafile = true
 [[files]]
 file = "mods/wilder-wild.pw.toml"
 hash = "2da1d0640bd5773fd34c5cbef8730d17c88cea3966be7dac6c864b1312bf39bc"
+metafile = true
+
+[[files]]
+file = "mods/wildlight.pw.toml"
+hash = "42b04e9ab295f9aa910b97cbc09f8559b8d0cdce1ef63626cfd16e483a53ba0d"
 metafile = true
 
 [[files]]

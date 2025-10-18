@@ -4,6 +4,9 @@
 *.mrpack
 node_modules/
 dist/*
+.gradle/
+build/
+run/
 
 configureddefaults/
 .packwizignore
