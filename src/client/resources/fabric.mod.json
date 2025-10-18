@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "wildlight",
+  "version": "${version}",
+  "name": "WildLight",
+  "description": "This mod aims to fix some bugs in the WildLight modpack.",
+  "authors": ["Alfakynz"],
+  "contact": {
+    "homepage": "https://alfakynz.github.io/WildLight",
+    "sources": "https://github.com/Alfakynz/WildLight",
+    "issues": "https://github.com/Alfakynz/WildLight/issues"
+  },
+  "license": "MIT",
+  "icon": "assets/wildlight/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["com.alfakynz.wildlight.WildLightClient"]
+  },
+  "mixins": ["wildlight.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.16.4",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  },
+  "suggests": {
+    "deeper-and-darker": "*"
+  }
+}

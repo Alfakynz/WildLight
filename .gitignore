@@ -1,16 +1,38 @@
-.vscode/
-.DS_Store
 *.zip
 *.mrpack
+
+# gradle
+
+.gradle/
+build/
+out/
+classes/
+
+# vscode
+
+.settings/
+.vscode/
+bin/
+.classpath
+.project
+
+# macos
+
+*.DS_Store
+
+# fabric
+
+run/
+
+# java
+
+hs_err_*.log
+replay_*.log
+*.hprof
+*.jfr
+
+# Website
+
+dist/
 node_modules/
-dist/*
-
-configureddefaults/
-.packwizignore
-icon.png
-assets/
-
-!1.21.1/configurations/configureddefaults/
-!1.21.1/configurations/configureddefaults/config/fancymenu/assets/
-!1.21.1/configurations/.packwizignore
-!1.21.1/configurations/icon.png
+package-lock.json

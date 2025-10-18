@@ -1,6 +1,0 @@
-enableVsync:true
-graphicsMode:0
-maxFps:260
-renderClouds:"fast"
-renderDistance:5
-simulationDistance:5

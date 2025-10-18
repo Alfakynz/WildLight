@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "com.alfakynz.wildlight.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": ["DeeperAndDarkerCompatMixin"],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}
