@@ -1,13 +1,13 @@
 name = "Tips"
-filename = "tipsmod-fabric-1.21.1-21.1.2.jar"
+filename = "tipsmod-fabric-1.21.1-21.1.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "17f618cf3e031bded407e31e5612e50ca4e5eff4"
+hash = "400a51caa8b4d41a5daf4ca066d9b04d21de1c3d"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5844053
+file-id = 7126356
 project-id = 306549
