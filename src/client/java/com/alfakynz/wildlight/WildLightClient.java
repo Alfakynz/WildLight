@@ -6,14 +6,17 @@ import net.fabricmc.fabric.api.resource.ResourcePackActivationType;
 import net.fabricmc.loader.api.FabricLoader;
 import net.fabricmc.loader.api.ModContainer;
 import net.minecraft.resources.ResourceLocation;
-
-import java.util.concurrent.CompletableFuture;
-import java.util.concurrent.Executor;
+import net.minecraft.network.chat.Component;
 
 public class WildLightClient implements ClientModInitializer {
     @Override
     public void onInitializeClient() {
         ModContainer container = FabricLoader.getInstance().getModContainer("wildlight").orElseThrow();
-        ResourceManagerHelper.registerBuiltinResourcePack(ResourceLocation.fromNamespaceAndPath("wildlight", "wildlight"), container, "WildLight", ResourcePackActivationType.DEFAULT_ENABLED);
+        ResourceManagerHelper.registerBuiltinResourcePack(
+                ResourceLocation.fromNamespaceAndPath("wildlight", "wildlight"),
+                container,
+                Component.literal("WildLight Resources"),
+                ResourcePackActivationType.DEFAULT_ENABLED
+        );
     }
 }

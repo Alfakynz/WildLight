@@ -9,13 +9,14 @@ build/
 out/
 classes/
 
-# vscode
+# IDE
 
 .settings/
 .vscode/
 bin/
 .classpath
 .project
+.idea/
 
 # macos
 
