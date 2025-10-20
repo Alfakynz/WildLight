@@ -3,6 +3,10 @@
 *.zip
 *.mrpack
 node_modules/
+.gradle/
+build/
+dist/
+run/
 
 configureddefaults/
 .packwizignore

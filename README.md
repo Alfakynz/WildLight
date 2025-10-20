@@ -1,6 +1,11 @@
 # 🌲 WildLight resource pack
 
-This resource pack is designed to fix some interface elements that don't diplay correctly in the modpack.
+# ⚠️ This branch is not supported, the resource pack has been moved to the mod branch ⚠️
+
+This resource pack is designed to fix some interface elements that don't diplay correctly in the WildLight modpack.
+
+[![Modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_64h.png)](https://modrinth.com/project/6QzexKXD)
+[![CurseForge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/curseforge_64h.png)](https://www.curseforge.com/minecraft/modpacks/wildlight)
 
 ## ✨ Features:
 
@@ -11,14 +16,14 @@ This resource pack is designed to fix some interface elements that don't diplay 
 - Adds compat for Enhanced Workbenches
 - Adds compat for Not Interested!
 - Adds compat for Useful Backpacks
-- Adds icon for PhysicsMod
-- Adds icon for Sounds
+- Adds icon for Mod Menu (Open Mods Folder & Mod button label not centered)
 - Adds icon for Options Profiles
+- Adds icon for PhysicsMod
 - Adds icon for Sodium (leaves)
-- Adds icon for Mod Menu (Open Mods Folder)
+- Adds icon for Sounds
 - Fixes Fabric creative buttons not displaying correctly on hover
-- Fixes sugar cane not showing properly on the hotbar
-- Most of the icons added work in English, Spanish, and French
+- Fixes sugar cane not showing properly on the hotbar (still bug)
+- Most of the icons added now work in English, Spanish, and French
 
 ## 🤝 Contributing
 
