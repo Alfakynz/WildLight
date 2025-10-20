@@ -1,3 +1,33 @@
+<script setup>
+import { ref } from 'vue'
+import ArrowLeft from './icons/arrow-left.vue'
+import ArrowRight from './icons/arrow-right.vue'
+
+const base_image_path = '../assets/images/screenshots/'
+
+const screenshots = [
+  new URL(`${base_image_path}Night.png`, import.meta.url).href,
+  new URL(`${base_image_path}Towns and Towers.png`, import.meta.url).href,
+  new URL(`${base_image_path}Deeper and Darker.png`, import.meta.url).href,
+  new URL(`${base_image_path}Volcano.png`, import.meta.url).href,
+  new URL(`${base_image_path}Survival.png`, import.meta.url).href,
+]
+
+const current = ref(0)
+
+function prevScreenshot() {
+  current.value = (current.value - 1 + screenshots.length) % screenshots.length
+}
+
+function nextScreenshot() {
+  current.value = (current.value + 1) % screenshots.length
+}
+
+function goTo(idx) {
+  current.value = idx
+}
+</script>
+
 <template>
   <section class="screenshots">
     <h2>Explore the world of WildLight</h2>
@@ -56,34 +86,6 @@
     </div>
   </section>
 </template>
-
-<script setup>
-import { ref } from 'vue'
-import ArrowLeft from './icons/arrow-left.vue'
-import ArrowRight from './icons/arrow-right.vue'
-
-const screenshots = [
-  new URL('../assets/images/screenshots/Night.png', import.meta.url).href,
-  new URL('../assets/images/screenshots/Towns and Towers.png', import.meta.url).href,
-  new URL('../assets/images/screenshots/Deeper and Darker.png', import.meta.url).href,
-  new URL('../assets/images/screenshots/Volcano.png', import.meta.url).href,
-  new URL('../assets/images/screenshots/Survival.png', import.meta.url).href,
-]
-
-const current = ref(0)
-
-function prevScreenshot() {
-  current.value = (current.value - 1 + screenshots.length) % screenshots.length
-}
-
-function nextScreenshot() {
-  current.value = (current.value + 1) % screenshots.length
-}
-
-function goTo(idx) {
-  current.value = idx
-}
-</script>
 
 <style scoped>
 h2 {

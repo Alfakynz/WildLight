@@ -13,7 +13,7 @@
         Explore vast landscapes, survive harsh conditions, and uncover the forgotten logic of a
         world shaped by realism.
         <br />
-        This is not just Vanilla — it’s nature, reborn through immersion.
+        This is not just Vanilla — it's nature, reborn through immersion.
       </p>
     </div>
     <img src="../assets/images/icon.png" alt="WildLight logo" />

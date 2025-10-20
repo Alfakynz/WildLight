@@ -1,16 +1,9 @@
-<template>
-  <main>
-    <IntroView />
-    <DownloadsView />
-    <ScreenshotsView />
-  </main>
-</template>
-
-<script setup>
+<script setup lang="ts">
 import { onMounted } from 'vue'
 import IntroView from './Intro.vue'
 import DownloadsView from './Downloads.vue'
 import ScreenshotsView from './Screenshots.vue'
+import DescriptionView from './Description.vue'
 
 onMounted(() => {
   const nav = document.querySelector('nav')
@@ -20,3 +13,12 @@ onMounted(() => {
   }
 })
 </script>
+
+<template>
+  <main>
+    <IntroView />
+    <DownloadsView />
+    <ScreenshotsView />
+    <DescriptionView />
+  </main>
+</template>

@@ -1,4 +1,4 @@
-<script setup>
+<script setup lang="ts">
 import { ref, onMounted } from 'vue'
 import WikiNav from './WikiNav.vue'
 
@@ -10,14 +10,16 @@ onMounted(() => {
   }
 })
 
-const mods = ref([])
-const resourcePacks = ref([])
-const shaders = ref([])
-const loading = ref(true)
-const error = ref(null)
+type Item = { name: string; url: string }
 
-function parseSection(lines, sectionTitle) {
-  const result = []
+const mods = ref<Item[]>([])
+const resourcePacks = ref<Item[]>([])
+const shaders = ref<Item[]>([])
+const loading = ref<boolean>(true)
+const error = ref<string | null>(null)
+
+function parseSection(lines: string[], sectionTitle: string): { name: string; url: string }[] {
+  const result: { name: string; url: string }[] = []
   let inSection = false
   for (const line of lines) {
     if (line.trim().toLowerCase() === sectionTitle.toLowerCase()) {
@@ -35,7 +37,7 @@ function parseSection(lines, sectionTitle) {
   return result
 }
 
-function smoothScrollTo(id) {
+function smoothScrollTo(id: string) {
   const element = document.getElementById(id)
   if (element) {
     element.scrollIntoView({ behavior: 'smooth', block: 'center' })
@@ -56,7 +58,11 @@ onMounted(async () => {
     resourcePacks.value = parseSection(lines, '## Resource packs used')
     shaders.value = parseSection(lines, '## Shader packs used')
   } catch (e) {
-    error.value = e.message
+    if (e instanceof Error) {
+      error.value = e.message
+    } else {
+      error.value = String(e)
+    }
   } finally {
     loading.value = false
   }

@@ -1,3 +1,16 @@
+<script setup lang="ts">
+import WikiNav from './WikiNav.vue'
+import { onMounted } from 'vue'
+
+onMounted(() => {
+  const nav = document.querySelector('nav')
+  const main = document.querySelector('main')
+  if (nav && main) {
+    main.style.paddingTop = nav.offsetHeight + 'px'
+  }
+})
+</script>
+
 <template>
   <main>
     <WikiNav />
@@ -14,19 +27,6 @@
     </section>
   </main>
 </template>
-
-<script setup>
-import WikiNav from './WikiNav.vue'
-import { onMounted } from 'vue'
-
-onMounted(() => {
-  const nav = document.querySelector('nav')
-  const main = document.querySelector('main')
-  if (nav && main) {
-    main.style.paddingTop = nav.offsetHeight + 'px'
-  }
-})
-</script>
 
 <style scoped>
 main {

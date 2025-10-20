@@ -1,3 +1,7 @@
+<script setup lang="ts">
+import DownloadIcon from './icons/DownloadIcon.vue'
+</script>
+
 <template>
   <section class="downloads">
     <h2>Download the modpack</h2>
@@ -17,10 +21,6 @@
     </div>
   </section>
 </template>
-
-<script setup>
-import DownloadIcon from './icons/DownloadIcon.vue'
-</script>
 
 <style scoped>
 .downloads {
@@ -50,10 +50,12 @@ import DownloadIcon from './icons/DownloadIcon.vue'
 
 .downloads .modrinth {
   background: #22c55e;
+  box-shadow: 0 0 50px #22c55e60;
 }
 
 .downloads .curseforge {
   background: #f16436;
+  box-shadow: 0 0 50px #f1643660;
 }
 
 .downloads a {

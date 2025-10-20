@@ -1,4 +1,4 @@
-<script setup>
+<script setup lang="ts">
 import WikiNav from './WikiNav.vue'
 import { onMounted } from 'vue'
 
