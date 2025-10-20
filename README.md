@@ -2,7 +2,7 @@
 
 Step into a world where survival meets subtle beauty. In WildLight, every sound, texture, and detail is crafted to pull you deeper into a refined Minecraft experience. Explore vast landscapes, survive harsh conditions, and uncover the forgotten logic of a world shaped by realism. This is not just Vanilla — it’s nature, reborn through immersion.
 
-## ✨ Features:
+## ✨ Features
 
 ### 🎧 Enhanced soundscapes and ambient effects ✨
 
