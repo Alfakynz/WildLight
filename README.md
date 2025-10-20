@@ -2,10 +2,8 @@
 
 This mod is designed to fix some bugs and interface elements in the WildLight modpack.
 
-Download WildLight on :
-
-- [Modrinth](https://modrinth.com/project/6QzexKXD)
-- [CurseForge](https://www.curseforge.com/minecraft/modpacks/wildlight)
+[![Modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_64h.png)](https://modrinth.com/project/6QzexKXD)
+[![CurseForge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/curseforge_64h.png)](https://www.curseforge.com/minecraft/modpacks/wildlight)
 
 ## ✨ Features:
 
@@ -22,14 +20,14 @@ Download WildLight on :
 - Adds compat for Enhanced Workbenches
 - Adds compat for Not Interested!
 - Adds compat for Useful Backpacks
-- Adds icon for PhysicsMod
-- Adds icon for Sounds
+- Adds icon for Mod Menu (Open Mods Folder & Mods button label not centered)
 - Adds icon for Options Profiles
+- Adds icon for PhysicsMod
 - Adds icon for Sodium (leaves)
-- Adds icon for Mod Menu (Open Mods Folder)
+- Adds icon for Sounds
 - Fixes Fabric creative buttons not displaying correctly on hover
 - Fixes sugar cane not showing properly on the hotbar (still bug)
-- Most of the icons added work in English, Spanish, and French
+- Most of the icons added now work in English, Spanish, and French
 
 ## 🤝 Contributing
 
