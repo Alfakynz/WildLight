@@ -1,6 +1,6 @@
 # 🌲 WildLight mod
 
-This mod is dessigned to fix some bugs and interface elements in the WildLight modpack.
+This mod is designed to fix some bugs and interface elements in the WildLight modpack.
 
 Download WildLight on :
 
