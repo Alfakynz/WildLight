@@ -105,7 +105,6 @@
 - [Immersive Armors](https://modrinth.com/project/eE2Db4YU)
 - [Immersive UI](https://modrinth.com/project/9wv7LuMc)
 - [ImmersiveThunder](https://modrinth.com/project/uKjKoMsj)
-- [Indium](https://modrinth.com/project/Orvt0mRa)
 - [InvMove](https://modrinth.com/project/REfW2AEX)
 - [Inventory Profiles Next](https://modrinth.com/project/O7RBXm3n)
 - [Iris Shaders](https://modrinth.com/project/YL57xq9U)

@@ -109,6 +109,10 @@ file = "configureddefaults/config/fancymenu/user_variables.db"
 hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
+file = "configureddefaults/config/fastquit.toml"
+hash = "de22af584433dfdfb4a14b85091bfbd5c6be697a306499c2d7c75740658dbad4"
+
+[[files]]
 file = "configureddefaults/config/immersiveui.yaml"
 hash = "0ad9097a5c12bb317717b09ecd86d02352fa78696140588c1176ec0a93698940"
 
@@ -544,7 +548,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "8414204dec205b55e58b619434a8047c833e6a0eab02e6b4dd78ae98c90fcdbc"
+hash = "bbcd89c61d80e54989187d985e8cd156a7832aad05b060238dee2559396ae12f"
 metafile = true
 
 [[files]]
@@ -809,12 +813,12 @@ metafile = true
 
 [[files]]
 file = "mods/friends-and-foes.pw.toml"
-hash = "cc7a3c0bc07e5d9c10495f319028ca65fd51ba33c738b8ecb27dfb1bbaf59d3c"
+hash = "b4d039348f5ca84358a4625ae87e40eaf1f9d57a9c5a82b1ed2ceeab2ef1663e"
 metafile = true
 
 [[files]]
 file = "mods/frozenlib.pw.toml"
-hash = "665187e723cf1d4a341a66a7cedad030c95e2a655b071132962e98ca1ac463f3"
+hash = "ad49bfa105cc01207e006490002fd930dd91d53878e0bf0c3bbe49959bef0489"
 metafile = true
 
 [[files]]
@@ -860,11 +864,6 @@ metafile = true
 [[files]]
 file = "mods/immersivethunder.pw.toml"
 hash = "086d8b88627ca2b5eb4457a26a8894d1b0861e7b8e909e461a02b054814914da"
-metafile = true
-
-[[files]]
-file = "mods/indium.pw.toml"
-hash = "5f694b0c16bfbf69b05cb28eef7a553ae548e623bc2cbccc98e01d950d3611db"
 metafile = true
 
 [[files]]
@@ -1034,7 +1033,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "2871c04e9f62e7ec4bd65bb225bf4e331b27337b186ad1c781d100c470a56414"
+hash = "7d5af9f25bc04dd33ec6e55983f7c660d0802461ecad3b5a820dd05dfcef2f70"
 metafile = true
 
 [[files]]

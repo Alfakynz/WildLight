@@ -109,6 +109,10 @@ file = "configureddefaults/config/fancymenu/user_variables.db"
 hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
+file = "configureddefaults/config/fastquit.toml"
+hash = "de22af584433dfdfb4a14b85091bfbd5c6be697a306499c2d7c75740658dbad4"
+
+[[files]]
 file = "configureddefaults/config/immersiveui.yaml"
 hash = "0ad9097a5c12bb317717b09ecd86d02352fa78696140588c1176ec0a93698940"
 
@@ -529,7 +533,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "2d6ca9904a49ad802fe149dd089738999bd7eb6105d64bcd84b87aedb072e0c4"
+hash = "f085151b0695755355c85ac2abd9169129b5af292d86900adf65780d39d328c9"
 metafile = true
 
 [[files]]
@@ -838,11 +842,6 @@ hash = "c27c080e0462c6bf77eda397c35c0caa8c77c8c74bf9ba1ba93ea26b0d6a82ff"
 metafile = true
 
 [[files]]
-file = "mods/indium.pw.toml"
-hash = "9e4c53fb1fda9be64935604adcdd3434a78ca27fefc71111f6dc37e4787ef2a6"
-metafile = true
-
-[[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "a1b503b9d611906eefdda9114228872a2c94d0e43c9b193bdf739a8f12bc22b3"
 metafile = true
@@ -1004,7 +1003,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "bdda7987b8507a4170ce643ff26d5da3fac062844cb884d5759750baee974536"
+hash = "7b6cd5dfeff0eedfc963b9188b1b9a112f676bda8ce029ec5e7cf13de9613cf6"
 metafile = true
 
 [[files]]
