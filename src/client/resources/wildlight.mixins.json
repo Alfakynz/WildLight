@@ -1,8 +1,11 @@
 {
   "required": true,
   "package": "com.alfakynz.wildlight.mixin",
+  "plugin": "com.alfakynz.wildlight.mixin.WildlightMixinPlugin",
   "compatibilityLevel": "JAVA_21",
-  "mixins": ["DeeperAndDarkerCompatMixin"],
+  "mixins": [
+    "DeeperDarkerCompatMixin"
+  ],
   "injectors": {
     "defaultRequire": 1
   },

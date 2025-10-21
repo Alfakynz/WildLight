@@ -15,9 +15,9 @@ import net.fabricmc.api.EnvType;
 import net.fabricmc.api.Environment;
 
 @Mixin(OthersidePortalBlock.class)
-public abstract class DeeperAndDarkerCompatMixin extends CustomPortalBlock {
+public abstract class DeeperDarkerCompatMixin extends CustomPortalBlock {
 
-    public DeeperAndDarkerCompatMixin(BlockBehaviour.Properties settings) {
+    public DeeperDarkerCompatMixin(BlockBehaviour.Properties settings) {
         super(settings);
     }
 

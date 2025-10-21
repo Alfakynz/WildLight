@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "wildlight",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "name": "WildLight",
   "description": "This mod aims to fix some bugs in the WildLight modpack.",
   "authors": ["Alfakynz"],
@@ -16,10 +16,12 @@
   "entrypoints": {
     "client": ["com.alfakynz.wildlight.WildLightClient"]
   },
-  "mixins": ["wildlight.mixins.json"],
+  "mixins": [
+    "wildlight.mixins.json"
+  ],
   "depends": {
     "fabricloader": ">=0.16.4",
-    "minecraft": "~1.21.1",
+    "minecraft": "1.21.1",
     "java": ">=21",
     "fabric-api": "*"
   },
