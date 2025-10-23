@@ -162,7 +162,7 @@ hash = "d8a629b25da461374926b02b6649ed90154cb1bb6ab7e5208f519b5bcf29b08b"
 
 [[files]]
 file = "configureddefaults/config/physicsmod/physics_blocks_client_config.json"
-hash = "22d2d19b5d0114e3bfeb38d37780b99c46e6a686320ff1b1a65450b4279a43d9"
+hash = "23d78025cf29e14614d13090523fdb11636ad3f3755741251da2fc5768507c9b"
 
 [[files]]
 file = "configureddefaults/config/physicsmod/physics_client_config.json"
@@ -350,7 +350,7 @@ hash = "e414f088eec5f6006bfbf3fc88afe73562de58a7298850ae9d3f15fb113ccfd9"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "e02eaf42fec0c146a8faf006e5508390df2b9b2058974d70a6fa879974cd5cc3"
+hash = "b459c277b8a64af75d1068a48d1f599c8151b431fac76da74c844bd8181010ab"
 
 [[files]]
 file = "icon.png"
@@ -533,7 +533,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "f085151b0695755355c85ac2abd9169129b5af292d86900adf65780d39d328c9"
+hash = "614e76a5e249acf1959f5cae88f9b3045327982608f441dc8eb1684882207c72"
 metafile = true
 
 [[files]]
@@ -793,7 +793,7 @@ metafile = true
 
 [[files]]
 file = "mods/friends-and-foes.pw.toml"
-hash = "254f1dcb31c82a9d758292a39d5ecc18aabeab1e1d057a57f480079520a314f4"
+hash = "df3651550b7ff4ee12b3c68698eac6a958f9db195c227b3242b5bc36a2f59359"
 metafile = true
 
 [[files]]
@@ -1003,7 +1003,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "7b6cd5dfeff0eedfc963b9188b1b9a112f676bda8ce029ec5e7cf13de9613cf6"
+hash = "f23cada5e6ce23af2fa6b4b29fedbceec109c46604583b2e564a366e0717eb75"
 metafile = true
 
 [[files]]
@@ -1093,7 +1093,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "417736a881b0b5f7ff50f0c7874532ca386314752d44e0ef1377bbb1dfe9d33d"
+hash = "e3c482b20c0bb250716495a2c05efae13b520849de1cfb27ea2ad704fb325873"
 metafile = true
 
 [[files]]
@@ -1243,7 +1243,7 @@ metafile = true
 
 [[files]]
 file = "mods/subtle-effects.pw.toml"
-hash = "43aeb68869595d44ec15013c3e1878bb57b549f4eba4ffa7befc15e1d1062e6c"
+hash = "e947481106b2c226a5b0731d15a6b84ccb8d49729c421db20e4ac4ceb3d5cab5"
 metafile = true
 
 [[files]]
@@ -1323,7 +1323,7 @@ metafile = true
 
 [[files]]
 file = "mods/variants-and-ventures.pw.toml"
-hash = "46a1b5e6abce41df9998913bb8624f0fa1311cefb5b364c4eaabdbe4460ea71d"
+hash = "6e5593df3b1795294e274c61530ac2602bd6c492bd7bb31a9980f1dd1eeb28cf"
 metafile = true
 
 [[files]]
@@ -1348,12 +1348,12 @@ metafile = true
 
 [[files]]
 file = "mods/wilder-wild.pw.toml"
-hash = "2da1d0640bd5773fd34c5cbef8730d17c88cea3966be7dac6c864b1312bf39bc"
+hash = "bcc9b3b0890ebc5f257bac9d6cbe85d924c579145b155c08e8cc2067a481f642"
 metafile = true
 
 [[files]]
-file = "mods/wildlight.pw.toml"
-hash = "42b04e9ab295f9aa910b97cbc09f8559b8d0cdce1ef63626cfd16e483a53ba0d"
+file = "mods/wildlight-compat.pw.toml"
+hash = "967992a5cf7d84b2c6eba23bcfae10e3c128944b3f11300f75bc40952f0d609a"
 metafile = true
 
 [[files]]
@@ -1524,11 +1524,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
 hash = "20c6f2eab1bc33a369f25afbdad257d383b793a390899914b177407320169608"
-metafile = true
-
-[[files]]
-file = "resourcepacks/wildlight.pw.toml"
-hash = "893c2a9f4fbc7f8dce01ca75a2d0eddb1e5cebc2b45bcdb21a154f0cf9d06d0f"
 metafile = true
 
 [[files]]

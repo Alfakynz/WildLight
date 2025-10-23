@@ -203,6 +203,7 @@
 - [Visual Overhaul](https://modrinth.com/project/YQnwl5Vv)
 - [Visual Workbench](https://modrinth.com/project/kfqD1JRw)
 - [Visuality](https://modrinth.com/project/rI0hvYcd)
+- [WildLight compat](https://modrinth.com/project/L1FpoDe6)
 - [Wilder Wild](https://modrinth.com/project/AtHRJSUW)
 - [World Play Time](https://modrinth.com/project/YkKeggdl)
 - [YUNG's API](https://modrinth.com/project/Ua7DFN59)

@@ -138,7 +138,7 @@ key_key.carry.desc:key.keyboard.unknown
 key_key.cavedust.toggle:key.keyboard.keypad.add
 key_key.cavedust.reload:key.keyboard.keypad.enter
 key_chunksfadein.keybinds.toggleMod:key.keyboard.unknown
-key_key.crawl:key.keyboard.left.win
+key_key.crawl:key.keyboard.left.alt
 key_key.deeperdarker.boost:key.keyboard.b
 key_key.deeperdarker.transmit:key.keyboard.v
 key_key.entityculling.toggle:key.keyboard.unknown

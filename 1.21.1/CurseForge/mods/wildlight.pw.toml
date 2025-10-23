@@ -1,7 +1,0 @@
-name = "WildLight"
-filename = "wildlight-1.0.0.jar"
-
-[download]
-url = "https://github.com/Alfakynz/WildLight/releases/download/v1.0.0-mod/wildlight-1.0.0.jar"
-hash-format = "sha256"
-hash = "b4cd8c56c2c5978038a99176be2e6ad736427a5ee55bd663af78323a334e4b01"
