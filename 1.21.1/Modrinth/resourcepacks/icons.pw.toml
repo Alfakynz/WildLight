@@ -1,13 +1,13 @@
 name = "Icons"
-filename = "Icons v.1.12 1.20.1-1.21.1.zip"
+filename = "Icons v.1.12.1.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/O7z3QKAG/versions/iRZ2VA2w/Icons%20v.1.12%201.20.1-1.21.1.zip"
+url = "https://cdn.modrinth.com/data/O7z3QKAG/versions/Sdq0CGTj/Icons%20v.1.12.1.zip"
 hash-format = "sha512"
-hash = "5841108d422ef6fad6ebc51df8c14668d9ffec3de174e2200c018b6dd78c625f74eb20a56a68f461b35d04237bf6f35f371b160e5b45ea1f79279818785ecc38"
+hash = "c82e892b64b5341b9e88d043aa970e666c70e1cceb6e401f6aa6198103a27483aba3807e3e976875050c655d10ea21ca8be6d3569e682731cf5af5d5fcf0eb69"
 
 [update]
 [update.modrinth]
 mod-id = "O7z3QKAG"
-version = "iRZ2VA2w"
+version = "Sdq0CGTj"

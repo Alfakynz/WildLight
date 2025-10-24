@@ -290,7 +290,7 @@ hash = "1bcd5051e7328960fd75ee0a16fb23ebd7a80386d4da67a32d6985534c4df562"
 
 [[files]]
 file = "configureddefaults/options-profiles/0. Default/options.txt"
-hash = "e02eaf42fec0c146a8faf006e5508390df2b9b2058974d70a6fa879974cd5cc3"
+hash = "48be953fd92e80f5faab6349790d48b49748f9353710696e11453ac20b68d6e9"
 
 [[files]]
 file = "configureddefaults/options-profiles/0. Default/sodium-options.json"
@@ -350,7 +350,7 @@ hash = "e414f088eec5f6006bfbf3fc88afe73562de58a7298850ae9d3f15fb113ccfd9"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "b459c277b8a64af75d1068a48d1f599c8151b431fac76da74c844bd8181010ab"
+hash = "48be953fd92e80f5faab6349790d48b49748f9353710696e11453ac20b68d6e9"
 
 [[files]]
 file = "icon.png"
@@ -373,7 +373,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "a36c16c9f5485a053f0217a8dfde68101a7d374e579b002fc28ed86007bac949"
+hash = "6ee9ff6bd35e925663a73a90597a931f62c61c0bfba75a0ac5a3a3c34e60d158"
 metafile = true
 
 [[files]]
@@ -653,7 +653,7 @@ metafile = true
 
 [[files]]
 file = "mods/double-doors.pw.toml"
-hash = "37297b2f4f83f324972147ca4bd4ec8fa275513fcdfd3e64406393f255ef8813"
+hash = "c7e3cfd32470d3e42baf3dc1dfcf9f17fb43df548d446ae32ec8a105d7604748"
 metafile = true
 
 [[files]]
@@ -768,7 +768,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "098d6976a738658ca490cc58e9fab19f06cd1a7b23199b6f1ee108d866333e22"
+hash = "d7c055f277c1751122d9abc5f09015e629699e04a9383cd0c666b33436293079"
 metafile = true
 
 [[files]]
@@ -1313,7 +1313,7 @@ metafile = true
 
 [[files]]
 file = "mods/trading-post.pw.toml"
-hash = "d5538edd3a67054d28c6c769a80a56005497e644c6c9af7be7a407ab3fbef44b"
+hash = "cbadc7c7ee3c00babef61035e102dca666e3f75ec94ef2bccb6702cd5811de00"
 metafile = true
 
 [[files]]
@@ -1369,6 +1369,11 @@ metafile = true
 [[files]]
 file = "mods/wilder-wild.pw.toml"
 hash = "3fefc12166c170f5a701e93067aedba80ae033303afbc4f15d90b09aa4c05382"
+metafile = true
+
+[[files]]
+file = "mods/wildlight-compat.pw.toml"
+hash = "967992a5cf7d84b2c6eba23bcfae10e3c128944b3f11300f75bc40952f0d609a"
 metafile = true
 
 [[files]]
@@ -1458,7 +1463,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/assembled-legendary-tooltips.pw.toml"
-hash = "3ac46f18b1d7c33d1987d75a0c1098aa97d7b0f1ff4b647a54e8e386e7e28e55"
+hash = "da64c7ec3e8b0b902cff6d70eefb583a406fd18742e8b190f9a66b98efb5d996"
 metafile = true
 
 [[files]]
@@ -1508,7 +1513,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/icons.pw.toml"
-hash = "46bc5d3b03c4ddf3c980bedd444557cac614d7ce0ca2e7a3a413a609c7795478"
+hash = "0f1f0274bd042b888a470955154102e0d540396e5b3af341d050f05253fdcc3f"
 metafile = true
 
 [[files]]

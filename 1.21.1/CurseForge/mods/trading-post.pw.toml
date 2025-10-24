@@ -1,13 +1,13 @@
 name = "Trading Post"
-filename = "TradingPost-v21.1.0-1.21.1-Fabric.jar"
+filename = "TradingPost-v21.1.1-1.21.1-Fabric.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "7293f26f6738fffa42ab6b123148d4866bbd0670"
+hash = "85e513b6cc796bc685aac59af5d6e9971d0d08d6"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5733846
+file-id = 7143450
 project-id = 539057

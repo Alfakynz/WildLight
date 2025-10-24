@@ -290,7 +290,7 @@ hash = "1bcd5051e7328960fd75ee0a16fb23ebd7a80386d4da67a32d6985534c4df562"
 
 [[files]]
 file = "configureddefaults/options-profiles/0. Default/options.txt"
-hash = "e02eaf42fec0c146a8faf006e5508390df2b9b2058974d70a6fa879974cd5cc3"
+hash = "48be953fd92e80f5faab6349790d48b49748f9353710696e11453ac20b68d6e9"
 
 [[files]]
 file = "configureddefaults/options-profiles/0. Default/sodium-options.json"
@@ -350,7 +350,7 @@ hash = "e414f088eec5f6006bfbf3fc88afe73562de58a7298850ae9d3f15fb113ccfd9"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "b459c277b8a64af75d1068a48d1f599c8151b431fac76da74c844bd8181010ab"
+hash = "48be953fd92e80f5faab6349790d48b49748f9353710696e11453ac20b68d6e9"
 
 [[files]]
 file = "icon.png"
@@ -368,7 +368,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "3f6e457dde1191b93fd6849b051a180f68d36d18d4575ba31e3ae63a566a7ad6"
+hash = "c980f63c49521949def5579a01fbdcc7ad060cf9380daa3067d667439807e34b"
 metafile = true
 
 [[files]]
@@ -638,7 +638,7 @@ metafile = true
 
 [[files]]
 file = "mods/double-doors.pw.toml"
-hash = "024113276649fed257cd98d2e3ac71c0dd08d84cef05a043b9b9ac23a8792423"
+hash = "00f40009395dc60d8a67b6dddf155239b6e94867da16f1e26718f697c3065d73"
 metafile = true
 
 [[files]]
@@ -748,7 +748,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "373c9e22de4d4df2997c0316cb244d3b61b1cc6a6c748c1593af757653b4f957"
+hash = "94f000249d21c4fc3b7744f9579bb6ac0d48e6bf4860fad16f23c997950a47f3"
 metafile = true
 
 [[files]]
@@ -1288,7 +1288,7 @@ metafile = true
 
 [[files]]
 file = "mods/trading-post.pw.toml"
-hash = "4d276107495fe870f5d302339e9890ccee9ae52da936dd02145f660d20c55765"
+hash = "547cb549e8a123b0ccc766efaa250691ea86c681b8e395795f2254f3100bb06a"
 metafile = true
 
 [[files]]
@@ -1438,7 +1438,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/assembled-legendary-tooltips.pw.toml"
-hash = "3ac46f18b1d7c33d1987d75a0c1098aa97d7b0f1ff4b647a54e8e386e7e28e55"
+hash = "da64c7ec3e8b0b902cff6d70eefb583a406fd18742e8b190f9a66b98efb5d996"
 metafile = true
 
 [[files]]
@@ -1488,7 +1488,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/icons.pw.toml"
-hash = "ea0ae0a87c7ec4a67f48db67039b44d483b4d4a9eb4d3adcb4024bbc89d2bd92"
+hash = "3da766dbb99ae20a266aeaa5ff1ed0a347e1556c0ad857f3d19f9f95d7143a11"
 metafile = true
 
 [[files]]
