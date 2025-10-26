@@ -10,6 +10,7 @@ This mod is designed to fix some bugs and interface elements in the WildLight mo
 ### Mod
 
 - Fixes Deeper and Darker portal particles (remove particles from the portal when PhysicsMod is installed)
+- Fixes Wildfire (Friends&Foes) particles (remove particles from the wildfire when PhysicsMod is installed)
 
 ### Built-in resource pack
 
@@ -28,6 +29,14 @@ This mod is designed to fix some bugs and interface elements in the WildLight mo
 - Fixes Fabric creative buttons not displaying correctly on hover
 - Fixes sugar cane not showing properly on the hotbar (still bug)
 - Most of the icons added now work in English, Spanish, and French
+
+## 🔗 Dependencies (for development)
+
+You need to install and place these mods in the libs folder of your development environment:
+
+- [PhysicsMod](https://modrinth.com/mod/physicsmod/version/W6xWq9WM) (physics-mod-3.0.23-mc-1.21.1-fabric.jar)
+- [Resourceful Lib](https://modrinth.com/mod/resourceful-lib/version/Hf91FuVF) (resourcefullib-fabric-1.21-3.0.12.jar)
+- [YetAnotherConfigLib](https://modrinth.com/mod/yacl/version/3.6.5+1.21.1-fabric) (yet_another_config_lib_v3-3.6.5+1.21.1-fabric.jar)
 
 ## 🤝 Contributing
 

@@ -3,14 +3,12 @@
 *.mrpack
 
 # gradle
-
 .gradle/
 build/
 out/
 classes/
 
 # IDE
-
 .settings/
 .vscode/
 bin/
@@ -19,22 +17,19 @@ bin/
 .idea/
 
 # macos
-
 *.DS_Store
 
 # fabric
-
 run/
+libs/
 
 # java
-
 hs_err_*.log
 replay_*.log
 *.hprof
 *.jfr
 
 # Website
-
 dist/
 node_modules/
 package-lock.json

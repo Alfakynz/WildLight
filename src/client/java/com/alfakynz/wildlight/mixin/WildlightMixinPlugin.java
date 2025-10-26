@@ -23,6 +23,10 @@ public class WildlightMixinPlugin implements IMixinConfigPlugin {
         if (mixinClassName.endsWith("DeeperDarkerCompatMixin")) {
             return FabricLoader.getInstance().isModLoaded("deeperdarker") && FabricLoader.getInstance().isModLoaded("physicsmod");
         }
+
+        if (mixinClassName.endsWith("FriendsFoesCompatMixin")) {
+            return FabricLoader.getInstance().isModLoaded("friendsandfoes") && FabricLoader.getInstance().isModLoaded("physicsmod");
+        }
         return true;
     }
 
