@@ -1,13 +1,13 @@
 name = "Easy Magic"
-filename = "EasyMagic-v21.1.2-1.21.1-Fabric.jar"
+filename = "EasyMagic-v21.1.4-1.21.1-Fabric.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "077fdbc4de2e747aadff9d0f48e7b1b7d0ec5661"
+hash = "2131b964eafe376ff7e565cdae330a585e42d2e1"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7117735
+file-id = 7151098
 project-id = 456239

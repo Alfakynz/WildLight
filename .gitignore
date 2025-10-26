@@ -8,6 +8,7 @@ package-lock.json
 dist/*
 .gradle/
 build/
+libs/
 run/
 
 configureddefaults/

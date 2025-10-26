@@ -363,7 +363,7 @@ metafile = true
 
 [[files]]
 file = "mods/almanac-lib.pw.toml"
-hash = "6ec05c687ee2883e5a10d00bbc83f287d9d93946fc18a0d07abcc1324a4db249"
+hash = "476e748871a05797e875dc1cd262902110365661a4cbe014bd34e6de9ed4a984"
 metafile = true
 
 [[files]]
@@ -374,6 +374,11 @@ metafile = true
 [[files]]
 file = "mods/animal-feeding-trough.pw.toml"
 hash = "cf643445b07eeb3049b35fb2dfb4416e9d339b8a4229c5f295f2e63885e94aa0"
+metafile = true
+
+[[files]]
+file = "mods/animatica.pw.toml"
+hash = "cdc6274305b261087764409f7a7e747e4421afe2fe391b07916ed5fccfca4062"
 metafile = true
 
 [[files]]
@@ -533,7 +538,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "614e76a5e249acf1959f5cae88f9b3045327982608f441dc8eb1684882207c72"
+hash = "42c658ecafe98b802924b2a8a10bfc995d743efdc2cf7a1965274d302380f1e7"
 metafile = true
 
 [[files]]
@@ -573,7 +578,7 @@ metafile = true
 
 [[files]]
 file = "mods/cristel-lib.pw.toml"
-hash = "4093fb3e4cfb89c7ddf4e3067edec3e538df3831e4bf366bf698d506a0e9991c"
+hash = "c70f66a60bcb2128e49bda671a04e96544a6fbeb9b8ee98b9c548814f237e2d5"
 metafile = true
 
 [[files]]
@@ -668,7 +673,7 @@ metafile = true
 
 [[files]]
 file = "mods/easy-magic.pw.toml"
-hash = "83de4d35d8924f1539e471945321de491ba624aba2be662071dd382b91d400d5"
+hash = "765d72129bfb30756fee8e30e11fc04c6658292b5041a5890aa89e7013a387f9"
 metafile = true
 
 [[files]]
@@ -688,7 +693,7 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-trims.pw.toml"
-hash = "86b67bf22d0a6a23bd9656cf57875873a10b9678079be21e26d9769d71ac90b9"
+hash = "b9a792f7760a457bda808756e262467a4bcff6b6f61b3a8eed5760425e13fc6f"
 metafile = true
 
 [[files]]
@@ -852,6 +857,11 @@ hash = "f65b11ba8730a2300b29e882a9bcd55df8f92250b3eccf22a04d679a32d8e275"
 metafile = true
 
 [[files]]
+file = "mods/invmovecompats.pw.toml"
+hash = "b1b330eb115be92528c50f94b255ce5522d884202f112748d4697ae164b6514f"
+metafile = true
+
+[[files]]
 file = "mods/irisshaders.pw.toml"
 hash = "b31e45972ba08291e168f9d93ed14d679a8799983b7bce7ca38faa795a85bf3a"
 metafile = true
@@ -988,7 +998,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-more-popups.pw.toml"
-hash = "370a719e361a2e2380fc95be7f5d6f642914b9f1c07bfe63d8e6d78ff7b166d7"
+hash = "08acdc60e1cbea3bec80cbc3bec6edb3f29e293ef0f35fb99b2bf7c018b3d1c5"
 metafile = true
 
 [[files]]
@@ -1024,6 +1034,11 @@ metafile = true
 [[files]]
 file = "mods/octo-lib.pw.toml"
 hash = "6c7a1fab1da041a935a8974dd9904cf4ee9843c5d07479b719797bdfed95db9f"
+metafile = true
+
+[[files]]
+file = "mods/optigui.pw.toml"
+hash = "27e871dc032134ab3042e3b3512ce618b2410f022b477fdeca8179ae8d72598f"
 metafile = true
 
 [[files]]
@@ -1353,7 +1368,7 @@ metafile = true
 
 [[files]]
 file = "mods/wildlight-compat.pw.toml"
-hash = "967992a5cf7d84b2c6eba23bcfae10e3c128944b3f11300f75bc40952f0d609a"
+hash = "440046832dabc8d81a4bede37c2304e5c9f23ffbad719e8155a92fb21bc4f7d4"
 metafile = true
 
 [[files]]
@@ -1508,7 +1523,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/recolourful-containers-gui-hud-dark.pw.toml"
-hash = "8f47bdee1b8a2518245bb9f11e011e10dee583105661d6a27d69d2f54385c1e8"
+hash = "91d9ebebc72f713caf3c181839d2966190e3018fdcf87fd02ffa94e1244cf6df"
 metafile = true
 
 [[files]]
@@ -1523,7 +1538,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "20c6f2eab1bc33a369f25afbdad257d383b793a390899914b177407320169608"
+hash = "cbccd194544ff85c61bd66fbd0253604efb9cb59263fc15280cde0081e96b8f6"
 metafile = true
 
 [[files]]

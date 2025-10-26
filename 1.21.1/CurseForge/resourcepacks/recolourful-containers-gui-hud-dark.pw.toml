@@ -1,6 +1,7 @@
 name = "Recolourful Containers GUI + HUD (DARK)"
 filename = "Recolourful Containers DARK 2.1.2 (1.19.4+).zip"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha1"
