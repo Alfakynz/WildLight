@@ -25,7 +25,6 @@ loom {
 			sourceSet sourceSets.client
 		}
 	}
-
 }
 
 dependencies {
@@ -38,12 +37,12 @@ dependencies {
     // PhysicsMod
     modImplementation files("libs/physics-mod-3.0.23-mc-1.21.1-fabric.jar")
 
-    // Deeper and Darker
+    // Deeper and Darker (and its dependencies)
 	modImplementation "maven.modrinth:deeperdarker:${project.deeperdarker_version}"
 	include modImplementation("net.kyrptonaught:customportalapi:${project.customportalapi_version}")
 	modImplementation "io.wispforest:owo-lib:${project.owo_version}"
 
-    // Friends and Foes
+    // Friends and Foes (and its dependencies)
     modImplementation"maven.modrinth:friends-and-foes:${project.friendsandfoes_version}"
     modImplementation files("libs/resourcefullib-fabric-1.21-3.0.12.jar")
     modImplementation files("libs/yet_another_config_lib_v3-3.6.5+1.21.1-fabric.jar")
@@ -61,6 +60,10 @@ tasks.withType(JavaCompile).configureEach {
 	it.options.release = 21
 }
 
+tasks.javadoc {
+    source = sourceSets.client.allJava
+}
+
 java {
 	withSourcesJar()
     withJavadocJar()
@@ -74,23 +77,5 @@ jar {
 
 	from("LICENSE") {
 		rename { "${it}_${inputs.properties.archivesName}"}
-	}
-}
-
-// configure the maven publication
-publishing {
-	publications {
-		create("mavenJava", MavenPublication) {
-			artifactId = project.archives_base_name
-			from components.java
-		}
-	}
-
-	// See https://docs.gradle.org/current/userguide/publishing_maven.html for information on how to set up publishing.
-	repositories {
-		// Add repositories to publish to here.
-		// Notice: This block does NOT have the same function as the block in the top level.
-		// The repositories here will be used for publishing your artifact, not for
-		// retrieving dependencies.
 	}
 }
