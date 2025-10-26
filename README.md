@@ -19,8 +19,10 @@ This mod is designed to fix some bugs and interface elements in the WildLight mo
 - Adds new Game Menu Icon
 - Adds compat for Animal Feeding Trough
 - Adds compat for Enhanced Workbenches
+- Adds compat for ETF button
 - Adds compat for Not Interested!
 - Adds compat for Useful Backpacks
+- Adds compat for Wilder Wild (removes chest names)
 - Adds icon for Mod Menu (Open Mods Folder & Mods button label not centered)
 - Adds icon for Options Profiles
 - Adds icon for PhysicsMod
