@@ -40,6 +40,10 @@ You need to install and place these mods in the libs folder of your development 
 - [Resourceful Lib](https://modrinth.com/mod/resourceful-lib/version/Hf91FuVF) (resourcefullib-fabric-1.21-3.0.12.jar)
 - [YetAnotherConfigLib](https://modrinth.com/mod/yacl/version/3.6.5+1.21.1-fabric) (yet_another_config_lib_v3-3.6.5+1.21.1-fabric.jar)
 
+## 🙏 Credits
+
+- Thanks to [nNoidea](https://github.com/nNoidea) for Eating Animation support for Wilder Wild compatibility! (via [Eating Animation PR #62](https://github.com/Theoness1/EatingAnimation/pull/62))
+
 ## 🤝 Contributing
 
 This mod is a work in progress, and all suggestions are welcome.
