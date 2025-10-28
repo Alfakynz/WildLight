@@ -290,7 +290,7 @@ hash = "1bcd5051e7328960fd75ee0a16fb23ebd7a80386d4da67a32d6985534c4df562"
 
 [[files]]
 file = "configureddefaults/options-profiles/0. Default/options.txt"
-hash = "48be953fd92e80f5faab6349790d48b49748f9353710696e11453ac20b68d6e9"
+hash = "f73e6f467824c00a34fc5af576528a8e000239b24c3ce5f931d78055d26c9875"
 
 [[files]]
 file = "configureddefaults/options-profiles/0. Default/sodium-options.json"
@@ -350,7 +350,7 @@ hash = "e414f088eec5f6006bfbf3fc88afe73562de58a7298850ae9d3f15fb113ccfd9"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "48be953fd92e80f5faab6349790d48b49748f9353710696e11453ac20b68d6e9"
+hash = "f73e6f467824c00a34fc5af576528a8e000239b24c3ce5f931d78055d26c9875"
 
 [[files]]
 file = "icon.png"
@@ -718,7 +718,7 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-trims.pw.toml"
-hash = "3d170945e3d023cba246f6b3678af21bee80a9b29d1cab3d7f80be77da07709d"
+hash = "c4673a6ee6ef48fcea08b8f5af833ec49566487f4378fd3a9f1ad24de5a224bc"
 metafile = true
 
 [[files]]
@@ -814,6 +814,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "6afc47cce5b7aa63fb1841b92e532a49f4b9a480e5f99ce92b1a220013b53c21"
+metafile = true
+
+[[files]]
+file = "mods/friends-and-foes-flowery-mooblooms-fabric.pw.toml"
+hash = "ca11bc13434dffcac0cb2500e3ea2eb62bb722f36d0d56ffbc1dfbe5d4315bbc"
 metafile = true
 
 [[files]]
@@ -1388,7 +1393,7 @@ metafile = true
 
 [[files]]
 file = "mods/wildlight-compat.pw.toml"
-hash = "440046832dabc8d81a4bede37c2304e5c9f23ffbad719e8155a92fb21bc4f7d4"
+hash = "d94970298645a150bb0350c34f414ae620b3945e1eadebad9ffa7192c88657bb"
 metafile = true
 
 [[files]]
@@ -1474,6 +1479,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/3d-default.pw.toml"
 hash = "1bd37801528861dc161a11cfdcdde59c5b440926ff575d211fdd4943f1bc5014"
+metafile = true
+
+[[files]]
+file = "resourcepacks/alt-compat.pw.toml"
+hash = "7199f43db5a2c2af48692e62f5f659d304dacfaafbbc31ec2b5e1bca57ab732b"
 metafile = true
 
 [[files]]

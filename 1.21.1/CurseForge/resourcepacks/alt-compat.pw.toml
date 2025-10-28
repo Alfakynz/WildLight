@@ -1,0 +1,13 @@
+name = "Assembled Legendary Tooltips Compat"
+filename = "ALT-Compat.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2c25589764cf3a60dbfda6584b61e648415ab439"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7155520
+project-id = 1373065

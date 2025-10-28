@@ -1,0 +1,13 @@
+name = "Friends&Foes - Flowery Mooblooms (Fabric/Quilt)"
+filename = "flowerymooblooms-fabric-3.0.2+mc1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b749f4773d791f98f90f37cd5038b81240ee86c4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7072792
+project-id = 779833

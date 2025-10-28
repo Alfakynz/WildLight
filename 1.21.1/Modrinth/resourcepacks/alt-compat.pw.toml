@@ -1,0 +1,13 @@
+name = "Assembled Legendary Tooltips Compat"
+filename = "ALT-Compat.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/FVonl8G5/versions/Xw7U1xp9/ALT-Compat.zip"
+hash-format = "sha512"
+hash = "08c65344d1e910c50da076a2a5068727a09f87fd87d755ca01ba60ff86e39c759f0e735972cdc8bd7fa4fc5fc84568c4460560520eb892ea087c53480bf1c512"
+
+[update]
+[update.modrinth]
+mod-id = "FVonl8G5"
+version = "Xw7U1xp9"

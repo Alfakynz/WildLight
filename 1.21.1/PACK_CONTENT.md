@@ -96,6 +96,7 @@
 - [First-person Model](https://modrinth.com/project/H5XMjpHi)
 - [Forge Config API Port](https://modrinth.com/project/ohNO6lps)
 - [Friends&Foes (Fabric/Quilt)](https://modrinth.com/project/POQ2i9zu)
+- [Friends&Foes - Flowery Mooblooms (Fabric/Quilt)](https://modrinth.com/project/ECOSu6pa)
 - [FrozenLib](https://modrinth.com/project/9KawNmQc)
 - [Fzzy Config](https://modrinth.com/project/hYykXjDp)
 - [GlitchCore](https://modrinth.com/project/s3dmwKy5)
@@ -233,6 +234,7 @@
 
 - [3D Default](https://modrinth.com/project/5aPp18Lx)
 - [3D crops Revamped](https://modrinth.com/project/PgpTtNoI)
+- [Assembled Legendary Tooltips Compat](https://modrinth.com/project/FVonl8G5)
 - [Assembled Legendary Tooltips](https://modrinth.com/project/P6gDZwVp)
 - [Circular Logs](https://modrinth.com/project/OAHZ2XF7)
 - [Connected Glasses](https://modrinth.com/project/BcGbyFs6)

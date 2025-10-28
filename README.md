@@ -65,6 +65,10 @@ For chat, **Better Selection** makes texte asier and more pleasant to select, wh
 
 It is recommended to allocate 4GB of RAM to Minecraft for optimal performance. This ensures smoother gameplay and prevents lag.
 
+## 🙏 Credits
+
+- Thanks to [nNoidea](https://github.com/nNoidea) for Eating Animation support for Wilder Wild compatibility! (via [Eating Animation PR #62](https://github.com/Theoness1/EatingAnimation/pull/62))
+
 ## 🤝 Contributing
 
 WildLight is a work in progress, and all suggestions are welcome.
