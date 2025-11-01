@@ -453,7 +453,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "ace316eb88ca635b9853219bedc484378beea13e3122d775979f91005483225c"
+hash = "5bf116cf0ff4a6d26c4cdda57dc812734f06808e12e76f3d2cf94d95d92650c3"
 metafile = true
 
 [[files]]
@@ -728,7 +728,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "642cb836965056ab936d88a2eea5b61217e557b246ee09eaf7e7dededdd185c5"
+hash = "5b0efedacf27b8b22797a0ccfe0c1caafe82c79723557e07e8c55dea780afc68"
 metafile = true
 
 [[files]]
@@ -993,7 +993,7 @@ metafile = true
 
 [[files]]
 file = "mods/naturally-trimmed.pw.toml"
-hash = "4e40fa57643c8431f4744bd7afe0927343e64a4a814c5de59d471755591e3f72"
+hash = "c74fc2bf0fae6e3d7e3e75ce049530337fd8840e426ab04b8a00b928c9fbadc3"
 metafile = true
 
 [[files]]
@@ -1458,7 +1458,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/alt-compat.pw.toml"
-hash = "c6349a787165f9c366a1d278ca925b09e3e39ff9f35364ba22ad1aed89750e4f"
+hash = "f9a65ed70b8c204a8dff9f0b0c3eeb0f6ee2cb6f2ac82e0f1f6aa26cee0d42bf"
 metafile = true
 
 [[files]]
