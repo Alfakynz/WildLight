@@ -334,7 +334,7 @@ hash = "50dc51234d93a1cac2298fb52f3a05276c4ec7e2d4c50ec71c77ae0f65c56b23"
 
 [[files]]
 file = "configureddefaults/options-profiles/3. Quality/iris.properties"
-hash = "257dd57ce7c2d62cc9a5015e9569fcd915fb0ae9a9d5e14a40ad6ffe81a5cf09"
+hash = "8fe1fcd95934e71631011f390f802342846cfbc6363c02cbc2417297b019aebd"
 
 [[files]]
 file = "configureddefaults/options-profiles/3. Quality/options.txt"
@@ -468,7 +468,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me.pw.toml"
-hash = "ec813e6ade7e4f375d23908224581c1424d6bccaf3a54d9c59761c447c2707f9"
+hash = "512a9aa7d85f3cf154f36ac8e287889e5730088fe19b8eb0b1e9409ca2ba5756"
 metafile = true
 
 [[files]]
@@ -533,7 +533,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobweb.pw.toml"
-hash = "ed5b9c730d2619f125364340f47361f68b42f0931f187bea7ef866a31bea85a4"
+hash = "5c89d0763a82982984880dc527f99fdd96d074d473439582cad84128b5ec6f98"
 metafile = true
 
 [[files]]
@@ -738,7 +738,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "ec8f9806c616bc67392fbe7430f10e2a5d9f4f78e07bf08905a5c042dcfcbb2f"
+hash = "689fb0dce9005e3cb434e401ed6ffb53d0a5d0b6730b89c95c1c98942c158cd8"
 metafile = true
 
 [[files]]
@@ -958,7 +958,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "7c702d1eb46d5c70af78a3414e1a29e610b73975d5ba3826e1bfdb89c3857b39"
+hash = "c24257e1f130298441ccc896f4f9ac46987317a0bb0c407c50fe8fbf75aa1b26"
 metafile = true
 
 [[files]]
@@ -993,7 +993,7 @@ metafile = true
 
 [[files]]
 file = "mods/naturally-trimmed.pw.toml"
-hash = "c74fc2bf0fae6e3d7e3e75ce049530337fd8840e426ab04b8a00b928c9fbadc3"
+hash = "24e9db6527481f052b1b84caaf9a124e9be1c26ce70ee7b74d49fc079ca444b7"
 metafile = true
 
 [[files]]
@@ -1003,7 +1003,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-more-popups.pw.toml"
-hash = "08acdc60e1cbea3bec80cbc3bec6edb3f29e293ef0f35fb99b2bf7c018b3d1c5"
+hash = "4a030ee47a52899bb2857508c6af7089f457bad0734eb3c9d7cfee9554cfac58"
 metafile = true
 
 [[files]]
@@ -1458,7 +1458,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/alt-compat.pw.toml"
-hash = "f9a65ed70b8c204a8dff9f0b0c3eeb0f6ee2cb6f2ac82e0f1f6aa26cee0d42bf"
+hash = "8a21314be6c3ab3c1f1c3d666cfd9034243e4a9ca01154a9a661b234dcdf91fb"
 metafile = true
 
 [[files]]
@@ -1548,7 +1548,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "cbccd194544ff85c61bd66fbd0253604efb9cb59263fc15280cde0081e96b8f6"
+hash = "c2fea94ff1ef661cc8d5e8ed4c3c398e0c0bbe4b52483d4a9ab75bd58fc5404f"
 metafile = true
 
 [[files]]

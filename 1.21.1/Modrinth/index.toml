@@ -334,7 +334,7 @@ hash = "50dc51234d93a1cac2298fb52f3a05276c4ec7e2d4c50ec71c77ae0f65c56b23"
 
 [[files]]
 file = "configureddefaults/options-profiles/3. Quality/iris.properties"
-hash = "257dd57ce7c2d62cc9a5015e9569fcd915fb0ae9a9d5e14a40ad6ffe81a5cf09"
+hash = "8fe1fcd95934e71631011f390f802342846cfbc6363c02cbc2417297b019aebd"
 
 [[files]]
 file = "configureddefaults/options-profiles/3. Quality/options.txt"
@@ -483,7 +483,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "796c28baec98b91ac98449364c0a6786201f01580a777bcecacb137c1e2c6309"
+hash = "941c3f358ef74f4fc99727e550106b8905d77cb4971321fd8ca4406e33b704a6"
 metafile = true
 
 [[files]]
@@ -548,7 +548,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobweb.pw.toml"
-hash = "fa767604387c15268ae565381b68afcfe39c7284d24fd5e08c76c6e6ca8da2eb"
+hash = "49da1f100b78a8ad75c06dce97631944dfadc3598c0283d0217a80eb0b2e45b5"
 metafile = true
 
 [[files]]
@@ -758,7 +758,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "68d83de0de41e1f28165a6dbd932319e8c8b46461b6a0fecf2dd3360091d34b9"
+hash = "10845b93403d9f0aef2454ad7e1e6bae122047a2834fdeb2ed776bc06a86e801"
 metafile = true
 
 [[files]]
@@ -998,7 +998,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "fa01d0d1b480410d3b46647b676849a7c266a9a9c0fdf444cbf80eb56a559d92"
+hash = "72b66feba28a559029e5d3bc550d093078f930539a8b7dc1d13ce4e1e1781012"
 metafile = true
 
 [[files]]
@@ -1023,7 +1023,7 @@ metafile = true
 
 [[files]]
 file = "mods/naturally-trimmed.pw.toml"
-hash = "a6bc5f9297dde276285cbae6f829f2849735abab43934d2ad32d9a54fd6f828d"
+hash = "8a4477de50fbb65bd59b6358ec6faf4f2c982e3746bdd8d0cd580eabf81a1cf0"
 metafile = true
 
 [[files]]
@@ -1033,7 +1033,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-more-popups.pw.toml"
-hash = "72616410fd80584867c493b2f38789578aa500c040aba01e56df6099e725107b"
+hash = "77ac9e73fdedd49712eeb10aa9e8356139045012235126b226e9ee72a8f2477b"
 metafile = true
 
 [[files]]
@@ -1393,7 +1393,7 @@ metafile = true
 
 [[files]]
 file = "mods/wildlight-compat.pw.toml"
-hash = "d94970298645a150bb0350c34f414ae620b3945e1eadebad9ffa7192c88657bb"
+hash = "b57770bf30499f38ba8cdbc84c8dc6718c6e787dee017a2fc1e610172aa20537"
 metafile = true
 
 [[files]]
@@ -1483,7 +1483,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/alt-compat.pw.toml"
-hash = "a7f7df0ac22f561ced27f54ecb147c8f46e52a7ac03e23b73db7f951f9a32ae1"
+hash = "4ae58d51d69a263c29c8d18524ead61aaf2926a4f206ad332fe5eb62e1a9e7bd"
 metafile = true
 
 [[files]]
@@ -1568,7 +1568,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "b32ebcb677b2f788bb574d6df3c84e55e20728da976492b6906a4126b4efa560"
+hash = "575f72c3f1f10a74c40a1ebdb79c6e4c138ddc5e9309581f30297f7ea97d1bf2"
 metafile = true
 
 [[files]]
