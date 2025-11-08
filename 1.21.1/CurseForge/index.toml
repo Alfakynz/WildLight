@@ -807,6 +807,11 @@ hash = "df3651550b7ff4ee12b3c68698eac6a958f9db195c227b3242b5bc36a2f59359"
 metafile = true
 
 [[files]]
+file = "mods/frozenlib.pw.toml"
+hash = "d02b28e1d3fa454e8dd5f53697efb75562da59d69cce8ec8651224048fcadae6"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "ae2dd2b605e120ec04be2accfeb20938ceb4551bcc683b8c1a0f725578ea293e"
 metafile = true
