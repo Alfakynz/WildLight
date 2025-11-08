@@ -1,13 +1,13 @@
 name = "Connected Paths"
 filename = "Connected Paths v1.3.zip"
-side = "client"
+side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Nyfj98b5/versions/tMSJXGia/Connected%20Paths%20v1.3.zip"
-hash-format = "sha512"
-hash = "8975776c4b3b5293b847a0ed2b63ae6303ff56b1bdb0931b927e6929e623f129c66ec027b1181289e865fe5598b58c922914192fd95f257c1e6f127abd3a8ced"
+hash-format = "sha1"
+hash = "56f60940b27c20b22a1f36ea8956f562489a9711"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "Nyfj98b5"
-version = "tMSJXGia"
+[update.curseforge]
+file-id = 7175205
+project-id = 1376749
