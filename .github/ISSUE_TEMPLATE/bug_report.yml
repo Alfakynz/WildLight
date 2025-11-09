@@ -1,0 +1,76 @@
+name: "🐛 Bug Report"
+description: Report a problem or unexpected behavior in WildLight
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## 🐞 Bug Report
+        Thanks for taking the time to help improve WildLight!  
+        Please fill out the following information to help us reproduce and fix the issue.
+
+  - type: dropdown
+    id: component
+    attributes:
+      label: "Which part of WildLight is affected?"
+      description: Select the part of WildLight where the bug occurs.
+      options:
+        - "Modpack"
+        - "Mod"
+        - "Resource Pack"
+        - "Website"
+    validations:
+      required: true
+
+  - type: input
+    id: version
+    attributes:
+      label: "WildLight Version"
+      description: Which version of WildLight are you using?
+      placeholder: "e.g. v2.1.0"
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: "Describe the bug"
+      description: What happened, and what did you expect to happen?
+      placeholder: "Explain clearly what the bug is."
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: "Steps to reproduce"
+      description: How can we reproduce the issue?
+      placeholder: |
+        1. Go to ...
+        2. Do ...
+        3. See the error
+    validations:
+      required: true
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: "Crash report or logs"
+      description: Paste the relevant part of your `latest.log` or crash report (if applicable).
+      placeholder: "Attach logs here or link to a Pastebin/Gist."
+      render: shell
+
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: "Checklist"
+      options:
+        - label: "I selected the correct part of WildLight (Modpack, Mod, Resource Pack, or Website)."
+          required: true
+        - label: "I'm using the latest version of WildLight."
+          required: true
+        - label: "I've checked existing issues to avoid duplicates."
+          required: true
+        - label: "I've attached logs or crash reports if available."
+          required: false

@@ -1,0 +1,50 @@
+name: "✨ Feature Request"
+description: Suggest a new idea, improvement, or change for WildLight
+title: "[Feature]: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## 💡 Feature Request
+        I love hearing your ideas!
+        Please describe the feature you'd like to see added to WildLight.
+
+  - type: dropdown
+    id: component
+    attributes:
+      label: "Which part of WildLight is this for?"
+      description: Select the part of WildLight your suggestion applies to.
+      options:
+        - "Modpack"
+        - "Mod"
+        - "Resource Pack"
+        - "Website"
+    validations:
+      required: true
+
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: "Describe your feature request"
+      description: What would you like to see added or changed?
+      placeholder: "Explain your idea clearly."
+    validations:
+      required: true
+
+  - type: textarea
+    id: details
+    attributes:
+      label: "Additional details or context"
+      description: Add any screenshots, references, or examples if relevant.
+      placeholder: "Optional: related mods, screenshots, or inspiration sources."
+
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: "Checklist"
+      options:
+        - label: "I selected the correct part of WildLight (Modpack, Mod, Resource Pack, or Website)."
+          required: true
+        - label: "I've checked existing issues to make sure this feature hasn't already been suggested."
+          required: true
