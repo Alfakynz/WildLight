@@ -290,7 +290,7 @@ hash = "1bcd5051e7328960fd75ee0a16fb23ebd7a80386d4da67a32d6985534c4df562"
 
 [[files]]
 file = "configureddefaults/options-profiles/0. Default/options.txt"
-hash = "f73e6f467824c00a34fc5af576528a8e000239b24c3ce5f931d78055d26c9875"
+hash = "8990b38792df8ddc7fcb40fcad99962365d5a8c5e4cc7891ab75fda149379cc1"
 
 [[files]]
 file = "configureddefaults/options-profiles/0. Default/sodium-options.json"
@@ -350,7 +350,7 @@ hash = "e414f088eec5f6006bfbf3fc88afe73562de58a7298850ae9d3f15fb113ccfd9"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "f73e6f467824c00a34fc5af576528a8e000239b24c3ce5f931d78055d26c9875"
+hash = "8990b38792df8ddc7fcb40fcad99962365d5a8c5e4cc7891ab75fda149379cc1"
 
 [[files]]
 file = "icon.png"
