@@ -94,7 +94,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "configureddefaults/config/fancymenu/options.txt"
-hash = "ed68235afc4da6b4ffe02ca276a81e57afdadf2b8886c62e32bbb685f9e8c13b"
+hash = "4d9059eea995412830fe6183ea64bb1dbaee71fba1528fb06f29343c06f22bc1"
 
 [[files]]
 file = "configureddefaults/config/fancymenu/ui_themes/dark.json"
@@ -928,7 +928,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "0ff17caf6c435e681480b36c59f9b8665b21ce101fb9ca8c11a4b334bee2b9f4"
+hash = "f86e4b3d76b9b6bfd7318c0aefbbc269d3973263b2e9e247b5c2c997ec255d24"
 metafile = true
 
 [[files]]
@@ -963,7 +963,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "c24257e1f130298441ccc896f4f9ac46987317a0bb0c407c50fe8fbf75aa1b26"
+hash = "756e9021d46a85cc4a8f89e9f71c0ac6031e8e40b41004fd2915bf2cbe64cd99"
 metafile = true
 
 [[files]]
