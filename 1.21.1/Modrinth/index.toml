@@ -118,7 +118,7 @@ hash = "0ad9097a5c12bb317717b09ecd86d02352fa78696140588c1176ec0a93698940"
 
 [[files]]
 file = "configureddefaults/config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "ece31125f5524624fc79ab9cf570587442777a2845e3968253b3cc4bde8ac384"
+hash = "2e58154dda04298a7cea9328b28bbf5a3a0c90b15dca42677de4711c0dc74830"
 
 [[files]]
 file = "configureddefaults/config/iris.properties"
@@ -334,7 +334,7 @@ hash = "50dc51234d93a1cac2298fb52f3a05276c4ec7e2d4c50ec71c77ae0f65c56b23"
 
 [[files]]
 file = "configureddefaults/options-profiles/3. Quality/iris.properties"
-hash = "8fe1fcd95934e71631011f390f802342846cfbc6363c02cbc2417297b019aebd"
+hash = "46d615e9d9ac1089c290fd684392100773e981c83de03ff2e108c296769ba6a5"
 
 [[files]]
 file = "configureddefaults/options-profiles/3. Quality/options.txt"
@@ -758,7 +758,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "10845b93403d9f0aef2454ad7e1e6bae122047a2834fdeb2ed776bc06a86e801"
+hash = "7dfb4d4352a71270566d4e178abb8551353c3b3c4c6d113230aaba72ac3d657a"
 metafile = true
 
 [[files]]
@@ -813,7 +813,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "6afc47cce5b7aa63fb1841b92e532a49f4b9a480e5f99ce92b1a220013b53c21"
+hash = "db28bc3cc96b25c5414f9dcbd68be68a70b9d15505b5818007f68d9077d80a3c"
 metafile = true
 
 [[files]]
@@ -1218,7 +1218,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-snowy-fix-(forge-fabric).pw.toml"
-hash = "9b5b2a56d545eadecab55e361a4516d1aa15ee8cefbad7cef0502b86f5fefa23"
+hash = "79fbc198a947669f69bdf2e80f11d73bf85199b82b81f157cd3f5cf651e06b8c"
 metafile = true
 
 [[files]]
@@ -1268,7 +1268,7 @@ metafile = true
 
 [[files]]
 file = "mods/soul-fire-d.pw.toml"
-hash = "8e674b075eb10973a9b5112314ca5bb532095d175455f308a57e3085f298059e"
+hash = "2c13a039fcbdfc17f7ac9c8c8b70223f7a1a7f346ce569a0a58c4808504ede0d"
 metafile = true
 
 [[files]]
@@ -1323,7 +1323,7 @@ metafile = true
 
 [[files]]
 file = "mods/torch-hit.pw.toml"
-hash = "76b7e636d2e5ac6a9d70ae6427dd69e69424f467b6219860776a829b04f7c485"
+hash = "be8cdab693a7a9cee561b196512b4e85612e2e222af171d452c8843d75403ac5"
 metafile = true
 
 [[files]]

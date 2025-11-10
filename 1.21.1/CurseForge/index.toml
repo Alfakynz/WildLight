@@ -118,7 +118,7 @@ hash = "0ad9097a5c12bb317717b09ecd86d02352fa78696140588c1176ec0a93698940"
 
 [[files]]
 file = "configureddefaults/config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "ece31125f5524624fc79ab9cf570587442777a2845e3968253b3cc4bde8ac384"
+hash = "2e58154dda04298a7cea9328b28bbf5a3a0c90b15dca42677de4711c0dc74830"
 
 [[files]]
 file = "configureddefaults/config/iris.properties"
@@ -334,7 +334,7 @@ hash = "50dc51234d93a1cac2298fb52f3a05276c4ec7e2d4c50ec71c77ae0f65c56b23"
 
 [[files]]
 file = "configureddefaults/options-profiles/3. Quality/iris.properties"
-hash = "8fe1fcd95934e71631011f390f802342846cfbc6363c02cbc2417297b019aebd"
+hash = "46d615e9d9ac1089c290fd684392100773e981c83de03ff2e108c296769ba6a5"
 
 [[files]]
 file = "configureddefaults/options-profiles/3. Quality/options.txt"
@@ -738,7 +738,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "689fb0dce9005e3cb434e401ed6ffb53d0a5d0b6730b89c95c1c98942c158cd8"
+hash = "338ddb83c53dcdec227d644d0f3f979cae5b1219ac0bc7d928792486718d4ed6"
 metafile = true
 
 [[files]]
@@ -793,7 +793,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port-fabric.pw.toml"
-hash = "a449489f9024a2333343558296f30ff4aeb35792b64f58c0bac927a1c82dfd53"
+hash = "fb11b352dc04d396de9e5a978b42ca938e9f739c4d9e4c6a593c10da6392f3b3"
 metafile = true
 
 [[files]]
@@ -858,7 +858,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "a1b503b9d611906eefdda9114228872a2c94d0e43c9b193bdf739a8f12bc22b3"
+hash = "5d295245d23f4de878426a2edd1a6d1499a71b6acd9848c8631ad46504b3689b"
 metafile = true
 
 [[files]]
@@ -1188,7 +1188,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-snowy-fix-forge-fabric.pw.toml"
-hash = "d218c50646d3856377318cabadc9ebff9f7dff515c0825293ed378fee78e24e3"
+hash = "b8fb4ccb9102d9c5cdabb2be230dbdfdb26462f8f10b0ba8eb7ab88d7c98acbd"
 metafile = true
 
 [[files]]
@@ -1248,7 +1248,7 @@ metafile = true
 
 [[files]]
 file = "mods/soul-fire-d.pw.toml"
-hash = "24d49d68fea46fb1cb44679d9336b3750c5bd87a286c1dd62c2d7be23e532b27"
+hash = "3598be758a2a3dac2b4f79d08ebacd3a3874fedc72eb316bc6ed71c9a41d0472"
 metafile = true
 
 [[files]]
@@ -1303,7 +1303,7 @@ metafile = true
 
 [[files]]
 file = "mods/torch-hit.pw.toml"
-hash = "8bf297c3657105762473a15698364a2596154ddb3ef300b58939689e52bc742a"
+hash = "17e48c8df74c29381e853ca12c8d4f3debec028f679e8f0880346b7dd69ad8f7"
 metafile = true
 
 [[files]]

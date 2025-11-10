@@ -1,6 +1,7 @@
 name = "Torch hit!"
 filename = "torch-hit-fabric-1.21.1-7.0.0.jar"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha1"

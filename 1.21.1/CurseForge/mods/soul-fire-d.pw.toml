@@ -1,6 +1,7 @@
 name = "Soul fire'd"
 filename = "soul-fire-d-fabric-1.21-5.1.6.jar"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha1"

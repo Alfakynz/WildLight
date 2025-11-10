@@ -33,5 +33,10 @@
     },
     "number_of_notifications": 1,
     "type_visual_replace_failed_notification": "HOTBAR"
+  },
+  "Tweaks": {
+    "container_swipe_moving_items": {
+      "value": false
+    }
   }
 }
