@@ -1,24 +1,33 @@
 <script setup>
-import { ref } from 'vue'
+import { ref, onMounted } from 'vue'
 import ArrowLeft from './icons/arrow-left.vue'
 import ArrowRight from './icons/arrow-right.vue'
 
-const screenshots = [
-  new URL('../assets/images/screenshots/Night.png', import.meta.url).href,
-  new URL('../assets/images/screenshots/Towns and Towers.png', import.meta.url).href,
-  new URL('../assets/images/screenshots/Deeper and Darker.png', import.meta.url).href,
-  new URL('../assets/images/screenshots/Volcano.png', import.meta.url).href,
-  new URL('../assets/images/screenshots/Survival.png', import.meta.url).href,
-]
-
 const current = ref(0)
+const screenshots = ref([])
+
+// Select images from the repo
+onMounted(async () => {
+  try {
+    const res = await fetch(
+      'https://api.github.com/repos/Alfakynz/WildLight/contents/Media/screenshots',
+    )
+    const data = await res.json()
+
+    screenshots.value = data
+      .filter((file) => file.type === 'file' && file.name.match(/\.(png|jpg|jpeg|webp)$/i))
+      .map((file) => file.download_url)
+  } catch (err) {
+    console.error('Erreur lors du chargement des images depuis GitHub:', err)
+  }
+})
 
 function prevScreenshot() {
-  current.value = (current.value - 1 + screenshots.length) % screenshots.length
+  current.value = (current.value - 1 + screenshots.value.length) % screenshots.value.length
 }
 
 function nextScreenshot() {
-  current.value = (current.value + 1) % screenshots.length
+  current.value = (current.value + 1) % screenshots.value.length
 }
 
 function goTo(idx) {
