@@ -5,6 +5,7 @@
 *.mrpack
 node_modules/
 package-lock.json
+.vite/
 dist/*
 .gradle/
 build/
