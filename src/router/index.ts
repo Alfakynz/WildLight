@@ -1,10 +1,10 @@
 import { createRouter, createWebHistory } from 'vue-router'
-import HomeView from '../components/Home.vue'
-import WikiView from '../components/Wiki.vue'
-import InstallView from '../components/Install.vue'
-import ModsView from '../components/Mods.vue'
-import BugsView from '../components/Bugs.vue'
-import ConfigView from '../components/Config.vue'
+import HomeView from '../pages/Home.vue'
+import WikiView from '../pages/Wiki.vue'
+import InstallView from '../pages/Install.vue'
+import ModsView from '../pages/Mods.vue'
+import BugsView from '../pages/Bugs.vue'
+import ConfigView from '../pages/Config.vue'
 
 const routes = [
   {

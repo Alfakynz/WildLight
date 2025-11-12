@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { ref, onMounted } from 'vue'
-import WikiNav from './WikiNav.vue'
+import WikiNav from '../components/WikiNav.vue'
 
 onMounted(() => {
   const nav = document.querySelector('nav')

@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import WikiNav from './WikiNav.vue'
+import WikiNav from '../components/WikiNav.vue'
 import { onMounted } from 'vue'
 
 onMounted(() => {

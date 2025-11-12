@@ -1,9 +1,9 @@
 <script setup lang="ts">
 import { onMounted } from 'vue'
-import IntroView from './Intro.vue'
-import DownloadsView from './Downloads.vue'
-import ScreenshotsView from './Screenshots.vue'
-import DescriptionView from './Description.vue'
+import IntroView from '../components/Intro.vue'
+import DownloadsView from '../components/Downloads.vue'
+import ScreenshotsView from '../components/Screenshots.vue'
+import DescriptionView from '../components/Description.vue'
 
 onMounted(() => {
   const nav = document.querySelector('nav')
