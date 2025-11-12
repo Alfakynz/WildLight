@@ -58,6 +58,14 @@ import DownloadIcon from './icons/DownloadIcon.vue'
   box-shadow: 0 0 50px #f1643660;
 }
 
+.downloads .modrinth:hover {
+  box-shadow: 0 0 50px #22c55e80;
+}
+
+.downloads .curseforge:hover {
+  box-shadow: 0 0 50px #f1643680;
+}
+
 .downloads a {
   display: flex;
   align-items: center;
