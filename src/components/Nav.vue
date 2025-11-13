@@ -94,7 +94,7 @@ nav ul {
   width: 100%;
   margin: 0;
   padding: 0.5rem 0;
-  background: #1e1e1e90;
+  background: rgba(30, 30, 30, 0.3);
   box-shadow: 0 0 10px #00000080;
   backdrop-filter: blur(5px);
   border: 1px solid rgba(255, 255, 255, 0.1);

@@ -38,7 +38,7 @@ import DownloadIcon from './icons/DownloadIcon.vue'
 .downloads > div div {
   display: flex;
   align-items: center;
-  border-radius: 10px;
+  border-radius: 15px;
   width: fit-content;
   margin-bottom: 0.75em;
   transition: all 0.3s;
@@ -50,12 +50,12 @@ import DownloadIcon from './icons/DownloadIcon.vue'
 
 .downloads .modrinth {
   background: #22c55e;
-  box-shadow: 0 0 50px #22c55e60;
+  box-shadow: 0 0 25px #22c55e60;
 }
 
 .downloads .curseforge {
   background: #f16436;
-  box-shadow: 0 0 50px #f1643660;
+  box-shadow: 0 0 25px #f1643660;
 }
 
 .downloads .modrinth:hover {
