@@ -290,7 +290,7 @@ hash = "1bcd5051e7328960fd75ee0a16fb23ebd7a80386d4da67a32d6985534c4df562"
 
 [[files]]
 file = "configureddefaults/options-profiles/0. Default/options.txt"
-hash = "8990b38792df8ddc7fcb40fcad99962365d5a8c5e4cc7891ab75fda149379cc1"
+hash = "65568e6b73bd8e71d4277cc184797e700aa438cb8846da6e837645d90e770ec4"
 
 [[files]]
 file = "configureddefaults/options-profiles/0. Default/sodium-options.json"
@@ -334,7 +334,7 @@ hash = "50dc51234d93a1cac2298fb52f3a05276c4ec7e2d4c50ec71c77ae0f65c56b23"
 
 [[files]]
 file = "configureddefaults/options-profiles/3. Quality/iris.properties"
-hash = "46d615e9d9ac1089c290fd684392100773e981c83de03ff2e108c296769ba6a5"
+hash = "1524abccfd7d941d2058831def6a3051653e839270bc1a95550d1005eaaf8a8e"
 
 [[files]]
 file = "configureddefaults/options-profiles/3. Quality/options.txt"
@@ -350,7 +350,7 @@ hash = "e414f088eec5f6006bfbf3fc88afe73562de58a7298850ae9d3f15fb113ccfd9"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "8990b38792df8ddc7fcb40fcad99962365d5a8c5e4cc7891ab75fda149379cc1"
+hash = "65568e6b73bd8e71d4277cc184797e700aa438cb8846da6e837645d90e770ec4"
 
 [[files]]
 file = "icon.png"
@@ -368,7 +368,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "c980f63c49521949def5579a01fbdcc7ad060cf9380daa3067d667439807e34b"
+hash = "7db17d5cee9bcffa9d7f4c088dd605403c245bac75ddf88f0b218c155827b880"
 metafile = true
 
 [[files]]
@@ -488,7 +488,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "5dab75b830ed8d32a82bba7c344f308e6ad34922a69088c460b0b40d98ccaec4"
+hash = "57ecfa2a5e81966ef7046d443b076e2b94c85b9f0ad8d6cb126106e3d5967dd3"
 metafile = true
 
 [[files]]
@@ -693,7 +693,7 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-trims.pw.toml"
-hash = "56e2eb23edb5021027f2fa1550c5e5858bdc51cf7c0ba42f5d859d0ce16c907e"
+hash = "ac7397f40f53a758589dc40431f2367037a7521d86274e8b3d4a4e7bc21c02d4"
 metafile = true
 
 [[files]]
@@ -738,7 +738,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "338ddb83c53dcdec227d644d0f3f979cae5b1219ac0bc7d928792486718d4ed6"
+hash = "da04be2a9bfdf636a23b0c7dfd8f27e1237e84bb3e15ace4f595836951e343d9"
 metafile = true
 
 [[files]]
@@ -793,7 +793,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port-fabric.pw.toml"
-hash = "fb11b352dc04d396de9e5a978b42ca938e9f739c4d9e4c6a593c10da6392f3b3"
+hash = "d0e586bf4b4f9f003b1de1a3e18f67540233a0295b487009047056198f694f0f"
 metafile = true
 
 [[files]]
@@ -868,7 +868,7 @@ metafile = true
 
 [[files]]
 file = "mods/invmovecompats.pw.toml"
-hash = "b1b330eb115be92528c50f94b255ce5522d884202f112748d4697ae164b6514f"
+hash = "6a1fd74a1307161a86e40af4a68ebb5c2b3a04036d688c6a1021f70671f492ef"
 metafile = true
 
 [[files]]
@@ -1008,7 +1008,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-more-popups.pw.toml"
-hash = "4a030ee47a52899bb2857508c6af7089f457bad0734eb3c9d7cfee9554cfac58"
+hash = "53633508694b314c003866564cc4b8099982ec840d18d21b761459513a253f8c"
 metafile = true
 
 [[files]]
@@ -1048,7 +1048,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "27e871dc032134ab3042e3b3512ce618b2410f022b477fdeca8179ae8d72598f"
+hash = "ad9e8ce3e41f717fd4a0b748bc51a9ccac72eca81d64c96a63278560c2db890f"
 metafile = true
 
 [[files]]
@@ -1123,7 +1123,7 @@ metafile = true
 
 [[files]]
 file = "mods/pyrellium.pw.toml"
-hash = "1d67392b4b5f12a49eaa98b1ad9304aa59d48045e4bb6537a2649e97d0d1419c"
+hash = "52464fbf6acdd4230eab5e0f81141f6530eb626b8537b181c221065e129e89c6"
 metafile = true
 
 [[files]]
@@ -1258,7 +1258,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound.pw.toml"
-hash = "8c855a46115fc86bb7b670908d6a4fa9d9dd0b878ce644f5f8433db51a3d3f30"
+hash = "cafd85dca562ede528656b508bf0d317056a82d4b8aa953e68e5729f28f65dff"
 metafile = true
 
 [[files]]
@@ -1303,7 +1303,7 @@ metafile = true
 
 [[files]]
 file = "mods/torch-hit.pw.toml"
-hash = "17e48c8df74c29381e853ca12c8d4f3debec028f679e8f0880346b7dd69ad8f7"
+hash = "7955fe3be3a1f9e51ec7970d1ab96e231e17b99e036caf66aa6503fcf9945f6d"
 metafile = true
 
 [[files]]

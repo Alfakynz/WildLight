@@ -1,13 +1,13 @@
 name = "Sound​s"
-filename = "sounds-2.4.15+lts+1.21.1+fabric.jar"
+filename = "sounds-2.4.17+lts+1.21.1-fabric.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e8358b8c9d9f9cc64a541d392e8dfd6b6a3d3be3"
+hash = "4a224a0c20bd826020a37c177ed4dad25db6f142"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7039681
+file-id = 7218615
 project-id = 925889

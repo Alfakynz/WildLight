@@ -1,13 +1,13 @@
 name = "No More Pop-ups"
-filename = "nomorepopups-fabric-1.20.1-2.0.0.jar"
+filename = "nomorepopups-fabric-1.20.1-2.0.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "65697f58799850632292168d2fc910d453558ad9"
+hash = "29886b6d8a7c0d11c88612f39ee30743a79931bd"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7179664
+file-id = 7209819
 project-id = 1320088

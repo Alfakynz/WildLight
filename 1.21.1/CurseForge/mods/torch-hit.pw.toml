@@ -1,14 +1,13 @@
 name = "Torch hit!"
-filename = "torch-hit-fabric-1.21.1-7.0.0.jar"
+filename = "torch-hit-fabric-1.21-7.1.1.jar"
 side = "both"
-pin = true
 
 [download]
 hash-format = "sha1"
-hash = "7dd1b3aed39b9a1fa44e6b32210e0457d6260160"
+hash = "da9a4ec42e9e6cf07800f4cd0b1370234c954c00"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5889397
+file-id = 7208568
 project-id = 629434

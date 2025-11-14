@@ -290,7 +290,7 @@ hash = "1bcd5051e7328960fd75ee0a16fb23ebd7a80386d4da67a32d6985534c4df562"
 
 [[files]]
 file = "configureddefaults/options-profiles/0. Default/options.txt"
-hash = "8990b38792df8ddc7fcb40fcad99962365d5a8c5e4cc7891ab75fda149379cc1"
+hash = "65568e6b73bd8e71d4277cc184797e700aa438cb8846da6e837645d90e770ec4"
 
 [[files]]
 file = "configureddefaults/options-profiles/0. Default/sodium-options.json"
@@ -334,7 +334,7 @@ hash = "50dc51234d93a1cac2298fb52f3a05276c4ec7e2d4c50ec71c77ae0f65c56b23"
 
 [[files]]
 file = "configureddefaults/options-profiles/3. Quality/iris.properties"
-hash = "46d615e9d9ac1089c290fd684392100773e981c83de03ff2e108c296769ba6a5"
+hash = "1524abccfd7d941d2058831def6a3051653e839270bc1a95550d1005eaaf8a8e"
 
 [[files]]
 file = "configureddefaults/options-profiles/3. Quality/options.txt"
@@ -350,7 +350,7 @@ hash = "e414f088eec5f6006bfbf3fc88afe73562de58a7298850ae9d3f15fb113ccfd9"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "8990b38792df8ddc7fcb40fcad99962365d5a8c5e4cc7891ab75fda149379cc1"
+hash = "65568e6b73bd8e71d4277cc184797e700aa438cb8846da6e837645d90e770ec4"
 
 [[files]]
 file = "icon.png"
@@ -373,7 +373,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "6ee9ff6bd35e925663a73a90597a931f62c61c0bfba75a0ac5a3a3c34e60d158"
+hash = "630d654ca418ad80fe7d422fcb653dd5fbf19ec142bbc5b6317b9107a9f4eb35"
 metafile = true
 
 [[files]]
@@ -503,7 +503,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "89f19c0d5869c7629f14f8286e80194de77adc48338a21e79f257e57f79af4f5"
+hash = "2dda36229536c02155b8bdc705598904b74b3e958e56bf7946785f59c3427a9b"
 metafile = true
 
 [[files]]
@@ -718,7 +718,7 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-trims.pw.toml"
-hash = "c4673a6ee6ef48fcea08b8f5af833ec49566487f4378fd3a9f1ad24de5a224bc"
+hash = "f494105361f4e017cd4b304c49e76bd72951f8c63a7c2a6fd011749deb4a6140"
 metafile = true
 
 [[files]]
@@ -758,7 +758,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "7dfb4d4352a71270566d4e178abb8551353c3b3c4c6d113230aaba72ac3d657a"
+hash = "3e3121bb346acbcda458a6bcd2e2d3564d54ef84a4fdbc802ed82447a80f2536"
 metafile = true
 
 [[files]]
@@ -813,7 +813,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "db28bc3cc96b25c5414f9dcbd68be68a70b9d15505b5818007f68d9077d80a3c"
+hash = "238b3ceb4214a682480ce00eefae5d34efa299ff6ff667e4b2f2ed503c6e76ee"
 metafile = true
 
 [[files]]
@@ -888,7 +888,7 @@ metafile = true
 
 [[files]]
 file = "mods/invmovecompats.pw.toml"
-hash = "b1b330eb115be92528c50f94b255ce5522d884202f112748d4697ae164b6514f"
+hash = "6a1fd74a1307161a86e40af4a68ebb5c2b3a04036d688c6a1021f70671f492ef"
 metafile = true
 
 [[files]]
@@ -1033,7 +1033,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-more-popups.pw.toml"
-hash = "77ac9e73fdedd49712eeb10aa9e8356139045012235126b226e9ee72a8f2477b"
+hash = "16ca9779ae1e66ad2468bbc94ca64107544e1c70210c4ae07980ac4ffbd67e4f"
 metafile = true
 
 [[files]]
@@ -1073,7 +1073,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "9048d3db67387046e4b1894ea5e1e0f79e47e01b655b2080dad23fb6f903c82a"
+hash = "6f45c3f2ec9005b18846088784d291f4dabcce7b569031fb44855845a33aa8f7"
 metafile = true
 
 [[files]]
@@ -1153,7 +1153,7 @@ metafile = true
 
 [[files]]
 file = "mods/pyrellium.pw.toml"
-hash = "d5b1e0c433f4ed8082051f4ccf4b37dc6c7fc9057899c31699d1301ef4cb9cc9"
+hash = "a1ab2a20e7ddf390b6a3e6e851f76965ca2030837ba4f4d5fdbf931c0d989ac8"
 metafile = true
 
 [[files]]
@@ -1278,7 +1278,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound.pw.toml"
-hash = "056fdb47f772777adfabff1b3cbb3dc740f895f52aa775689e07fcddbe6ce763"
+hash = "cf2f667583b0707ec1d7d211b1eaae5b38cd5e138896d351d66f190307b1b1e9"
 metafile = true
 
 [[files]]
@@ -1323,7 +1323,7 @@ metafile = true
 
 [[files]]
 file = "mods/torch-hit.pw.toml"
-hash = "be8cdab693a7a9cee561b196512b4e85612e2e222af171d452c8843d75403ac5"
+hash = "0ab2ce83ccaf52f1ee1f53fb9f1d55b885acf79336dad2ed42c40dba94c55424"
 metafile = true
 
 [[files]]
@@ -1503,7 +1503,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/connected-paths.pw.toml"
-hash = "e0d3cc0237f1ba8140188f9b6d682c24262a5f3ba7e2edcd697871823a5fcadc"
+hash = "f96b12a4b7a2e60865d524bb1ec052294d6d9aa59258c31d48816241bebe387a"
 metafile = true
 
 [[files]]

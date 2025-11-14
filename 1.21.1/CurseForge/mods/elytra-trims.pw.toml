@@ -1,13 +1,13 @@
 name = "Elytra Trims"
-filename = "elytratrims-fabric-3.9.1+1.21.1.jar"
+filename = "elytratrims-fabric-3.9.3+1.21.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "54fca79324b64f6684229c399b7aa3611ce12e29"
+hash = "5cb3f61903d1865e7b624064df36bc6c27abe8b0"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7157431
+file-id = 7218141
 project-id = 876199
