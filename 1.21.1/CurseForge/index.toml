@@ -868,7 +868,7 @@ metafile = true
 
 [[files]]
 file = "mods/invmovecompats.pw.toml"
-hash = "6a1fd74a1307161a86e40af4a68ebb5c2b3a04036d688c6a1021f70671f492ef"
+hash = "c5732bb80de9248a43375a6a9d22d71066b4e5ec06d2829c1dbb80d4a84eec47"
 metafile = true
 
 [[files]]
