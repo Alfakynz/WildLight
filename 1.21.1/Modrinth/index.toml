@@ -290,7 +290,7 @@ hash = "1bcd5051e7328960fd75ee0a16fb23ebd7a80386d4da67a32d6985534c4df562"
 
 [[files]]
 file = "configureddefaults/options-profiles/0. Default/options.txt"
-hash = "65568e6b73bd8e71d4277cc184797e700aa438cb8846da6e837645d90e770ec4"
+hash = "e18f8c978794cc0be8b18424590e008c8cb4af5e6f5f87408e9595c1beae3d76"
 
 [[files]]
 file = "configureddefaults/options-profiles/0. Default/sodium-options.json"
@@ -334,7 +334,7 @@ hash = "50dc51234d93a1cac2298fb52f3a05276c4ec7e2d4c50ec71c77ae0f65c56b23"
 
 [[files]]
 file = "configureddefaults/options-profiles/3. Quality/iris.properties"
-hash = "1524abccfd7d941d2058831def6a3051653e839270bc1a95550d1005eaaf8a8e"
+hash = "89e3c10ff8d12dbf1a3ebd27901cfca4dd81ef8dccf74590ff97361f683e038a"
 
 [[files]]
 file = "configureddefaults/options-profiles/3. Quality/options.txt"
@@ -350,7 +350,7 @@ hash = "e414f088eec5f6006bfbf3fc88afe73562de58a7298850ae9d3f15fb113ccfd9"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "65568e6b73bd8e71d4277cc184797e700aa438cb8846da6e837645d90e770ec4"
+hash = "e18f8c978794cc0be8b18424590e008c8cb4af5e6f5f87408e9595c1beae3d76"
 
 [[files]]
 file = "icon.png"
@@ -373,7 +373,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "630d654ca418ad80fe7d422fcb653dd5fbf19ec142bbc5b6317b9107a9f4eb35"
+hash = "3fab60aca0fee9153c49b40e1b06b1deebb23800dce7b8b8f471e23f43f3efe5"
 metafile = true
 
 [[files]]
@@ -623,7 +623,7 @@ metafile = true
 
 [[files]]
 file = "mods/deimos.pw.toml"
-hash = "8dbee07c8b3212d22fd518c4862f24182272536f760c56d536e1229667fc7c9e"
+hash = "ab43bc087d6cce257457ac229b3f3b544017b7d057cc14bc94f2e93faf17d6dc"
 metafile = true
 
 [[files]]
@@ -738,7 +738,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "658f12b36a5591d6261f02c7465811c2d67d40e20fbe8128de4a957b24b7fdec"
+hash = "53f9648ce088fd8547967a8db379e2b961e200f63da49ead894e676ca19c3851"
 metafile = true
 
 [[files]]
@@ -748,7 +748,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "1b8cfd23e5f1f406957d5f337f8c514d5095c16adbd3d0830d29bd001aac845d"
+hash = "57bddfb35fd9e25cf77d7a318e73c79420f27025e7fcc41adb57e69568b46182"
 metafile = true
 
 [[files]]
@@ -758,7 +758,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "3e3121bb346acbcda458a6bcd2e2d3564d54ef84a4fdbc802ed82447a80f2536"
+hash = "76ba469ba67cdf17276da7a629ff85518f4c1dfaaae5ad28d9ee2d6bc79439c5"
 metafile = true
 
 [[files]]
@@ -808,7 +808,7 @@ metafile = true
 
 [[files]]
 file = "mods/first-person-model.pw.toml"
-hash = "2913d10709d12f7dc98a02dc865d3676ed1b9347f0c0b5bb76267e530be6b899"
+hash = "ef1261f45faf83220f8357cc0e00e63a63795e307f381cff8c138f78e7ad28c0"
 metafile = true
 
 [[files]]
@@ -948,7 +948,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "972db8c2fec6fb2f3545554062d4cd19364778e30d8f079221fe0d459efa8517"
+hash = "5564dbbe8adc0ba450afc6a1c3eef82f183a53ede5f3b1de0bc6ca320aadc5e9"
 metafile = true
 
 [[files]]
@@ -1103,7 +1103,7 @@ metafile = true
 
 [[files]]
 file = "mods/physicsmod.pw.toml"
-hash = "5320682aace1a7ac9377172cbc0c0ef46ff2643faac87ecaef8b7aa2add9c07b"
+hash = "eeeabb7f1c9ac49f92fe2b972530594efedbd2588f0862f7990e24678f8a8d89"
 metafile = true
 
 [[files]]
@@ -1128,7 +1128,7 @@ metafile = true
 
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
-hash = "dee709ea8dbbb9e75de4d53b1b9e1fd0e535abc0809c1f5aaadf783178cccf21"
+hash = "f013040d2544856ca9f8fe4e07e040aa8a78c87ace3426743a8429d73cba81a3"
 metafile = true
 
 [[files]]
@@ -1153,7 +1153,7 @@ metafile = true
 
 [[files]]
 file = "mods/pyrellium.pw.toml"
-hash = "a1ab2a20e7ddf390b6a3e6e851f76965ca2030837ba4f4d5fdbf931c0d989ac8"
+hash = "12d347ddd5607417ec693f76ce2cb67abba72bfad247ff68f55bea108362af6d"
 metafile = true
 
 [[files]]
@@ -1568,7 +1568,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "575f72c3f1f10a74c40a1ebdb79c6e4c138ddc5e9309581f30297f7ea97d1bf2"
+hash = "616d949ae5c0ce479f9fe651a5c559f2e02b22e5b5762230101bd2213c7aa8c1"
 metafile = true
 
 [[files]]

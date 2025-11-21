@@ -1,13 +1,13 @@
 name = "Connected Glasses"
-filename = "Connected Glases.zip"
+filename = "Connected Glases v4.zip"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "fe6efda5eb85f0b7a42ed5cc73674198843bf9e6"
+hash = "222480d65bb79a684d427ca9d8f3a1d05ae62091"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7090560
+file-id = 7222096
 project-id = 1237719

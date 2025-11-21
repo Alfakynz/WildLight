@@ -1,13 +1,13 @@
 name = "Sun and Moon Circular"
-filename = "Sun and Moon Circular.zip"
+filename = "Sun and Circular Moon.zip"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "26e716b1833bdb8c8b5d6cb0335ab67afd874ab5"
+hash = "020dff37ab9f98beccd39f1d75cdf8a92e9917e4"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6953249
+file-id = 7230413
 project-id = 1152769

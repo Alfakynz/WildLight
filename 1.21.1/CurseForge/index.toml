@@ -290,7 +290,7 @@ hash = "1bcd5051e7328960fd75ee0a16fb23ebd7a80386d4da67a32d6985534c4df562"
 
 [[files]]
 file = "configureddefaults/options-profiles/0. Default/options.txt"
-hash = "65568e6b73bd8e71d4277cc184797e700aa438cb8846da6e837645d90e770ec4"
+hash = "e18f8c978794cc0be8b18424590e008c8cb4af5e6f5f87408e9595c1beae3d76"
 
 [[files]]
 file = "configureddefaults/options-profiles/0. Default/sodium-options.json"
@@ -334,7 +334,7 @@ hash = "50dc51234d93a1cac2298fb52f3a05276c4ec7e2d4c50ec71c77ae0f65c56b23"
 
 [[files]]
 file = "configureddefaults/options-profiles/3. Quality/iris.properties"
-hash = "1524abccfd7d941d2058831def6a3051653e839270bc1a95550d1005eaaf8a8e"
+hash = "89e3c10ff8d12dbf1a3ebd27901cfca4dd81ef8dccf74590ff97361f683e038a"
 
 [[files]]
 file = "configureddefaults/options-profiles/3. Quality/options.txt"
@@ -350,7 +350,7 @@ hash = "e414f088eec5f6006bfbf3fc88afe73562de58a7298850ae9d3f15fb113ccfd9"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "65568e6b73bd8e71d4277cc184797e700aa438cb8846da6e837645d90e770ec4"
+hash = "e18f8c978794cc0be8b18424590e008c8cb4af5e6f5f87408e9595c1beae3d76"
 
 [[files]]
 file = "icon.png"
@@ -368,7 +368,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "7db17d5cee9bcffa9d7f4c088dd605403c245bac75ddf88f0b218c155827b880"
+hash = "f53a77d8e152c94ab65a613dc222b13585b173a38141d74076a3e3ffc0575519"
 metafile = true
 
 [[files]]
@@ -608,7 +608,7 @@ metafile = true
 
 [[files]]
 file = "mods/deimos-fabric-forge-neoforge.pw.toml"
-hash = "c77a1eefe106f0b0f5c91bdfe78edf66da657230e9aa88c1b21309447102dad6"
+hash = "5995f24f1fdda7d07942b083b812c5ddd46ae28d5ac154329e9f9f5d0a91b7bf"
 metafile = true
 
 [[files]]
@@ -718,12 +718,12 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "5d52bd89d8d865461ce5ba7c615905e7a0b4968db8f33bb87a656e1890e8c585"
+hash = "11a3b63c6eab7723b7539d7850ee5382136e8e9c352c6e0ce0a7b8580e6ab8e3"
 metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "ff1dca00cfe5599989886deb914866de5f332f0e81f62df2c258f0eb0b7c6760"
+hash = "ff4d3b3d0c0dcb0d11bfdc059e091952747daf26b7fe9ccdf4d4ef54d8b86eaa"
 metafile = true
 
 [[files]]
@@ -738,7 +738,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "da04be2a9bfdf636a23b0c7dfd8f27e1237e84bb3e15ace4f595836951e343d9"
+hash = "212a90f8ab7004e831d3a956c27f8fd522b894569e7e4d36268d894f00cf5583"
 metafile = true
 
 [[files]]
@@ -788,7 +788,7 @@ metafile = true
 
 [[files]]
 file = "mods/first-person-model.pw.toml"
-hash = "4af3dbe983777dfa6fd258fb23bef24073c427fb287285d311d712deaa19d180"
+hash = "d974aacde7c3c7cfe264d721baea16cad8150c6e0ac44b0f578ec4fce184f32e"
 metafile = true
 
 [[files]]
@@ -933,7 +933,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "3fdc92ff58a76637e11877ce3855dfee8448390e471a7597b842e744574b1c95"
+hash = "94944bc843327b8c13b34ee3ea4c16671d3102d5ae6845a48e5c86592d9696bb"
 metafile = true
 
 [[files]]
@@ -1078,7 +1078,7 @@ metafile = true
 
 [[files]]
 file = "mods/physics-mod.pw.toml"
-hash = "023f297e553fa417eb6c6ba1722098c9d462b5f5119c7e3c0d1ef5137dc20606"
+hash = "105758c10ff5f7917529ad1897a97e3f42b225ccaf2c4ac267f791dcc5447f72"
 metafile = true
 
 [[files]]
@@ -1123,7 +1123,7 @@ metafile = true
 
 [[files]]
 file = "mods/pyrellium.pw.toml"
-hash = "52464fbf6acdd4230eab5e0f81141f6530eb626b8537b181c221065e129e89c6"
+hash = "be5a6b05c1b68d8a9fd2273a6d245485a12b11704cc0a76a1385fcefc56ca5d5"
 metafile = true
 
 [[files]]
@@ -1478,7 +1478,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/connected-glasses.pw.toml"
-hash = "d2ae2e2f9941a177447cd1e8b1ddb8206bbbd1b4097533e867f96c8eb2705e89"
+hash = "541bbffefc3037c917b9c3051b7fc14d5f848c31023321b4f8af14e7e52c12f6"
 metafile = true
 
 [[files]]
@@ -1548,12 +1548,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/sun-and-moon-circular.pw.toml"
-hash = "bbe437f86dbc630899477ddc6ac773579be8faa7eca364d5ab1b9dc7245e20ae"
+hash = "41d5d9d3fbad44f1e3241a36bdf24cea8cae05e1f31ca722cad635d6b1fa7bb8"
 metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "c2fea94ff1ef661cc8d5e8ed4c3c398e0c0bbe4b52483d4a9ab75bd58fc5404f"
+hash = "251540733647b1e4fc0b9a55a58340ab8c1d2ef0343b27c2012f7b2c7f7df79d"
 metafile = true
 
 [[files]]
