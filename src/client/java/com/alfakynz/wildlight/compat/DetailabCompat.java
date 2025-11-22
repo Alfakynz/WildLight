@@ -1,6 +1,7 @@
 package com.alfakynz.wildlight.compat;
 
 import net.fabricmc.api.ClientModInitializer;
+import net.fabricmc.loader.api.FabricLoader;
 import net.minecraft.resources.ResourceLocation;
 import org.rhm.detailab_compat.DetailArmorBarCompatCommon;
 import org.rhm.detailab_compat.DetailArmorBarCompatCommon.CompatInfo;
@@ -11,7 +12,9 @@ public class DetailabCompat implements ClientModInitializer {
 
     @Override
     public void onInitializeClient() {
-        addImmersiveArmorsCompat();
+        if (FabricLoader.getInstance().isModLoaded("detailab-compat")) {
+            addImmersiveArmorsCompat();
+        }
     }
 
     private void addImmersiveArmorsCompat() {
