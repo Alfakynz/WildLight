@@ -2,6 +2,7 @@ name: "✨ Feature Request"
 description: Suggest a new idea, improvement, or change for WildLight
 title: "[Feature]: "
 labels: ["enhancement"]
+assignees: ["Alfakynz"]
 body:
   - type: markdown
     attributes:

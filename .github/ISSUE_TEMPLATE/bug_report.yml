@@ -2,6 +2,7 @@ name: "🐛 Bug Report"
 description: Report a problem or unexpected behavior in WildLight
 title: "[Bug]: "
 labels: ["bug"]
+assignees: ["Alfakynz"]
 body:
   - type: markdown
     attributes:
