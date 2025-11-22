@@ -9,6 +9,7 @@ This mod is designed to fix some bugs and interface elements in the WildLight mo
 
 ### Mod
 
+- Adds compatibility between Immersive Armors and Detail Armor Bar Compat (awaiting the [pull request](https://github.com/Raik176/detail-armor-bar-compat/pull/19) to be merged)
 - Fixes Deeper and Darker portal particles (remove particles from the portal when PhysicsMod is installed)
 - Fixes Wildfire (Friends&Foes) particles (remove particles from the wildfire when PhysicsMod is installed)
 

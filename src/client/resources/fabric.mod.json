@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "wildlight",
-  "version": "2.2.0",
+  "version": "2.3.0",
   "name": "WildLight",
   "description": "This mod aims to fix some bugs in the WildLight modpack.",
   "authors": ["Alfakynz"],
@@ -14,7 +14,10 @@
   "icon": "assets/wildlight/icon.png",
   "environment": "client",
   "entrypoints": {
-    "client": ["com.alfakynz.wildlight.WildLightClient"]
+    "client": [
+      "com.alfakynz.wildlight.WildLightClient",
+      "com.alfakynz.wildlight.compat.DetailabCompat"
+    ]
   },
   "mixins": [
     "wildlight.mixins.json"
@@ -27,6 +30,8 @@
   },
   "suggests": {
     "deeperdarker": "*",
-    "friendsandfoes": "*"
+    "friendsandfoes": "*",
+    "detailab-compat": "*",
+    "detail-armor-bar": "*"
   }
 }

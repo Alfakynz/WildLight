@@ -43,9 +43,17 @@ dependencies {
 	modImplementation "io.wispforest:owo-lib:${project.owo_version}"
 
     // Friends and Foes (and its dependencies)
-    modImplementation"maven.modrinth:friends-and-foes:${project.friendsandfoes_version}"
+    modImplementation "maven.modrinth:friends-and-foes:${project.friendsandfoes_version}"
     modImplementation files("libs/resourcefullib-fabric-1.21-3.0.12.jar")
     modImplementation files("libs/yet_another_config_lib_v3-3.6.5+1.21.1-fabric.jar")
+
+    // Immersive Armors
+    modCompileOnly "maven.modrinth:immersive-armors:${project.immersive_armors_version}"
+    modRuntimeOnly "maven.modrinth:immersive-armors:${project.immersive_armors_version}"
+
+    // Detail Armor Bar Compat
+    modImplementation "maven.modrinth:detailab-compat:${project.detailab_compat_version}"
+    modImplementation "maven.modrinth:detail-armor-bar:${project.detailab_version}"
 }
 
 processResources {
