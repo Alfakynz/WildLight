@@ -12,7 +12,7 @@ public class DetailabCompat implements ClientModInitializer {
 
     @Override
     public void onInitializeClient() {
-        if (FabricLoader.getInstance().isModLoaded("detailab-compat")) {
+        if (FabricLoader.getInstance().isModLoaded("detailab_compat") && FabricLoader.getInstance().isModLoaded("immersive_armors")) {
             addImmersiveArmorsCompat();
         }
     }
