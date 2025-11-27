@@ -33,7 +33,7 @@ You can check **Opions Profiles** menu to instantly load custom settings based o
 - Default: The default setup (tested on a Mac Mini M2)
 - Performance: No shaders, fast rendering, maximum possible FPS
 - Balanced: Uses shaders, offers a middle ground between Performance and Quality
-- Quality: Uses shaders, provides maximum visual fidelity, best for powewrful PCs
+- Quality: Uses shaders, provides maximum visual fidelity, best for powerful PCs
 
 ### 🎨 A fresh look at a beautiful UI ✨
 
