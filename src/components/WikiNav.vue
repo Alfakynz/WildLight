@@ -50,13 +50,30 @@ nav ul {
   margin: 0;
   display: flex;
   flex-direction: column;
-  gap: 1.5rem;
+  gap: 0.5rem;
 }
 
-nav a {
+nav li {
+  padding: 0;
+}
+
+nav li a {
   font-family: 'Cinzel', serif;
   font-size: 1.1rem;
   letter-spacing: 1px;
+  display: block;
+  width: 100%;
+  height: 100%;
+  padding: 0.5rem 1rem;
+  border-radius: 25px;
+  text-decoration: none;
+  box-sizing: border-box;
+  transition: all 0.3s;
+}
+
+nav li a:hover {
+  background: #f5d06f20;
+  filter: drop-shadow(0 0 15px #f5d06f);
 }
 
 .active {

@@ -120,13 +120,6 @@ nav img {
 nav div:hover,
 nav img:hover {
   background: #f5d06f20;
-}
-
-nav div:hover {
-  filter: drop-shadow(0 0 15px #f5d06f);
-}
-
-nav img:hover {
   filter: drop-shadow(0 0 15px #f5d06f);
 }
 </style>
