@@ -113,6 +113,10 @@ file = "configureddefaults/config/fastquit.toml"
 hash = "de22af584433dfdfb4a14b85091bfbd5c6be697a306499c2d7c75740658dbad4"
 
 [[files]]
+file = "configureddefaults/config/frozenlib.json5"
+hash = "4734817b2c2546f05aaba4dc07ebdee3e05a18893e84cc4eca81c1a58cb71473"
+
+[[files]]
 file = "configureddefaults/config/immersiveui.yaml"
 hash = "0ad9097a5c12bb317717b09ecd86d02352fa78696140588c1176ec0a93698940"
 
@@ -290,7 +294,7 @@ hash = "1bcd5051e7328960fd75ee0a16fb23ebd7a80386d4da67a32d6985534c4df562"
 
 [[files]]
 file = "configureddefaults/options-profiles/0. Default/options.txt"
-hash = "e18f8c978794cc0be8b18424590e008c8cb4af5e6f5f87408e9595c1beae3d76"
+hash = "45eb18bdab0f27df3e356041463c64d8ede01bafb8c73202444e7f0bc60eb77b"
 
 [[files]]
 file = "configureddefaults/options-profiles/0. Default/sodium-options.json"
@@ -350,7 +354,7 @@ hash = "e414f088eec5f6006bfbf3fc88afe73562de58a7298850ae9d3f15fb113ccfd9"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "e18f8c978794cc0be8b18424590e008c8cb4af5e6f5f87408e9595c1beae3d76"
+hash = "45eb18bdab0f27df3e356041463c64d8ede01bafb8c73202444e7f0bc60eb77b"
 
 [[files]]
 file = "icon.png"
@@ -403,7 +407,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "a0f1109d5eb2247833ca9df71db0da802b36709f8431fecaf7b40bf0a98d2fdf"
+hash = "004aa46b68560131a4644928de6f312ef9c7ae73a180cfb53aa0f971a6d15172"
 metafile = true
 
 [[files]]
@@ -443,7 +447,7 @@ metafile = true
 
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
-hash = "6d59f22d15a73d7fa9f7c8b3d54c68a71945cb0940a51ed17dc7e2a99e439327"
+hash = "55c8b8e800565d9f96cc0cd851e9e949f7fde0c5193b09af9f53a5a48827f2a3"
 metafile = true
 
 [[files]]
@@ -503,7 +507,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunks-fade-in.pw.toml"
-hash = "22ac4e8d65f369359d3f155cef3e65cdeca70a27481d7f3d8000cfa9f9285338"
+hash = "460d1bdfee5096c70c930263113eb895222cf32aacffe323d963a89f7aaf77c9"
 metafile = true
 
 [[files]]
@@ -713,17 +717,17 @@ metafile = true
 
 [[files]]
 file = "mods/enhanced-workbenches.pw.toml"
-hash = "6698609b00c4d8959a7f9064f632ec3a105a4fd6a858371f95b935a512901170"
+hash = "23f3fdd764774fc9405679d08705908b49b87f387bf4a3774290b875ed74d5e9"
 metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "11a3b63c6eab7723b7539d7850ee5382136e8e9c352c6e0ce0a7b8580e6ab8e3"
+hash = "9e37d8953c537212de3dc59aec2e081979b39671ab537474f71d53666aff81b2"
 metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "ff4d3b3d0c0dcb0d11bfdc059e091952747daf26b7fe9ccdf4d4ef54d8b86eaa"
+hash = "f13154c42b7c33d21560292453a5d30d701ae5c73d271b0af842d4c8cfe0b113"
 metafile = true
 
 [[files]]
@@ -763,7 +767,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "9b8db74eb38a5010f739be6045a83833a08770943a4ec7c95c07bb53b008f70e"
+hash = "ef3a44cb8b521b310967258190e079bcdd5b12ac492149f698e9c5b5a2452221"
 metafile = true
 
 [[files]]
@@ -978,7 +982,12 @@ metafile = true
 
 [[files]]
 file = "mods/moogs-end-structures.pw.toml"
-hash = "e7530d710dc80c1e7125804d28831f00635193f120e29c39496d60429ad5a467"
+hash = "95859f07cf03c817f0b6eed1f6c84d7c42666566aa3c541566413d02d924636f"
+metafile = true
+
+[[files]]
+file = "mods/moogs-structure-lib.pw.toml"
+hash = "91f6dc7de966c88f9ef7b669a3ba68f0eb1030038ce3ff8f502f14be060a7380"
 metafile = true
 
 [[files]]
@@ -1113,7 +1122,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzle.pw.toml"
-hash = "40e90425599e1c25b8f7959df0a01dd3a03bb6a18ce25aa1156a1dcaec951ee0"
+hash = "a06f93011862c4d0f69f70e30d62a5b38a21ec34e4d352a5d6ddea46e63c681f"
 metafile = true
 
 [[files]]
@@ -1378,7 +1387,7 @@ metafile = true
 
 [[files]]
 file = "mods/wildlight-compat.pw.toml"
-hash = "c8fd279cb71d8ced193bd9f61cacc0900ea0bb455e9bd60db4d7e80003897859"
+hash = "3de5692cefcb1b71694fb0d7b4a91d12bfc940ad201fe9d3a816f1a2e0d1e035"
 metafile = true
 
 [[files]]
@@ -1463,7 +1472,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/alt-compat.pw.toml"
-hash = "8a21314be6c3ab3c1f1c3d666cfd9034243e4a9ca01154a9a661b234dcdf91fb"
+hash = "e398086a3f57dfe8a19e1b2d941ed58f157b325bf6311f548878a13bece92743"
 metafile = true
 
 [[files]]
@@ -1508,7 +1517,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
-hash = "a8a5b310a327b30be69b526640abbd7f61300a0266cd1d62a8765058ad3e8dac"
+hash = "15f5872ee75d21be2e6cbd25669e423a2a764312562e5cdfdc4e34af160dc6d3"
 metafile = true
 
 [[files]]
@@ -1553,12 +1562,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "251540733647b1e4fc0b9a55a58340ab8c1d2ef0343b27c2012f7b2c7f7df79d"
+hash = "bf907de68e0e1919679921ac451829a91af2a44bb47f612ed4a85a1afe7d56e3"
 metafile = true
 
 [[files]]
 file = "shaderpacks/bliss-shader.pw.toml"
-hash = "756acba0fb870af603cae0a8d5f49118ca8e6f0a9d38ebd361fe43c187f7c2db"
+hash = "f27ca42de7b92a90cf387dbed38bbdb33013201a7cf5b2723a9830b3120634e0"
 metafile = true
 
 [[files]]

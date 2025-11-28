@@ -1,13 +1,13 @@
 name = "Puzzle"
-filename = "puzzle-fabric-2.0.1.1+1.21.jar"
+filename = "puzzle-fabric-2.2.0+1.21.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "f9c7af4b3c2a6ecb7f606674b087fa8530743062"
+hash = "28d2639e0c7809c21d12b39eac4c1f0f6b65a7c7"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6772135
+file-id = 7253377
 project-id = 563977

@@ -4,10 +4,10 @@ side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "336a595573b040adee216fdc580bfe2e238bb0dc"
+hash = "0afbde399e80614980a0eb4f4eca129688ce7d32"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7195587
+file-id = 7255148
 project-id = 1373065
