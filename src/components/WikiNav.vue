@@ -15,7 +15,16 @@
         >
       </li>
       <li>
-        <router-link to="/wiki/config" active-class="active">Minecraft configuration</router-link>
+        <router-link to="/wiki/versions" active-class="active">Versions</router-link>
+      </li>
+      <li>
+        <router-link to="/wiki/config" active-class="active">Configurations</router-link>
+      </li>
+      <li>
+        <router-link to="/wiki/credits" active-class="active">Credits</router-link>
+      </li>
+      <li>
+        <router-link to="/wiki/tools" active-class="active">Tools</router-link>
       </li>
     </ul>
   </nav>

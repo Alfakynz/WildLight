@@ -1,12 +1,22 @@
 <script setup lang="ts">
-import WikiNav from '../components/WikiNav.vue'
-import { onMounted } from 'vue'
+import WikiNav from '../../components/WikiNav.vue'
+import { onMounted, ref } from 'vue'
 
-onMounted(() => {
+const latestVersion = ref<string | null>(null)
+
+onMounted(async () => {
   const nav = document.querySelector('nav')
   const main = document.querySelector('main')
   if (nav && main) {
     main.style.paddingTop = nav.offsetHeight + 'px'
+  }
+
+  try {
+    const res = await fetch('https://api.github.com/repos/Alfakynz/WildLight/releases/latest')
+    const data = await res.json()
+    latestVersion.value = data.tag_name.split('v')[1] // "X.X.X"
+  } catch (e) {
+    latestVersion.value = null
   }
 })
 </script>
@@ -15,13 +25,20 @@ onMounted(() => {
   <main>
     <WikiNav />
     <section class="wiki-content">
-      <h1>Configuration</h1>
+      <h1>Versions</h1>
       <h2>Minecraft Version</h2>
       <p>
-        This modpack uses <strong>Minecraft 1.21.1</strong> with the <strong>Fabric</strong> mod
-        loader.
+        This modpack uses <strong>Minecraft 1.21.1</strong>
+        <br />
+        Other versions of Minecraft are not supported. I don't plan to support them for now.
       </p>
-      <p>Other versions of Minecraft are not supported. I don't plan to support them for now.</p>
+      <h2>Fabric Version</h2>
+      <p>This modpack use <strong>Fabric 0.17.2</strong></p>
+      <h2>WildLight Version</h2>
+      <p>
+        The latest version of the modpack is <strong>{{ latestVersion }}</strong
+        >.
+      </p>
       <h2>Modpack Versioning Scheme</h2>
       <ul>
         <li>

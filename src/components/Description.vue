@@ -11,15 +11,11 @@ async function fetchFeatures() {
     )
     const text = await response.text()
 
-    // Regex plus robuste : tolère espaces, emojis et variations du titre
     const match = text.match(/##\s*✨?\s*Features[\s\S]*?(?=^##\s|\Z)/m)
 
     if (match && match[0]) {
-      const markdownContent = match[0]
-        .replace(/^##\s*✨?\s*Features/, '## ✨ Features') // garde un titre propre
-        .trim()
+      const markdownContent = match[0].replace(/^##\s*✨?\s*Features/, '## ✨ Features').trim()
 
-      // Utilise marked.parseAsync pour Vue 3 (et éviter les problèmes d’attente)
       const parsed = await marked.parse(markdownContent)
       featuresHtml.value = parsed
     } else {
