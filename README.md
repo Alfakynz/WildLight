@@ -43,7 +43,7 @@ The new UI starts at the launch of the game, a little but appreciated mod **Dark
 
 This modpack is great to play solo, but it's even better to enjoy with friends using [Wabbanode](http://wabbanode.com/affiliate/wildlight). Several mods are included to enhance the multiplayer experience.
 
-For chat, **Better Selection** makes texte asier and more pleasant to select, while **Chat Heads** displays player avatar in the chat, just like profile pictures next to message. And finally, I know how annoying it is when you accidentally hit a friend and all the dogs start attacking each other. Now you can calm them down with **Calm down, dog**.
+For chat, **Better Selection** makes text easier and more pleasant to select, while **Chat Heads** displays player avatar in the chat, just like profile pictures next to message. And finally, I know how annoying it is when you accidentally hit a friend and all the dogs start attacking each other. Now you can calm them down with **Calm down, dog**.
 
 ## 📦 Installation
 
