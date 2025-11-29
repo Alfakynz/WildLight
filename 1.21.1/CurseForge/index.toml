@@ -586,6 +586,11 @@ hash = "c70f66a60bcb2128e49bda671a04e96544a6fbeb9b8ee98b9c548814f237e2d5"
 metafile = true
 
 [[files]]
+file = "mods/cubes-without-borders.pw.toml"
+hash = "23bdbf17e1fd8aeed7efeeea72741662734199dbef0b2adfac2ba795acf5ca40"
+metafile = true
+
+[[files]]
 file = "mods/customizable-elytra.pw.toml"
 hash = "f74f043dbbf9f218d85103b835caff77a252a0b5b6d3ffb69a042365fb73f9e2"
 metafile = true
@@ -1472,7 +1477,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/alt-compat.pw.toml"
-hash = "e398086a3f57dfe8a19e1b2d941ed58f157b325bf6311f548878a13bece92743"
+hash = "92a10325a8e57f4833e8b4a3435b583b9c8cc77c506ea108730f41b803a9003b"
 metafile = true
 
 [[files]]
@@ -1557,12 +1562,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/sun-and-moon-circular.pw.toml"
-hash = "41d5d9d3fbad44f1e3241a36bdf24cea8cae05e1f31ca722cad635d6b1fa7bb8"
+hash = "ff55456c736ed5c53ed4e8143569c00f40c27e9e028e5e5125fa86cc7d88c585"
 metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "bf907de68e0e1919679921ac451829a91af2a44bb47f612ed4a85a1afe7d56e3"
+hash = "ad42edaeac5410d8f4ef629805cc734ff3f80c45ddd27bcf1d64a38f34b80a4b"
 metafile = true
 
 [[files]]

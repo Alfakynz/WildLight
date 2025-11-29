@@ -601,6 +601,11 @@ hash = "aa93474a654b0ad97c58f88939c522b668e0a249f146504ee3457f7ecd7b881b"
 metafile = true
 
 [[files]]
+file = "mods/cubes-without-borders.pw.toml"
+hash = "7797b4dcd9c68b4555caf2629b0bff76f234ae04e8b42956e95ce2c65807049e"
+metafile = true
+
+[[files]]
 file = "mods/customizable-elytra.pw.toml"
 hash = "34593159ac7cc81e3b329a23fefa5e36b9c093100dd955d898490e27cc59c6c6"
 metafile = true
@@ -1492,7 +1497,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/alt-compat.pw.toml"
-hash = "92d90be748f2019781001c439acfdb6d087dc387f87ab7b109f3c9c1b8047175"
+hash = "88ded93a71c0fae78dfda78b2fbb2e51b49a7d3246aadb1206fd282806a640da"
 metafile = true
 
 [[files]]
@@ -1577,7 +1582,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "adf9c94832fd29379c86e079e8576362d634019221e7d0e0d580882709a9eceb"
+hash = "2c855e3e738015350120fc4bc04a59c56e664b751cb94145f037f1ebf67d33c5"
 metafile = true
 
 [[files]]
