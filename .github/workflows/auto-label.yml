@@ -1,0 +1,46 @@
+name: Auto label by component
+
+on:
+  issues:
+    types: [opened, edited]
+
+permissions:
+  issues: write
+
+jobs:
+  label:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Extract component from issue body (Bug & Feature)
+        id: component
+        run: |
+          component=$(echo "${{ github.event.issue.body }}" | awk '
+            /Which part of WildLight is affected\?/ || /Which part of WildLight is this for\?/ {
+              found=1; next
+            }
+            found && NF {
+              print; exit
+            }
+          ')
+          echo "component=$component" >> $GITHUB_OUTPUT
+
+      - name: Debug (optional - remove later)
+        run: echo "Detected component = ${{ steps.component.outputs.component }}"
+
+      - name: Map component to label
+        id: label
+        run: |
+          case "${{ steps.component.outputs.component }}" in
+            "Modpack") echo "label=Modpack" >> $GITHUB_OUTPUT ;;
+            "Mod") echo "label=Mod" >> $GITHUB_OUTPUT ;;
+            "Resource Pack") echo "label=Resource Pack" >> $GITHUB_OUTPUT ;;
+            "Website") echo "label=Website" >> $GITHUB_OUTPUT ;;
+          esac
+
+      - name: Apply label
+        if: ${{ steps.label.outputs.label != '' }}
+        uses: actions-ecosystem/action-add-labels@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          labels: ${{ steps.label.outputs.label }}
