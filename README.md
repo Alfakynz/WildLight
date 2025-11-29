@@ -1,6 +1,6 @@
 # 🌲 WildLight resource pack
 
-# ⚠️ This branch is not supported, the resource pack has been moved to the mod branch ⚠️
+# ⚠️ This branch is not maintened, the resource pack has been moved to the mod branch ⚠️
 
 This resource pack is designed to fix some interface elements that don't diplay correctly in the WildLight modpack.
 
