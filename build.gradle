@@ -35,7 +35,7 @@ dependencies {
 	modImplementation "net.fabricmc.fabric-api:fabric-api:${project.fabric_version}"
 
     // PhysicsMod
-    modImplementation files("libs/physics-mod-3.0.23-mc-1.21.1-fabric.jar")
+    modImplementation files("libs/physics-mod-3.0.24-mc-1.21.1-fabric.jar")
 
     // Deeper and Darker (and its dependencies)
 	modImplementation "maven.modrinth:deeperdarker:${project.deeperdarker_version}"
