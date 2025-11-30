@@ -22,7 +22,7 @@ hash = "29dffdda6c48191496cca75a8fc9807b3bbc7ea436ce3987f781056889d459a2"
 
 [[files]]
 file = "configureddefaults/config/chunksfadein.properties"
-hash = "5911b6116d913b89cdad910bd3ba38ae1d5812e317e3f38e5d74dfff672b7aaa"
+hash = "4a4b3a1cf9cf4c6f8fb8dd3e7582fad471b653a50b0a1e81cf24a697288d1089"
 
 [[files]]
 file = "configureddefaults/config/continuity.json"
@@ -82,7 +82,7 @@ hash = "9773ad7514d9fc689be40b9a6a60bd751d06472aae28187af6899110908c2dcd"
 
 [[files]]
 file = "configureddefaults/config/fancymenu/customization/title_screen_layout.txt"
-hash = "c54b0ff87ebb12857b5d67597d08c773149977525f98f225bda55e8f4a3495d6"
+hash = "c3b4beb3c42eddfd0bfe77819d9c8cbb7c18248717b6d6504b86ffef243e996a"
 
 [[files]]
 file = "configureddefaults/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -294,7 +294,7 @@ hash = "1bcd5051e7328960fd75ee0a16fb23ebd7a80386d4da67a32d6985534c4df562"
 
 [[files]]
 file = "configureddefaults/options-profiles/0. Default/options.txt"
-hash = "45eb18bdab0f27df3e356041463c64d8ede01bafb8c73202444e7f0bc60eb77b"
+hash = "c2bfe69fdbca7fb350e3286a51260e1ecb79af6628e46245b7c22e472d862b36"
 
 [[files]]
 file = "configureddefaults/options-profiles/0. Default/sodium-options.json"
@@ -354,7 +354,7 @@ hash = "e414f088eec5f6006bfbf3fc88afe73562de58a7298850ae9d3f15fb113ccfd9"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "45eb18bdab0f27df3e356041463c64d8ede01bafb8c73202444e7f0bc60eb77b"
+hash = "c2bfe69fdbca7fb350e3286a51260e1ecb79af6628e46245b7c22e472d862b36"
 
 [[files]]
 file = "icon.png"
@@ -507,7 +507,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunks-fade-in.pw.toml"
-hash = "460d1bdfee5096c70c930263113eb895222cf32aacffe323d963a89f7aaf77c9"
+hash = "0a3980284490c84fdf0ce4952e588a3746d758191cbf5dd73d10f1e0ae092449"
 metafile = true
 
 [[files]]
@@ -768,6 +768,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-seasons.pw.toml"
 hash = "4b4bd067a0ede224fc89340b383f34780229628821912d4d7b9502a410bdbb2e"
+metafile = true
+
+[[files]]
+file = "mods/fancy-entity-renderer.pw.toml"
+hash = "6a2b19e6d7cb47b7a3e2546811f0e28de5b9d9ee714e49ad3dab957bc7396e1d"
 metafile = true
 
 [[files]]
@@ -1077,7 +1082,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-effects.pw.toml"
-hash = "21045cd154ea3e71ae48ff0ee00b450e112401943e95105458f4203eb40e5076"
+hash = "0b72d9c67759d0aced92db09aad1abc095ec5b5f98fb0e983959ee72e0e4d3e7"
 metafile = true
 
 [[files]]
@@ -1477,7 +1482,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/alt-compat.pw.toml"
-hash = "92a10325a8e57f4833e8b4a3435b583b9c8cc77c506ea108730f41b803a9003b"
+hash = "ef0515d19e2b0f8c4a95bbbe73c9dc002365f51e3aed361f438cf5504f49c75d"
 metafile = true
 
 [[files]]
@@ -1553,6 +1558,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/recolourful-containers-gui-hud-dark.pw.toml"
 hash = "91d9ebebc72f713caf3c181839d2966190e3018fdcf87fd02ffa94e1244cf6df"
+metafile = true
+
+[[files]]
+file = "resourcepacks/reseeded-seeds-retexture.pw.toml"
+hash = "59c2ea753ca67341217e855ff4a1cb91a4003aab7377545c114f88dad87b1515"
 metafile = true
 
 [[files]]
