@@ -1,0 +1,13 @@
+name = "Fusion Connected Blocks"
+filename = "Fusion Connected Blocks v1.0.2 for Minecraft 1.20-1.21.8.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "74ac3ff2e5215703ba9057d0e4662e726a847764"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7051088
+project-id = 1315458

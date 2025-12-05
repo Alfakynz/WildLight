@@ -1,0 +1,13 @@
+name = "Fast Better Grass For Simple Grass Flowers"
+filename = "FBGFSGF v1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/pOumd1F9/versions/rcx31y9J/FBGFSGF%20v1.0.zip"
+hash-format = "sha512"
+hash = "4fe717607b67f45753886721771a2bfb3e527e988889690ad87ea06727e9fc1f64b3cd760c5edf67086e243facb1a4b99ca80f8625501aa252314b200e9d7135"
+
+[update]
+[update.modrinth]
+mod-id = "pOumd1F9"
+version = "rcx31y9J"

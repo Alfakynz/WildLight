@@ -298,7 +298,7 @@ hash = "1bcd5051e7328960fd75ee0a16fb23ebd7a80386d4da67a32d6985534c4df562"
 
 [[files]]
 file = "configureddefaults/options-profiles/0. Default/options.txt"
-hash = "4610d1c7bff2dc946b5624858a04488172f33f1322b5d199d47a3490f62da1bb"
+hash = "8a6021835b1e209ae35dde24fdad90c06025eef2394e94f766fe20627a214d5e"
 
 [[files]]
 file = "configureddefaults/options-profiles/0. Default/sodium-options.json"
@@ -358,7 +358,7 @@ hash = "e414f088eec5f6006bfbf3fc88afe73562de58a7298850ae9d3f15fb113ccfd9"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "4610d1c7bff2dc946b5624858a04488172f33f1322b5d199d47a3490f62da1bb"
+hash = "8a6021835b1e209ae35dde24fdad90c06025eef2394e94f766fe20627a214d5e"
 
 [[files]]
 file = "icon.png"
@@ -670,11 +670,6 @@ hash = "33c41ce33262edd33832faac7b18119f356ab55352e74fc89f58c13a856cabce"
 metafile = true
 
 [[files]]
-file = "mods/diagonal-windows.pw.toml"
-hash = "2bcdcf72c50d93ef010c8895ad1588baf9181612dcbdd05a2a870ff88bc34649"
-metafile = true
-
-[[files]]
 file = "mods/double-doors.pw.toml"
 hash = "c7e3cfd32470d3e42baf3dc1dfcf9f17fb43df548d446ae32ec8a105d7604748"
 metafile = true
@@ -857,6 +852,11 @@ metafile = true
 [[files]]
 file = "mods/frozenlib.pw.toml"
 hash = "c9ac6fb1fc71e6486ab4a09d134415e08b94cff208cea134618d94b052e31879"
+metafile = true
+
+[[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "2e705f04feb06d4340c59aebe8430c79a48635f6cd40b5c9f9ea7e4e6500721a"
 metafile = true
 
 [[files]]
@@ -1545,11 +1545,6 @@ hash = "4c0e61ba4bf259431f6d192e7d1411f8d282fc7c0fd2951b06be403a9a3b39f4"
 metafile = true
 
 [[files]]
-file = "resourcepacks/connected-glasses.pw.toml"
-hash = "2e6ab15ac804bd9fa8c1051a3277f95c491a0af9eae3edcff70dcdd4c0948549"
-metafile = true
-
-[[files]]
 file = "resourcepacks/connected-paths.pw.toml"
 hash = "f96b12a4b7a2e60865d524bb1ec052294d6d9aa59258c31d48816241bebe387a"
 metafile = true
@@ -1562,6 +1557,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/enchanted-books-re-covered.pw.toml"
 hash = "f02b95d21e78b75d1a1c93296e1dd90dc5d03439958fd1596cb77bbce864663f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fast-better-grass-for-simple-grass-flowers.pw.toml"
+hash = "dd873dca51b266b0aef8776b06ff470c31c131f1152a22dc38be95a7f2af410e"
 metafile = true
 
 [[files]]
@@ -1580,6 +1580,16 @@ hash = "42b8a59616b3ed15a02e55466dff7ab400d481a8730949ce0168a927b71b91fb"
 metafile = true
 
 [[files]]
+file = "resourcepacks/fusion-connected-blocks.pw.toml"
+hash = "0e27eea95511f0914b8db1e75cfde84ca748251bc5d24c42dd9af38abd77afdc"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fusion-connected-glass.pw.toml"
+hash = "cc4c03200baa367d40720320336b692e6c4fe71edbea890e27210bb2cc42408c"
+metafile = true
+
+[[files]]
 file = "resourcepacks/icons-additions.pw.toml"
 hash = "90fa73291b92192b50bee140b6edf6035b7497ae136cb755305368075df072b7"
 metafile = true
@@ -1590,11 +1600,6 @@ hash = "0f1f0274bd042b888a470955154102e0d540396e5b3af341d050f05253fdcc3f"
 metafile = true
 
 [[files]]
-file = "resourcepacks/its-all-connected.pw.toml"
-hash = "173006d25b63ebb52affef09aa8ebf8dfa05cc119479068cf8ff140d0998edf8"
-metafile = true
-
-[[files]]
 file = "resourcepacks/recolourful-containers-gui-hud-dark.pw.toml"
 hash = "e6553c5528655d2ff50cbf4d8d93a48f237407bb48450c66d78c84dea9ae0cbd"
 metafile = true
@@ -1602,6 +1607,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/reseeded-seeds-retexture.pw.toml"
 hash = "59c2ea753ca67341217e855ff4a1cb91a4003aab7377545c114f88dad87b1515"
+metafile = true
+
+[[files]]
+file = "resourcepacks/simple-grass-flowers.pw.toml"
+hash = "bc4dcbd6b77adb2180049d63ed4a8981553f06dbf3e32080022ffd87dd1fb09b"
 metafile = true
 
 [[files]]
