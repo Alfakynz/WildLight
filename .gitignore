@@ -1,24 +1,39 @@
-.vscode/
-.idea/
+# MacOS
 .DS_Store
-*.zip
-*.mrpack
+
+# IDE
+.idea/
+.vscode/
+
+# Website
 node_modules/
-package-lock.json
 .vite/
-dist/*
-.gradle/
+package-lock.json
+
+# Java
 build/
 libs/
 run/
-.github/events
+.gradle/
 
-configureddefaults/
-.packwizignore
-icon.png
+# Build outputs
+dist/*
+
+# Configuration files
 assets/
+config/
+journeymap/
+options-profiles/
+icon.png
+options.txt
+.packwizignore
 
-!1.21.1/configurations/configureddefaults/
-!1.21.1/configurations/configureddefaults/config/fancymenu/assets/
-!1.21.1/configurations/.packwizignore
-!1.21.1/configurations/icon.png
+!configurations/config/
+!configurations/config/fancymenu/assets/
+!configurations/journeymap/
+!configurations/journeymap/config/
+!configurations/options-profiles/
+!configurations/icon.png
+!configurations/options.txt
+!configurations/*/*/options.txt
+!configurations/.packwizignore
