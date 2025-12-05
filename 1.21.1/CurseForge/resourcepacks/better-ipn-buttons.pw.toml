@@ -1,0 +1,13 @@
+name = "Better IPN Buttons"
+filename = "Better-IPN-Buttons.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "96404e625ee68a38a1c644852c03c339d6de96c0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7277571
+project-id = 1395048

@@ -29,6 +29,10 @@ file = "configureddefaults/config/continuity.json"
 hash = "00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4"
 
 [[files]]
+file = "configureddefaults/config/craftpresence.json"
+hash = "c63ba99177ab6e946c08db2ae43c7117a86019dbdf95b2698e8b838618f5a8df"
+
+[[files]]
 file = "configureddefaults/config/dashloader.json"
 hash = "f561ecabf80356148b8df358f3e1c1115c7f8c05ef3dc29835b861df2042a3ae"
 
@@ -194,7 +198,7 @@ hash = "7899a52dd46b3289956d4c3929d6840b52ac0bc460635556cca40ffa72a55512"
 
 [[files]]
 file = "configureddefaults/config/roughlyenoughitems/config.json5"
-hash = "e3293c53ccef2d16a8e6296b7135eddc8c74b57b0fbbd07776034537090b39bc"
+hash = "e20428580f54cb128b11bb54b38b4c9957473f5494628bcf42c7c358276f9759"
 
 [[files]]
 file = "configureddefaults/config/rrls.toml"
@@ -294,7 +298,7 @@ hash = "1bcd5051e7328960fd75ee0a16fb23ebd7a80386d4da67a32d6985534c4df562"
 
 [[files]]
 file = "configureddefaults/options-profiles/0. Default/options.txt"
-hash = "c2bfe69fdbca7fb350e3286a51260e1ecb79af6628e46245b7c22e472d862b36"
+hash = "4610d1c7bff2dc946b5624858a04488172f33f1322b5d199d47a3490f62da1bb"
 
 [[files]]
 file = "configureddefaults/options-profiles/0. Default/sodium-options.json"
@@ -354,7 +358,7 @@ hash = "e414f088eec5f6006bfbf3fc88afe73562de58a7298850ae9d3f15fb113ccfd9"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "c2bfe69fdbca7fb350e3286a51260e1ecb79af6628e46245b7c22e472d862b36"
+hash = "4610d1c7bff2dc946b5624858a04488172f33f1322b5d199d47a3490f62da1bb"
 
 [[files]]
 file = "icon.png"
@@ -417,7 +421,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-combat-by-daedelus.pw.toml"
-hash = "a8d30f2206ea4508dac138f7a5bbdf8c95e792bc187afaa1dcf8b5a2f7a83245"
+hash = "15c95a2014fe9f02a9cf6fcb89a9934d7e4d34a9164cdcd9d927244d18c5368a"
 metafile = true
 
 [[files]]
@@ -571,6 +575,11 @@ hash = "c95f96c1422ed285de47a75dd9c163538fe89259d9525d15d2c07039f0c1f5b1"
 metafile = true
 
 [[files]]
+file = "mods/craftpresence.pw.toml"
+hash = "bcdf6d7a7ff8affa16ffe0d9d0150221c05f778f56adf8d5a09d3461cfb9375f"
+metafile = true
+
+[[files]]
 file = "mods/crawl.pw.toml"
 hash = "ff190acbb894b6fddae6ab4258fc8e6301f8f536d8e4d261809f9c480a190343"
 metafile = true
@@ -612,7 +621,7 @@ metafile = true
 
 [[files]]
 file = "mods/deeperdarker.pw.toml"
-hash = "3afc0b279a3d79b6b1b21846790699238ae997eda3adaba94f1ed1ef7f65ffbf"
+hash = "a9e43d7f29370cc9ac12a30d95748ef09add06a131469f928d722d34be0745a8"
 metafile = true
 
 [[files]]
@@ -811,13 +820,18 @@ hash = "d0e586bf4b4f9f003b1de1a3e18f67540233a0295b487009047056198f694f0f"
 metafile = true
 
 [[files]]
+file = "mods/free-inventory.pw.toml"
+hash = "fda3a1a98c7c1adc53e60bdc71b5607c92b62683d0a72fc77584cf234cbab868"
+metafile = true
+
+[[files]]
 file = "mods/friends-and-foes-flowery-mooblooms-fabric.pw.toml"
 hash = "9e2713e107f4ca0ad7ba05c9b961dc9a4f69960ee7bdf10b8fc93c1d025b9bce"
 metafile = true
 
 [[files]]
 file = "mods/friends-and-foes.pw.toml"
-hash = "df3651550b7ff4ee12b3c68698eac6a958f9db195c227b3242b5bc36a2f59359"
+hash = "d8857ddb1c82bd6962d9ba2c145094138e54e6a9056d6fef85a86bb353ec67e7"
 metafile = true
 
 [[files]]
@@ -877,7 +891,7 @@ metafile = true
 
 [[files]]
 file = "mods/invmove.pw.toml"
-hash = "f65b11ba8730a2300b29e882a9bcd55df8f92250b3eccf22a04d679a32d8e275"
+hash = "40fa748597b1da468d9d0ef756ab55bb591e214695b93ef66feafd7cd6520a33"
 metafile = true
 
 [[files]]
@@ -1131,6 +1145,11 @@ hash = "d42c9ad05fd54d790fd76ea0f10665fffcd6413a6da0d1810879398ac66d6133"
 metafile = true
 
 [[files]]
+file = "mods/prometheus.pw.toml"
+hash = "87237e487340e790ebdc54ec87ef6800d1a4a2e570ce59a6c3db47c12b993c09"
+metafile = true
+
+[[files]]
 file = "mods/puzzle.pw.toml"
 hash = "a06f93011862c4d0f69f70e30d62a5b38a21ec34e4d352a5d6ddea46e63c681f"
 metafile = true
@@ -1267,7 +1286,7 @@ metafile = true
 
 [[files]]
 file = "mods/soul-fire-d.pw.toml"
-hash = "3598be758a2a3dac2b4f79d08ebacd3a3874fedc72eb316bc6ed71c9a41d0472"
+hash = "40fb385af10ad90c46eb0bc8818c6462a642d4794d076707cf72ab7486277a0e"
 metafile = true
 
 [[files]]
@@ -1277,7 +1296,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound.pw.toml"
-hash = "cafd85dca562ede528656b508bf0d317056a82d4b8aa953e68e5729f28f65dff"
+hash = "cb01fb33c7daa54b408324d24a4546f4487db8d8e9d6d2fc6fd701cb2d12726c"
 metafile = true
 
 [[files]]
@@ -1287,7 +1306,7 @@ metafile = true
 
 [[files]]
 file = "mods/subtle-effects.pw.toml"
-hash = "e947481106b2c226a5b0731d15a6b84ccb8d49729c421db20e4ac4ceb3d5cab5"
+hash = "87f0c2e2375209d074e05608e47f71bebece1955065b2b523576353cbb5f0b67"
 metafile = true
 
 [[files]]
@@ -1361,6 +1380,11 @@ hash = "751184d107e81d8eb27ab6b1ff3c1f607a31236fa2106bdd2b2a3fda1cb8d847"
 metafile = true
 
 [[files]]
+file = "mods/unilib.pw.toml"
+hash = "3fa9973b2e8e931adef2ab69e75c3f8386f632b284a30ced2b39fac66234feea"
+metafile = true
+
+[[files]]
 file = "mods/useful-backpacks.pw.toml"
 hash = "3631cc957fdb4a4c9f285e7626771b4edf3afd99f02d705a0cb1f5a2796d88f1"
 metafile = true
@@ -1397,7 +1421,7 @@ metafile = true
 
 [[files]]
 file = "mods/wildlight-compat.pw.toml"
-hash = "3de5692cefcb1b71694fb0d7b4a91d12bfc940ad201fe9d3a816f1a2e0d1e035"
+hash = "ecbf0de69c7aed45ffaec0d9c520e5bff8ad485db1cb33ae1d530dadfe876891"
 metafile = true
 
 [[files]]
@@ -1491,6 +1515,11 @@ hash = "da64c7ec3e8b0b902cff6d70eefb583a406fd18742e8b190f9a66b98efb5d996"
 metafile = true
 
 [[files]]
+file = "resourcepacks/better-ipn-buttons.pw.toml"
+hash = "344cfb1bf3259c3534dc0b0737aef164f0f3c97ddf75f15fd564fbd93c427c0d"
+metafile = true
+
+[[files]]
 file = "resourcepacks/circular-logs.pw.toml"
 hash = "4c0e61ba4bf259431f6d192e7d1411f8d282fc7c0fd2951b06be403a9a3b39f4"
 metafile = true
@@ -1522,7 +1551,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations-extensions.pw.toml"
-hash = "b8cd8f8475f65bdefa21a248e6b72bbd566c850878d0303e25e4911bc6025065"
+hash = "3742efd536b417560395d9aab9643e2a97c105a60fd7f37c9a825024c7479359"
 metafile = true
 
 [[files]]
@@ -1543,11 +1572,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/its-all-connected.pw.toml"
 hash = "173006d25b63ebb52affef09aa8ebf8dfa05cc119479068cf8ff140d0998edf8"
-metafile = true
-
-[[files]]
-file = "resourcepacks/low-on-fire.pw.toml"
-hash = "c78e5aadda0f2be8481cefeaa7fc27fce87c34097dbfd29aa715fef2b1f55ba4"
 metafile = true
 
 [[files]]

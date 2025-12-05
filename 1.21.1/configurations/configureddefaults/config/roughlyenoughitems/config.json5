@@ -37,7 +37,7 @@
 				"modifier": 0
 			},
 			"favoriteKeybind": {
-				"keyCode": "key.keyboard.a",
+				"keyCode": "key.keyboard.unknown",
 				"modifier": 0
 			},
 			"exportImageKeybind": {

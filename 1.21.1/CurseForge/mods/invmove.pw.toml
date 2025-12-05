@@ -1,13 +1,13 @@
 name = "InvMove"
-filename = "InvMove-0.9.1+1.21.1-Fabric.jar"
+filename = "InvMove-0.9.2+1.21.1-Fabric.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "295af74e8e0d4a30b34d05cc1f334a3260fcf086"
+hash = "442df5862d637943cbd5438f1015f02ca3d8a427"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7091723
+file-id = 7281212
 project-id = 581854

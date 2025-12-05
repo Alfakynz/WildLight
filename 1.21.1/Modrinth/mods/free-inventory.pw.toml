@@ -1,0 +1,13 @@
+name = "Free Inventory"
+filename = "free-inventory-1.0.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/PSmNv4li/versions/LmlDatQL/free-inventory-1.0.2.jar"
+hash-format = "sha512"
+hash = "550fbe6793e3fa62a8dae5b4c39fd279b9a9a9f7eb539d5b8e5982ddba1d38cfca6026abf17ab14cf84c3de724a0ff2763df70c0f6b73a6de1896f80b1c901bb"
+
+[update]
+[update.modrinth]
+mod-id = "PSmNv4li"
+version = "LmlDatQL"

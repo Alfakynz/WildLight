@@ -1,3 +1,4 @@
+# List of projects used
 
 - [Mods used](#mods-used)
 - [Resource packs used](#resource-packs-used)
@@ -49,6 +50,7 @@
 - [Configured Defaults](https://modrinth.com/project/SISoSFPP)
 - [Continuity](https://modrinth.com/project/1IjD5062)
 - [Controlling](https://modrinth.com/project/xv94TkTM)
+- [CraftPresence](https://modrinth.com/project/DFqQfIBR)
 - [Crawl](https://modrinth.com/project/H1JOVjhn)
 - [CreativeCore](https://modrinth.com/project/OsZiaDHq)
 - [Cristel Lib](https://modrinth.com/project/cl223EMc)
@@ -96,6 +98,7 @@
 - [Fire Arrows Ignite Fire](https://modrinth.com/project/NoajjpZQ)
 - [First-person Model](https://modrinth.com/project/H5XMjpHi)
 - [Forge Config API Port](https://modrinth.com/project/ohNO6lps)
+- [Free Inventory](https://modrinth.com/project/PSmNv4li)
 - [Friends&Foes (Fabric/Quilt)](https://modrinth.com/project/POQ2i9zu)
 - [Friends&Foes - Flowery Mooblooms (Fabric/Quilt)](https://modrinth.com/project/ECOSu6pa)
 - [FrozenLib](https://modrinth.com/project/9KawNmQc)
@@ -158,6 +161,7 @@
 - [Presence Footsteps](https://modrinth.com/project/rcTfTZr3)
 - [Prickle](https://modrinth.com/project/aaRl8GiW)
 - [Prism](https://modrinth.com/project/1OE8wbN0)
+- [Prometheus](https://modrinth.com/project/7Z7a9JyH)
 - [Puzzle](https://modrinth.com/project/3IuO68q1)
 - [Puzzles Lib](https://modrinth.com/project/QAGBst4M)
 - [Pyrellium](https://modrinth.com/project/uZWcuZ4t)
@@ -203,6 +207,7 @@
 - [Trinkets](https://modrinth.com/project/5aaWibi9)
 - [TxniLib](https://modrinth.com/project/vBbPDuOs)
 - [U Team Core](https://modrinth.com/project/g2FGQs4R)
+- [UniLib](https://modrinth.com/project/nT86WUER)
 - [Useful Backpacks](https://modrinth.com/project/VLAWWg1B)
 - [Variants&Ventures](https://modrinth.com/project/lNDRiXkY)
 - [Villager Names](https://modrinth.com/project/gqRXDo8B)
@@ -238,6 +243,7 @@
 - [3D crops Revamped](https://modrinth.com/project/PgpTtNoI)
 - [Assembled Legendary Tooltips Compat](https://modrinth.com/project/FVonl8G5)
 - [Assembled Legendary Tooltips](https://modrinth.com/project/P6gDZwVp)
+- [Better IPN Buttons](https://modrinth.com/project/mqZujIpC)
 - [Circular Logs](https://modrinth.com/project/OAHZ2XF7)
 - [Connected Glasses](https://modrinth.com/project/BcGbyFs6)
 - [Connected Paths](https://modrinth.com/project/Nyfj98b5)
@@ -249,7 +255,6 @@
 - [Icons - Additions](https://modrinth.com/project/2aHPb3sX)
 - [Icons](https://modrinth.com/project/O7z3QKAG)
 - [It's All Connected](https://modrinth.com/project/t4YAPTH1)
-- [Low On Fire](https://modrinth.com/project/RRxvWKNC)
 - [Recolourful Containers GUI + HUD (DARK)](https://modrinth.com/project/sQCUH0Mr)
 - [Reseeded | Seeds](https://modrinth.com/project/E7Fp5ZdY)
 - [Sky's Relit Flames](https://modrinth.com/project/OF52eDIm)
@@ -261,4 +266,3 @@
 - [Bliss Shaders](https://modrinth.com/project/ZvMtQlho)
 - [Complementary Shaders - Unbound](https://modrinth.com/project/R6NEzAwj)
 - [MakeUp - Ultra Fast](https://modrinth.com/project/izsIPI7a)
-

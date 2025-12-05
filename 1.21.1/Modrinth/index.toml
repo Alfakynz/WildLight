@@ -29,6 +29,10 @@ file = "configureddefaults/config/continuity.json"
 hash = "00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4"
 
 [[files]]
+file = "configureddefaults/config/craftpresence.json"
+hash = "c63ba99177ab6e946c08db2ae43c7117a86019dbdf95b2698e8b838618f5a8df"
+
+[[files]]
 file = "configureddefaults/config/dashloader.json"
 hash = "f561ecabf80356148b8df358f3e1c1115c7f8c05ef3dc29835b861df2042a3ae"
 
@@ -194,7 +198,7 @@ hash = "7899a52dd46b3289956d4c3929d6840b52ac0bc460635556cca40ffa72a55512"
 
 [[files]]
 file = "configureddefaults/config/roughlyenoughitems/config.json5"
-hash = "e3293c53ccef2d16a8e6296b7135eddc8c74b57b0fbbd07776034537090b39bc"
+hash = "e20428580f54cb128b11bb54b38b4c9957473f5494628bcf42c7c358276f9759"
 
 [[files]]
 file = "configureddefaults/config/rrls.toml"
@@ -294,7 +298,7 @@ hash = "1bcd5051e7328960fd75ee0a16fb23ebd7a80386d4da67a32d6985534c4df562"
 
 [[files]]
 file = "configureddefaults/options-profiles/0. Default/options.txt"
-hash = "c2bfe69fdbca7fb350e3286a51260e1ecb79af6628e46245b7c22e472d862b36"
+hash = "4610d1c7bff2dc946b5624858a04488172f33f1322b5d199d47a3490f62da1bb"
 
 [[files]]
 file = "configureddefaults/options-profiles/0. Default/sodium-options.json"
@@ -354,7 +358,7 @@ hash = "e414f088eec5f6006bfbf3fc88afe73562de58a7298850ae9d3f15fb113ccfd9"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "c2bfe69fdbca7fb350e3286a51260e1ecb79af6628e46245b7c22e472d862b36"
+hash = "4610d1c7bff2dc946b5624858a04488172f33f1322b5d199d47a3490f62da1bb"
 
 [[files]]
 file = "icon.png"
@@ -427,7 +431,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-combat.pw.toml"
-hash = "b14408056dfdcdbbfe1c41e05de322457d508a611efae462db9a4103eb168887"
+hash = "1eb528de8941a4b761b9f5f5e94b99d669e235eff605c4ba1fc7c1ed9a2c1465"
 metafile = true
 
 [[files]]
@@ -586,6 +590,11 @@ hash = "eecdc8127f69c74ff55fd183d1f1d7d5ef3e714d73845a239fe9e086147a67b1"
 metafile = true
 
 [[files]]
+file = "mods/craftpresence.pw.toml"
+hash = "01e094e3599564ea056dc71f42cc10854609a5ffbb3f83415225a3bdcbf8680e"
+metafile = true
+
+[[files]]
 file = "mods/crawl.pw.toml"
 hash = "895602d01d010ba10c9662f61d382393cdc270ba02d7cd8fb0d95f5fc7768972"
 metafile = true
@@ -627,7 +636,7 @@ metafile = true
 
 [[files]]
 file = "mods/deeperdarker.pw.toml"
-hash = "c39b76c9fe5aa1ef19ba98d5e22af854d8b8cd8f476b3acc875419389d26b8c3"
+hash = "d056036f71ac0fe66147f415e0142c1fd8889c065b7f1e5880ad3d46c583136f"
 metafile = true
 
 [[files]]
@@ -831,13 +840,18 @@ hash = "238b3ceb4214a682480ce00eefae5d34efa299ff6ff667e4b2f2ed503c6e76ee"
 metafile = true
 
 [[files]]
+file = "mods/free-inventory.pw.toml"
+hash = "c282db3e99763d5df37aabb6b672816ec59848e965fc78a8c7d3b78387c55573"
+metafile = true
+
+[[files]]
 file = "mods/friends-and-foes-flowery-mooblooms-fabric.pw.toml"
 hash = "ca11bc13434dffcac0cb2500e3ea2eb62bb722f36d0d56ffbc1dfbe5d4315bbc"
 metafile = true
 
 [[files]]
 file = "mods/friends-and-foes.pw.toml"
-hash = "5b771d1e87b611d05dc4e83e50bd3e9c6578bb16c99f49d69a656838d9cf7d21"
+hash = "74851fe1378e23d4c3b3f8d01fc9de99e930c373a83e86e27886cc50bceefed8"
 metafile = true
 
 [[files]]
@@ -897,7 +911,7 @@ metafile = true
 
 [[files]]
 file = "mods/invmove.pw.toml"
-hash = "c101256f1378c97c9fc082cd2cebb2f90e358fc6602d11e15e65cc5d535d3528"
+hash = "fff3bd7b56f7f5866bacf83173ceb9d24c0a2684e4de6f8cb4d7f0173ff78455"
 metafile = true
 
 [[files]]
@@ -1161,6 +1175,11 @@ hash = "478cf24d75c02422619241c8b79cf938bcf94b220474eef57bcfae17f4816dd9"
 metafile = true
 
 [[files]]
+file = "mods/prometheus-api.pw.toml"
+hash = "9acec069a69899689d63c6c74438176d7f32e6adabf77c4f24ad97878e1a03ae"
+metafile = true
+
+[[files]]
 file = "mods/puzzle.pw.toml"
 hash = "802f3efc129ab62029ac7dc9f24c5e947745346d2ce972442994d83031cdc26c"
 metafile = true
@@ -1287,7 +1306,7 @@ metafile = true
 
 [[files]]
 file = "mods/soul-fire-d.pw.toml"
-hash = "2c13a039fcbdfc17f7ac9c8c8b70223f7a1a7f346ce569a0a58c4808504ede0d"
+hash = "1272cefb176d232959407fa55b75847b183ee587c42b2bf1bb19c7849681ded9"
 metafile = true
 
 [[files]]
@@ -1297,7 +1316,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound.pw.toml"
-hash = "cf2f667583b0707ec1d7d211b1eaae5b38cd5e138896d351d66f190307b1b1e9"
+hash = "69d01714a94de630dc24248bd1a96725f7ffb96358b43950938e041f4d2cf5fe"
 metafile = true
 
 [[files]]
@@ -1307,7 +1326,7 @@ metafile = true
 
 [[files]]
 file = "mods/subtle-effects.pw.toml"
-hash = "ea42c8cd33e92216bac99e999fd9d2e1e037dd1a695ed5e7e05c640fd3ee35d8"
+hash = "c5677b5691588845f9ee31bd86ec1c578015e1f00387eb31f523af863ec11cfb"
 metafile = true
 
 [[files]]
@@ -1376,6 +1395,11 @@ hash = "64ce7aa4ad8a0549445c0841f5e6d8cd1d9cc9a9ab8d7273ab04aabd51d72bf0"
 metafile = true
 
 [[files]]
+file = "mods/unilib.pw.toml"
+hash = "19faff688fb5bdd5e0151876da94b1ceb98aedaf411574f494497cef06f7fed9"
+metafile = true
+
+[[files]]
 file = "mods/useful-backpacks.pw.toml"
 hash = "1865da11b431686dc709432434a61a7df0d7fc73f6d6cd1c63f33275d9ce6e44"
 metafile = true
@@ -1412,7 +1436,7 @@ metafile = true
 
 [[files]]
 file = "mods/wildlight-compat.pw.toml"
-hash = "fcdf5fc594f3b7e4757db413f6c260c669fa8712cd6e39634cb4491ea2fd5164"
+hash = "90eb30c3108d2863361915ee67dc65eea27243396b555cf066dbf992407e0e39"
 metafile = true
 
 [[files]]
@@ -1511,6 +1535,11 @@ hash = "da64c7ec3e8b0b902cff6d70eefb583a406fd18742e8b190f9a66b98efb5d996"
 metafile = true
 
 [[files]]
+file = "resourcepacks/better-ipn-buttons.pw.toml"
+hash = "badf75e4b5e40594e91989916fdcafe0f62fa1fd374fe8c8a76969e876d98dc8"
+metafile = true
+
+[[files]]
 file = "resourcepacks/circular-logs.pw.toml"
 hash = "4c0e61ba4bf259431f6d192e7d1411f8d282fc7c0fd2951b06be403a9a3b39f4"
 metafile = true
@@ -1542,7 +1571,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations-extensions.pw.toml"
-hash = "c35f41d09504478ac9d85d9a939460511c50676f5ea3a19537a2ac204281506e"
+hash = "d3571c12bae3b4ff244307f5f5bdfa1654175981eeda8d76059266eaa7d926fa"
 metafile = true
 
 [[files]]
@@ -1566,11 +1595,6 @@ hash = "173006d25b63ebb52affef09aa8ebf8dfa05cc119479068cf8ff140d0998edf8"
 metafile = true
 
 [[files]]
-file = "resourcepacks/low-on-fire.pw.toml"
-hash = "347564c7db8830d5595e0c6cc3b7c4bb9d040cfd09272d672a969200cb24d3d0"
-metafile = true
-
-[[files]]
 file = "resourcepacks/recolourful-containers-gui-hud-dark.pw.toml"
 hash = "e6553c5528655d2ff50cbf4d8d93a48f237407bb48450c66d78c84dea9ae0cbd"
 metafile = true
@@ -1587,7 +1611,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/sun-and-moon-circular.pw.toml"
-hash = "3dc05fe905d662fed1c6aeaea36643d95cd0e3d6c180863b03a0ce318ae8db93"
+hash = "4600da0906cf1a669c4cf20b15d04c1ce6412dc90b97c347788c34bad93d9f5f"
 metafile = true
 
 [[files]]
