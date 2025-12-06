@@ -126,7 +126,7 @@ hash = "2e58154dda04298a7cea9328b28bbf5a3a0c90b15dca42677de4711c0dc74830"
 
 [[files]]
 file = "config/iris.properties"
-hash = "763a7c4fa522ca717e93a3541bae8c36c5558907264a8b2b8c4adeedbc73e92a"
+hash = "1f553f33d538e28bdda0aa96a296ecfe8968ea4e978a56d732162e5634f37400"
 
 [[files]]
 file = "config/jade/hide-blocks.json"
@@ -142,7 +142,7 @@ hash = "8a57b8690ae69bac1e3c575a1a841a0c017f5ab3baadb6ba78f71a4bf0541ce0"
 
 [[files]]
 file = "config/jade/plugins.json"
-hash = "d01aec2b1f436d3cc03dc0be05817918cf60e8781fc24adc774f530ad24580ad"
+hash = "9bc6b5f5b53efcd61ead11b526e94661eca531a077b1bc18aac8ea3f50a3a450"
 
 [[files]]
 file = "config/jade/sort-order.json"
@@ -166,7 +166,7 @@ hash = "d8a629b25da461374926b02b6649ed90154cb1bb6ab7e5208f519b5bcf29b08b"
 
 [[files]]
 file = "config/physicsmod/physics_blocks_client_config.json"
-hash = "23d78025cf29e14614d13090523fdb11636ad3f3755741251da2fc5768507c9b"
+hash = "36cf954d1023c5228d153340fe24c0b2af81309aaeac7ecfb385302300dc6b05"
 
 [[files]]
 file = "config/physicsmod/physics_client_config.json"
@@ -321,6 +321,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "39792a11da59cebc770f3918dd0ad53637bcbd206dc19bfa6709392bfd2d1830"
+metafile = true
+
+[[files]]
+file = "mods/asyncparticles.pw.toml"
+hash = "0a8c22828219d1a6ee87f71bc5b46cd756612537dd4ab89383b787339f30d269"
 metafile = true
 
 [[files]]
@@ -1419,7 +1424,7 @@ hash = "77a00d86bc2a4b150df76f407c30b55e5909c2d9c2be7740bbb9f1c69419e127"
 
 [[files]]
 file = "options-profiles/0. Default/iris.properties"
-hash = "1bcd5051e7328960fd75ee0a16fb23ebd7a80386d4da67a32d6985534c4df562"
+hash = "1f553f33d538e28bdda0aa96a296ecfe8968ea4e978a56d732162e5634f37400"
 
 [[files]]
 file = "options-profiles/0. Default/options.txt"

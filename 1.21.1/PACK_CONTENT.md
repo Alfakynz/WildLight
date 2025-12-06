@@ -14,6 +14,7 @@
 - [Animatica](https://modrinth.com/project/PRN43VSY)
 - [AppleSkin](https://modrinth.com/project/EsAfCjCV)
 - [Architectury API](https://modrinth.com/project/lhGA9TYQ)
+- [AsyncParticles](https://modrinth.com/project/c3onkd5k)
 - [Auth Me](https://modrinth.com/project/yjgIrBjZ)
 - [Auto HUD](https://modrinth.com/project/temczoTQ)
 - [BadOptimizations](https://modrinth.com/project/g96Z4WVZ)

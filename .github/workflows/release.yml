@@ -1,0 +1,78 @@
+name: Create Draft Release
+
+permissions:
+  contents: write
+
+on:
+  push:
+    tags:
+      - "v*"
+
+jobs:
+  build-release:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout sources
+        uses: actions/checkout@v4
+
+      - name: Set up Go
+        uses: actions/setup-go@v4
+        with:
+          go-version: "1.25.1"
+
+      - name: Install Packwiz and PackWize
+        run: |
+          go install github.com/packwiz/packwiz@latest
+          go install github.com/Alfakynz/PackWize/cmd/packwize@main
+
+      - name: Build modpack
+        run: packwize ex a a --quiet
+
+      - name: Create draft release
+        id: create_release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: ${{ github.ref_name }}
+          release_name: WildLight ${{ github.ref_name }}
+          draft: true
+          prerelease: false
+          body: |
+            -
+
+      - name: Upload packs to the release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+
+          # upload_url from create-release contains a template like .../assets{?name,label}
+          upload_url="${{ steps.create_release.outputs.upload_url }}"
+          # strip the template suffix
+          upload_url="${upload_url%%\{*}"
+
+          echo "Uploading pack files found under dist/..."
+          mapfile -d '' files < <(find dist -type f \( -name "*.zip" -o -name "*.mrpack" \) -print0 || true)
+          if [ ${#files[@]} -eq 0 ]; then
+            echo "No pack files found in dist/ — nothing to upload."
+            exit 0
+          fi
+
+          for file in "${files[@]}"; do
+            file="${file%$'\n'}"
+            name=$(basename "$file")
+            case "$file" in
+              *.zip) content_type="application/zip" ;;
+              *.mrpack) content_type="application/octet-stream" ;;
+              *) content_type="application/octet-stream" ;;
+            esac
+
+            echo "Uploading $name to $upload_url"
+            curl -sS -X POST \
+              -H "Authorization: token $GITHUB_TOKEN" \
+              -H "Content-Type: $content_type" \
+              --data-binary @"$file" \
+              "$upload_url?name=$(printf '%s' "$name" | sed -e 's/ /%20/g')"
+          done
