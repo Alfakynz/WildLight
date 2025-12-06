@@ -138,7 +138,7 @@ hash = "3741bb54a4535fb5a00fb0ee1f4386f3dd17834aebdf9e89c21fcd3307109709"
 
 [[files]]
 file = "config/jade/jade.json"
-hash = "8a57b8690ae69bac1e3c575a1a841a0c017f5ab3baadb6ba78f71a4bf0541ce0"
+hash = "2be85b04e97ea7036ebae9828eaefe5d3880500df1a173fd24c37b29cac24aa4"
 
 [[files]]
 file = "config/jade/plugins.json"
@@ -166,7 +166,7 @@ hash = "d8a629b25da461374926b02b6649ed90154cb1bb6ab7e5208f519b5bcf29b08b"
 
 [[files]]
 file = "config/physicsmod/physics_blocks_client_config.json"
-hash = "36cf954d1023c5228d153340fe24c0b2af81309aaeac7ecfb385302300dc6b05"
+hash = "e573c655535764635c1804e6a21223b6600b0c398a61ccdfa6ef4cedeb3b0e11"
 
 [[files]]
 file = "config/physicsmod/physics_client_config.json"
@@ -735,7 +735,7 @@ metafile = true
 
 [[files]]
 file = "mods/free-inventory.pw.toml"
-hash = "fda3a1a98c7c1adc53e60bdc71b5607c92b62683d0a72fc77584cf234cbab868"
+hash = "5ccdcc4df3efcff23f868bf4f1f134e1f5f8ad0c45cef17b15bfc9a841806983"
 metafile = true
 
 [[files]]
@@ -850,7 +850,7 @@ metafile = true
 
 [[files]]
 file = "mods/kiwi-fabric.pw.toml"
-hash = "ab517ee40abcd67ea08fb41c4406e52ee0fa2ac16e069e7ab77967f6f04eb21d"
+hash = "3fc7acb52e9c87a60a1f9de5a0fba1f5ed94a5da27c917abc6ef13cbc6ba0cea"
 metafile = true
 
 [[files]]
@@ -1428,7 +1428,7 @@ hash = "1f553f33d538e28bdda0aa96a296ecfe8968ea4e978a56d732162e5634f37400"
 
 [[files]]
 file = "options-profiles/0. Default/options.txt"
-hash = "8a6021835b1e209ae35dde24fdad90c06025eef2394e94f766fe20627a214d5e"
+hash = "2dc9559dfb96887b275dedc917a3c9768406b172f3bcc8ca786297dea5bd39e7"
 
 [[files]]
 file = "options-profiles/0. Default/sodium-options.json"
@@ -1488,7 +1488,7 @@ hash = "e414f088eec5f6006bfbf3fc88afe73562de58a7298850ae9d3f15fb113ccfd9"
 
 [[files]]
 file = "options.txt"
-hash = "14086ba906381ee9bde99908bf871edf0e34112e17169b8ff3aefb0ff9f05094"
+hash = "2dc9559dfb96887b275dedc917a3c9768406b172f3bcc8ca786297dea5bd39e7"
 
 [[files]]
 file = "resourcepacks/3d-crops.pw.toml"
@@ -1528,6 +1528,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/enchanted-books-re-covered.pw.toml"
 hash = "94e22dc2d248ead4fc18d5bb355a863f343dbd983042691914974c60ad165177"
+metafile = true
+
+[[files]]
+file = "resourcepacks/enhanced-boss-bars.pw.toml"
+hash = "c3bffe8dba1b4cd555331b0dce3586718980bb306f51a2278f1066f5e43cd3fd"
 metafile = true
 
 [[files]]
@@ -1597,7 +1602,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/sun-and-moon-circular.pw.toml"
-hash = "ff55456c736ed5c53ed4e8143569c00f40c27e9e028e5e5125fa86cc7d88c585"
+hash = "d02a141bf22f4d899c58bf90cb3600163e2da0bb28496117af1f37bf55e29969"
 metafile = true
 
 [[files]]

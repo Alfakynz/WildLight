@@ -11,7 +11,7 @@
     "perspectiveMode": "CAMERA",
     "extendedReach": 0.0,
     "debug": false,
-    "displayBosses": true,
+    "displayBosses": false,
     "displayMode": "TOGGLE",
     "enableTextToSpeech": false,
     "ttsMode": "PRESS",

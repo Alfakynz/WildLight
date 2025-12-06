@@ -138,7 +138,7 @@ hash = "3741bb54a4535fb5a00fb0ee1f4386f3dd17834aebdf9e89c21fcd3307109709"
 
 [[files]]
 file = "config/jade/jade.json"
-hash = "8a57b8690ae69bac1e3c575a1a841a0c017f5ab3baadb6ba78f71a4bf0541ce0"
+hash = "2be85b04e97ea7036ebae9828eaefe5d3880500df1a173fd24c37b29cac24aa4"
 
 [[files]]
 file = "config/jade/plugins.json"
@@ -166,7 +166,7 @@ hash = "d8a629b25da461374926b02b6649ed90154cb1bb6ab7e5208f519b5bcf29b08b"
 
 [[files]]
 file = "config/physicsmod/physics_blocks_client_config.json"
-hash = "36cf954d1023c5228d153340fe24c0b2af81309aaeac7ecfb385302300dc6b05"
+hash = "e573c655535764635c1804e6a21223b6600b0c398a61ccdfa6ef4cedeb3b0e11"
 
 [[files]]
 file = "config/physicsmod/physics_client_config.json"
@@ -755,7 +755,7 @@ metafile = true
 
 [[files]]
 file = "mods/free-inventory.pw.toml"
-hash = "c282db3e99763d5df37aabb6b672816ec59848e965fc78a8c7d3b78387c55573"
+hash = "6066251adb509a202fb83e8ea2e65cbd7d96aa930861fa93c86e296845bd4f84"
 metafile = true
 
 [[files]]
@@ -870,7 +870,7 @@ metafile = true
 
 [[files]]
 file = "mods/kiwi.pw.toml"
-hash = "2cb9f11e70a27fed5aef1aaefba8f5799c49886787f9c92ef76be46ea8d399ea"
+hash = "718823aa04a4ca921afbf2b419b1c0ac9136403722a19f1114a5c0c7f12b256a"
 metafile = true
 
 [[files]]
@@ -1443,7 +1443,7 @@ hash = "1f553f33d538e28bdda0aa96a296ecfe8968ea4e978a56d732162e5634f37400"
 
 [[files]]
 file = "options-profiles/0. Default/options.txt"
-hash = "8a6021835b1e209ae35dde24fdad90c06025eef2394e94f766fe20627a214d5e"
+hash = "2dc9559dfb96887b275dedc917a3c9768406b172f3bcc8ca786297dea5bd39e7"
 
 [[files]]
 file = "options-profiles/0. Default/sodium-options.json"
@@ -1503,7 +1503,7 @@ hash = "e414f088eec5f6006bfbf3fc88afe73562de58a7298850ae9d3f15fb113ccfd9"
 
 [[files]]
 file = "options.txt"
-hash = "14086ba906381ee9bde99908bf871edf0e34112e17169b8ff3aefb0ff9f05094"
+hash = "2dc9559dfb96887b275dedc917a3c9768406b172f3bcc8ca786297dea5bd39e7"
 
 [[files]]
 file = "resourcepacks/3d-crops.pw.toml"
@@ -1548,6 +1548,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/enchanted-books-re-covered.pw.toml"
 hash = "f02b95d21e78b75d1a1c93296e1dd90dc5d03439958fd1596cb77bbce864663f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/enhanced-boss-bars.pw.toml"
+hash = "465215de1dcb2e0feb29cadfd674af29d7812c8d0fc1e7e7d2da36408e29fcfd"
 metafile = true
 
 [[files]]

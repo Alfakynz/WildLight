@@ -247,6 +247,7 @@
 - [Connected Paths](https://modrinth.com/project/Nyfj98b5)
 - [Enchant Icons](https://modrinth.com/project/6vhHOIKw)
 - [Enchanted Books: Re-covered](https://modrinth.com/project/6gN7YVi7)
+- [Enhanced Boss Bars](https://modrinth.com/project/U5SedJ9S)
 - [Fast Better Grass For Simple Grass Flowers](https://modrinth.com/project/pOumd1F9)
 - [Fast Better Grass](https://modrinth.com/project/dspVZXKP)
 - [Fresh Animations: Extensions](https://modrinth.com/project/YAVTU8mK)
