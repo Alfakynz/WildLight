@@ -36,11 +36,12 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           tag_name: ${{ github.ref_name }}
-          release_name: WildLight ${{ github.ref_name }}
+          release_name: "WildLight: Into the Depths ${{ github.ref_name }}"
           draft: true
           prerelease: false
           body: |
-            -
+
+            👉 Full mod list (and resource pack/shaders) available [here](https://alfakynz.github.io/WildLight/wiki/mods).
 
       - name: Upload packs to the release
         env:
