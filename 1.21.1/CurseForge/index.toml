@@ -54,23 +54,19 @@ hash = "6a6d12cacd0b94f627873708cfb5c47dc973f1084b18f5ab83d71d93938241b6"
 
 [[files]]
 file = "config/fancymenu/assets/discord.png"
-hash = "d4658e9f4a8c11d895ba62357a92076fda385ef686e929cc1cef8928a3374f50"
+hash = "eac0cb5ae47ce1852d308577a93de2b58d7bca5b2cbc10a7c8b700efbed607ef"
 
 [[files]]
 file = "config/fancymenu/assets/github.png"
-hash = "2e43aec3e2c83efc5dbd15518493cfb40b7cef834c41864ee0ba8aef2d413f82"
+hash = "716b46af4d6f34b3bb035edd2ae1f7910683a930c2d78f42f399575030a61ffa"
 
 [[files]]
 file = "config/fancymenu/assets/wabbanode.png"
-hash = "cfaafbb05d542796aa89e346891025abb2238f81c1d9957306e161f507d8d694"
+hash = "82f7929b9f868ccf979644b6828b4443e6fafca068a8a22a63dac954db1b8c37"
 
 [[files]]
 file = "config/fancymenu/assets/wildlight-title.png"
-hash = "58f341581ba5b25ee47ee1c095ca3a8d105ed185f7c50478951e57f2970d355d"
-
-[[files]]
-file = "config/fancymenu/assets/wildlight.png"
-hash = "9a4a9721b96f52766a0c9d55cf192a9b9af7b07fcb6f41ed7de3ffd490c1d9aa"
+hash = "31989a88103b424a7518cd1ac3b30f1bcced8d3361ea06cb5b2111bf403278a8"
 
 [[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
@@ -82,11 +78,7 @@ hash = "9773ad7514d9fc689be40b9a6a60bd751d06472aae28187af6899110908c2dcd"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "c3b4beb3c42eddfd0bfe77819d9c8cbb7c18248717b6d6504b86ffef243e996a"
-
-[[files]]
-file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
-hash = "f4376005d963ff52e6a4e937e4413e539b4e08ef21c9f060df3696a236bcc14e"
+hash = "a71597de3f64bce2abbe2a6a76b1728bf3b58779b63a5b138522d63040097ba4"
 
 [[files]]
 file = "config/fancymenu/legacy_checklist.txt"
@@ -94,7 +86,47 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "4d9059eea995412830fe6183ea64bb1dbaee71fba1528fb06f29343c06f22bc1"
+hash = "59a11dc1b7e3e96dbd62fca32b27a55e8b3a7088617f0d431f9075972ce22644"
+
+[[files]]
+file = "config/fancymenu/slideshows/TitleScreen/images/1. Night.png"
+hash = "89b062aa3c94d89b434d2d28ec0db953ef7fbc8aeb3493f3f2149653490c3c3c"
+
+[[files]]
+file = "config/fancymenu/slideshows/TitleScreen/images/2. Towns and Towers.png"
+hash = "1af3f38fe77a404767eaac717cc1b3cdb822ea5745138e5bdf9f30d0e7559360"
+
+[[files]]
+file = "config/fancymenu/slideshows/TitleScreen/images/3 Savannah.png"
+hash = "119bd60dda85aa4eb24c752676395730fa6eed19d51f1d07e224ddf5ca31ad86"
+
+[[files]]
+file = "config/fancymenu/slideshows/TitleScreen/images/4. Caves.png"
+hash = "e6ad2af39a1011a336b19f3b0a46691cd0be81e67c8e26cfd5387dc242c7bf06"
+
+[[files]]
+file = "config/fancymenu/slideshows/TitleScreen/images/5. Nether.png"
+hash = "c5ae7c3071aa594d611eb9c59dcaf7dd32ea3da52a0cdedffeb14ce06f02a339"
+
+[[files]]
+file = "config/fancymenu/slideshows/TitleScreen/images/6. Fortress.png"
+hash = "852c1b264e8d62376c00ec863bfa8c05547f91404acdbe60111ceb5d012228ee"
+
+[[files]]
+file = "config/fancymenu/slideshows/TitleScreen/images/7. End.png"
+hash = "85c6d1c7803405d66b398150deec1e45e382b1a52d11b01e011f400acdbd77d9"
+
+[[files]]
+file = "config/fancymenu/slideshows/TitleScreen/images/8. Ender Dragon.png"
+hash = "4f0a25d17bd4b848b8d6fd2a7364d1f577c70a04dd35eb133998eda5c1e2767a"
+
+[[files]]
+file = "config/fancymenu/slideshows/TitleScreen/images/9. Deeper and Darker.png"
+hash = "67fb6c6574307803c28a1cb3aca4d27e33733aaece8e5bc1144dda9dc0debfea"
+
+[[files]]
+file = "config/fancymenu/slideshows/TitleScreen/properties.txt"
+hash = "96bb012f46af62143e03ac1e13e4e4ff77d743acc3394e3c45fa6eed414cf66a"
 
 [[files]]
 file = "config/fancymenu/ui_themes/dark.json"
@@ -1350,7 +1382,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "ed0e142a87ebbae7caa0c8311002a2d4e33766bcccf7ee6637ec5308a42eeb5c"
+hash = "f8b22a3818eb55e9b7eafa4cc6b1b44482b88524d4134d544dfb795d9aea058d"
 metafile = true
 
 [[files]]
