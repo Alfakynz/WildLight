@@ -735,7 +735,7 @@ metafile = true
 
 [[files]]
 file = "mods/free-inventory.pw.toml"
-hash = "5ccdcc4df3efcff23f868bf4f1f134e1f5f8ad0c45cef17b15bfc9a841806983"
+hash = "d6588fade687ae5254313807598cd7732f1917e71dc202e387d11a077ab09d6c"
 metafile = true
 
 [[files]]
@@ -1340,7 +1340,7 @@ metafile = true
 
 [[files]]
 file = "mods/wildlight-compat.pw.toml"
-hash = "ecbf0de69c7aed45ffaec0d9c520e5bff8ad485db1cb33ae1d530dadfe876891"
+hash = "62d98892dc91966ab05c14912a3e1b122f9cef9f8bbd11fefe38b66e9c6415c4"
 metafile = true
 
 [[files]]
