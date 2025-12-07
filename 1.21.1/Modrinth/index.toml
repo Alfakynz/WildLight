@@ -445,7 +445,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatanimation.pw.toml"
-hash = "a59ce679862d915b6a8bdfe207af78012214fb5a6952e0663eb07c98d7c88793"
+hash = "dd74575ad28b2a7fdb5cf5e7563c257a2bec41db4eccf03895cb6602f0d08cc6"
 metafile = true
 
 [[files]]
@@ -715,7 +715,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancy-entity-renderer.pw.toml"
-hash = "ad2db9910a106843b2ad2558ddca32cc2ba3c2b2651db335c232c2fd412ba9aa"
+hash = "504a3bf434485cfeec3b6c18da9d2cb924045810ee1e204c1f359dd196d31111"
 metafile = true
 
 [[files]]
@@ -1471,7 +1471,7 @@ hash = "50dc51234d93a1cac2298fb52f3a05276c4ec7e2d4c50ec71c77ae0f65c56b23"
 
 [[files]]
 file = "options-profiles/2. Balanced/iris.properties"
-hash = "c44b5f28a99d96bdf9d024e86795d7e2a15363b8af9e7fc3782732c1ec7199c8"
+hash = "8fec9a3c9256cdca452d2d4a18dfb473be742b0f3f0b7a8b4a4195da49f831d2"
 
 [[files]]
 file = "options-profiles/2. Balanced/options.txt"
@@ -1637,5 +1637,5 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
-hash = "c37f620be5f4739b191c1a5eba8b90c3acdef3162b7c9b499391c16ed23f378a"
+hash = "05dd4aac0131eeef4c1ff5601c294e615cbc38890e50dda7ecbd18c14d2748eb"
 metafile = true

@@ -1,13 +1,13 @@
 name = "ChatAnimation"
-filename = "chatanimation-1.0.6.jar"
+filename = "chatanimation-1.21.1-fabric-1.1.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "1fac1afe2e82f57be516d94f8b5e85db882653ba"
+hash = "e8bc0a80ce2fbbaa5642f47c7a60cd0632608333"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5501783
+file-id = 7302258
 project-id = 892086
