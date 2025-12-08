@@ -8,6 +8,8 @@ import VersionsView from '../pages/wiki/Versions.vue'
 import ConfigView from '../pages/wiki/Config.vue'
 import CreditsView from '../pages/wiki/Credits.vue'
 import ToolsView from '../pages/wiki/Tools.vue'
+import CompatModView from '../pages/wiki/CompatMod.vue'
+import CompatRPView from '../pages/wiki/CompatRP.vue'
 
 const routes = [
   {
@@ -54,6 +56,16 @@ const routes = [
     path: '/wiki/tools',
     name: 'Tools',
     component: ToolsView,
+  },
+  {
+    path: '/wiki/mods-compat',
+    name: 'Mods Compatibility',
+    component: CompatModView,
+  },
+  {
+    path: '/wiki/rp-compat',
+    name: 'Resourec Packs Compatibility',
+    component: CompatRPView,
   },
 ]
 

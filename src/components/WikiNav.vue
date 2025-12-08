@@ -26,6 +26,14 @@
       <li>
         <router-link to="/wiki/tools" active-class="active">Tools</router-link>
       </li>
+      <li>
+        <router-link to="/wiki/mods-compat" active-class="active">Compat with mods</router-link>
+      </li>
+      <li>
+        <router-link to="/wiki/rp-compat" active-class="active"
+          >Compat with resource packs</router-link
+        >
+      </li>
     </ul>
   </nav>
 </template>
@@ -33,9 +41,9 @@
 <style scoped>
 nav {
   position: sticky;
-  top: 8rem;
+  top: 9rem;
   min-width: 220px;
-  max-width: 260px;
+  max-width: 300px;
   background: rgba(30, 30, 30, 0.25);
   border: 1px solid rgba(255, 255, 255, 0.1);
   border-radius: 25px;
