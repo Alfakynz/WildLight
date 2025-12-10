@@ -3,7 +3,6 @@
 
 # IDE
 .idea/
-.vscode/
 
 # Website
 node_modules/
