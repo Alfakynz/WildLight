@@ -1,0 +1,29 @@
+{
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true,
+    "node_modules": true,
+    ".prettierrc.json": true,
+    ".gitattributes": true,
+    "env.d.ts": true,
+    "package-lock.json": true,
+    "tsconfig.app.json": true,
+    "tsconfig.json": true,
+    "tsconfig.node.json": true,
+    "vite.config.ts": true
+  },
+  "hide-files.files": [
+    "node_modules",
+    ".prettierrc.json",
+    ".gitattributes",
+    "env.d.ts",
+    "package-lock.json",
+    "tsconfig.app.json",
+    "tsconfig.json",
+    "tsconfig.node.json",
+    "vite.config.ts"
+  ]
+}

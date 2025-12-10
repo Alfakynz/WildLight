@@ -17,8 +17,9 @@ onMounted(() => {
     <section class="wiki-content">
       <h1>How to report a bug or suggest an idea</h1>
       <p>
-        If you encounter a bug in WildLight or have an idea to suggest, please help me by letting me
-        know! You can use either of the following methods:
+        If you encounter a bug in WildLight, have an idea to suggest, or want me to create a
+        standalone mod or resource pack that's separate from WildLight Compat, please let me know!
+        You can use either of the following methods:
       </p>
       <ol>
         <li>
