@@ -16,6 +16,31 @@ onMounted(() => {
     <WikiNav />
     <section class="wiki-content">
       <h1>Mods compatibility</h1>
+      <p>WildLight Compat adds some compatibility fixes between:</p>
+      <ul>
+        <li>
+          <a href="https://modrinth.com/project/Xy8aRQKS" target="_blank">Physics Mod</a> and
+          <a href="https://modrinth.com/project/fnAffV0n" target="_blank">Deeper and Darker</a>:
+          portal particles were buggy, reinforced deepslate particles appeared instead of the portal
+          ones (see
+          <a href="https://github.com/haubna/PhysicsMod/issues/1099" target="_blank">#1099</a>).
+        </li>
+        <li>
+          <a href="https://modrinth.com/project/Xy8aRQKS" target="_blank">Physics Mod</a> and
+          <a href="https://modrinth.com/project/POQ2i9zu" target="_blank">Friends and Foes</a>:
+          wildfire particles were buggy, ground particles appeared instead of the mob ones.
+        </li>
+        <li>
+          <a href="https://modrinth.com/project/idGcORfw" target="_blank"
+            >Detail Armor Bar Compat</a
+          >
+          and <a href="https://modrinth.com/project/eE2Db4YU" target="_blank">Immersive Armors</a>:
+          the armors were not compatible. Waiting for
+          <a href="https://github.com/Raik176/detail-armor-bar-compat/pull/19" target="_blank"
+            >pull request #19</a
+          >.
+        </li>
+      </ul>
     </section>
   </main>
 </template>
