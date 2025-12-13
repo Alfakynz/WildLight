@@ -162,31 +162,19 @@ hash = "0ad9097a5c12bb317717b09ecd86d02352fa78696140588c1176ec0a93698940"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "2e58154dda04298a7cea9328b28bbf5a3a0c90b15dca42677de4711c0dc74830"
+hash = "23317e90cecb9dc2847aa86b281b34f3b4a6c4d3e6459cf3d5e0ab1374e0fe0c"
 
 [[files]]
 file = "config/iris.properties"
 hash = "1f553f33d538e28bdda0aa96a296ecfe8968ea4e978a56d732162e5634f37400"
 
 [[files]]
-file = "config/jade/hide-blocks.json"
-hash = "309df4ae96864c19eae41b646d58497c85a73b1fc3c584e772ef4d5822794baa"
-
-[[files]]
-file = "config/jade/hide-entities.json"
-hash = "3741bb54a4535fb5a00fb0ee1f4386f3dd17834aebdf9e89c21fcd3307109709"
-
-[[files]]
 file = "config/jade/jade.json"
-hash = "2be85b04e97ea7036ebae9828eaefe5d3880500df1a173fd24c37b29cac24aa4"
+hash = "4fd03e680fd38fd7a437deabdc4e9c7fd4c6624022eb542407f71ec309916b2e"
 
 [[files]]
 file = "config/jade/plugins.json"
 hash = "9bc6b5f5b53efcd61ead11b526e94661eca531a077b1bc18aac8ea3f50a3a450"
-
-[[files]]
-file = "config/jade/sort-order.json"
-hash = "d3f3be9b97417e8f177e1500b1d1f606562749b2eca47387eff162dc1b924e24"
 
 [[files]]
 file = "config/kiwi-client.yaml"
@@ -990,7 +978,7 @@ metafile = true
 
 [[files]]
 file = "mods/naturally-trimmed.pw.toml"
-hash = "24e9db6527481f052b1b84caaf9a124e9be1c26ce70ee7b74d49fc079ca444b7"
+hash = "3be1fee32179eaaa93c66f382c34b21fd8e90eeb82009bf7048ee90a65f99ec1"
 metafile = true
 
 [[files]]
@@ -1528,7 +1516,7 @@ hash = "e414f088eec5f6006bfbf3fc88afe73562de58a7298850ae9d3f15fb113ccfd9"
 
 [[files]]
 file = "options.txt"
-hash = "8615d3fdfc47f1ba9be668bb8d1723b195f606c4beb8357991b9c066e11b5c0c"
+hash = "76242be2b1fafc374eca6756ec452179f65bcc01a6c0e08bed27036f9fc20eae"
 
 [[files]]
 file = "resourcepacks/3d-crops.pw.toml"
@@ -1647,7 +1635,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "249e3b1d5adaee0c68aa9c5a2144952040a2c5f90ba49feb6e27eb602960d4fe"
+hash = "7fb83199c50d224fcf15e229e9168bd5412ca353927452e2a52bc08eb5443a24"
 metafile = true
 
 [[files]]
