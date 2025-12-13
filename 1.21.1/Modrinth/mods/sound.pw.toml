@@ -1,13 +1,13 @@
 name = "Sounds"
-filename = "sounds-2.4.18+lts+1.21.1-fabric.jar"
+filename = "sounds-2.4.22+lts+1.21.1-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/ZouiUX7t/versions/sISP7xdv/sounds-2.4.18%2Blts%2B1.21.1-fabric.jar"
+url = "https://cdn.modrinth.com/data/ZouiUX7t/versions/ZpG2rY0c/sounds-2.4.22%2Blts%2B1.21.1-fabric.jar"
 hash-format = "sha512"
-hash = "39026cdba1342b3192d021e79750b0caae4d3e0ca34260734ec65462b474c6358bec2e07ce89a470f253acb0199f65b8327b73ae4f1d9d90e05259dfc4b26d17"
+hash = "275ef4b691ce62b1f22ba7baadfaef65c57ebe774c54450e8ec8ab1ef934f039a4ef0cc8d054386dd8be572c73333ef811e39c9228b2d091eb2afa7bc4e91e74"
 
 [update]
 [update.modrinth]
 mod-id = "ZouiUX7t"
-version = "sISP7xdv"
+version = "ZpG2rY0c"

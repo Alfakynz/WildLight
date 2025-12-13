@@ -69,6 +69,10 @@ file = "config/fancymenu/assets/wildlight-title.png"
 hash = "31989a88103b424a7518cd1ac3b30f1bcced8d3361ea06cb5b2111bf403278a8"
 
 [[files]]
+file = "config/fancymenu/assets/wildlight.png"
+hash = "9a4a9721b96f52766a0c9d55cf192a9b9af7b07fcb6f41ed7de3ffd490c1d9aa"
+
+[[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
 hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
 
@@ -79,6 +83,10 @@ hash = "9773ad7514d9fc689be40b9a6a60bd751d06472aae28187af6899110908c2dcd"
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
 hash = "a71597de3f64bce2abbe2a6a76b1728bf3b58779b63a5b138522d63040097ba4"
+
+[[files]]
+file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "f4376005d963ff52e6a4e937e4413e539b4e08ef21c9f060df3696a236bcc14e"
 
 [[files]]
 file = "config/fancymenu/legacy_checklist.txt"
@@ -382,7 +390,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-combat-by-daedelus.pw.toml"
-hash = "15c95a2014fe9f02a9cf6fcb89a9934d7e4d34a9164cdcd9d927244d18c5368a"
+hash = "bbff143576b2bd326526d7596f17b201a9e644503b29500e7ba11af2ee9770a1"
 metafile = true
 
 [[files]]
@@ -462,7 +470,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatanimation.pw.toml"
-hash = "9eb4ccbc6a689a367ca2e3496bead302b39997eee2655bc6c174a1b68abd05db"
+hash = "b9664a1c56f8313e07734e273c48c67d02f86a16ebfb22b54e76180c8085d6c7"
 metafile = true
 
 [[files]]
@@ -692,7 +700,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "5b0efedacf27b8b22797a0ccfe0c1caafe82c79723557e07e8c55dea780afc68"
+hash = "949b56f74870f3722aa82cbc0af1f34b715d62007587c3ff65c47bafb15a58bc"
 metafile = true
 
 [[files]]
@@ -757,7 +765,7 @@ metafile = true
 
 [[files]]
 file = "mods/first-person-model.pw.toml"
-hash = "d974aacde7c3c7cfe264d721baea16cad8150c6e0ac44b0f578ec4fce184f32e"
+hash = "ef9f88669bc72b1e89798877f7dd8a3466738da8e96acf3a81de0f779b0be03f"
 metafile = true
 
 [[files]]
@@ -782,7 +790,7 @@ metafile = true
 
 [[files]]
 file = "mods/frozenlib.pw.toml"
-hash = "d02b28e1d3fa454e8dd5f53697efb75562da59d69cce8ec8651224048fcadae6"
+hash = "a41820f78535b7a3dc47ca556005d44d2fcf65b54384acc6d599309134712582"
 metafile = true
 
 [[files]]
@@ -817,7 +825,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "7cd0e909ee98d8387a1173356ca000fe958d15a3ebb58984def87dec663184f7"
+hash = "736c8917697c7640f3aceddc8e9ce2eac770048c3e3163aa16a7872d5bb04c45"
 metafile = true
 
 [[files]]
@@ -877,7 +885,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "3c81bed7d427dc00917641a8414f17b10053c624381c554b26270b34f0afeb6b"
+hash = "252b6581ba3fa2cce52a4bdf114020a2e7e069a42b35b6187ac3e21141b3a00a"
 metafile = true
 
 [[files]]
@@ -1007,7 +1015,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "f23cada5e6ce23af2fa6b4b29fedbceec109c46604583b2e564a366e0717eb75"
+hash = "ae0783f3455e72023fac34f0ebe965ad1b3dbd813f155e2f7fb97e2da029e103"
 metafile = true
 
 [[files]]
@@ -1102,7 +1110,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzle.pw.toml"
-hash = "a06f93011862c4d0f69f70e30d62a5b38a21ec34e4d352a5d6ddea46e63c681f"
+hash = "4cb680acde8c3dea780c0b29e0dbeafd6bc1661946af3741190bb4fede6cfa7c"
 metafile = true
 
 [[files]]
@@ -1192,12 +1200,12 @@ metafile = true
 
 [[files]]
 file = "mods/skin-layers-3d.pw.toml"
-hash = "66ee8eab675393dc1b9dc9c5ede851a8587ff94577e2e226c5989c432fa9eacf"
+hash = "bd4cfd8701633c013cacde0c311a24261020abdce657e3760166d6af8660f745"
 metafile = true
 
 [[files]]
 file = "mods/smooth-gui.pw.toml"
-hash = "ade28d2e0d7fe9312d3e25e54fd6f08d2b83447e681fe4748707d7f4533ba625"
+hash = "b6ce4171aa415e2f172eecad519df7759f0835751a24b0ea50d9db5e1602c132"
 metafile = true
 
 [[files]]
@@ -1247,12 +1255,12 @@ metafile = true
 
 [[files]]
 file = "mods/sound.pw.toml"
-hash = "cb01fb33c7daa54b408324d24a4546f4487db8d8e9d6d2fc6fd701cb2d12726c"
+hash = "503a13fb7a8188f8434a82df32c16644cba3d0f25e31da88626acc52af03da41"
 metafile = true
 
 [[files]]
 file = "mods/spawn-animations-mod.pw.toml"
-hash = "39db91ecdf474ddb219cca7ee0ec5937f4c5b1a7155c8fffe3e2bdd47b94ef31"
+hash = "19a08606155c9f40713a5a89db11db3d29cde417af7b87d30f1e07d1820f3cf3"
 metafile = true
 
 [[files]]
@@ -1317,7 +1325,7 @@ metafile = true
 
 [[files]]
 file = "mods/tschipcrafts-dynamic-lights-mod.pw.toml"
-hash = "ca6d6d97a76e7891c57c63ac4536f1a1b04999b42f163f3df39c5dbf755624a6"
+hash = "aaa2f62b1cf52930cfacf34b991b16b5526100584c2cecf55f823823ad1541ef"
 metafile = true
 
 [[files]]
@@ -1367,7 +1375,7 @@ metafile = true
 
 [[files]]
 file = "mods/wilder-wild.pw.toml"
-hash = "bcc9b3b0890ebc5f257bac9d6cbe85d924c579145b155c08e8cc2067a481f642"
+hash = "d295e8b2545e7559c23019ded931e5e5d351567681314655ea80d7b6ed0f217f"
 metafile = true
 
 [[files]]
@@ -1460,7 +1468,7 @@ hash = "1f553f33d538e28bdda0aa96a296ecfe8968ea4e978a56d732162e5634f37400"
 
 [[files]]
 file = "options-profiles/0. Default/options.txt"
-hash = "2dc9559dfb96887b275dedc917a3c9768406b172f3bcc8ca786297dea5bd39e7"
+hash = "8615d3fdfc47f1ba9be668bb8d1723b195f606c4beb8357991b9c066e11b5c0c"
 
 [[files]]
 file = "options-profiles/0. Default/sodium-options.json"
@@ -1520,7 +1528,7 @@ hash = "e414f088eec5f6006bfbf3fc88afe73562de58a7298850ae9d3f15fb113ccfd9"
 
 [[files]]
 file = "options.txt"
-hash = "2dc9559dfb96887b275dedc917a3c9768406b172f3bcc8ca786297dea5bd39e7"
+hash = "8615d3fdfc47f1ba9be668bb8d1723b195f606c4beb8357991b9c066e11b5c0c"
 
 [[files]]
 file = "resourcepacks/3d-crops.pw.toml"
@@ -1574,7 +1582,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fast-better-grass.pw.toml"
-hash = "bb7d05bb7097173a4193e7a82b554d5748a849db9fd65c8515d7564f2988e656"
+hash = "5310da73a0fb83b049f5e5a3fdd82c73873da024d0ce663a2365c209c002fd0a"
 metafile = true
 
 [[files]]
@@ -1639,7 +1647,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "ad42edaeac5410d8f4ef629805cc734ff3f80c45ddd27bcf1d64a38f34b80a4b"
+hash = "249e3b1d5adaee0c68aa9c5a2144952040a2c5f90ba49feb6e27eb602960d4fe"
 metafile = true
 
 [[files]]

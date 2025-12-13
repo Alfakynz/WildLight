@@ -1,13 +1,13 @@
 name = "Smooth Gui"
-filename = "smoothgui-0.1.1.jar"
+filename = "smoothgui-fabric-1.21.1-1.1.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "1f8f3d3481c3cb39e46fcd11b9e55b849352879e"
+hash = "f4e1c4b0fe88147d231185c6860a94cd3584bfca"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5501788
+file-id = 7318139
 project-id = 956789
