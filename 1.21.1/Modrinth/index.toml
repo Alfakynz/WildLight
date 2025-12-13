@@ -122,31 +122,19 @@ hash = "0ad9097a5c12bb317717b09ecd86d02352fa78696140588c1176ec0a93698940"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "2e58154dda04298a7cea9328b28bbf5a3a0c90b15dca42677de4711c0dc74830"
+hash = "23317e90cecb9dc2847aa86b281b34f3b4a6c4d3e6459cf3d5e0ab1374e0fe0c"
 
 [[files]]
 file = "config/iris.properties"
 hash = "1f553f33d538e28bdda0aa96a296ecfe8968ea4e978a56d732162e5634f37400"
 
 [[files]]
-file = "config/jade/hide-blocks.json"
-hash = "309df4ae96864c19eae41b646d58497c85a73b1fc3c584e772ef4d5822794baa"
-
-[[files]]
-file = "config/jade/hide-entities.json"
-hash = "3741bb54a4535fb5a00fb0ee1f4386f3dd17834aebdf9e89c21fcd3307109709"
-
-[[files]]
 file = "config/jade/jade.json"
-hash = "2be85b04e97ea7036ebae9828eaefe5d3880500df1a173fd24c37b29cac24aa4"
+hash = "4fd03e680fd38fd7a437deabdc4e9c7fd4c6624022eb542407f71ec309916b2e"
 
 [[files]]
 file = "config/jade/plugins.json"
 hash = "9bc6b5f5b53efcd61ead11b526e94661eca531a077b1bc18aac8ea3f50a3a450"
-
-[[files]]
-file = "config/jade/sort-order.json"
-hash = "d3f3be9b97417e8f177e1500b1d1f606562749b2eca47387eff162dc1b924e24"
 
 [[files]]
 file = "config/kiwi-client.yaml"
@@ -825,7 +813,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "664035ab6b81584cc42c158d4246a0888e42e41a1ad66c2985694392fd192b86"
+hash = "ee030c80fe88f8be296865929343e43e42cf98be26025248ce02bf90b9c4dfb8"
 metafile = true
 
 [[files]]
@@ -890,7 +878,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "2898959cae6f90183ad4c6e0384b4b7cc485ae0ef9474e7765a57d97a2542b05"
+hash = "183d7866328971a71ef6948ef832afc4a43d6b807fdcafe682bc0265d5d651fa"
 metafile = true
 
 [[files]]
@@ -975,7 +963,7 @@ metafile = true
 
 [[files]]
 file = "mods/naturally-trimmed.pw.toml"
-hash = "8a4477de50fbb65bd59b6358ec6faf4f2c982e3746bdd8d0cd580eabf81a1cf0"
+hash = "c5a9dba2f3bea731f903d8a933a885d6438f61e3b7ea90a7265fa48c0328e297"
 metafile = true
 
 [[files]]
@@ -1503,7 +1491,7 @@ hash = "e414f088eec5f6006bfbf3fc88afe73562de58a7298850ae9d3f15fb113ccfd9"
 
 [[files]]
 file = "options.txt"
-hash = "8615d3fdfc47f1ba9be668bb8d1723b195f606c4beb8357991b9c066e11b5c0c"
+hash = "76242be2b1fafc374eca6756ec452179f65bcc01a6c0e08bed27036f9fc20eae"
 
 [[files]]
 file = "resourcepacks/3d-crops.pw.toml"
@@ -1622,7 +1610,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "4c2d6d805a168fc4cd30d23258eb0cf79f87eac9efc3089ac16bad5af7d34730"
+hash = "5c88e075533df7079b0ef77684f2a71bb8743722a755f24978b2a9a1405c4bd6"
 metafile = true
 
 [[files]]
