@@ -3,6 +3,8 @@
 
 # IDE
 .idea/
+.vscode/
+!.vscode/settings.json
 
 # Website
 node_modules/
