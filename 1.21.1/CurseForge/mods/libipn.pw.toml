@@ -1,13 +1,13 @@
 name = "libIPN"
-filename = "libIPN-fabric-1.21.1-6.6.1.jar"
+filename = "libIPN-fabric-1.21.1-6.6.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "90f672140c403680040535390a607d1df9f88042"
+hash = "f87812771b059853b96c3d1ba589f1655cd05e28"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7200136
+file-id = 7327440
 project-id = 679177
