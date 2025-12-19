@@ -1,0 +1,15 @@
+{
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true,
+    ".gradle": true,
+    ".idea": true,
+    "1.21.1": true,
+    "dist": true,
+    "node_modules": true
+  },
+  "hide-files.files": [".gradle", ".idea", "1.21.1", "dist", "node_modules"]
+}
