@@ -1,13 +1,13 @@
 name = "WildLight Compat"
-filename = "wildlight-2.4.0.jar"
+filename = "wildlight-2.4.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/8csZQmSs/versions/v7Kvl3sI/wildlight-2.4.0.jar"
+url = "https://cdn.modrinth.com/data/8csZQmSs/versions/DOCHj4tJ/wildlight-2.4.1.jar"
 hash-format = "sha512"
-hash = "7bfeb06b50793bb63c2270e7ce95408513a8c60170204f73e2408f5b9f4a60be566e93ee5ec86ea74e92147faaafbe5f0a388301af08cfb42a784527a789fa54"
+hash = "7cd22eb02e36d09028bcbb1eec9ea46d08a443a3d1612ec2a5365de47530e6e2eeaff7feec184f06740107965733b97042f5ffd16e0642ee5dee825ab1c5a906"
 
 [update]
 [update.modrinth]
 mod-id = "8csZQmSs"
-version = "v7Kvl3sI"
+version = "DOCHj4tJ"

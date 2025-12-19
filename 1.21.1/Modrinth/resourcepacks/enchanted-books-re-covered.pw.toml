@@ -3,11 +3,11 @@ filename = "Re-covered.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/6gN7YVi7/versions/q4F6AFtc/Re-covered.zip"
+url = "https://cdn.modrinth.com/data/6gN7YVi7/versions/HYnM6w48/Re-covered.zip"
 hash-format = "sha512"
-hash = "a34d4faf0d1b2068213aad804a54f7fb9ec5e496e3349278824c749ca5cf0ec783392e9c25f588f4b63c9cf3c760b9bfe4d70d5f6469f43a8adb04c411e02140"
+hash = "bf83e9284170a85d509bd914fbb41d98acdbf021608b576c5fad8ba463b18e56eecbd3c606f67185678bc133a8e548510fb45fc6137cc1b8aa01482a9ac2f85e"
 
 [update]
 [update.modrinth]
 mod-id = "6gN7YVi7"
-version = "q4F6AFtc"
+version = "HYnM6w48"
