@@ -1,0 +1,13 @@
+name = "YDM's Vulture"
+filename = "vulture-fabric-1.21.1-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oV7Y7Ydp/versions/9xrHQKwN/vulture-fabric-1.21.1-1.0.1.jar"
+hash-format = "sha512"
+hash = "2a454a1c93ca1d177ebb2c6233438839ce318323ed83335af4ae67330e2ff31995b020bc94a80880e0db146da3de15ba4efb9d1bd5526ad4ffff25d228a93abc"
+
+[update]
+[update.modrinth]
+mod-id = "oV7Y7Ydp"
+version = "9xrHQKwN"

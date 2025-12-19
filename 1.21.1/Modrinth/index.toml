@@ -58,7 +58,7 @@ hash = "eac0cb5ae47ce1852d308577a93de2b58d7bca5b2cbc10a7c8b700efbed607ef"
 
 [[files]]
 file = "config/fancymenu/assets/github.png"
-hash = "716b46af4d6f34b3bb035edd2ae1f7910683a930c2d78f42f399575030a61ffa"
+hash = "79efb5711e17d7cda5315085e8570e6614c0a05852fcb30caf1f5f998ed3fda8"
 
 [[files]]
 file = "config/fancymenu/assets/wabbanode.png"
@@ -414,6 +414,11 @@ metafile = true
 [[files]]
 file = "mods/betterf3.pw.toml"
 hash = "7d1815ec4f2098c4de8b01494373d84da8a5104accd5ae028a2a020595646082"
+metafile = true
+
+[[files]]
+file = "mods/biome-dither.pw.toml"
+hash = "eb4fec9274055907988cfe2c693413fb6d79069090a8306b83cab2321511d1de"
 metafile = true
 
 [[files]]
@@ -1097,6 +1102,11 @@ hash = "2e2c1b47b513663871e71c89a699c66ac9fcc97633f007ed064ce4410f220f5a"
 metafile = true
 
 [[files]]
+file = "mods/platform.pw.toml"
+hash = "0455870482c6e3d30b796881ff51deca742520176a5c3f0390e360049cd8ce22"
+metafile = true
+
+[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "ae55eda5b79aeb01fd4068cc34051019e34779c2d4748aba86e5dba522b7b61d"
 metafile = true
@@ -1352,6 +1362,11 @@ hash = "1865da11b431686dc709432434a61a7df0d7fc73f6d6cd1c63f33275d9ce6e44"
 metafile = true
 
 [[files]]
+file = "mods/vanillabackport.pw.toml"
+hash = "3690972a33450628b7cca2f8ec735d42973fbaebfd6f97647e1d1a290c28abe0"
+metafile = true
+
+[[files]]
 file = "mods/variants-and-ventures.pw.toml"
 hash = "62e1f776a1e2532e066a359f43aaaf9566caf82e053b6f8ed838c9c94b0a4960"
 metafile = true
@@ -1377,6 +1392,11 @@ hash = "39426bfeeab22ea17f94fd3904dd9b78f9a3c9b4ddcb732b734ddbfd0e3568af"
 metafile = true
 
 [[files]]
+file = "mods/weaponmaster.pw.toml"
+hash = "0bc23d89ae54273bfcbf46b02b175fe796c94f08b12252001fca3f100b5e82ea"
+metafile = true
+
+[[files]]
 file = "mods/wilder-wild.pw.toml"
 hash = "57e15d674ae6b49cc42e4503454a3220884bed926a758eedf9895bae10db8e4b"
 metafile = true
@@ -1394,6 +1414,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "2d0ca6e5a2077ae624a65a5310f36ddd6736de699748ac3959022e03844e2f52"
+metafile = true
+
+[[files]]
+file = "mods/ydms-vulture.pw.toml"
+hash = "41ac9975e11ce915b95f389232375bdd3c07e670f15d8a7fe0cf4b93d38d330e"
 metafile = true
 
 [[files]]

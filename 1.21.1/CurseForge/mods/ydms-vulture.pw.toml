@@ -1,0 +1,13 @@
+name = "YDM's Vulture"
+filename = "vulture-fabric-1.21.1-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2920c6b98dbcdd007771f43f482e1863875286aa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6532787
+project-id = 699600

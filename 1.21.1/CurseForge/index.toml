@@ -58,7 +58,7 @@ hash = "eac0cb5ae47ce1852d308577a93de2b58d7bca5b2cbc10a7c8b700efbed607ef"
 
 [[files]]
 file = "config/fancymenu/assets/github.png"
-hash = "716b46af4d6f34b3bb035edd2ae1f7910683a930c2d78f42f399575030a61ffa"
+hash = "79efb5711e17d7cda5315085e8570e6614c0a05852fcb30caf1f5f998ed3fda8"
 
 [[files]]
 file = "config/fancymenu/assets/wabbanode.png"
@@ -1067,6 +1067,11 @@ hash = "a7c088ff54ed2477ca938b67d98d8f1d95876b379702ef6a8e89c92648547c5a"
 metafile = true
 
 [[files]]
+file = "mods/platform.pw.toml"
+hash = "fe15360e3543bf56e4ed36fd29b587d0978c139e4609a48c0e9c882f6d6510ee"
+metafile = true
+
+[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "3b93679d05b33b0fb090053acf928abb36f41b972c50220c0b0eecd01aa5c9df"
 metafile = true
@@ -1094,6 +1099,11 @@ metafile = true
 [[files]]
 file = "mods/prometheus.pw.toml"
 hash = "87237e487340e790ebdc54ec87ef6800d1a4a2e570ce59a6c3db47c12b993c09"
+metafile = true
+
+[[files]]
+file = "mods/puffish-biome-dither.pw.toml"
+hash = "dcd6f7447fee9226c8e2e9d5d0dedfcc2eae04004a1559a9e829c1012ada1f13"
 metafile = true
 
 [[files]]
@@ -1337,6 +1347,11 @@ hash = "3631cc957fdb4a4c9f285e7626771b4edf3afd99f02d705a0cb1f5a2796d88f1"
 metafile = true
 
 [[files]]
+file = "mods/vanillabackport.pw.toml"
+hash = "31f83d08a557136b629ad8395039bf652e01ede7f06329c3f48499de8c5ca110"
+metafile = true
+
+[[files]]
 file = "mods/variants-and-ventures.pw.toml"
 hash = "6e5593df3b1795294e274c61530ac2602bd6c492bd7bb31a9980f1dd1eeb28cf"
 metafile = true
@@ -1379,6 +1394,16 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "f8b22a3818eb55e9b7eafa4cc6b1b44482b88524d4134d544dfb795d9aea058d"
+metafile = true
+
+[[files]]
+file = "mods/ydms-vulture.pw.toml"
+hash = "4d2b1696237356e82ef1251f7aa34d27503efcb9f0679ee3e6e34069fe91f16a"
+metafile = true
+
+[[files]]
+file = "mods/ydms-weapon-master.pw.toml"
+hash = "7d7e2ed0c59b86e66eaf6060e9cf007fc26be6430a8dbbc63f6cbe17b2976b74"
 metafile = true
 
 [[files]]
