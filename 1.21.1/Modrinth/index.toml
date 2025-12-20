@@ -1083,7 +1083,7 @@ metafile = true
 
 [[files]]
 file = "mods/prometheus-api.pw.toml"
-hash = "9acec069a69899689d63c6c74438176d7f32e6adabf77c4f24ad97878e1a03ae"
+hash = "e5ff9bd41fc7bcef7982a822f6a03ba65fa66f9d78bbac86084d2f0354556799"
 metafile = true
 
 [[files]]
@@ -1343,7 +1343,7 @@ metafile = true
 
 [[files]]
 file = "mods/wildlight-compat.pw.toml"
-hash = "993acd18143029c310234e5ff34ae6b3c6d169980f4ab0268288fa1fbc3907b5"
+hash = "fa60c6ecd3ec2a9665349f2609f372283522993e7acf16ae7ce599df81038169"
 metafile = true
 
 [[files]]
@@ -1610,7 +1610,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "5c88e075533df7079b0ef77684f2a71bb8743722a755f24978b2a9a1405c4bd6"
+hash = "c4ba6cd61ca21168bf3f8f95a9826d5a18733d060c9ed454be818bf68b587552"
 metafile = true
 
 [[files]]
