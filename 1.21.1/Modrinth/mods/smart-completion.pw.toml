@@ -1,0 +1,13 @@
+name = "Smart Completion"
+filename = "smartcompletion-1.21-fabric-2.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Go1Kxy32/versions/qMAaVn0Q/smartcompletion-1.21-fabric-2.1.0.jar"
+hash-format = "sha512"
+hash = "185d3a1d73cfdfcf30bfd84791e86d4457283dd8f751a7b53353993017e55382064553ca51acc0c04ff41069931cfaf01a7f64bb1b32eda13f049263c6b4e42a"
+
+[update]
+[update.modrinth]
+mod-id = "Go1Kxy32"
+version = "qMAaVn0Q"

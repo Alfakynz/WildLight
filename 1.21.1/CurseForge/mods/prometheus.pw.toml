@@ -1,13 +1,13 @@
 name = "Prometheus"
-filename = "prometheus-fabric-1.21-1.1.2.jar"
+filename = "prometheus-fabric-1.21-1.2.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "1bae63ff41d9a6444520ee3e985d3116493f4270"
+hash = "bd9ca986babef4d01c9ba1b5ea6486499ea87822"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7274873
+file-id = 7358735
 project-id = 1365195

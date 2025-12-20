@@ -1098,7 +1098,7 @@ metafile = true
 
 [[files]]
 file = "mods/prometheus.pw.toml"
-hash = "87237e487340e790ebdc54ec87ef6800d1a4a2e570ce59a6c3db47c12b993c09"
+hash = "e32c91f4791745369370d7055309928b0e7662d02a73e8e809939b827f72883a"
 metafile = true
 
 [[files]]
@@ -1199,6 +1199,11 @@ metafile = true
 [[files]]
 file = "mods/skin-layers-3d.pw.toml"
 hash = "bd4cfd8701633c013cacde0c311a24261020abdce657e3760166d6af8660f745"
+metafile = true
+
+[[files]]
+file = "mods/smart-completion.pw.toml"
+hash = "87928ec93d215b4c8fa2ba397a154c97bc902c24331bfe8a4056610c1db5d954"
 metafile = true
 
 [[files]]
@@ -1655,12 +1660,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/sun-and-moon-circular.pw.toml"
-hash = "d02a141bf22f4d899c58bf90cb3600163e2da0bb28496117af1f37bf55e29969"
+hash = "c7de8acf30c0790212b5ae9945f633a0047ac10977c0d0f22d11d8a676c9c8a2"
 metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "7fb83199c50d224fcf15e229e9168bd5412ca353927452e2a52bc08eb5443a24"
+hash = "0e3d9936b9a0ca6af2a0e2cce3d3a1622facc363c1e2fd9710a4de453a556307"
 metafile = true
 
 [[files]]

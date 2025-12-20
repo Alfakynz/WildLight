@@ -181,6 +181,7 @@
 - [Simple Snowy Fix (Forge / Fabric)](https://modrinth.com/project/3WP3HZRG)
 - [Sit](https://modrinth.com/project/VKXzIykF)
 - [Skeleton Horse Spawn](https://modrinth.com/project/ZcqNoW8j)
+- [Smart Completion](https://modrinth.com/project/Go1Kxy32)
 - [Smooth Gui](https://modrinth.com/project/j6yrZogB)
 - [Smooth Scrolling](https://modrinth.com/project/CllP7wW0)
 - [Sodium Extra](https://modrinth.com/project/PtjYWJkn)

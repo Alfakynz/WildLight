@@ -1,0 +1,13 @@
+name = "Smart Completion"
+filename = "smartcompletion-1.21-fabric-2.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "de0b71a77e7d37a5cf62ac4cf7a507ff9195848e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5686433
+project-id = 782653
