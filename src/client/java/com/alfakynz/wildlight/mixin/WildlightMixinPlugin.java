@@ -20,6 +20,10 @@ public class WildlightMixinPlugin implements IMixinConfigPlugin {
 
     @Override
     public boolean shouldApplyMixin(String targetClassName, String mixinClassName) {
+        if (mixinClassName.endsWith("BreezeCompatMixin")) {
+            return FabricLoader.getInstance().isModLoaded("physicsmod");
+        }
+
         if (mixinClassName.endsWith("DeeperDarkerCompatMixin")) {
             return FabricLoader.getInstance().isModLoaded("deeperdarker") && FabricLoader.getInstance().isModLoaded("physicsmod");
         }
