@@ -8,7 +8,7 @@ import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
 
 @Mixin(Breeze.class)
 public class BreezeCompatMixin {
-    @Inject(method = "emitGroundParticles", at = @At("HEAD"), cancellable = true, remap = false)
+    @Inject(method = "emitGroundParticles", at = @At("HEAD"), cancellable = true, remap = true)
     private void wildlight$removeGroundParticles(int i, CallbackInfo ci) {
         ci.cancel();
     }

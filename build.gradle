@@ -57,10 +57,34 @@ dependencies {
 }
 
 processResources {
-	inputs.property "version", project.version
+	def replaceProperties = new HashMap<String, String>()
 
-	filesMatching("fabric.mod.json") {
-		expand "version": inputs.properties.version
+	project.properties.each { key, value ->
+		if (value instanceof String) {
+			replaceProperties.put(key, value)
+		}
+	}
+
+	inputs.properties replaceProperties
+
+	filesMatching('fabric.mod.json') {
+		expand replaceProperties
+	}
+}
+
+tasks.named("processClientResources") {
+	def replaceProperties = new HashMap<String, String>()
+
+	project.properties.each { key, value ->
+		if (value instanceof String) {
+			replaceProperties.put(key, value)
+		}
+	}
+
+	inputs.properties replaceProperties
+
+	filesMatching('fabric.mod.json') {
+		expand replaceProperties
 	}
 }
 
