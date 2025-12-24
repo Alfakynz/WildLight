@@ -428,7 +428,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunks-fade-in.pw.toml"
-hash = "0a3980284490c84fdf0ce4952e588a3746d758191cbf5dd73d10f1e0ae092449"
+hash = "50c24b99fbe2b6f4ad5b271d1379a48d6544614906d9ac03d77f6be1bfe9cbb4"
 metafile = true
 
 [[files]]
@@ -733,7 +733,7 @@ metafile = true
 
 [[files]]
 file = "mods/friends-and-foes.pw.toml"
-hash = "d8857ddb1c82bd6962d9ba2c145094138e54e6a9056d6fef85a86bb353ec67e7"
+hash = "f213009407602179b7c9a2817d000a82ac2e8022a170a371f24c712bed091e6e"
 metafile = true
 
 [[files]]
@@ -913,7 +913,7 @@ metafile = true
 
 [[files]]
 file = "mods/moogs-end-structures.pw.toml"
-hash = "95859f07cf03c817f0b6eed1f6c84d7c42666566aa3c541566413d02d924636f"
+hash = "e03b66c806c52193722f066dcbb8918fe44e45fdabe5ea562e8a435f6b0affa3"
 metafile = true
 
 [[files]]
@@ -1053,7 +1053,7 @@ metafile = true
 
 [[files]]
 file = "mods/prometheus.pw.toml"
-hash = "c50ee4e42f81c672691668ed93b2c081e5c61afddf23367e679ebc218355a146"
+hash = "7b7d5c04bcfcab7fa012e3c2460559e5394e3c5a849d2f683fc60c14c18a04e6"
 metafile = true
 
 [[files]]
@@ -1193,7 +1193,7 @@ metafile = true
 
 [[files]]
 file = "mods/soul-fire-d.pw.toml"
-hash = "40fb385af10ad90c46eb0bc8818c6462a642d4794d076707cf72ab7486277a0e"
+hash = "3c1279381cd8e658905d57227acdd725de789226616eb65f3a251b7684c4d96c"
 metafile = true
 
 [[files]]
@@ -1323,7 +1323,7 @@ metafile = true
 
 [[files]]
 file = "mods/wilder-wild.pw.toml"
-hash = "d295e8b2545e7559c23019ded931e5e5d351567681314655ea80d7b6ed0f217f"
+hash = "ed20f8684131ed61c53546f9ceeda32d3b8a78ca8125f67b57eed875b86eb3a5"
 metafile = true
 
 [[files]]
@@ -1515,7 +1515,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/enchanted-books-re-covered.pw.toml"
-hash = "c8ad76c7bbf1ad3e66d93c42aab94250a02ce8c9a9157024e534f27ee214b504"
+hash = "b0c220e91f79a3272059be9ae0b20fa31ea01a4ca2789ce2755de67f88dc8439"
 metafile = true
 
 [[files]]
