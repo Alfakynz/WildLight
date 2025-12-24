@@ -1,13 +1,13 @@
 name = "Wilder Wild"
-filename = "WilderWild-4.2-mc1.21.1.jar"
+filename = "WilderWild-4.2.1-mc1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/AtHRJSUW/versions/9KVgbQ1g/WilderWild-4.2-mc1.21.1.jar"
+url = "https://cdn.modrinth.com/data/AtHRJSUW/versions/LGumUR4U/WilderWild-4.2.1-mc1.21.1.jar"
 hash-format = "sha512"
-hash = "52ccc48c94e866fb767628ee8bb0ab75657aedbdb23ec5a823d1e64add650be9df951008e079a5efb772b2684eaa609cf541ec4005803f0b37d08ea8bf9bb752"
+hash = "14fff8800f61b9c177d97b4b0143e79f5479082cf7cff956b6f27eed5c1bd1e0345685d17943eac5ff793996f64cdfd9e929e68508da0b66d83924a47e34d8e2"
 
 [update]
 [update.modrinth]
 mod-id = "AtHRJSUW"
-version = "9KVgbQ1g"
+version = "LGumUR4U"

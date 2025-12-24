@@ -1,13 +1,13 @@
 name = "Soul fire'd"
-filename = "soul-fire-d-fabric-1.21-6.0.2.jar"
+filename = "soul-fire-d-fabric-1.21-6.1.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "50f082d41cadfacad13379d5f4a2ecdde9b09694"
+hash = "d783d4a6692ae88331776eef373b79478e25e228"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7274979
+file-id = 7364961
 project-id = 662413
