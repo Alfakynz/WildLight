@@ -13,7 +13,20 @@
     "tsconfig.app.json": true,
     "tsconfig.json": true,
     "tsconfig.node.json": true,
-    "vite.config.ts": true
+    "vite.config.ts": true,
+    ".gradle": true,
+    ".idea": true,
+    "1.21.1": true,
+    "build": true,
+    "assets": true,
+    "configurations": true,
+    "dist/1.21.1": true,
+    "dist": true,
+    "libs": true,
+    "Media": true,
+    "run": true,
+    "screenshots": true,
+    "src/client": true
   },
   "hide-files.files": [
     "node_modules",
@@ -24,6 +37,18 @@
     "tsconfig.app.json",
     "tsconfig.json",
     "tsconfig.node.json",
-    "vite.config.ts"
+    "vite.config.ts",
+    ".gradle",
+    ".idea",
+    "1.21.1",
+    "assets",
+    "build",
+    "configurations",
+    "dist",
+    "libs",
+    "Media",
+    "run",
+    "screenshots",
+    "src/client"
   ]
 }

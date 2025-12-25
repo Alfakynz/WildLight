@@ -19,6 +19,10 @@ onMounted(() => {
       <p>WildLight Compat adds some compatibility fixes between:</p>
       <ul>
         <li>
+          <a href="https://modrinth.com/project/Xy8aRQKS" target="_blank">Physics Mod</a> and Breeze
+          monsters: breeze particles were buggy, ground particles were to big.
+        </li>
+        <li>
           <a href="https://modrinth.com/project/Xy8aRQKS" target="_blank">Physics Mod</a> and
           <a href="https://modrinth.com/project/fnAffV0n" target="_blank">Deeper and Darker</a>:
           portal particles were buggy, reinforced deepslate particles appeared instead of the portal

@@ -1,7 +1,8 @@
-# Modpack development environment
+# Mod/pack development environment
 1.21.1/
 .gradle/
 build/
+libs/
 run/
 package-lock.json
 
@@ -34,3 +35,7 @@ coverage
 *.sw?
 
 *.tsbuildinfo
+
+# IDE
+.vscode/
+!.vscode/settings.json
