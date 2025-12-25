@@ -94,7 +94,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "59a11dc1b7e3e96dbd62fca32b27a55e8b3a7088617f0d431f9075972ce22644"
+hash = "8c18404f9bcdcec008464fa3ec36e6190145906173f5f6c560c7a470ee609e0c"
 
 [[files]]
 file = "config/fancymenu/slideshows/TitleScreen/images/1. Night.png"
@@ -219,6 +219,10 @@ hash = "e8d11c18d3815e934849a698bca65e2992d9ce633e3e2d290a4e9e2a203a88e6"
 [[files]]
 file = "config/pickupnotifier/pickupnotifier-client.toml"
 hash = "7899a52dd46b3289956d4c3929d6840b52ac0bc460635556cca40ffa72a55512"
+
+[[files]]
+file = "config/realisticbees.json5"
+hash = "bf1736f46540873e837591bcb6fe5fec405a1d11d2ae256ee23ee7734d54f49b"
 
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
@@ -1119,6 +1123,11 @@ metafile = true
 [[files]]
 file = "mods/pyrellium.pw.toml"
 hash = "8d69b58be01c5aee5559160a3650c11410beab6d3a71d7307d9ae253a8a77b4a"
+metafile = true
+
+[[files]]
+file = "mods/realistic-bees.pw.toml"
+hash = "05ebc1f568ef1a7c8cf0a711c2a57ce0a88f972d0ad5960e0239a0fda837267b"
 metafile = true
 
 [[files]]
