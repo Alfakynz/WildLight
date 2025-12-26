@@ -14,7 +14,8 @@
     "run": true,
     "screenshots": true,
     "src": true,
-    ".gitattributes": true
+    ".gitattributes": true,
+    "package-lock.json": true
   },
   "hide-files.files": [
     ".gradle",
@@ -26,6 +27,7 @@
     "run",
     "screenshots",
     "src",
-    ".gitattributes"
+    ".gitattributes",
+    "package-lock.json"
   ]
 }
