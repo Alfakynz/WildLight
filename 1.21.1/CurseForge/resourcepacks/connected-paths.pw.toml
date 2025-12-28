@@ -1,13 +1,13 @@
 name = "Connected Paths"
-filename = "Connected Paths v1.3.zip"
+filename = "Connected-Paths 1.14-1.21.8 v2.0.zip"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "56f60940b27c20b22a1f36ea8956f562489a9711"
+hash = "416a0ef2143d20d6c70f2d71bf8b078588f00e0d"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7175205
+file-id = 7377601
 project-id = 1376749

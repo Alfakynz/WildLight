@@ -1003,7 +1003,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-effects.pw.toml"
-hash = "0b72d9c67759d0aced92db09aad1abc095ec5b5f98fb0e983959ee72e0e4d3e7"
+hash = "4d2152f68c9066164f8f8f47705c53c2067e2777b02cc8305ce62b47c7e84646"
 metafile = true
 
 [[files]]
@@ -1028,7 +1028,7 @@ metafile = true
 
 [[files]]
 file = "mods/playeranimator.pw.toml"
-hash = "3b93679d05b33b0fb090053acf928abb36f41b972c50220c0b0eecd01aa5c9df"
+hash = "51c24f2a6bed00ede3e492cb5801290393da0320f077de3c89a4666b98786a91"
 metafile = true
 
 [[files]]
@@ -1416,7 +1416,7 @@ hash = "1f553f33d538e28bdda0aa96a296ecfe8968ea4e978a56d732162e5634f37400"
 
 [[files]]
 file = "options-profiles/0. Default/options.txt"
-hash = "893a5b74ae6f632f8dea0a56f00f22b2dc379d73799277958fad05fc36b9d2d8"
+hash = "9eea23d6735a6903c76aaed9babe82b9c8381b9c3d59a24a9ee563b4fda41330"
 
 [[files]]
 file = "options-profiles/0. Default/sodium-options.json"
@@ -1476,7 +1476,7 @@ hash = "e414f088eec5f6006bfbf3fc88afe73562de58a7298850ae9d3f15fb113ccfd9"
 
 [[files]]
 file = "options.txt"
-hash = "95a86587ec26285c1c41e3c1cbe3d940b5d10ae50d15d1cdd4d674d83f203257"
+hash = "1aa5e8c6b2f4343491d96197ae5934f305216adc2e90176bd91d435169855415"
 
 [[files]]
 file = "resourcepacks/3d-crops.pw.toml"
@@ -1505,7 +1505,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/connected-paths.pw.toml"
-hash = "5d04ba9f27c20173340c559982b232f336e8db8ce4e1e8998c2a2525402ba828"
+hash = "0f1fcf39cd8e46d0bddf4c1b1492c431ae705090717ebe7660ed176204be104f"
 metafile = true
 
 [[files]]
@@ -1560,7 +1560,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/icons.pw.toml"
-hash = "3da766dbb99ae20a266aeaa5ff1ed0a347e1556c0ad857f3d19f9f95d7143a11"
+hash = "b3b532bd40cb02ae5b6f6262d95e7f9dbad416401771cab5ed4f6d0136e73512"
 metafile = true
 
 [[files]]
@@ -1595,7 +1595,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "0e3d9936b9a0ca6af2a0e2cce3d3a1622facc363c1e2fd9710a4de453a556307"
+hash = "9011519622919c9ea70e1a22e8e032e9d2ec5f3db7ad04cb0c1a57004422aaed"
 metafile = true
 
 [[files]]
