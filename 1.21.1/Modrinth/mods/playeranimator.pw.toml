@@ -1,13 +1,13 @@
 name = "playerAnimator"
-filename = "player-animation-lib-fabric-2.0.1+1.21.1.jar"
+filename = "player-animation-lib-fabric-2.0.3+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/gedNE4y2/versions/WhVSA0mW/player-animation-lib-fabric-2.0.1%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/gedNE4y2/versions/vbu47PSC/player-animation-lib-fabric-2.0.3%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "642bc2b2c95a37b1143b703c119c66dfc1bb264f016ef9f3c8813d83756f7d03e48b3053ac312a070c59d4f1b77c6836f58440363daf194191896a9927d87dfc"
+hash = "d35584167a24b71e813b06409fff973812ef3e4936a6a9bb30185cf853ffa86c5c1a5703fb4148ae44bac4131ef2854dea0ad44f2200caf8e2a49310897cdc62"
 
 [update]
 [update.modrinth]
 mod-id = "gedNE4y2"
-version = "WhVSA0mW"
+version = "vbu47PSC"
