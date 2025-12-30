@@ -162,7 +162,7 @@ hash = "0ad9097a5c12bb317717b09ecd86d02352fa78696140588c1176ec0a93698940"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "23317e90cecb9dc2847aa86b281b34f3b4a6c4d3e6459cf3d5e0ab1374e0fe0c"
+hash = "ffa349c1a08483cf22793c27a18c21e85bd0a35e41b61a731f61b6043449156a"
 
 [[files]]
 file = "config/iris.properties"
@@ -417,7 +417,7 @@ metafile = true
 
 [[files]]
 file = "mods/blur-fabric.pw.toml"
-hash = "7200f9097697e0103fb13c190c953645e5d88fd06f61e3da041474cf6c389a33"
+hash = "87acbf4a2791c74f0a1fb74f08e06b809b9a5253314f9bff0e1b0f5c09763c13"
 metafile = true
 
 [[files]]
@@ -447,7 +447,7 @@ metafile = true
 
 [[files]]
 file = "mods/carry-on.pw.toml"
-hash = "c4f294f47a114849b5510bba3da64503e7e714c6178dbe0edf5573065e5ef541"
+hash = "d2477bde2046b9d2021acbd206915d63eceba39309f20f697aaa06533278bef0"
 metafile = true
 
 [[files]]
@@ -622,7 +622,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-crosshair.pw.toml"
-hash = "4ac2843a21303aefa4638806c0278e8ef8fbf8cf1475320f4a2c02f88dd235ad"
+hash = "a714422ad4d06d2576cf24770aefdf0fa7bf5add3cc9c445023ac0de1d76003c"
 metafile = true
 
 [[files]]
@@ -682,17 +682,17 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "9e37d8953c537212de3dc59aec2e081979b39671ab537474f71d53666aff81b2"
+hash = "749c8f6c98f47c371d7d424bfdc2fccd6c638d12e90f1c787f8a9153204aa213"
 metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "f13154c42b7c33d21560292453a5d30d701ae5c73d271b0af842d4c8cfe0b113"
+hash = "c87624b6bb030922148c12c8aad7e3e415ca3f26d1f4355806a31b77aa3b1c42"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "949b56f74870f3722aa82cbc0af1f34b715d62007587c3ff65c47bafb15a58bc"
+hash = "068520363709db9632207ee223dcdc9dc3a33b295806b07b0f4e6b0556b9009a"
 metafile = true
 
 [[files]]
@@ -777,7 +777,7 @@ metafile = true
 
 [[files]]
 file = "mods/friends-and-foes.pw.toml"
-hash = "f213009407602179b7c9a2817d000a82ac2e8022a170a371f24c712bed091e6e"
+hash = "b4cdd06c59b01823f66897869ea7fdc6a7b17713a1db4bbe0f28dc3f4617a1a6"
 metafile = true
 
 [[files]]
@@ -837,7 +837,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "c2c579353f169a2744039ef88b61b22e8cabd37f72e7ba473c8f031b80de79a6"
+hash = "5aff706b484a368a4679b23cb2502154968b89251f17e0d4740ac189218c3dc7"
 metafile = true
 
 [[files]]
@@ -1077,7 +1077,7 @@ metafile = true
 
 [[files]]
 file = "mods/playeranimator.pw.toml"
-hash = "51c24f2a6bed00ede3e492cb5801290393da0320f077de3c89a4666b98786a91"
+hash = "0d3e127187193d803aa350bc5843fa7c794433afbc994fe5de9d5ff8d61e6031"
 metafile = true
 
 [[files]]
@@ -1112,7 +1112,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzle.pw.toml"
-hash = "4cb680acde8c3dea780c0b29e0dbeafd6bc1661946af3741190bb4fede6cfa7c"
+hash = "f02985b0f7e4a6581898f0b40a5bd683c69d899daa7a40e8bba27a16ec423411"
 metafile = true
 
 [[files]]
