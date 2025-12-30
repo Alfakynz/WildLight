@@ -31,6 +31,11 @@ public class WildlightMixinPlugin implements IMixinConfigPlugin {
         if (mixinClassName.endsWith("FriendsFoesCompatMixin")) {
             return FabricLoader.getInstance().isModLoaded("friendsandfoes") && FabricLoader.getInstance().isModLoaded("physicsmod");
         }
+
+        if (mixinClassName.endsWith("VisualOverhaulCompatMixin")) {
+            return FabricLoader.getInstance().isModLoaded("visualoverhaul");
+        }
+
         return true;
     }
 

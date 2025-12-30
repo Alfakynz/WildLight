@@ -54,6 +54,10 @@ dependencies {
     // Detail Armor Bar Compat
     modImplementation "maven.modrinth:detailab-compat:${project.detailab_compat_version}"
     modImplementation "maven.modrinth:detail-armor-bar:${project.detailab_version}"
+
+	// Visual Overhaul
+	modImplementation "maven.modrinth:visual-overhaul:${project.visualoverhaul_version}"
+	modImplementation "maven.modrinth:midnightlib:${project.midnightlib_version}"
 }
 
 processResources {
@@ -110,4 +114,8 @@ jar {
 	from("LICENSE") {
 		rename { "${it}_${inputs.properties.archivesName}"}
 	}
+}
+
+tasks.withType(Javadoc).configureEach {
+	enabled = false
 }

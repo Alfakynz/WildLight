@@ -6,7 +6,8 @@
   "mixins": [
     "BreezeCompatMixin",
     "DeeperDarkerCompatMixin",
-    "FriendsFoesCompatMixin"
+    "FriendsFoesCompatMixin",
+    "VisualOverhaulCompatMixin"
   ],
   "injectors": {
     "defaultRequire": 1
