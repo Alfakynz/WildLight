@@ -118,7 +118,7 @@ hash = "c5ae7c3071aa594d611eb9c59dcaf7dd32ea3da52a0cdedffeb14ce06f02a339"
 
 [[files]]
 file = "config/fancymenu/slideshows/TitleScreen/images/6. Fortress.png"
-hash = "852c1b264e8d62376c00ec863bfa8c05547f91404acdbe60111ceb5d012228ee"
+hash = "2094ee671d0ec3b6614092bdc99e4c2aa4dfc540a47119467ab79239716dcff7"
 
 [[files]]
 file = "config/fancymenu/slideshows/TitleScreen/images/7. End.png"
@@ -187,6 +187,10 @@ hash = "202b5a7ab19c1cfff344bd6546be24f8c10a3e92632551ca83ab636016e9d72f"
 [[files]]
 file = "config/modmenu.json"
 hash = "697b68c462edd944d4cbd23fd21195e81c170595e69a1294a85dbcdcf1894925"
+
+[[files]]
+file = "config/no-more-popups.json"
+hash = "31e5140ee7bb35c73c8ae74eb785eca3c81caf235d467fd4a38e75e86e0a6aa7"
 
 [[files]]
 file = "config/physicsmod/physics_animations_client_config.json"
@@ -492,7 +496,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunks-fade-in.pw.toml"
-hash = "8a1027e9b3b21182b7a996824baf6c6ad658fb970a3abd2cebb96ed8bfbbf2cc"
+hash = "9866d8a698643bbff2dd92de69595fddd3bcefa5643d9ac1ac1f5b846673e2f2"
 metafile = true
 
 [[files]]
@@ -707,7 +711,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "845c537507ccf5aff2f8dd4aa18fdfe29c6b8ee0dc231ff56ea9247c758a0457"
+hash = "dde1c3036a0cc2c280e2254a5ffd647fbae47dd72c77dd564f35d791d6d21709"
 metafile = true
 
 [[files]]
@@ -1022,7 +1026,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-more-popups.pw.toml"
-hash = "16ca9779ae1e66ad2468bbc94ca64107544e1c70210c4ae07980ac4ffbd67e4f"
+hash = "2c8a15014f09760e374c256db838ed43063727d28bb33ca81366be99a0773bf0"
 metafile = true
 
 [[files]]
@@ -1382,7 +1386,7 @@ metafile = true
 
 [[files]]
 file = "mods/variants-and-ventures.pw.toml"
-hash = "62e1f776a1e2532e066a359f43aaaf9566caf82e053b6f8ed838c9c94b0a4960"
+hash = "adc33dd07b36ecbbfccbc1c1be39715b60f2f4e5564f40197e01d2dc5540e8e6"
 metafile = true
 
 [[files]]
@@ -1417,7 +1421,7 @@ metafile = true
 
 [[files]]
 file = "mods/wildlight-compat.pw.toml"
-hash = "fa60c6ecd3ec2a9665349f2609f372283522993e7acf16ae7ce599df81038169"
+hash = "84e7293caccd9c3ade26e0223e3e6c81b32c52a5467fdedaf037cd8ba966c124"
 metafile = true
 
 [[files]]
@@ -1584,7 +1588,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/alt-compat.pw.toml"
-hash = "a5e0f4b3f00e551ee7318163f89b55f5505119b72228a2917d02295fc6ed1a57"
+hash = "0ac57c35a2c7691fe37f405cfb253025a2e51f1e15f71273e8789aa56fbb26c9"
 metafile = true
 
 [[files]]
