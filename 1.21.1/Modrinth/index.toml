@@ -1514,7 +1514,7 @@ hash = "1f553f33d538e28bdda0aa96a296ecfe8968ea4e978a56d732162e5634f37400"
 
 [[files]]
 file = "options-profiles/0. Default/options.txt"
-hash = "3af377894244a421bae9f804333dc0e70c196fea5707eb07868143c6488cc399"
+hash = "9167282c9cd759e44a3fc21a9f722e498258f48c5308b7188a27741d5299b5ad"
 
 [[files]]
 file = "options-profiles/0. Default/sodium-options.json"
@@ -1574,7 +1574,7 @@ hash = "e414f088eec5f6006bfbf3fc88afe73562de58a7298850ae9d3f15fb113ccfd9"
 
 [[files]]
 file = "options.txt"
-hash = "434f41cb7173a7509ad2b0e6a662d02e5dbfbc120ee73a2bff3fad0c2e9eb85f"
+hash = "c59b6b2cdbfad75717aa662d8c4d6baf9e119b2434825d88da155e42f48ac87d"
 
 [[files]]
 file = "resourcepacks/3d-crops.pw.toml"
@@ -1613,12 +1613,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/connected-paths.pw.toml"
-hash = "d176a1dc2b3f0c700b623b2d404c2b0dc6fdffbb37befc13056ce240e2171293"
+hash = "a48c0063313ca6bb027668a668f95f7460a37929656f4fc5b6ad7cf5c228d187"
 metafile = true
 
 [[files]]
 file = "resourcepacks/connected-rocks.pw.toml"
-hash = "104a6c76914429a4b1015ac7da9b95355d8e9d34050bb7bd73631b6311578f4b"
+hash = "632e46ab8fc7d1c95f7744bf4425f1b09665be2dd7e765296739edac316012a2"
 metafile = true
 
 [[files]]
@@ -1703,7 +1703,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "cd3f38fae3c9d754b78209961335fea9d3f426e2489dd6bacff6593372f97e39"
+hash = "d77dfc3bf13ca53b19b15564800167012835deab25e6a97a09b4a699bd5843e8"
 metafile = true
 
 [[files]]
