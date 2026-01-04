@@ -631,7 +631,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "c76a6e9192ddb2a582e78d15b589188022a8fa3db09bf061d33d5f64baae81c8"
+hash = "02a69054bfdf68319fac665feab07b0b2e0469685c86488ed189301f26df6b74"
 metafile = true
 
 [[files]]
@@ -1401,7 +1401,7 @@ metafile = true
 
 [[files]]
 file = "mods/wildlight-compat.pw.toml"
-hash = "d85426a72889f731c60bdb16aa2a058fca6fc109be4315391efe0d9486952605"
+hash = "c0a66226cf219df4d868866266081668c78c99aeafc0af9db8ad97ee0d255a13"
 metafile = true
 
 [[files]]
@@ -1527,7 +1527,7 @@ hash = "50dc51234d93a1cac2298fb52f3a05276c4ec7e2d4c50ec71c77ae0f65c56b23"
 
 [[files]]
 file = "options-profiles/2. Balanced/iris.properties"
-hash = "8fec9a3c9256cdca452d2d4a18dfb473be742b0f3f0b7a8b4a4195da49f831d2"
+hash = "af3573a2f393cf6ac84ba4ab9fe166815ce823ea171814c18a6e0c771ce20c85"
 
 [[files]]
 file = "options-profiles/2. Balanced/options.txt"
@@ -1703,5 +1703,5 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/makeup-ultra-fast-shader.pw.toml"
-hash = "dea54745c912a4bf13214806e67a54438da397007e0fff1067518b20bc7b6fc8"
+hash = "c56428a71db8293fd244fa479e4b2984c8348009078c76d1e86a8c17109a1536"
 metafile = true
