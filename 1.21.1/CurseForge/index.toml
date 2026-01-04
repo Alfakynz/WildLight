@@ -771,7 +771,7 @@ metafile = true
 
 [[files]]
 file = "mods/free-inventory.pw.toml"
-hash = "d6588fade687ae5254313807598cd7732f1917e71dc202e387d11a077ab09d6c"
+hash = "a1396d8ed31795e01d54e16b25aa4b61ffbc2d4790b087faaaf2c1282dc1be6a"
 metafile = true
 
 [[files]]
@@ -1371,7 +1371,7 @@ metafile = true
 
 [[files]]
 file = "mods/variants-and-ventures.pw.toml"
-hash = "20d6a66d6c4dc3ffc7366ef962d027772f499fcb07ff2afc4940e205ee11a2fe"
+hash = "92f44509210b6459426ff978e642ef01ab254cd5008428804033e6ff60365452"
 metafile = true
 
 [[files]]
