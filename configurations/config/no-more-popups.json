@@ -1,0 +1,19 @@
+{
+  "general": {
+    "advancements.messages": false,
+    "advancements.toasts": true,
+    "experimental_warning": true,
+    "multiplayer_warning": true,
+    "recipes_toasts": true,
+    "resource_pack_warnings": true,
+    "system_toasts": false,
+    "tutorials": true
+  },
+  "modded": {
+    "chunks_fade_in": true,
+    "fastquit": true,
+    "frozenlib": true,
+    "nether_weather": true,
+    "terralith": true
+  }
+}

@@ -1,0 +1,13 @@
+name = "Pufferfish's Biome Dither [Fabric & Forge & NeoForge]"
+filename = "puffish_biome_dither-1.0.0-1.21-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b788259bd01fef199024381cf2fce18934bbd251"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6992308
+project-id = 1320062

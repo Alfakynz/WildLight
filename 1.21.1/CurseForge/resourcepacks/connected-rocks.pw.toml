@@ -1,0 +1,13 @@
+name = "Connected Rocks"
+filename = "Connected-Rocks 1.14-1.21.8 v1.1.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1ff21b0e42da371acdcd6e8d95c5f75fb4e2cb69"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7410875
+project-id = 1412807

@@ -5,29 +5,29 @@
     "**/.hg": true,
     "**/.DS_Store": true,
     "**/Thumbs.db": true,
-    "node_modules": true,
-    "package-lock.json": true,
-    ".gitattributes": true,
-    ".idea": true,
     ".gradle": true,
+    ".idea": true,
     "assets": true,
     "build": true,
     "libs": true,
-    "src": true,
+    "node_modules": true,
+    "run": true,
     "screenshots": true,
-    "run": true
+    "src": true,
+    ".gitattributes": true,
+    "package-lock.json": true
   },
   "hide-files.files": [
-    "node_modules",
-    "package-lock.json",
-    ".gitattributes",
-    ".idea",
     ".gradle",
+    ".idea",
     "assets",
     "build",
     "libs",
-    "src",
+    "node_modules",
+    "run",
     "screenshots",
-    "run"
+    "src",
+    ".gitattributes",
+    "package-lock.json"
   ]
 }

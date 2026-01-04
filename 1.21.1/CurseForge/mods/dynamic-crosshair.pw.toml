@@ -1,6 +1,7 @@
 name = "Dynamic Crosshair"
 filename = "dynamiccrosshair-9.10+1.21.1-fabric.jar"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha1"

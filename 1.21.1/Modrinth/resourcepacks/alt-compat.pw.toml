@@ -3,11 +3,11 @@ filename = "ALT-Compat.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/FVonl8G5/versions/kfjalPod/ALT-Compat.zip"
+url = "https://cdn.modrinth.com/data/FVonl8G5/versions/xrRJzHA0/ALT-Compat.zip"
 hash-format = "sha512"
-hash = "e7b67570f2dfd60d9e3e8e68237dba6d334db38a0f5f58498b93865e7b3d87fa486dae72b186871e37832e8a931ea924a463a99d9e1048baafa06952f23222f0"
+hash = "deb5d433b4e7b2a5a0979fc45a46bac13ef63074d70282f689bb93677b289831a4d432fbd01edc026e50da95b9e1a32c0032baf1847f8e50ca53652a0d4afbb5"
 
 [update]
 [update.modrinth]
 mod-id = "FVonl8G5"
-version = "kfjalPod"
+version = "xrRJzHA0"
