@@ -1,0 +1,49 @@
+name: "📦 Standalone Mod / Resource Pack Request"
+description: Request a standalone mod or resource pack separate from WildLight Compat
+title: "[Standalone Request]: "
+labels: ["standalone-request"]
+assignees: ["Alfakynz"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## 📦 Standalone Mod / Resource Pack Request
+        Want a standalone version of a mod or resource pack from WildLight Compat?  
+        Fill out this form so I can create it for you!
+
+  - type: dropdown
+    id: type
+    attributes:
+      label: "What do you want me to create?"
+      description: Choose the standalone content you'd like.
+      options:
+        - "Standalone Mod"
+        - "Standalone Resource Pack"
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: "What should this standalone version include?"
+      description: Describe what features, textures, elements, or behaviors you want.
+      placeholder: "Explain exactly what you want in the standalone version."
+    validations:
+      required: true
+
+  - type: textarea
+    id: extras
+    attributes:
+      label: "Additional details"
+      description: Add any screenshots, examples, inspiration, or links.
+      placeholder: "Optional: screenshots, references, other mods you like..."
+
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: "Checklist"
+      options:
+        - label: "I confirmed that I really want a standalone version and not something added to WildLight Compat."
+          required: true
+        - label: "I checked existing issues to ensure this request hasn’t already been made."
+          required: true
