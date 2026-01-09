@@ -1,0 +1,13 @@
+name = "Axolotl Bucket Variants"
+filename = "axolotl_bucket_variants-v34.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Kn6gOLwE/versions/XVP1pzy4/axolotl_bucket_variants-v34.zip"
+hash-format = "sha512"
+hash = "ac0800818e0fc760274b64b62b2d1b297b7327673ba79fb13952b0fe4070f8fc12258ed74343f2d62045be879b82b437e738ff2323f2b430f58824ec2fbecbe5"
+
+[update]
+[update.modrinth]
+mod-id = "Kn6gOLwE"
+version = "XVP1pzy4"

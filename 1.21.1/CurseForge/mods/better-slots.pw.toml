@@ -1,0 +1,13 @@
+name = "Better Slots"
+filename = "better-slots-fabric-1.21.1-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e8332507ba5f25bd97668a37cc439914e45c6a03"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7359372
+project-id = 1409781

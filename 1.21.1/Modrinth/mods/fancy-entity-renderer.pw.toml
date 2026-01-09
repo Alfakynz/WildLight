@@ -1,13 +1,13 @@
 name = "Fancy Entity Renderer"
-filename = "fancy-entity-renderer-fabric-1.21-0.4.3.jar"
+filename = "fancy-entity-renderer-fabric-1.21-0.4.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/RQ6INv2n/versions/8j31z2uS/fancy-entity-renderer-fabric-1.21-0.4.3.jar"
+url = "https://cdn.modrinth.com/data/RQ6INv2n/versions/HnmSWTxk/fancy-entity-renderer-fabric-1.21-0.4.4.jar"
 hash-format = "sha512"
-hash = "db844ae9aeba91fb8cb6b886e0a907229a5ff67715bff6ffee46e04732af5e639ec1d46abad12db754098dee1ea4e5444321d0a45d847d2527d7f918e01c0cff"
+hash = "afd48c740007368dcff3ce426ce91519dc6afcb64592d983396f5c69f9773d8ec03b68c674142ff16148d0529f107b25abd67e0880e1e0612ad22c474ee38039"
 
 [update]
 [update.modrinth]
 mod-id = "RQ6INv2n"
-version = "8j31z2uS"
+version = "HnmSWTxk"

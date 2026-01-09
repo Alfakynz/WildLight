@@ -1,0 +1,13 @@
+name = "Better Slots"
+filename = "better-slots-fabric-1.21.1-1.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/FfJwv52l/versions/BJTExz6V/better-slots-fabric-1.21.1-1.0.1.jar"
+hash-format = "sha512"
+hash = "bdd7420c8202e894a7e1a74c42fc11f9e31a4fd0807a3038d41e810871a0dde23667e464d9512e6054b5ead05ff64353245ad52a36fee7e4f79e3cd220e03aa1"
+
+[update]
+[update.modrinth]
+mod-id = "FfJwv52l"
+version = "BJTExz6V"

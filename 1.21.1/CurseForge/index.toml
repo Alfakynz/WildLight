@@ -336,7 +336,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "f53a77d8e152c94ab65a613dc222b13585b173a38141d74076a3e3ffc0575519"
+hash = "bc4f47f976ecb38e6254de502976f468446f7250178699beba4b067b89469100"
 metafile = true
 
 [[files]]
@@ -371,7 +371,7 @@ metafile = true
 
 [[files]]
 file = "mods/auto-hud.pw.toml"
-hash = "f226ade14ad312877d90c2913f23db135a4dc1b42d35217f63126a3e1988a373"
+hash = "8a9d150fc3189d8b5fda9b1e13c91bdcdbd4d1477523f13a4e242e6637b4d81b"
 metafile = true
 
 [[files]]
@@ -400,6 +400,11 @@ hash = "5f13e2470d769f613652ff4378a31c86b5915fe67032c94c1be5aeed06610b4d"
 metafile = true
 
 [[files]]
+file = "mods/better-slots.pw.toml"
+hash = "7381967b1386650fb90df85d345dc78116adc858e10352549d34671256f2bd69"
+metafile = true
+
+[[files]]
 file = "mods/better-stats.pw.toml"
 hash = "7036fb63a898da2f8d63017223e9ac294e8189a0f9aed650b654a1f2a2e137a2"
 metafile = true
@@ -421,7 +426,7 @@ metafile = true
 
 [[files]]
 file = "mods/blur-fabric.pw.toml"
-hash = "87acbf4a2791c74f0a1fb74f08e06b809b9a5253314f9bff0e1b0f5c09763c13"
+hash = "dd08aa4c7dcfab391a7e722a9f8d03404791dea4765faf49fea86dca5b04ea1a"
 metafile = true
 
 [[files]]
@@ -546,7 +551,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "7112f698dda447ec4f1c6474683308487d51e93ec8dbe26c7f81d0fdd4c9fdb0"
+hash = "a018864cea9fc40963b318fc777d90d6b253403e40e6fde980372381a8a32015"
 metafile = true
 
 [[files]]
@@ -731,7 +736,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancy-entity-renderer.pw.toml"
-hash = "7615949cbca08d6bb53119284cf328012a27fd8c1fc416c7eb105f94ae47caaf"
+hash = "8a6281c2cd853acc2659bba8c6aa83fa6a919978f9645ae916f17fe1e37094d3"
 metafile = true
 
 [[files]]
@@ -791,7 +796,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "581d48aaf42ad7deb19095e230cc1df6ff29c5f558a9c189fa751bc3c7f9b211"
+hash = "a733a7ae96089cc83c895c371f057da19d2fa2535d29e5c1f0991e8fa781e9be"
 metafile = true
 
 [[files]]
@@ -846,7 +851,7 @@ metafile = true
 
 [[files]]
 file = "mods/invmove.pw.toml"
-hash = "40fa748597b1da468d9d0ef756ab55bb591e214695b93ef66feafd7cd6520a33"
+hash = "ac595381310fefa95b5592b376bc46978bee6dcf839f4a8ff67d168bbbabb887"
 metafile = true
 
 [[files]]
@@ -871,7 +876,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "c7d2fb2997874b6ef69179a1bc3181e7e4431932903dc6a776784fadc10afa1c"
+hash = "630992568968b8141e9f65ab44b1fb96a6b524e4892b5e50c21d2da7167ad307"
 metafile = true
 
 [[files]]
@@ -1371,7 +1376,7 @@ metafile = true
 
 [[files]]
 file = "mods/variants-and-ventures.pw.toml"
-hash = "92f44509210b6459426ff978e642ef01ab254cd5008428804033e6ff60365452"
+hash = "c9662df54e9ec627545ad7c2793648ffab92faebf4ecdb649b5c68ebfcf50489"
 metafile = true
 
 [[files]]
@@ -1411,7 +1416,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "f8b22a3818eb55e9b7eafa4cc6b1b44482b88524d4134d544dfb795d9aea058d"
+hash = "5b3d17e43a7ca6e877bad85b838a8c38f42d8c3922e305b7d88c723a0e573a48"
 metafile = true
 
 [[files]]
@@ -1499,7 +1504,7 @@ hash = "1f553f33d538e28bdda0aa96a296ecfe8968ea4e978a56d732162e5634f37400"
 
 [[files]]
 file = "options-profiles/0. Default/options.txt"
-hash = "9167282c9cd759e44a3fc21a9f722e498258f48c5308b7188a27741d5299b5ad"
+hash = "b88fa9b02b7a75eaa11472296721cf674425d8a11cd07c7df99ec2992615a7bb"
 
 [[files]]
 file = "options-profiles/0. Default/sodium-options.json"
@@ -1559,7 +1564,7 @@ hash = "e414f088eec5f6006bfbf3fc88afe73562de58a7298850ae9d3f15fb113ccfd9"
 
 [[files]]
 file = "options.txt"
-hash = "c59b6b2cdbfad75717aa662d8c4d6baf9e119b2434825d88da155e42f48ac87d"
+hash = "76dc65c7f4dd40ae858678035903714078541207624e51422156db91119132f6"
 
 [[files]]
 file = "resourcepacks/3d-crops.pw.toml"
@@ -1574,6 +1579,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/assembled-legendary-tooltips.pw.toml"
 hash = "da64c7ec3e8b0b902cff6d70eefb583a406fd18742e8b190f9a66b98efb5d996"
+metafile = true
+
+[[files]]
+file = "resourcepacks/axolotl-bucket-variants.pw.toml"
+hash = "4ad2af5557d92880ae7a419ee34508503bc3be6f7f39a6c5fc70bf71d791f521"
 metafile = true
 
 [[files]]

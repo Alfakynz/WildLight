@@ -341,7 +341,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "3fab60aca0fee9153c49b40e1b06b1deebb23800dce7b8b8f471e23f43f3efe5"
+hash = "42075a1e29aa311565c701e92d4bc2b7263a1f4f60c4be38eb55de1a289ee3e0"
 metafile = true
 
 [[files]]
@@ -376,7 +376,7 @@ metafile = true
 
 [[files]]
 file = "mods/autohud.pw.toml"
-hash = "29623af6c8a6bbdb364da1380a294014549903b1a389cb80a15b9d16cf8e625a"
+hash = "3d270afb5b08a65045bf8ace7ecd6acb458c33feab210b4829c719d45fdf85dc"
 metafile = true
 
 [[files]]
@@ -386,7 +386,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "6e39e7712a94830fbc2bd0b6ec73e03f54de5edfcca85da6e89a0021e9a3bf1a"
+hash = "a9f6cf1a98bc318c887b672aecaff6ffdbf33a6ec06af5f2686b292988d0846e"
 metafile = true
 
 [[files]]
@@ -410,6 +410,11 @@ hash = "5f13e2470d769f613652ff4378a31c86b5915fe67032c94c1be5aeed06610b4d"
 metafile = true
 
 [[files]]
+file = "mods/better-slots.pw.toml"
+hash = "453a440b0b9570d6cd6c44acfee1435e35a82989eebaa37cc85144c9712e3450"
+metafile = true
+
+[[files]]
 file = "mods/better-stats.pw.toml"
 hash = "7b87ea6e0623ada323e65fa0420e0827f6e88689898a0454376e460ad8cbc5dc"
 metafile = true
@@ -426,7 +431,7 @@ metafile = true
 
 [[files]]
 file = "mods/biome-dither.pw.toml"
-hash = "eb4fec9274055907988cfe2c693413fb6d79069090a8306b83cab2321511d1de"
+hash = "2936c25185935adbb86e9fe9360eedf5540f4811d49c3f3e94e6528f262667c4"
 metafile = true
 
 [[files]]
@@ -441,7 +446,7 @@ metafile = true
 
 [[files]]
 file = "mods/blur-plus.pw.toml"
-hash = "e6694ddcb5599f8e3a571a6329687ed19328d96e0e6561000b4c08f6403a0e5e"
+hash = "7c509b4a79eb222854ca32012a2e74500e4af55300d236b3a13b474e1e373d65"
 metafile = true
 
 [[files]]
@@ -566,7 +571,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "31535a06bf76553e83bd982eb3df9158b815cb7d0207a3fc719758d020d683b7"
+hash = "41440aa391c6fb6ba275a47a78c4353fb5a2e4a76b2cd8d91e7751c7507a2637"
 metafile = true
 
 [[files]]
@@ -756,7 +761,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancy-entity-renderer.pw.toml"
-hash = "504a3bf434485cfeec3b6c18da9d2cb924045810ee1e204c1f359dd196d31111"
+hash = "36ebfca4d94a9fa7c7c394c7dcb5dc3905d747c161d53bf95baa0b271cee6f5a"
 metafile = true
 
 [[files]]
@@ -816,7 +821,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "233f29074d142207596b6711e42386c822b609e445e08ef7963fdab3540eb0e5"
+hash = "ab8390876f58e3d725fe88f3a27f83fc0513466e482f3593da2d3465c0115b1c"
 metafile = true
 
 [[files]]
@@ -871,7 +876,7 @@ metafile = true
 
 [[files]]
 file = "mods/invmove.pw.toml"
-hash = "fff3bd7b56f7f5866bacf83173ceb9d24c0a2684e4de6f8cb4d7f0173ff78455"
+hash = "44f1fbc496fb2d54467ccbe0df5362c54542193e33b8541ad75b532e1baf775e"
 metafile = true
 
 [[files]]
@@ -896,7 +901,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "80858e1b1477432110b72aab33348635139d6e8fe7bc05db3ba00651de635720"
+hash = "6492b21e2a58e97ab65ff384db18606ce317ea3b78fad7051e6e34899fe8e85b"
 metafile = true
 
 [[files]]
@@ -1311,7 +1316,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "a409e49188dee9bed2cc3e36494a4edef35009a43d483323f56e0ab97f09a379"
+hash = "512322a5cbd3be9f9b569f32d2464efd2042eb71e30f304cf3894088c6f92eba"
 metafile = true
 
 [[files]]
@@ -1386,7 +1391,7 @@ metafile = true
 
 [[files]]
 file = "mods/variants-and-ventures.pw.toml"
-hash = "2e0f9670418e607523b0de1ef9da18860b0d7afe425b4db5e6a5902344a55b05"
+hash = "2d70ab09cf8217746bc6add5c365f974e3a1ad91348a1f2854ac6552d5a7c9a8"
 metafile = true
 
 [[files]]
@@ -1431,7 +1436,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "2d0ca6e5a2077ae624a65a5310f36ddd6736de699748ac3959022e03844e2f52"
+hash = "af20070dd9497817a83162c17b181a0a44f7213ea302d059a81c5aed02d0c877"
 metafile = true
 
 [[files]]
@@ -1514,7 +1519,7 @@ hash = "1f553f33d538e28bdda0aa96a296ecfe8968ea4e978a56d732162e5634f37400"
 
 [[files]]
 file = "options-profiles/0. Default/options.txt"
-hash = "9167282c9cd759e44a3fc21a9f722e498258f48c5308b7188a27741d5299b5ad"
+hash = "b88fa9b02b7a75eaa11472296721cf674425d8a11cd07c7df99ec2992615a7bb"
 
 [[files]]
 file = "options-profiles/0. Default/sodium-options.json"
@@ -1574,7 +1579,7 @@ hash = "e414f088eec5f6006bfbf3fc88afe73562de58a7298850ae9d3f15fb113ccfd9"
 
 [[files]]
 file = "options.txt"
-hash = "c59b6b2cdbfad75717aa662d8c4d6baf9e119b2434825d88da155e42f48ac87d"
+hash = "76dc65c7f4dd40ae858678035903714078541207624e51422156db91119132f6"
 
 [[files]]
 file = "resourcepacks/3d-crops.pw.toml"
@@ -1594,6 +1599,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/assembled-legendary-tooltips.pw.toml"
 hash = "da64c7ec3e8b0b902cff6d70eefb583a406fd18742e8b190f9a66b98efb5d996"
+metafile = true
+
+[[files]]
+file = "resourcepacks/axolotl-bucket-variants.pw.toml"
+hash = "4ad2af5557d92880ae7a419ee34508503bc3be6f7f39a6c5fc70bf71d791f521"
 metafile = true
 
 [[files]]
