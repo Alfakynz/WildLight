@@ -26,8 +26,6 @@ This mod is designed to fix some bugs and interface elements in the WildLight mo
 - Adds compat for Not Interested!
 - Adds compat for Useful Backpacks
 - Adds compat for Wilder Wild (removes chest names)
-- Adds compat for Deeper and Darker (connected glass textures)
-- Adds compat for Wilder Wild (connected glass textures)
 - Adds icon for Mod Menu (Open Mods Folder & Mods button label not centered)
 - Adds icon for Options Profiles
 - Adds icon for PhysicsMod
