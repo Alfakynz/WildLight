@@ -44,6 +44,13 @@ onMounted(() => {
             >pull request #19</a
           >.
         </li>
+        <li>
+          <a href="https://modrinth.com/project/YQnwl5Vv" target="_blank">Visual Overhaul</a> and
+          all modded woods: the wood in the furnace wasn't textured. Waiting for
+          <a href="https://github.com/TeamMidnightDust/VisualOverhaul/pull/99" target="_blank"
+            >pull request #99</a
+          >.
+        </li>
       </ul>
     </section>
   </main>

@@ -41,6 +41,9 @@ onMounted(() => {
               >
             </li>
             <li>
+              <a href="https://modrinth.com/project/mOgUt4GM" target="_blank">Mod Menu</a>
+            </li>
+            <li>
               <a href="https://modrinth.com/project/j7Ux0G0U" target="_blank">Not Interested!</a>
             </li>
             <li>
@@ -64,20 +67,9 @@ onMounted(() => {
           <a href="https://modrinth.com/project/rUgZvGzi" target="_blank">Eating Animation</a> with:
           <ul>
             <li>
-              <a href="https://modrinth.com/project/AtHRJSUW" target="_blank">Wilder Wild</a> See
-              <a href="https://github.com/Theoness1/EatingAnimation/pull/62" target="_blank">#62</a>
-            </li>
-          </ul>
-        </li>
-        <li>
-          <a href="https://modrinth.com/project/xuN3KzPl" target="_blank">Fusion Connected Glass</a>
-          with:
-          <ul>
-            <li>
-              <a href="https://modrinth.com/project/fnAffV0n" target="_blank">Deeper and Darker</a>
-            </li>
-            <li>
-              <a href="https://modrinth.com/project/AtHRJSUW" target="_blank">Wilder Wild</a>
+              <a href="https://modrinth.com/project/AtHRJSUW" target="_blank">Wilder Wild</a> (see
+              <a href="https://github.com/Theoness1/EatingAnimation/pull/62" target="_blank">#62</a
+              >)
             </li>
           </ul>
         </li>

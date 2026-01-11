@@ -5,26 +5,26 @@
 
 html,
 body {
-  height: 100%;
   margin: 0;
   padding: 0;
-  overflow-y: auto;
+  height: 100%;
   overflow-x: hidden;
+  overflow-y: auto;
 }
 
 body {
-  min-height: 100dvh;
-  box-sizing: border-box;
-  color: #fff;
-  background-image: url(images/background.png);
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-color: var(--color-background);
   transition:
     color 0.5s,
     background-color 0.5s;
+  box-sizing: border-box;
+  background-image: url(images/background.png);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-color: var(--color-background);
+  min-height: 100dvh;
+  color: #fff;
   line-height: 1.6;
   font-family:
     Inter,

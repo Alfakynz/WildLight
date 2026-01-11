@@ -11,15 +11,15 @@ h1,
 h2,
 h3,
 h4 {
-  font-family: 'Cinzel', serif;
   color: var(--color-text);
+  font-family: 'Cinzel', serif;
   letter-spacing: 1px;
 }
 
 a {
-  text-decoration: none;
-  color: var(--color-text);
   transition: 0.3s;
+  color: var(--color-text);
+  text-decoration: none;
 }
 
 a:hover {
@@ -40,43 +40,44 @@ a:hover {
 }
 
 main {
-  flex: 1;
   display: flex;
+  flex: 1;
   flex-direction: column;
-  align-items: center;
   justify-content: center;
+  align-items: center;
   gap: 2rem;
-  margin: 1rem auto;
   box-sizing: border-box;
+  margin: 1rem auto;
+  width: 100%;
 }
 
 main section {
-  width: 100%;
   display: flex;
-  align-items: center;
   justify-content: space-between;
+  align-items: center;
   gap: 2rem;
   backdrop-filter: blur(5px);
-  padding: 1.25rem;
+  box-sizing: border-box;
   border: 1px solid rgba(255, 255, 255, 0.1);
   border-radius: 35px;
   background: rgba(30, 30, 30, 0.3);
-  box-sizing: border-box;
+  padding: 1.25rem;
+  width: 100%;
 }
 
 /* Footer styles */
 footer {
-  width: 100%;
   display: flex;
   justify-content: space-around;
   align-items: flex-start;
-  padding: 1.5rem 2rem;
+  backdrop-filter: blur(4px);
+  box-sizing: border-box;
   margin-top: 1.5rem;
+  border: 1px solid rgba(255, 255, 255, 0.08);
   border-radius: 25px 25px 0 0;
   background: rgba(30, 30, 30, 0.35);
-  border: 1px solid rgba(255, 255, 255, 0.08);
-  box-sizing: border-box;
-  backdrop-filter: blur(4px);
+  padding: 1.5rem 2rem;
+  width: 100%;
 }
 
 .footer-category {
@@ -98,11 +99,11 @@ footer {
 }
 
 .wiki-content {
-  padding: 2rem;
-  overflow-x: auto;
-  box-sizing: border-box;
   display: flex;
   flex-direction: column;
+  box-sizing: border-box;
+  padding: 2rem;
+  overflow-x: auto;
 }
 
 @media (max-width: 1024px) {
@@ -113,8 +114,8 @@ footer {
 
 .wiki-content h1,
 .wiki-content h2 {
-  text-align: center;
   margin: 0 auto;
+  text-align: center;
 }
 
 .wiki-content p {
@@ -122,11 +123,11 @@ footer {
 }
 
 .warning {
-  background-color: red;
-  color: white;
-  padding: 0.5rem;
   border-radius: 15px;
+  background-color: red;
+  padding: 0.5rem;
+  color: white;
+  font-weight: bold;
   font-size: 1.2rem;
   text-align: center;
-  font-weight: bold;
 }
