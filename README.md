@@ -32,7 +32,6 @@ This mod is designed to fix some bugs and interface elements in the WildLight mo
 - Adds icon for Sodium (leaves)
 - Adds icon for Sounds
 - Fixes Fabric creative buttons not displaying correctly on hover
-- Fixes sugar cane not showing properly on the hotbar (still bug)
 - Most of the icons added now work in English, Spanish, and French
 
 ## 🔗 Dependencies (for development)
