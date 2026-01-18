@@ -1,13 +1,13 @@
 name = "WildLight Compat"
-filename = "wildlight-2.5.1.jar"
+filename = "wildlight-2.5.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/8csZQmSs/versions/OzWi8Jnh/wildlight-2.5.1.jar"
+url = "https://cdn.modrinth.com/data/8csZQmSs/versions/C61RuYoo/wildlight-2.5.2.jar"
 hash-format = "sha512"
-hash = "4ba85881dc63a93e56e4ad4281d861c5bcd7a26783f14c16c2ed076337f0e60922975132a7036f0b969cb55a3058aab625949fd3f435d8d108f443e088d1cabe"
+hash = "d64382ad0dea49e1489ca93c80690f5d6e192dd5fe7c1cd62e19e6f1297c2fba7bc27420da82b62ccbb98120cafac257a0616efae0f2841ef61f569ac72d7539"
 
 [update]
 [update.modrinth]
 mod-id = "8csZQmSs"
-version = "OzWi8Jnh"
+version = "C61RuYoo"

@@ -1,0 +1,13 @@
+name = "Fusion Connected Glass Compat"
+filename = "FCG-Compat.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7690e97d4ca8876ae7220d41396d35e26763b125"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7445586
+project-id = 1425802

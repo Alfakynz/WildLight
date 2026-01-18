@@ -1,13 +1,13 @@
 name = "Nyf's Spiders"
-filename = "nyfsspiders-fabric-1.21.1-2.3.2.jar"
+filename = "nyfsspiders-fabric-1.21.1-3.0.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/dOGM7ccu/versions/K2BnoKan/nyfsspiders-fabric-1.21.1-2.3.2.jar"
+url = "https://cdn.modrinth.com/data/dOGM7ccu/versions/D1hskQ7T/nyfsspiders-fabric-1.21.1-3.0.1.jar"
 hash-format = "sha512"
-hash = "5872af47408d0f4e7b80e0a498754cd2b91327e263333f1b45c3df8f8bb59b3ffdba5b004d52d4260ee2295eebc5a5f396b0b7b4eb0b45d26d9c9074d6dbc0bb"
+hash = "f8d08e9d862a1d6933e5aeeb84718752ab5831414d1b86b282d1496e558c9ecbecaba00851c6c4355bc029d71c8692b81f2e40016f7fbe1ce21c1c11d181b130"
 
 [update]
 [update.modrinth]
 mod-id = "dOGM7ccu"
-version = "K2BnoKan"
+version = "D1hskQ7T"

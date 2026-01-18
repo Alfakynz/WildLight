@@ -1,13 +1,13 @@
 name = "Nyf's Spiders"
-filename = "nyfsspiders-fabric-1.21.1-2.3.2.jar"
+filename = "nyfsspiders-fabric-1.21.1-3.0.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "41d9e97896fcca505662743bc08da839e9f9aebe"
+hash = "a862696c57a3d5176c44fc4de779a4a797eb44ab"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6121608
+file-id = 7445047
 project-id = 686058

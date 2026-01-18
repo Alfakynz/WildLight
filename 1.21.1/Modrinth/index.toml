@@ -390,6 +390,11 @@ hash = "a9f6cf1a98bc318c887b672aecaff6ffdbf33a6ec06af5f2686b292988d0846e"
 metafile = true
 
 [[files]]
+file = "mods/bbrb.pw.toml"
+hash = "d3e067134ecb835b1a02e6f10666033d71ac017a21f17b3a5efeca756482642a"
+metafile = true
+
+[[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "a7a6a8396dd3842912b9483e6dfd0f39d165700e7eab470d4eab2244fc5d624e"
 metafile = true
@@ -501,7 +506,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunks-fade-in.pw.toml"
-hash = "9866d8a698643bbff2dd92de69595fddd3bcefa5643d9ac1ac1f5b846673e2f2"
+hash = "42a48ed20dbaadbef6c5dbbe702f49d72049dda3619c0b5211c78d64d0239be1"
 metafile = true
 
 [[files]]
@@ -577,6 +582,11 @@ metafile = true
 [[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "aa93474a654b0ad97c58f88939c522b668e0a249f146504ee3457f7ecd7b881b"
+metafile = true
+
+[[files]]
+file = "mods/critters-and-companions.pw.toml"
+hash = "e27ff19b73147521eff10c9cf0d4d51e36a462d1e67f460ee33287e4356e3fe1"
 metafile = true
 
 [[files]]
@@ -821,12 +831,17 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "ab8390876f58e3d725fe88f3a27f83fc0513466e482f3593da2d3465c0115b1c"
+hash = "ebc2028adcda30978da8834b5bd20aa5bd4c4fbb1ab773474a6d848eb680fbad"
 metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "a1f1206514a1311c556b5e5542dac4acc1d239c9dc6120efe7b7495245376cfb"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "fe2682e6dbdd4350863e1fcd3f5f211fb437cf7791539bedd50779745beb5232"
 metafile = true
 
 [[files]]
@@ -922,11 +937,6 @@ metafile = true
 [[files]]
 file = "mods/konkrete.pw.toml"
 hash = "34d75daff8b8260780d97bbc2dc545739399df1d5ac304eeb2f80e23354cf3af"
-metafile = true
-
-[[files]]
-file = "mods/ksyxis.pw.toml"
-hash = "de4b87840e3b7e83961823f1b373570e58015b367b3b1919a79df20a70198730"
 metafile = true
 
 [[files]]
@@ -1061,7 +1071,7 @@ metafile = true
 
 [[files]]
 file = "mods/nyfs-spiders.pw.toml"
-hash = "1e2b3c4d14e7eb437ce71ceca81b54e345252dcd8d4e6533bf259ea7c7491302"
+hash = "78bda3d4ee9cefc83e2669a31266b4d2546cda16d905efeae7c449da437c552b"
 metafile = true
 
 [[files]]
@@ -1426,7 +1436,7 @@ metafile = true
 
 [[files]]
 file = "mods/wildlight-compat.pw.toml"
-hash = "f5cd66c6f15d1723e0f346ccc3dea8e7385911bec8ea7dbb7543ba23ee86a35c"
+hash = "52c6df14af2520a060251a88fa63b21c60e6a950b0069ff8d1535523bcb4d4d8"
 metafile = true
 
 [[files]]
@@ -1506,7 +1516,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "fb09f6357ae2e3dcfea36520efde6e9b761efffc63b4dfdec5e4b11011bac58c"
+hash = "2709ce9505c0a00b9406f83eb4bc158f5cad773b96fc3826c88dca45d65876cd"
 metafile = true
 
 [[files]]
@@ -1519,7 +1529,7 @@ hash = "1f553f33d538e28bdda0aa96a296ecfe8968ea4e978a56d732162e5634f37400"
 
 [[files]]
 file = "options-profiles/0. Default/options.txt"
-hash = "b88fa9b02b7a75eaa11472296721cf674425d8a11cd07c7df99ec2992615a7bb"
+hash = "bf14f8f1133fc29ada1d95fc0c9910c4b5610298ca85cdc45ffb35674e0bfada"
 
 [[files]]
 file = "options-profiles/0. Default/sodium-options.json"
@@ -1547,7 +1557,7 @@ hash = "50dc51234d93a1cac2298fb52f3a05276c4ec7e2d4c50ec71c77ae0f65c56b23"
 
 [[files]]
 file = "options-profiles/2. Balanced/iris.properties"
-hash = "af3573a2f393cf6ac84ba4ab9fe166815ce823ea171814c18a6e0c771ce20c85"
+hash = "12120398d56ede5c0952a4d4253a22110a55125901149c24134b93fd67c48028"
 
 [[files]]
 file = "options-profiles/2. Balanced/options.txt"
@@ -1579,7 +1589,7 @@ hash = "e414f088eec5f6006bfbf3fc88afe73562de58a7298850ae9d3f15fb113ccfd9"
 
 [[files]]
 file = "options.txt"
-hash = "76dc65c7f4dd40ae858678035903714078541207624e51422156db91119132f6"
+hash = "06854bc10c0de2b69c390970f964b69ee72f2296387f9885d0fc409c95fb208e"
 
 [[files]]
 file = "resourcepacks/3d-crops.pw.toml"
@@ -1593,7 +1603,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/alt-compat.pw.toml"
-hash = "0ac57c35a2c7691fe37f405cfb253025a2e51f1e15f71273e8789aa56fbb26c9"
+hash = "4d1830b11f0fc76c325c73d00a5f40d0fee9e97274526a57c10c5e5657f9245a"
 metafile = true
 
 [[files]]
@@ -1657,6 +1667,11 @@ hash = "b6643cac68927881baa84fa7f348a2d60b6d2f901b4612c7a8c4ad882f90f23b"
 metafile = true
 
 [[files]]
+file = "resourcepacks/fcg-compat.pw.toml"
+hash = "29631c86255744b4dbd9b44c3490021d2a33886d09a90b71f0f99614a8d1a514"
+metafile = true
+
+[[files]]
 file = "resourcepacks/fresh-animations-extensions.pw.toml"
 hash = "d3571c12bae3b4ff244307f5f5bdfa1654175981eeda8d76059266eaa7d926fa"
 metafile = true
@@ -1713,8 +1728,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "d77dfc3bf13ca53b19b15564800167012835deab25e6a97a09b4a699bd5843e8"
+hash = "cf676fc954f3d574b53395e377d41d37dfcd97d033862523e818e2967ca902a0"
 metafile = true
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.6.1 + EuphoriaPatches_1.7.8.txt"
+hash = "9a1b03161401bd1d22be5773a087421eefc5113b414e7b6b32fa7a06a117a69d"
 
 [[files]]
 file = "shaderpacks/bliss-shader.pw.toml"
@@ -1728,5 +1747,5 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
-hash = "315d537a57cebee64acfa9dc327255c0eee86d6b08611eec6d7c9326ffb03ad1"
+hash = "efab3512e0984b7253f1e73da8dc31a3d7582fa2ba4d64be47007a05297b58d3"
 metafile = true

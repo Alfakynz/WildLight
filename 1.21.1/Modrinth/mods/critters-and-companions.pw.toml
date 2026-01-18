@@ -1,0 +1,13 @@
+name = "Critters and Companions"
+filename = "crittersandcompanions-fabric-1.21.1-2.3.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Yd4wb5wZ/versions/wHpQleS4/crittersandcompanions-fabric-1.21.1-2.3.4.jar"
+hash-format = "sha512"
+hash = "143848ee10a4494a7e1c027171e7fa7a624ae7aa5e6f881d6cc2504fb5a5466cb66ba09eedeeab073e8c5356cb333828c300a20eb7339e7877bc298118a0eb15"
+
+[update]
+[update.modrinth]
+mod-id = "Yd4wb5wZ"
+version = "wHpQleS4"

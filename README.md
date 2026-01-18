@@ -83,9 +83,7 @@ If you have any questions, here's Discord server: https://discord.gg/TcmUQHZ5U4
 
 ## 🚀 Planned Features
 
-- Dynamic events (like weather-based)
 - A quest book to discover the mods in the modpack
-- Add another dimension
 
 ## 🌐 Looking for a server? Support me at the same time!
 

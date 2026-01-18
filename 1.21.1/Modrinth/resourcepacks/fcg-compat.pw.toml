@@ -1,0 +1,13 @@
+name = "Fusion Connected Glass Compat"
+filename = "FCG-Compat.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/uMulT97B/versions/stf2XPCd/FCG-Compat.zip"
+hash-format = "sha512"
+hash = "97c4a8f733eea64e7251d6259ad4564e7c19af9dcea93a7893f0315392795056bddec425bd0004c7e3f7a3d928a55bd7287cb46407f05ebbc4a622b25d34dd2b"
+
+[update]
+[update.modrinth]
+mod-id = "uMulT97B"
+version = "stf2XPCd"
