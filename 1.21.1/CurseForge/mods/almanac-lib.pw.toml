@@ -1,13 +1,13 @@
 name = "Almanac Lib"
-filename = "Almanac-1.21.1-2-fabric-1.5.0.jar"
+filename = "Almanac-1.21.1-2-fabric-1.5.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d03e75d1cc01665df04c6c1760e2d465e3385829"
+hash = "f259ee1c7b7e4d9c4abd59cc38e200cb1766ef3b"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7150136
+file-id = 7489079
 project-id = 1115285

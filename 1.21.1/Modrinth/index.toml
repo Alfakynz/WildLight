@@ -336,7 +336,7 @@ metafile = true
 
 [[files]]
 file = "mods/almanac.pw.toml"
-hash = "cc874ad4230c0c194923b48eeddd63ba6283f7f1b381a828b6fe62170d2512a6"
+hash = "50f65b35629e21361de165adcbfe0f14f1fd37d23916a899236078a60d85fff6"
 metafile = true
 
 [[files]]
@@ -546,7 +546,7 @@ metafile = true
 
 [[files]]
 file = "mods/comforts.pw.toml"
-hash = "55176d940577a671525a837cb9db04380a0d3339f2b93314d5df9001653347f9"
+hash = "0d10973de4466406d116a7c0d976c7c7830e65510ad06b6c83e72b0310e09ad4"
 metafile = true
 
 [[files]]
@@ -756,7 +756,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "446f8047ee9168b65fe9d4600f82cb915c7aa0d0f049a344177ba340a5b93a8a"
+hash = "49884f2d7db0e731facf0aa70cf2038dd513624c450cba773a8ca7a47e53953b"
 metafile = true
 
 [[files]]
@@ -801,7 +801,7 @@ metafile = true
 
 [[files]]
 file = "mods/first-person-model.pw.toml"
-hash = "370776d93421ecd72e7c63be75c18fc6e8c34a72573d71e757c41e30ccc7f7c4"
+hash = "d8c02ffb71e5a7c16b122c7f20b288bb6a07535bbd3aefdfe4c8c999a65b4e65"
 metafile = true
 
 [[files]]
@@ -836,7 +836,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "a1f1206514a1311c556b5e5542dac4acc1d239c9dc6120efe7b7495245376cfb"
+hash = "90775f67c0e68b6a3e22fdbcd0dc60ae012a3e35769e24401fe94ab33ceb8c00"
 metafile = true
 
 [[files]]
@@ -1196,7 +1196,7 @@ metafile = true
 
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
-hash = "455a34aef3c152e816f3cd39306e943ec5afc714cf6e38ef41fd5a30daac276d"
+hash = "e5b24f6c33dfb82d1a6b7f88d0340cd4295583447cf7e9dcb94c61745c7e7e2d"
 metafile = true
 
 [[files]]
@@ -1728,7 +1728,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "cf676fc954f3d574b53395e377d41d37dfcd97d033862523e818e2967ca902a0"
+hash = "59ca90cb58fbcf1b50f23496492e5abb23139c829287571a40eac41e27317478"
 metafile = true
 
 [[files]]
@@ -1747,5 +1747,5 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
-hash = "efab3512e0984b7253f1e73da8dc31a3d7582fa2ba4d64be47007a05297b58d3"
+hash = "5497d3ab3f39171289a05ce996b3a757e960c2200a3d9435124762f056a74b4e"
 metafile = true
