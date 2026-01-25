@@ -22,6 +22,11 @@ onMounted(() => {
         <a href="https://github.com/Theoness1/EatingAnimation/pull/62" target="_blank"
           >Eating Animation PR #62</a
         >)
+        <br />
+        Note: this compaibility is not anymore in this mod, but in this
+        <a href="https://github.com/Alfakynz/Eating-Animation-Modded" target="_blank"
+          >resource pack</a
+        >
       </p>
       <p>
         And a big thanks as well to every other mod, resource pack, and shader creator! Your

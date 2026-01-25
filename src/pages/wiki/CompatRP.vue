@@ -63,16 +63,6 @@ onMounted(() => {
             <li><a href="https://modrinth.com/project/ZouiUX7t" target="_blank">Sounds</a></li>
           </ul>
         </li>
-        <li>
-          <a href="https://modrinth.com/project/rUgZvGzi" target="_blank">Eating Animation</a> with:
-          <ul>
-            <li>
-              <a href="https://modrinth.com/project/AtHRJSUW" target="_blank">Wilder Wild</a> (see
-              <a href="https://github.com/Theoness1/EatingAnimation/pull/62" target="_blank">#62</a
-              >)
-            </li>
-          </ul>
-        </li>
       </ul>
     </section>
   </main>
