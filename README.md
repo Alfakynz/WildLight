@@ -67,7 +67,7 @@ It is recommended to allocate 4GB of RAM to Minecraft for optimal performance. T
 
 ## 🙏 Credits
 
-- Thanks to [nNoidea](https://github.com/nNoidea) for Eating Animation support for Wilder Wild compatibility! (via [Eating Animation PR #62](https://github.com/Theoness1/EatingAnimation/pull/62))
+- Thanks to [nNoidea](https://github.com/nNoidea) for Eating Animation support for Wilder Wild compatibility! (via [Eating Animation PR #62](https://github.com/Theoness1/EatingAnimation/pull/62)) (not anymore in this mod, but in this [resource pack](https://github.com/Alfakynz/Eating-Animation-Modded)).
 
 ## 🤝 Contributing
 
