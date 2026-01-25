@@ -44,7 +44,7 @@ You need to install and place these mods in the libs folder of your development 
 
 ## 🙏 Credits
 
-- Thanks to [nNoidea](https://github.com/nNoidea) for Eating Animation support for Wilder Wild compatibility! (via [Eating Animation PR #62](https://github.com/Theoness1/EatingAnimation/pull/62))
+- Thanks to [nNoidea](https://github.com/nNoidea) for Eating Animation support for Wilder Wild compatibility! (via [Eating Animation PR #62](https://github.com/Theoness1/EatingAnimation/pull/62)) (not anymore in this mod, but in this [resource pack](https://github.com/Alfakynz/Eating-Animation-Modded)).
 
 ## 🤝 Contributing
 
