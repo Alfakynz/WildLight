@@ -336,7 +336,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "bc4f47f976ecb38e6254de502976f468446f7250178699beba4b067b89469100"
+hash = "553b8ec7d9384eb706accd299d3f49320c29ede26bccfaedda00969b3d11ed48"
 metafile = true
 
 [[files]]
@@ -431,7 +431,7 @@ metafile = true
 
 [[files]]
 file = "mods/blur-fabric.pw.toml"
-hash = "dd08aa4c7dcfab391a7e722a9f8d03404791dea4765faf49fea86dca5b04ea1a"
+hash = "ac4825be4fb3babcb30af473ee196d33b49371ab594dca93c9e319bb1c4d551e"
 metafile = true
 
 [[files]]
@@ -646,7 +646,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "02a69054bfdf68319fac665feab07b0b2e0469685c86488ed189301f26df6b74"
+hash = "79a29ea91ba2e93faa2f7886e9c94a69db4d42bff295371515d8eaf2c4728af0"
 metafile = true
 
 [[files]]
@@ -701,7 +701,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "f4fb9245abbdb8c359a4b4898e9c8f03e2908d32335e4e6e9650d001f669f9aa"
+hash = "13c8f59edd7258658f839dcf8ae1daaf658d14c56d7b4bea5743ab1bb6eccef8"
 metafile = true
 
 [[files]]
@@ -766,7 +766,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferritecore-fabric.pw.toml"
-hash = "1bcebf42f650151bf068b968e2b27b05c4b278bb9a31f2c0b64c4a462d3ff787"
+hash = "3aa66d677f5f23ddc8528f0c3243a9cbded0e27ea4b3db089ec0c8deecfb5704"
 metafile = true
 
 [[files]]
@@ -841,7 +841,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "9e2e75d2cf89eb66aaa1f9423cec14e8b496a8aa0cfa9142edc4441369ed977e"
+hash = "1c5e90c7879f5bbf069055aa60d04a86d8c80417b0a47d72b47cf16e3fb05f32"
 metafile = true
 
 [[files]]
@@ -891,7 +891,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "630992568968b8141e9f65ab44b1fb96a6b524e4892b5e50c21d2da7167ad307"
+hash = "cec711d01e1e80f1410b99399438af02282edc1c60e79d9bdc7cb704f32b8908"
 metafile = true
 
 [[files]]
@@ -1026,7 +1026,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "ae0783f3455e72023fac34f0ebe965ad1b3dbd813f155e2f7fb97e2da029e103"
+hash = "60e228899f11917fd841bc3bdf3aeb503333440ca571db4d9a9f917272b97160"
 metafile = true
 
 [[files]]
@@ -1091,7 +1091,7 @@ metafile = true
 
 [[files]]
 file = "mods/platform.pw.toml"
-hash = "fe15360e3543bf56e4ed36fd29b587d0978c139e4609a48c0e9c882f6d6510ee"
+hash = "9d111473981ddc1913dff77cb98688d0a2b20b3ce5c61ddf2111178d12ec157c"
 metafile = true
 
 [[files]]
@@ -1381,7 +1381,7 @@ metafile = true
 
 [[files]]
 file = "mods/vanillabackport.pw.toml"
-hash = "31f83d08a557136b629ad8395039bf652e01ede7f06329c3f48499de8c5ca110"
+hash = "2faa8e8dda899b7da22347cfb5616ee0f8d3dd33db05196f9c7f86cf3d83581e"
 metafile = true
 
 [[files]]
@@ -1416,7 +1416,7 @@ metafile = true
 
 [[files]]
 file = "mods/wildlight-compat.pw.toml"
-hash = "430894e5cad332e936a51676ef222d24ef63907910763f3f62d3966120f99d48"
+hash = "ef508244b10b8f436deed83bd2d7e4095bd7fb20bee902588cafc9bcc1c6a76a"
 metafile = true
 
 [[files]]
@@ -1514,7 +1514,7 @@ hash = "1f553f33d538e28bdda0aa96a296ecfe8968ea4e978a56d732162e5634f37400"
 
 [[files]]
 file = "options-profiles/0. Default/options.txt"
-hash = "bf14f8f1133fc29ada1d95fc0c9910c4b5610298ca85cdc45ffb35674e0bfada"
+hash = "4c040e0e18c4cee3af9e9056475c7aae517b033751227cac02042fb976c9121a"
 
 [[files]]
 file = "options-profiles/0. Default/sodium-options.json"
@@ -1542,7 +1542,7 @@ hash = "50dc51234d93a1cac2298fb52f3a05276c4ec7e2d4c50ec71c77ae0f65c56b23"
 
 [[files]]
 file = "options-profiles/2. Balanced/iris.properties"
-hash = "12120398d56ede5c0952a4d4253a22110a55125901149c24134b93fd67c48028"
+hash = "69793855ae8dfaacde70755e96047d656925b42750146d3bb3c71bab75fb79b2"
 
 [[files]]
 file = "options-profiles/2. Balanced/options.txt"
@@ -1558,7 +1558,7 @@ hash = "50dc51234d93a1cac2298fb52f3a05276c4ec7e2d4c50ec71c77ae0f65c56b23"
 
 [[files]]
 file = "options-profiles/3. Quality/iris.properties"
-hash = "89e3c10ff8d12dbf1a3ebd27901cfca4dd81ef8dccf74590ff97361f683e038a"
+hash = "5362991304790ed8747dd912bce4414677b923c658c86faf0151c6d0a687b1aa"
 
 [[files]]
 file = "options-profiles/3. Quality/options.txt"
@@ -1574,21 +1574,11 @@ hash = "e414f088eec5f6006bfbf3fc88afe73562de58a7298850ae9d3f15fb113ccfd9"
 
 [[files]]
 file = "options.txt"
-hash = "06854bc10c0de2b69c390970f964b69ee72f2296387f9885d0fc409c95fb208e"
+hash = "68c4e6aa5d5962c4390602b3acd35ea1e2e285628c27a63df0a72ebc61a980d9"
 
 [[files]]
 file = "resourcepacks/3d-crops.pw.toml"
 hash = "82e610917524c6f1af58e102a1be333665ee9af1649477aae0546a30d1ae3114"
-metafile = true
-
-[[files]]
-file = "resourcepacks/alt-compat.pw.toml"
-hash = "cb6133e00e542a1160e73bd8323bf84b997769966d29a53805fa8d2c7f51c1dc"
-metafile = true
-
-[[files]]
-file = "resourcepacks/assembled-legendary-tooltips.pw.toml"
-hash = "da64c7ec3e8b0b902cff6d70eefb583a406fd18742e8b190f9a66b98efb5d996"
 metafile = true
 
 [[files]]
@@ -1622,6 +1612,16 @@ hash = "86c9ec0b0d0d1cc3226f40116e25bb573e987d905bde72c81644e19ef9d4dc51"
 metafile = true
 
 [[files]]
+file = "resourcepacks/crystal-tooltips.pw.toml"
+hash = "10f3c1fd418f8681f9e162b50dad9022a280adef93b101e5a9a7e175304be0e2"
+metafile = true
+
+[[files]]
+file = "resourcepacks/eating-animation-modded.pw.toml"
+hash = "04467bdbca5b3ad241b16781b21ed885e4dde4d2b045d7771e996cc0774247ec"
+metafile = true
+
+[[files]]
 file = "resourcepacks/enchant-icons-countxd.pw.toml"
 hash = "ee331a6a60dcc40c8692e7ce750214c5b72425acb33e101752c5a3eb636ec2db"
 metafile = true
@@ -1633,7 +1633,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/enhanced-boss-bars.pw.toml"
-hash = "c3bffe8dba1b4cd555331b0dce3586718980bb306f51a2278f1066f5e43cd3fd"
+hash = "9fd5cd25bea7df951f9d4a0c5a213a6e77b3390223871359da8ddfc452ffc1f1"
 metafile = true
 
 [[files]]
@@ -1678,12 +1678,17 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/icons.pw.toml"
-hash = "b3b532bd40cb02ae5b6f6262d95e7f9dbad416401771cab5ed4f6d0136e73512"
+hash = "6c050ee0e9577794c98b7ea69ee25ccd3d7b544e776a7368c9f9f693bf582322"
 metafile = true
 
 [[files]]
 file = "resourcepacks/minecraft-3d-default.pw.toml"
 hash = "03d6565210f9674a4eb2da0cef0db986571cea9444d7e80b67775c699253db87"
+metafile = true
+
+[[files]]
+file = "resourcepacks/modded-omelet.pw.toml"
+hash = "4f12ff6b5da1826f04ba6d51a0a5b55abbc1a61db3227d242dd876a46410418c"
 metafile = true
 
 [[files]]
@@ -1713,7 +1718,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "ce72d046273726b53f4d1f250cfbabf2314f2ad480bae80942190c05e24f937d"
+hash = "60d3ff27230a4d359b03118db4e56d51cd06c4a6714336db3400bd2d29d364cf"
 metafile = true
 
 [[files]]

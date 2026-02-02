@@ -1,0 +1,13 @@
+name = "Eating Animation Modded"
+filename = "Eating-Animation-Compat.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/C5i3E4dv/versions/pV8ZeMsr/Eating-Animation-Compat.zip"
+hash-format = "sha512"
+hash = "94eb83dc1f9dd2e7b5f17ab4d492f2c0ea498b40f8607f91af2ec83a81a086ee39b66a5cd0a580e7cd6715902842ba647eacbe613937412eb2bac5a073d49160"
+
+[update]
+[update.modrinth]
+mod-id = "C5i3E4dv"
+version = "pV8ZeMsr"

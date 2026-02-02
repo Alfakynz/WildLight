@@ -1,0 +1,13 @@
+name = "Eating Animation Modded"
+filename = "Eating-Animation-Compat.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bb675186ba7dc9fc921962fd2130047df0e61465"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7523117
+project-id = 1443827
