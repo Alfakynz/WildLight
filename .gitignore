@@ -28,6 +28,7 @@ options-profiles/
 icon.png
 options.txt
 .packwizignore
+*/*/shaderpacks/*.txt
 
 !configurations/config/
 !configurations/config/fancymenu/assets/

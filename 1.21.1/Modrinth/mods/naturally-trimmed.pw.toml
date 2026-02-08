@@ -1,13 +1,13 @@
 name = "Naturally Trimmed"
-filename = "naturally_trimmed-3.1.2+1.21-fabric.jar"
+filename = "naturally_trimmed-3.2.0+1.21-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/hHVaPgFK/versions/KzahZMcW/naturally_trimmed-3.1.2%2B1.21-fabric.jar"
+url = "https://cdn.modrinth.com/data/hHVaPgFK/versions/uDH3hcMg/naturally_trimmed-3.2.0%2B1.21-fabric.jar"
 hash-format = "sha512"
-hash = "c942996273a0e7553ffbbb3b56392fad0c45e38acd3d4e6329340025905b89c0de286d2f7d8600c8e2e27992a9c293322d916b4988b999b464e1abd2c4012a9a"
+hash = "9d04dba92b57ea4eecbb7bc0f063a19151c519f0a3609ac2c54ee184814ba3205e14f998375e8e58e95c334a70dad0f3275e91c43e5de076466e34d346225921"
 
 [update]
 [update.modrinth]
 mod-id = "hHVaPgFK"
-version = "KzahZMcW"
+version = "uDH3hcMg"

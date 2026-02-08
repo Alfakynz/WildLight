@@ -1,13 +1,13 @@
 name = "Naturally Trimmed"
-filename = "naturally_trimmed-3.1.2+1.21-fabric.jar"
+filename = "naturally_trimmed-3.2.0+1.21-fabric.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "6666b587d0b7e41ca9e97aa4589dfc6c172d1687"
+hash = "a83ba9bf35a8ec877bafac7682129d465577a999"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7328521
+file-id = 7589120
 project-id = 1005441
