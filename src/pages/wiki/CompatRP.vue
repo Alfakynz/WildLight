@@ -24,7 +24,6 @@ onMounted(() => {
           >
           with:
           <ul>
-            <li>The Fabric creative button to change page in the inventory</li>
             <li>
               <a href="https://modrinth.com/project/bRFWnJ87" target="_blank"
                 >Animal Feeding Trough</a
