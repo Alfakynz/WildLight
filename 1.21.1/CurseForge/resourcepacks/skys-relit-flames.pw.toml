@@ -1,6 +1,7 @@
 name = "Sky's Relit Flames"
 filename = "Sky's Relit Flames.zip"
 side = "client"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/OF52eDIm/versions/i2VCGeWF/Sky%27s%20Relit%20Flames.zip"

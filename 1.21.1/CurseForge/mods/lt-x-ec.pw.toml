@@ -1,0 +1,13 @@
+name = "Legendary Tooltips x Equipment Compare"
+filename = "lt-x-ec-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "71e5aa679f4d46dbbe810956adea149f10c5e807"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7633032
+project-id = 1463769

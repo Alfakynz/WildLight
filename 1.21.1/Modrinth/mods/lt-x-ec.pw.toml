@@ -1,0 +1,13 @@
+name = "Legendary Tooltips x Equipment Compare"
+filename = "lt-x-ec-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/gCfAwaai/versions/kqQnUMYe/lt-x-ec-1.0.0.jar"
+hash-format = "sha512"
+hash = "d89814cde06ab0181e2efb7accf65ae2998fa670f0941b5d8c9d3af503a86ab26557f028c449ad4ea589024f2db2422b1277d22f30c28e5272cd0dabdb888583"
+
+[update]
+[update.modrinth]
+mod-id = "gCfAwaai"
+version = "kqQnUMYe"

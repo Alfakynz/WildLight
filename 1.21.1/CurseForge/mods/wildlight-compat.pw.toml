@@ -1,13 +1,13 @@
 name = "WildLight Compat"
-filename = "wildlight-2.5.3.jar"
+filename = "wildlight-2.5.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "88cd31c27f99f023a6676e7531ac40e61e7fabfd"
+hash = "91ae42850df4bbd3e922c14bb467e6848b4b4919"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7565659
+file-id = 7653608
 project-id = 1368864

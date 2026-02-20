@@ -1,13 +1,13 @@
 name = "Modded Omelet - Modern Spawn Eggs"
-filename = "Modded Omelet_1211.zip"
+filename = "Modded Omelet.zip"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "af54072fd97bfc79a8c2c4529e08c1e62e2f5997"
+hash = "e0f3de7eeca87a5ebf825d55b9a270f188a167f7"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7324629
+file-id = 7621144
 project-id = 1296468
