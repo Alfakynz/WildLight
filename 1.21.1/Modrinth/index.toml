@@ -326,7 +326,7 @@ hash = "6f472441a8c7377731ff5f9ad43f46951595c8a4969d1ba4b1055aa185a38c23"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "bd0848389894ffe9850efb36210060ff0ac3cc31c74af7f80a897de05df4caa2"
+hash = "fc0b79b8c5eb7e9e53b6d9e523e306ef66df56e15d886d1392089f199a5d5227"
 metafile = true
 
 [[files]]
@@ -451,7 +451,7 @@ metafile = true
 
 [[files]]
 file = "mods/blur-plus.pw.toml"
-hash = "1ea2272dd22c2a9b78b719441b53012d14e5b3a41175f562bc7482a56c74258c"
+hash = "ed9ddafa8dc513cc994dd186d47f4a5ba4e04943f9823e130123cc47931123b1"
 metafile = true
 
 [[files]]
@@ -756,7 +756,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "49884f2d7db0e731facf0aa70cf2038dd513624c450cba773a8ca7a47e53953b"
+hash = "6ec22733a32cf6e59584fbf2a855e24ea2c05f46026e0799f34f34c0915c8367"
 metafile = true
 
 [[files]]
@@ -801,7 +801,7 @@ metafile = true
 
 [[files]]
 file = "mods/first-person-model.pw.toml"
-hash = "d8c02ffb71e5a7c16b122c7f20b288bb6a07535bbd3aefdfe4c8c999a65b4e65"
+hash = "e330b752cdcf9cd701ee47e33c97397559ee671efe015348e4318f80c81bc98c"
 metafile = true
 
 [[files]]
@@ -821,7 +821,7 @@ metafile = true
 
 [[files]]
 file = "mods/friends-and-foes.pw.toml"
-hash = "bf1b6104f87a89ed7bc59ff839e0e5e588db035f8c68e8375790bfed0eb45375"
+hash = "24c9b391de8fa582fb80458773d618a6662a835f23bb70357bd2a9ed91cc3ab1"
 metafile = true
 
 [[files]]
@@ -911,7 +911,7 @@ metafile = true
 
 [[files]]
 file = "mods/itemphysic.pw.toml"
-hash = "b04d6ce89f1d403cf3afe95e3eb5a90f97264260950df6dec03a0507864b14ee"
+hash = "2822af118f354bf2d74c0e125520cd5a376319ba45bebcbd7a16bfdd6207c2aa"
 metafile = true
 
 [[files]]
@@ -926,7 +926,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "89303b44678c8e619f379545e80ad2e257801327b1065cd3320c9fe61cac7cf5"
+hash = "a903611901f47c3edfc23acbe4e460e3e2714b18f287b81c9fc81af82410bd2c"
 metafile = true
 
 [[files]]
@@ -1116,7 +1116,7 @@ metafile = true
 
 [[files]]
 file = "mods/physicsmod.pw.toml"
-hash = "eeeabb7f1c9ac49f92fe2b972530594efedbd2588f0862f7990e24678f8a8d89"
+hash = "795ed64075ea8f625d4788554d5c2fca7cb91951e65d9c3fb6e8cdb74b11dad0"
 metafile = true
 
 [[files]]
@@ -1406,7 +1406,7 @@ metafile = true
 
 [[files]]
 file = "mods/variants-and-ventures.pw.toml"
-hash = "2d70ab09cf8217746bc6add5c365f974e3a1ad91348a1f2854ac6552d5a7c9a8"
+hash = "0e34377120e0ee4c80263cf9ed05fd223d83ddfe7922bbfdf3f26e5eb658816d"
 metafile = true
 
 [[files]]
@@ -1534,7 +1534,7 @@ hash = "1f553f33d538e28bdda0aa96a296ecfe8968ea4e978a56d732162e5634f37400"
 
 [[files]]
 file = "options-profiles/0. Default/options.txt"
-hash = "363b4a4161a9b6f68b3561a55485f7cb00fc895853125c52832a4ed37013abdc"
+hash = "8329f3df50294e830f8e52bc36160d059b18ab65677b8ecf1f2ff8f479780e8f"
 
 [[files]]
 file = "options-profiles/0. Default/sodium-options.json"
@@ -1562,7 +1562,7 @@ hash = "50dc51234d93a1cac2298fb52f3a05276c4ec7e2d4c50ec71c77ae0f65c56b23"
 
 [[files]]
 file = "options-profiles/2. Balanced/iris.properties"
-hash = "69793855ae8dfaacde70755e96047d656925b42750146d3bb3c71bab75fb79b2"
+hash = "421d2803c5a252d40a6035a6a8ab99f09a21fa8a5182f213205a1c8ecc330a8d"
 
 [[files]]
 file = "options-profiles/2. Balanced/options.txt"
@@ -1594,7 +1594,7 @@ hash = "e414f088eec5f6006bfbf3fc88afe73562de58a7298850ae9d3f15fb113ccfd9"
 
 [[files]]
 file = "options.txt"
-hash = "37969f882353d7b6bd0413979dfc8094499283d3581300534fc658e0533ccad3"
+hash = "5ffb0046c3dfbdb017fabef20d6e355b54ab1ebfa9d6d2d34a7c1c209959fa14"
 
 [[files]]
 file = "resourcepacks/3d-crops.pw.toml"
@@ -1653,7 +1653,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/enchanted-books-re-covered.pw.toml"
-hash = "ad058767e4c89ce0ca66168f4994ceb6e211da3a3192c3b51e7358a77a902d68"
+hash = "e6b62b91c7851578d463ba7850f65e7b71abf0e25e6c4c783bc5549d3a0a10b5"
 metafile = true
 
 [[files]]
@@ -1678,12 +1678,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations-extensions.pw.toml"
-hash = "d3571c12bae3b4ff244307f5f5bdfa1654175981eeda8d76059266eaa7d926fa"
+hash = "439874e590d633df601628f138d5e4a7c5cbaf5754bb76bd668e68a86557b3bf"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
-hash = "64f90fd9619a092a8a5493d6ad9605bc5fec13f50f02feef1dcf47c9496a80bd"
+hash = "6a1556a0e4fcb411b33efafc3382b4abd9a6e671f140dc0d42e9aad2808e24f3"
 metafile = true
 
 [[files]]
@@ -1738,7 +1738,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "b5dda5a60fc15dafd4b8b7d87d923ff46fa9770c72b5f1ae90b9bff82d3d3b5b"
+hash = "a16e99bb12aedc0c132a6c4093e045294d0be708711c4f0a92c9dd8c773c998e"
 metafile = true
 
 [[files]]
@@ -1757,5 +1757,5 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
-hash = "5497d3ab3f39171289a05ce996b3a757e960c2200a3d9435124762f056a74b4e"
+hash = "461e40107c6b2b38ad33c7820b07b06f8dc8016611ed910ae49ecf7b073bf019"
 metafile = true
