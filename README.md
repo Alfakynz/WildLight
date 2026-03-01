@@ -11,6 +11,7 @@ This mod is designed to fix some bugs and interface elements in the WildLight mo
 
 - Adds compatibility between Immersive Armors and Detail Armor Bar Compat (awaiting the [pull request](https://github.com/Raik176/detail-armor-bar-compat/pull/19) to be merged)
 - Adds compatibility between Visual Overhaul and all modded woods (awaiting the [pull request](https://github.com/TeamMidnightDust/VisualOverhaul/pull/99))
+- Allows you to close the backpack screen with the backpack keybind (V by default)
 - Fixes Breezer particles (removes particles from the breezer when PhysicsMod is installed)
 - Fixes Deeper and Darker portal particles (replaces particles from the portal when PhysicsMod is installed)
 - Fixes Wildfire (Friends&Foes) particles (removes particles from the wildfire when PhysicsMod is installed)

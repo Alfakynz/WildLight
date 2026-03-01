@@ -16,6 +16,7 @@
   "entrypoints": {
     "client": [
       "com.alfakynz.wildlight.WildLightClient",
+      "com.alfakynz.wildlight.compat.UsefulBackpack",
       "com.alfakynz.wildlight.compat.DetailabCompat"
     ]
   },

@@ -1,7 +1,5 @@
 package com.alfakynz.wildlight.mixin;
 
-
-
 import com.mojang.blaze3d.vertex.PoseStack;
 import com.mojang.blaze3d.vertex.VertexConsumer;
 import eu.midnightdust.visualoverhaul.block.model.FurnaceWoodenPlanksModel;
@@ -32,6 +30,7 @@ import org.spongepowered.asm.mixin.Unique;
 import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.Inject;
 import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
+
 import java.util.Objects;
 
 @Mixin(FurnaceBlockEntityRenderer.class)

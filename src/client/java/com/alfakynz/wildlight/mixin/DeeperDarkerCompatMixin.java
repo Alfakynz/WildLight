@@ -1,6 +1,8 @@
 package com.alfakynz.wildlight.mixin;
 
 import com.kyanite.deeperdarker.content.blocks.OthersidePortalBlock;
+import net.fabricmc.api.EnvType;
+import net.fabricmc.api.Environment;
 import net.kyrptonaught.customportalapi.CustomPortalBlock;
 import net.minecraft.core.BlockPos;
 import net.minecraft.util.RandomSource;
@@ -12,8 +14,6 @@ import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.Inject;
 import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
-import net.fabricmc.api.EnvType;
-import net.fabricmc.api.Environment;
 
 @Mixin(OthersidePortalBlock.class)
 public abstract class DeeperDarkerCompatMixin extends CustomPortalBlock {
