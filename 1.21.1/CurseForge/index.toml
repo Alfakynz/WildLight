@@ -1653,7 +1653,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fcg-compat.pw.toml"
-hash = "d9ef49e78e76c99cb3dce47819414c0e6705eb07dd92b5a26984278f16992ee4"
+hash = "8337ae49e2d5995d5e49bbceeda5a0d2e5fdfead890c55530fc74f336500aeec"
 metafile = true
 
 [[files]]
@@ -1723,7 +1723,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "c0523ac68a8d81d4c3d373e1de1dc17772f2f4a0e43444326f2069bc915edbf8"
+hash = "958e0298c1dc5ce181590e9004896c4a217f86d2aa5d37908a1aa51eb1e9ddec"
 metafile = true
 
 [[files]]

@@ -3,11 +3,11 @@ filename = "FCG-Compat.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/uMulT97B/versions/stf2XPCd/FCG-Compat.zip"
+url = "https://cdn.modrinth.com/data/uMulT97B/versions/h80wnHbG/FCG-Compat.zip"
 hash-format = "sha512"
-hash = "97c4a8f733eea64e7251d6259ad4564e7c19af9dcea93a7893f0315392795056bddec425bd0004c7e3f7a3d928a55bd7287cb46407f05ebbc4a622b25d34dd2b"
+hash = "429348cb68a6aa41bef2b04f6b3ed551709271f76d22d829c2a87adf3f4ea5eb29bb786a653a9bd03bcc1377795dca9235714f96f78914206fe61173890bab5e"
 
 [update]
 [update.modrinth]
 mod-id = "uMulT97B"
-version = "stf2XPCd"
+version = "h80wnHbG"
