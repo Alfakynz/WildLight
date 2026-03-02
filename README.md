@@ -28,6 +28,7 @@ This mod is designed to fix some bugs and interface elements in the WildLight mo
 - Adds compat for Useful Backpacks
 - Adds compat for Wilder Wild (removes chest names)
 - Adds compat for Wilder Wild spawn eggs from newer versions
+- Adds compat for Wilder Wild music names
 - Adds icon for Mod Menu (Open Mods Folder & Mods button label not centered)
 - Adds icon for Options Profiles
 - Adds icon for PhysicsMod

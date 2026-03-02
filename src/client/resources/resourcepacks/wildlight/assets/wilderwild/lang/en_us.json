@@ -1,4 +1,16 @@
 {
   "container.double_stone_chest": "",
-  "container.stone_chest": ""
+  "container.stone_chest": "",
+
+  "wilderwild.music.ludocrypt.dove": "LudoCrypt - Dove",
+  "wilderwild.music.ludocrypt.espial": "LudoCrypt - Espial",
+  "wilderwild.music.ludocrypt.espial_title_version": "LudoCrypt - Espial (Title Version)",
+  "wilderwild.music.ludocrypt.horizon_afoot": "LudoCrypt - Horizon Afoot",
+  "wilderwild.music.ludocrypt.serene_sonder": "LudoCrypt - Serene Sonder",
+  "wilderwild.music.pictochats.amber": "Pictochats - Amber",
+  "wilderwild.music.pictochats.anemone": "Pictochats - Anemone",
+  "wilderwild.music.pictochats.dahlia": "Pictochats - Dahlia",
+  "wilderwild.music.pictochats.molt": "Pictochats - Molt",
+  "wilderwild.music.zhen.frozen_blocks": "Zhen - Frozen Blocks",
+  "wilderwild.music.zhen.pressure": "Zhen - Pressure"
 }
