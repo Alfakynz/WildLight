@@ -27,6 +27,7 @@ This mod is designed to fix some bugs and interface elements in the WildLight mo
 - Adds compat for Not Interested!
 - Adds compat for Useful Backpacks
 - Adds compat for Wilder Wild (removes chest names)
+- Adds compat for Wilder Wild spawn eggs from newer versions
 - Adds icon for Mod Menu (Open Mods Folder & Mods button label not centered)
 - Adds icon for Options Profiles
 - Adds icon for PhysicsMod
@@ -45,6 +46,7 @@ You need to install and place these mods in the libs folder of your development 
 ## 🙏 Credits
 
 - Thanks to [nNoidea](https://github.com/nNoidea) for Eating Animation support for Wilder Wild compatibility! (via [Eating Animation PR #62](https://github.com/Theoness1/EatingAnimation/pull/62)) (not anymore in this mod, but in this [resource pack](https://github.com/Alfakynz/Eating-Animation-Modded)).
+- Thanks to the [FrozenBlock team](https://modrinth.com/organization/tuit06dH) for [WilderWild](https://modrinth.com/project/AtHRJSUW), and to [voxelotl](https://modrinth.com/user/GgcBbYdM) for allowing me to add some of their textures to the resource pack!
 
 ## 🤝 Contributing
 
