@@ -650,6 +650,11 @@ hash = "79a29ea91ba2e93faa2f7886e9c94a69db4d42bff295371515d8eaf2c4728af0"
 metafile = true
 
 [[files]]
+file = "mods/e4mc.pw.toml"
+hash = "fd381dc80475d502735abf3be4b4a1daa975793ef7d3b0e17b540a121a02ae04"
+metafile = true
+
+[[files]]
 file = "mods/easy-anvils.pw.toml"
 hash = "9e2ddd78e20c2cc90ff91c15fea016176993ad33a4574a800254cad759458599"
 metafile = true
@@ -752,6 +757,11 @@ metafile = true
 [[files]]
 file = "mods/fancymenu.pw.toml"
 hash = "ef3a44cb8b521b310967258190e079bcdd5b12ac492149f698e9c5b5a2452221"
+metafile = true
+
+[[files]]
+file = "mods/fast-ip-ping.pw.toml"
+hash = "be4e721e1d51831ecbc54600248be8b15ab73599d8d23cc48c95f3abdb092e0b"
 metafile = true
 
 [[files]]
@@ -912,6 +922,11 @@ metafile = true
 [[files]]
 file = "mods/konkrete-fabric.pw.toml"
 hash = "8121f1621355bb4ff8031ebc91f3824a2ae387a3b30d3feb25c84d0b480206f5"
+metafile = true
+
+[[files]]
+file = "mods/language-reload.pw.toml"
+hash = "26f3c572aaf4ad0303f12e4fa257cc4f34bc30f3e2ac1d1dc75f44632141876d"
 metafile = true
 
 [[files]]
@@ -1350,6 +1365,11 @@ hash = "547cb549e8a123b0ccc766efaa250691ea86c681b8e395795f2254f3100bb06a"
 metafile = true
 
 [[files]]
+file = "mods/tree-harvester.pw.toml"
+hash = "acaf6d5f5cc298e92fd1a9598330661aefdb6721447e23300b2adc54433be57e"
+metafile = true
+
+[[files]]
 file = "mods/trimmable-tools.pw.toml"
 hash = "0823b196431b0e01cb0bbf1ebbf7a88fd7384eb1dcf99cc759930421663131fa"
 metafile = true
@@ -1421,7 +1441,7 @@ metafile = true
 
 [[files]]
 file = "mods/wildlight-compat.pw.toml"
-hash = "29cd301cf8a1141f510dac2b059fa3911210e6e7b2a390e55d0e99d6d1a39aac"
+hash = "7f8be26ba3b320026665471d9871cb575d6c9f7d7e143a260314d126745fe9d7"
 metafile = true
 
 [[files]]
@@ -1519,7 +1539,7 @@ hash = "1f553f33d538e28bdda0aa96a296ecfe8968ea4e978a56d732162e5634f37400"
 
 [[files]]
 file = "options-profiles/0. Default/options.txt"
-hash = "8329f3df50294e830f8e52bc36160d059b18ab65677b8ecf1f2ff8f479780e8f"
+hash = "aeac3871ceee0767f3fa26295b805e60c3116b59f55335e5d7174f730af6e50c"
 
 [[files]]
 file = "options-profiles/0. Default/sodium-options.json"
@@ -1579,7 +1599,7 @@ hash = "e414f088eec5f6006bfbf3fc88afe73562de58a7298850ae9d3f15fb113ccfd9"
 
 [[files]]
 file = "options.txt"
-hash = "5ffb0046c3dfbdb017fabef20d6e355b54ab1ebfa9d6d2d34a7c1c209959fa14"
+hash = "aa800bfef0fbce38ff153770c4863141d1623b25cf257fb301381dfab1e3402e"
 
 [[files]]
 file = "resourcepacks/3d-crops.pw.toml"
@@ -1659,6 +1679,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/fresh-animations-extensions.pw.toml"
 hash = "31b83961fa840a616da6be81c814fca8e6a3807a8203d17b027ddb044e3714cc"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations-patch-variants-and-ventures.pw.toml"
+hash = "477ace9e07699f3fff52169c2d1b965f207a484aacbd018b50c3f13a77818c5f"
 metafile = true
 
 [[files]]

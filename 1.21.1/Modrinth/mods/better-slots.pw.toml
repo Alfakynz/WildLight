@@ -1,6 +1,6 @@
 name = "Better Slots"
 filename = "better-slots-fabric-1.21.1-1.0.1.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/FfJwv52l/versions/BJTExz6V/better-slots-fabric-1.21.1-1.0.1.jar"

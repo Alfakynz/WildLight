@@ -1,0 +1,13 @@
+name = "Fresh Animations Patch - Variants and Ventures"
+filename = "Fresh Patch - Variants and Ventures.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "063c27492ad20ce92428b9dac89e90b66d4ea16b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7432666
+project-id = 1423535
