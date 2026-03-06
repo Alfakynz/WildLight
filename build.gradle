@@ -68,29 +68,14 @@ dependencies {
 	modImplementation "dev.emi:trinkets:${project.trinkets_version}"
 }
 
-processResources {
+processClientResources {
 	def replaceProperties = new HashMap<String, String>()
 
-	project.properties.each { key, value ->
+	project.properties.each {key, value ->
 		if (value instanceof String) {
-			replaceProperties.put(key, value)
+			replaceProperties.put((String) key, (String) value)
 		}
-	}
-
-	inputs.properties replaceProperties
-
-	filesMatching('fabric.mod.json') {
-		expand replaceProperties
-	}
-}
-
-tasks.named("processClientResources") {
-	def replaceProperties = new HashMap<String, String>()
-
-	project.properties.each { key, value ->
-		if (value instanceof String) {
-			replaceProperties.put(key, value)
-		}
+		return
 	}
 
 	inputs.properties replaceProperties
