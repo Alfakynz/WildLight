@@ -401,7 +401,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-combat.pw.toml"
-hash = "d8f4cdc8afe5541c4e2da796f9fb04d3f60bb24a7c79762eb6df5e0d7831e7eb"
+hash = "33311798d6896aeba3f00fd1ffc57874263232ae0cdc656cd5f12057911bbbce"
 metafile = true
 
 [[files]]
@@ -566,7 +566,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "01e094e3599564ea056dc71f42cc10854609a5ffbb3f83415225a3bdcbf8680e"
+hash = "d0fd3fc7e4a67154cc01657b315d735b8d2e8acbe24001662a95ab1e157cb20c"
 metafile = true
 
 [[files]]
@@ -851,7 +851,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "fe2682e6dbdd4350863e1fcd3f5f211fb437cf7791539bedd50779745beb5232"
+hash = "95499bb1cfcbfc2a2e2734a7034de0f35c17058048866fdf17fc3a241d9f689e"
 metafile = true
 
 [[files]]
@@ -941,7 +941,7 @@ metafile = true
 
 [[files]]
 file = "mods/kiwi.pw.toml"
-hash = "718823aa04a4ca921afbf2b419b1c0ac9136403722a19f1114a5c0c7f12b256a"
+hash = "caefb7a045b7d2248b4b6673c093cc1796d57f705ff5ab474c75185c43651cfc"
 metafile = true
 
 [[files]]
@@ -1096,7 +1096,7 @@ metafile = true
 
 [[files]]
 file = "mods/octo-lib.pw.toml"
-hash = "5e527159dd30ddd4c68c2d363b4e973ac60a65a260b41f5d7a8ac2ab94be3e30"
+hash = "1696a40485cc2547c3d13e702471285a1db0342b30f16792f0de3154e2c96c54"
 metafile = true
 
 [[files]]
@@ -1191,7 +1191,7 @@ metafile = true
 
 [[files]]
 file = "mods/pyrellium.pw.toml"
-hash = "37101403840a24bb003b30416220491fd15158ad335ab90ca17e2404a059bfb2"
+hash = "892b8e1b4c04b13f2fc65fc3b8ee2b213003115ecdefe4f443c80cb7377fd420"
 metafile = true
 
 [[files]]
@@ -1411,7 +1411,7 @@ metafile = true
 
 [[files]]
 file = "mods/unilib.pw.toml"
-hash = "19faff688fb5bdd5e0151876da94b1ceb98aedaf411574f494497cef06f7fed9"
+hash = "6cd6d6444d9180c0268327776e247bb5bd3b5c14cc6fa99860a5ed82fccf771e"
 metafile = true
 
 [[files]]
@@ -1461,7 +1461,7 @@ metafile = true
 
 [[files]]
 file = "mods/wildlight-compat.pw.toml"
-hash = "fcb985aff72309f42a0db47e077327dacd093f1135cc4b6bd5258330b1eae42d"
+hash = "a823730878d35ef71d63e587405faf716755b653b84bbec72082780fc4ea2fbe"
 metafile = true
 
 [[files]]
@@ -1658,7 +1658,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/crystal-tooltips.pw.toml"
-hash = "fb233500c57841721ecdbf3954929d3a3e6e9222c7f957bb9935a521380371f9"
+hash = "3717560e59ea46ffb25a35827af84da01bd64524586ef7105a306c6980742707"
 metafile = true
 
 [[files]]
@@ -1763,7 +1763,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "9e69ff252f521ee8ecf0df2dd4d851ff62ba1d080772d0c6ec398d8e203210d1"
+hash = "d4809cc0fb5957beb5d715b5d8ffd48dd72aac74fc67a3bd4899cd425f443668"
 metafile = true
 
 [[files]]

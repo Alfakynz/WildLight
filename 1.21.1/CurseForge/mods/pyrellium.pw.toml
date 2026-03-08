@@ -1,13 +1,13 @@
 name = "Pyrellium"
-filename = "pyrellium-0.2.6-1.21.1.jar"
+filename = "pyrellium-0.3.0-1.21.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "32035e19efcffaafd791804442e9ea93693ad891"
+hash = "9877a99e4a94295b98f7e5324c0f0e690adbe685"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7345478
+file-id = 7707150
 project-id = 1250682

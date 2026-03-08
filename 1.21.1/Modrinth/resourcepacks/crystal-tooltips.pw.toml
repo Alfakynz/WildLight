@@ -3,11 +3,11 @@ filename = "Crystal-Tooltips.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/FVonl8G5/versions/8aFooaDI/Crystal-Tooltips.zip"
+url = "https://cdn.modrinth.com/data/FVonl8G5/versions/mRDDjaqv/Crystal-Tooltips.zip"
 hash-format = "sha512"
-hash = "60624f6eac5208e7aa6ea188872187c56ac978927d7e92b2b50a2719bedad41d48bddf149d51ce0123fca580fa7988e3c4103f11f9a2e42997b4362074f11851"
+hash = "0a7ec80055cd8fa0b6ca02c41913c86ec1580f74eaf93943963b3b7c9658898d19f55ce08f9aa99b7fce160b39f01e791b6290f05d9b2cbd0c35d8c60cc9a5e0"
 
 [update]
 [update.modrinth]
 mod-id = "FVonl8G5"
-version = "8aFooaDI"
+version = "mRDDjaqv"

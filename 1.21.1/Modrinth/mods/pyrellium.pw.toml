@@ -1,13 +1,13 @@
 name = "Pyrellium"
-filename = "pyrellium-0.2.6-1.21.1.jar"
+filename = "pyrellium-0.3.0-1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/uZWcuZ4t/versions/WzaPQQRq/pyrellium-0.2.6-1.21.1.jar"
+url = "https://cdn.modrinth.com/data/uZWcuZ4t/versions/GXVk1k3K/pyrellium-0.3.0-1.21.1.jar"
 hash-format = "sha512"
-hash = "67adf04bf94680008ab2fd34be76844f5c21469614cde8c0cdafc2b69cd014a98ff03c13ebf2d8ddaadd86cace37543e610ec4be8467c53b4be18d5031a4cf0a"
+hash = "154200b77b75da400cfd91a4804be28058594c5ae0c00834d8fb61d5fcbb0d7e14c83c8c47a97a0cf645dce81a37460a3f43d69ce515b2dde1b7a25074820652"
 
 [update]
 [update.modrinth]
 mod-id = "uZWcuZ4t"
-version = "WzaPQQRq"
+version = "GXVk1k3K"
